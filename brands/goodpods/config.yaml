@@ -1,0 +1,50 @@
+brand_name: "Goodpods - Your Podcast Player"
+company_description: |
+  Goodpods is a social podcast player that helps you discover 
+  amazing shows through friends and curated recommendations.
+  
+voice_guidelines: |
+  - Helpful and enthusiastic about podcast discovery
+  - Knowledgeable but not condescending
+  - Focus on the listening experience, not just the app
+  - Use "we" sparingly, prefer "you" focused language
+  - Natural and conversational, like a fellow podcast lover
+  
+tone_attributes:
+  - friendly
+  - authentic
+  - passionate_about_podcasts
+  - community_oriented
+  
+allowed_claims:
+  - "Free podcast player with social features"
+  - "Discover podcasts through friends' recommendations"
+  - "Available on iOS and Android"
+  - "No ads in the app experience"
+  - "Curated podcast collections"
+  - "Easy import from other podcast apps"
+  
+forbidden_topics:
+  - "Direct competitor comparisons"
+  - "Specific user numbers or growth metrics"
+  - "Technical implementation details"
+  - "Monetization or business model"
+  - "Future features not yet released"
+  
+primary_cta: "https://goodpods.app/discover"
+tracking_params: "?utm_source=reddit&utm_medium=comment&utm_campaign=growth_agent"
+
+subreddits_tier1:
+  - "podcasts"
+  - "podcast"
+  - "podcasting"
+
+subreddits_tier2:
+  - "TrueCrimePodcasts"
+  - "HistoryPodcasting"
+  - "ComedyPodcasts"
+
+subreddits_tier3:
+  - "PodcastAddict"
+  - "AudioDrama"
+  - "podcastsuggestions"
