@@ -35,6 +35,9 @@ dependencies = [
     "httpx>=0.27.0",
     "tenacity>=8.2.3",
     "rich>=13.7.0",
+    "sentence-transformers>=2.2.0",
+    "faiss-cpu>=1.7.4",
+    "numpy>=1.24.0",
 ]
 
 [project.optional-dependencies]

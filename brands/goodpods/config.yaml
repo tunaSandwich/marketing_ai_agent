@@ -48,3 +48,17 @@ subreddits_tier3:
   - "PodcastAddict"
   - "AudioDrama"
   - "podcastsuggestions"
+
+knowledge_files:
+  - app_features.md
+  - brand_voice.md
+  - reddit_best_practices.md
+  - competitive_positioning.md
+  - user_testimonials.md
+
+retrieval_settings:
+  enabled: true
+  top_k: 3  # Return top 3 most relevant chunks
+  min_similarity: 0.3  # Minimum similarity score to include
+  chunk_size: 300  # Characters per chunk
+  chunk_overlap: 50  # Overlap between chunks

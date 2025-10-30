@@ -29,6 +29,7 @@ from src.brand.loader import BrandLoader
 from src.llm.client import ClaudeClient
 from src.llm.prompts import PromptTemplate
 from src.models import RedditPost
+from src.rag.retriever import KnowledgeRetriever
 from src.reddit.adapter import RedditAdapter
 from src.utils.config import LLMConfig, RedditConfig
 
@@ -170,14 +171,35 @@ def generate_response(
     claude: ClaudeClient,
     brand_config,
     prompt_template: PromptTemplate,
+    retriever: Optional[KnowledgeRetriever] = None,
 ) -> Optional[str]:
-    """Generate a response for a Reddit post using Claude."""
+    """Generate a response for a Reddit post using Claude with RAG."""
     try:
-        # Create prompt with brand context
+        # Retrieve relevant knowledge
+        rag_content = ""
+        if retriever:
+            try:
+                chunks = retriever.retrieve_for_post(
+                    post.title,
+                    post.content,
+                    top_k=3,
+                    min_similarity=0.4,
+                )
+                
+                if chunks:
+                    rag_content = "\n\n".join([
+                        f"[From {chunk.filename}]\n{chunk.content}"
+                        for chunk in chunks
+                    ])
+                    console.print(f"[dim]Retrieved {len(chunks)} knowledge chunks for response[/dim]")
+            except Exception as e:
+                console.print(f"[yellow]⚠️  RAG retrieval failed: {e}[/yellow]")
+        
+        # Create prompt with brand context and RAG
         prompt = prompt_template.create_response_prompt(
             post=post,
             brand_config=brand_config,
-            rag_content="",  # No RAG for demo
+            rag_content=rag_content,
             context={"intent": "recommendation_request"},
         )
         
@@ -295,6 +317,18 @@ def main():
         brand_config = brand_loader.load_brand_config("goodpods")
         console.print("  ✅ Goodpods brand pack loaded")
         
+        # RAG retriever
+        retriever = None
+        try:
+            index_dir = brands_dir / "goodpods" / "index"
+            if index_dir.exists():
+                retriever = KnowledgeRetriever(index_dir)
+                console.print("  ✅ RAG retriever initialized")
+            else:
+                console.print("  ⚠️  No RAG index found (run scripts/index_brand_knowledge.py)")
+        except Exception as e:
+            console.print(f"  ⚠️  RAG initialization failed: {e}")
+        
         # Prompt template
         prompt_template = PromptTemplate()
         
@@ -327,7 +361,7 @@ def main():
             progress.update(task, description=f"Generating response {i+1}/{len(posts)}...")
             
             # Generate response
-            response = generate_response(post, claude, brand_config, prompt_template)
+            response = generate_response(post, claude, brand_config, prompt_template, retriever)
             
             # Score response
             if response:

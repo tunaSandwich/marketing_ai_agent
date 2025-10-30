@@ -208,3 +208,14 @@ class BrandLoader:
             f.write("Add your product features and knowledge here.\n")
 
         logger.info(f"Created brand template for {brand_id} at {brand_dir}")
+    
+    def load_knowledge(self, brand_id: str) -> dict[str, str]:
+        """Convenience method for loading knowledge content.
+        
+        Args:
+            brand_id: Brand identifier
+            
+        Returns:
+            Dictionary mapping filename to content
+        """
+        return self.load_knowledge_content(brand_id)
