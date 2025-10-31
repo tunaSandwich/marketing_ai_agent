@@ -42,16 +42,27 @@ def setup_logging():
 
 
 def run_discovery_cycle():
-    """Run one discovery and generation cycle."""
+    """Run one discovery and generation cycle (or warming)."""
     try:
-        logger.info("🔄 Starting discovery cycle...")
+        logger.info("🔄 Starting cycle...")
         
         orchestrator = GrowthOrchestrator(brand_id="goodpods")
         
-        # Run discovery and generation
+        # Run cycle (automatically detects if warming needed)
         stats = orchestrator.run_discovery_cycle()
         
-        logger.info(f"✅ Cycle complete: {stats}")
+        # Check if in warming mode
+        if stats.get("mode") == "warming":
+            logger.info("🌱 Warming mode active")
+            logger.info(f"   Reason: {stats.get('reason')}")
+            warming = stats.get('warming_result', {})
+            logger.info(f"   Progress: {warming.get('overall_progress_percent', 0):.1f}% complete")
+            if warming.get('upvotes'):
+                logger.info(f"   Upvoted: {warming['upvotes'].get('upvoted', 0)} posts")
+            if warming.get('comment_posted'):
+                logger.info(f"   Posted helpful comment: {warming['comment_posted']}")
+        else:
+            logger.info(f"✅ Cycle complete: {stats}")
         
     except Exception as e:
         logger.error(f"❌ Cycle failed: {e}")

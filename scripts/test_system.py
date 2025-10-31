@@ -212,6 +212,25 @@ def test_review_queue():
         return False, str(e)
 
 
+def test_account_warming():
+    """Test account warming system."""
+    try:
+        from src.utils.config import get_settings
+        from src.reddit.warmup import AccountWarmer
+        
+        settings = get_settings()
+        warmer = AccountWarmer(settings.reddit)
+        
+        # Test warming cycle simulation (don't actually run it)
+        # Just test that it initializes and can calculate goals
+        karma_goal = warmer.get_karma_goal(15)
+        
+        return True, f"Warming system ready, next goal: {karma_goal} karma"
+        
+    except Exception as e:
+        return False, str(e)
+
+
 def run_all_tests():
     """Run all tests and display results."""
     
@@ -232,6 +251,7 @@ def run_all_tests():
         ("Reddit Discovery", test_discovery),
         ("Engagement System", test_engagement_system),
         ("Review Queue", test_review_queue),
+        ("Account Warming", test_account_warming),
     ]
     
     results = []

@@ -16,6 +16,7 @@ from src.rag.retriever import KnowledgeRetriever
 from src.reddit.adapter import RedditAdapter
 from src.reddit.engagement import RedditEngagement
 from src.reddit.poster import RedditPoster
+from src.reddit.warmup import AccountWarmer
 from src.review.queue import ReviewQueue
 from src.utils.config import get_settings
 
@@ -84,6 +85,7 @@ class GrowthOrchestrator:
         self.reddit = RedditAdapter(self.settings.reddit)
         self.poster = RedditPoster(self.settings.reddit)
         self.engagement = RedditEngagement(self.settings.reddit)
+        self.warmer = AccountWarmer(self.settings.reddit)
         self.claude = ClaudeClient(self.settings.llm)
         
         # Load brand config
@@ -207,15 +209,33 @@ class GrowthOrchestrator:
         return draft
     
     def run_discovery_cycle(self) -> dict:
-        """Run discovery, generation, and auto-post high-quality responses."""
+        """Run discovery and generation, or warming if account not ready."""
         logger.info("=" * 60)
-        logger.info("Starting discovery cycle with AUTO-POSTING")
+        logger.info("Starting cycle")
         
         # Check account health
         health = self.poster.check_account_health()
+        
+        # If account doesn't meet requirements, enter warming mode
         if not health.get("can_post"):
-            logger.error(f"Account cannot post: {health.get('reason')}")
-            return {"error": "Account health check failed"}
+            reason = health.get("reason", "Unknown")
+            logger.warning(f"Account cannot post: {reason}")
+            logger.info("🌱 Entering ACCOUNT WARMING MODE")
+            
+            # Run warming cycle
+            warming_result = self.warmer.run_warming_cycle(
+                current_karma=health.get("karma", 0),
+                current_age_days=health.get("account_age_days", 0),
+            )
+            
+            return {
+                "mode": "warming",
+                "reason": reason,
+                "warming_result": warming_result,
+            }
+        
+        # Otherwise, proceed with normal discovery + posting
+        logger.info("🚀 Account ready - running discovery + posting cycle")
         
         # Check 10% rule
         activity = self.poster.get_recent_activity()
