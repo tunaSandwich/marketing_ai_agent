@@ -59,20 +59,18 @@ def run_discovery_cycle():
         logger.error(traceback.format_exc())
 
 
-def run_posting():
-    """Post approved drafts."""
+def run_engagement():
+    """Maintain healthy engagement ratio."""
     try:
-        logger.info("📤 Posting approved drafts...")
+        logger.info("🎯 Running engagement maintenance...")
         
         orchestrator = GrowthOrchestrator(brand_id="goodpods")
+        result = orchestrator.maintain_engagement_ratio()
         
-        # Post up to 3 approved drafts
-        result = orchestrator.post_approved_drafts(limit=3)
-        
-        logger.info(f"✅ Posting complete: {result}")
+        logger.info(f"✅ Engagement complete: {result}")
         
     except Exception as e:
-        logger.error(f"❌ Posting failed: {e}")
+        logger.error(f"❌ Engagement failed: {e}")
         import traceback
         logger.error(traceback.format_exc())
 
@@ -93,15 +91,22 @@ def main():
     logger.info("Running initial cycle...")
     run_discovery_cycle()
     
-    # Schedule discovery every hour
+    # Run initial engagement
+    logger.info("Running initial engagement...")
+    run_engagement()
+    
+    # Schedule discovery + auto-posting every hour
     schedule.every(1).hours.do(run_discovery_cycle)
     
-    # Schedule posting every 3 hours (stagger from discovery)
-    schedule.every(3).hours.at(":30").do(run_posting)
+    # Schedule engagement maintenance every 2 hours (offset from discovery)
+    schedule.every(2).hours.at(":15").do(run_engagement)
     
     logger.info("📅 Scheduler configured:")
-    logger.info("  - Discovery: Every 1 hour")
-    logger.info("  - Posting: Every 3 hours (at :30)")
+    logger.info("  - Discovery + Auto-posting: Every 1 hour")
+    logger.info("  - Engagement (upvotes): Every 2 hours at :15")
+    logger.info("  - 🎯 Auto-post threshold: 8.0/10")
+    logger.info("  - 📝 Review queue threshold: 6.0-7.9/10")
+    logger.info("  - ❌ Auto-reject threshold: <6.0/10")
     
     # Main loop
     while True:

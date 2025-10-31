@@ -51,9 +51,9 @@ class RedditPoster:
             if health["karma"] < 100:
                 health["can_post"] = False
                 health["reason"] = "Insufficient karma"
-            elif health["account_age_days"] < 90:
+            elif health["account_age_days"] < 30:
                 health["can_post"] = False
-                health["reason"] = "Account too new"
+                health["reason"] = "Account too new (must be 30+ days old)"
             
             logger.info(f"Account health: {health}")
             return health

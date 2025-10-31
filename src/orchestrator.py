@@ -1,5 +1,6 @@
 """Main orchestration for growth agent."""
 
+import random
 import uuid
 from datetime import UTC, datetime
 from pathlib import Path
@@ -10,9 +11,10 @@ from loguru import logger
 from src.brand.loader import BrandLoader
 from src.llm.client import ClaudeClient
 from src.llm.prompts import PromptTemplate
-from src.models import DraftResponse, RedditPost
+from src.models import DraftResponse, RedditPost, ReviewStatus
 from src.rag.retriever import KnowledgeRetriever
 from src.reddit.adapter import RedditAdapter
+from src.reddit.engagement import RedditEngagement
 from src.reddit.poster import RedditPoster
 from src.review.queue import ReviewQueue
 from src.utils.config import get_settings
@@ -81,6 +83,7 @@ class GrowthOrchestrator:
         # Initialize components
         self.reddit = RedditAdapter(self.settings.reddit)
         self.poster = RedditPoster(self.settings.reddit)
+        self.engagement = RedditEngagement(self.settings.reddit)
         self.claude = ClaudeClient(self.settings.llm)
         
         # Load brand config
@@ -204,13 +207,9 @@ class GrowthOrchestrator:
         return draft
     
     def run_discovery_cycle(self) -> dict:
-        """Run one complete discovery and generation cycle.
-        
-        Returns:
-            Dict with cycle stats
-        """
+        """Run discovery, generation, and auto-post high-quality responses."""
         logger.info("=" * 60)
-        logger.info("Starting discovery cycle")
+        logger.info("Starting discovery cycle with AUTO-POSTING")
         
         # Check account health
         health = self.poster.check_account_health()
@@ -229,25 +228,95 @@ class GrowthOrchestrator:
         
         if not opportunities:
             logger.info("No opportunities found")
-            return {"opportunities": 0, "drafted": 0}
+            return {"opportunities": 0, "drafted": 0, "auto_posted": 0}
         
-        # Generate responses
+        # Generate responses and auto-post high-quality ones
         drafted = 0
+        auto_posted = 0
+        queued_for_review = 0
+        auto_rejected = 0
+        
         for opp in opportunities:
             try:
                 draft = self.generate_response(opp)
-                self.queue.add_draft(draft)
                 drafted += 1
+                
+                # Enhanced safety logging before decision
+                logger.info("=" * 60)
+                logger.info(f"SAFETY CHECK for draft {draft.draft_id}")
+                logger.info(f"  Quality Score: {draft.quality_score:.1f}/10")
+                logger.info(f"  Quality Reasoning: {draft.quality_reasoning}")
+                logger.info(f"  RAG Chunks Used: {draft.rag_chunks_used}")
+                logger.info(f"  Account Karma: {health.get('karma', 0)}")
+                logger.info(f"  Promotional Ratio: {activity.get('promotional_ratio', 0):.1%}")
+                logger.info(f"  Post: r/{draft.post.subreddit} - {draft.post.title[:50]}...")
+                logger.info("=" * 60)
+                
+                # Decision logic based on quality score
+                if draft.quality_score >= 8.0:
+                    # AUTO-POST: High quality, all safety checks passed
+                    logger.info(
+                        f"✅ Draft {draft.draft_id} scored {draft.quality_score:.1f}/10 - AUTO-POSTING"
+                    )
+                    
+                    # Attempt to post
+                    comment_id = self.poster.post_reply(
+                        post_id=draft.post.id,
+                        comment_text=draft.response_content,
+                        draft_id=draft.draft_id,
+                    )
+                    
+                    if comment_id:
+                        draft.status = ReviewStatus.POSTED
+                        draft.posted_comment_id = comment_id
+                        draft.posted_at = datetime.now(UTC)
+                        # Save to posted directory
+                        file_path = self.queue.posted_dir / f"{draft.draft_id}.json"
+                        with file_path.open('w') as f:
+                            import json
+                            json.dump(draft.model_dump(mode='json'), f, indent=2, default=str)
+                        auto_posted += 1
+                        logger.info(f"🎉 Successfully posted comment {comment_id}")
+                    else:
+                        logger.warning(f"Failed to post draft {draft.draft_id}")
+                        draft.status = ReviewStatus.FAILED
+                        self.queue.add_draft(draft)
+                        
+                elif draft.quality_score >= 6.0:
+                    # QUEUE FOR REVIEW: Medium quality
+                    logger.info(
+                        f"📝 Draft {draft.draft_id} scored {draft.quality_score:.1f}/10 - queuing for review"
+                    )
+                    self.queue.add_draft(draft)
+                    queued_for_review += 1
+                    
+                else:
+                    # AUTO-REJECT: Low quality
+                    logger.info(
+                        f"❌ Draft {draft.draft_id} scored {draft.quality_score:.1f}/10 - auto-rejected"
+                    )
+                    draft.status = ReviewStatus.REJECTED
+                    draft.reviewer_notes = "Auto-rejected: quality score too low"
+                    # Save to rejected directory
+                    file_path = self.queue.rejected_dir / f"{draft.draft_id}.json"
+                    with file_path.open('w') as f:
+                        import json
+                        json.dump(draft.model_dump(mode='json'), f, indent=2, default=str)
+                    auto_rejected += 1
+                    
             except Exception as e:
-                logger.error(f"Error generating response for {opp.id}: {e}")
+                logger.error(f"Error processing opportunity {opp.id}: {e}")
         
         stats = {
             "opportunities": len(opportunities),
             "drafted": drafted,
+            "auto_posted": auto_posted,
+            "queued_for_review": queued_for_review,
+            "auto_rejected": auto_rejected,
             "queue_stats": self.queue.get_stats(),
         }
         
-        logger.info(f"Cycle complete: {stats}")
+        logger.info(f"✅ Cycle complete: {stats}")
         return stats
     
     def post_approved_drafts(self, limit: int = 3) -> dict:
@@ -290,4 +359,38 @@ class GrowthOrchestrator:
         
         result = {"posted": posted, "failed": failed}
         logger.info(f"Posting complete: {result}")
+        return result
+    
+    def maintain_engagement_ratio(self) -> dict:
+        """Maintain healthy engagement ratio with non-promotional activity.
+        
+        Returns:
+            Dict with engagement stats
+        """
+        logger.info("🎯 Running engagement maintenance...")
+        
+        # Upvote 10-15 posts across relevant subreddits
+        upvoted_posts = self.engagement.upvote_posts(
+            subreddits=["podcasts", "TrueCrimePodcasts", "truecrime"],
+            count=random.randint(10, 15),
+        )
+        
+        # Upvote 5-8 helpful comments
+        upvoted_comments = self.engagement.upvote_comments(
+            subreddits=["podcasts", "TrueCrimePodcasts"],
+            count=random.randint(5, 8),
+        )
+        
+        # Occasionally post a casual, helpful comment (10% chance)
+        casual_commented = False
+        if random.random() < 0.1:  # 10% chance
+            casual_commented = self.engagement.post_casual_comment()
+        
+        result = {
+            "upvoted_posts": upvoted_posts,
+            "upvoted_comments": upvoted_comments,
+            "casual_commented": casual_commented,
+        }
+        
+        logger.info(f"✅ Engagement maintenance complete: {result}")
         return result
