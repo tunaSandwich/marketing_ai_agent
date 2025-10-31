@@ -2,77 +2,94 @@
 
 from functools import lru_cache
 from pathlib import Path
+from typing import Optional
 
 from pydantic import BaseModel, Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
-class RedditConfig(BaseModel):
+class RedditConfig(BaseSettings):
     """Reddit API configuration."""
+    
+    model_config = SettingsConfigDict(
+        env_prefix="REDDIT_",
+        env_file=".env",
+        env_file_encoding="utf-8",
+        extra="ignore",
+    )
 
     client_id: str = Field(..., description="Reddit client ID")
     client_secret: str = Field(..., description="Reddit client secret")
-    user_agent: str = Field(..., description="Reddit user agent")
+    user_agent: str = Field(default="GrowthAgent/1.0", description="Reddit user agent")
     username: str = Field(..., description="Reddit username")
     password: str = Field(..., description="Reddit password")
     rate_limit_per_minute: int = Field(default=30, description="Rate limit per minute")
     min_karma_required: int = Field(default=100, description="Minimum karma required")
-    account_age_days: int = Field(default=90, description="Minimum account age in days")
+    account_age_days: int = Field(default=30, description="Minimum account age in days")
 
 
-class LLMConfig(BaseModel):
+class LLMConfig(BaseSettings):
     """LLM configuration."""
+    
+    model_config = SettingsConfigDict(
+        env_prefix="ANTHROPIC_",
+        env_file=".env",
+        env_file_encoding="utf-8",
+        extra="ignore",
+    )
 
-    anthropic_api_key: str = Field(..., description="Anthropic API key")
+    api_key: str = Field(..., description="Anthropic API key")
     model: str = Field(default="claude-sonnet-4-20250514", description="Claude model to use")
     temperature: float = Field(default=0.7, description="Sampling temperature")
     max_tokens: int = Field(default=200, description="Maximum tokens in response")
     timeout_seconds: int = Field(default=30, description="API timeout in seconds")
 
 
-class EvaluationConfig(BaseModel):
-    """Evaluation thresholds configuration."""
+class SystemConfig(BaseSettings):
+    """System-level configuration."""
+    
+    model_config = SettingsConfigDict(
+        env_prefix="SYSTEM_",
+        env_file=".env",
+        env_file_encoding="utf-8",
+        extra="ignore",
+    )
 
-    auto_post_threshold: int = Field(default=40, description="Auto-post threshold (0-50)")
-    human_review_threshold: int = Field(default=30, description="Human review threshold (0-50)")
-    reject_threshold: int = Field(default=25, description="Reject threshold (0-50)")
-
-
-class ApplicationConfig(BaseModel):
-    """Application-level configuration."""
-
-    environment: str = Field(default="development", description="Environment")
-    log_level: str = Field(default="INFO", description="Logging level")
-    log_file: Path | None = Field(default=None, description="Log file path")
-    max_replies_per_day: int = Field(default=10, description="Maximum replies per day")
-    discovery_interval_minutes: int = Field(default=30, description="Discovery interval")
-    default_brand_id: str = Field(default="goodpods", description="Default brand ID")
-    brands_dir: Path = Field(default=Path("brands"), description="Brands directory")
+    max_replies_per_day: int = Field(default=50, description="Max replies per day")
+    discovery_interval_minutes: int = Field(default=60, description="Minutes between discovery cycles")
+    auto_post_threshold: float = Field(default=8.0, description="Quality score threshold for auto-posting")
+    review_threshold: float = Field(default=6.0, description="Quality score threshold for review queue")
 
 
-class ReviewUIConfig(BaseModel):
-    """Review UI configuration."""
-
-    port: int = Field(default=8080, description="Review UI port")
-    host: str = Field(default="localhost", description="Review UI host")
-
-
-class Settings(BaseSettings):
-    """Main application settings."""
-
-    reddit: RedditConfig
-    llm: LLMConfig
-    evaluation: EvaluationConfig
-    app: ApplicationConfig
-    review_ui: ReviewUIConfig
-
+class AppConfig(BaseSettings):
+    """Application configuration."""
+    
     model_config = SettingsConfigDict(
         env_file=".env",
         env_file_encoding="utf-8",
-        env_nested_delimiter="_",
-        case_sensitive=False,
         extra="ignore",
     )
+
+    default_brand_id: str = Field(default="goodpods", description="Default brand to use")
+    environment: str = Field(default="development", description="Environment")
+    log_level: str = Field(default="INFO", description="Logging level")
+
+
+
+
+class Settings(BaseSettings):
+    """Main settings class."""
+    
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        env_file_encoding="utf-8",
+        extra="ignore",
+    )
+    
+    reddit: RedditConfig = Field(default_factory=RedditConfig)
+    llm: LLMConfig = Field(default_factory=LLMConfig)
+    system: SystemConfig = Field(default_factory=SystemConfig)
+    app: AppConfig = Field(default_factory=AppConfig)
 
     @classmethod
     def create_for_testing(cls) -> "Settings":
@@ -85,14 +102,19 @@ class Settings(BaseSettings):
                 username="test_user",
                 password="test_password",
             ),
-            llm=LLMConfig(anthropic_api_key="test_api_key"),
-            evaluation=EvaluationConfig(),
-            app=ApplicationConfig(),
-            review_ui=ReviewUIConfig(),
+            llm=LLMConfig(api_key="test_api_key"),
+            system=SystemConfig(),
+            app=AppConfig(),
         )
 
 
-@lru_cache
+# Global settings instance
+_settings: Optional[Settings] = None
+
+
 def get_settings() -> Settings:
-    """Get cached settings instance."""
-    return Settings()
+    """Get or create settings instance."""
+    global _settings
+    if _settings is None:
+        _settings = Settings()
+    return _settings

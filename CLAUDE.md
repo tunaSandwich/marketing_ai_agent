@@ -381,6 +381,29 @@ python -c "from src.reddit.adapter import RedditAdapter; print('Reddit OK')"
 python -c "from src.llm.client import ClaudeClient; print('Claude OK')"
 ```
 
+
+
+# Protected Files - DO NOT EDIT
+
+The following files contain sensitive credentials and should NEVER be modified by Claude Code:
+
+## ⛔ NEVER EDIT THESE FILES:
+- `.env` - Contains API keys and secrets
+- `.env.local`
+- `.env.production`
+- Any file matching `*.env`
+
+## 🔐 Credentials Policy:
+- If you need to reference environment variables, show the user which ones are needed
+- NEVER read, modify, or suggest changes to credential files
+- If credentials are missing, ask the user to add them manually
+- Always use placeholder values in examples (e.g., `YOUR_API_KEY_HERE`)
+
+## ✅ Safe Configuration Changes:
+- `src/utils/config.py` - Structure only, not values
+- Documentation about required env vars
+- Example `.env.example` files with placeholders
+
 ---
 
 ## Project Status: Foundation Phase

@@ -16,7 +16,7 @@ class ClaudeClient:
     def __init__(self, config: LLMConfig) -> None:
         """Initialize Claude client with configuration."""
         self._config = config
-        self._client = Anthropic(api_key=config.anthropic_api_key)
+        self._client = Anthropic(api_key=config.api_key)
 
     @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10))
     def generate_response(
