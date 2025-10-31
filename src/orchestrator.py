@@ -1,0 +1,293 @@
+"""Main orchestration for growth agent."""
+
+import uuid
+from datetime import UTC, datetime
+from pathlib import Path
+from typing import List, Optional
+
+from loguru import logger
+
+from src.brand.loader import BrandLoader
+from src.llm.client import ClaudeClient
+from src.llm.prompts import PromptTemplate
+from src.models import DraftResponse, RedditPost
+from src.rag.retriever import KnowledgeRetriever
+from src.reddit.adapter import RedditAdapter
+from src.reddit.poster import RedditPoster
+from src.review.queue import ReviewQueue
+from src.utils.config import get_settings
+
+
+def score_response(response: str, post_title: str) -> tuple[float, str]:
+    """Score response quality 0-10.
+    
+    Args:
+        response: Generated response text
+        post_title: Original post title
+        
+    Returns:
+        Tuple of (score, reasoning)
+    """
+    score = 5.0
+    reasons = []
+    
+    # +2 if mentions specific podcast names
+    podcast_indicators = ["'", '"', "podcast", "Podcast"]
+    if sum(1 for indicator in podcast_indicators if indicator in response) >= 2:
+        score += 2
+        reasons.append("mentions specific shows")
+    
+    # +1 if concise
+    word_count = len(response.split())
+    if 30 < word_count < 200:
+        score += 1
+        reasons.append("concise length")
+    
+    # +1 if includes CTA
+    if "goodpods.app" in response.lower():
+        score += 1
+        reasons.append("includes CTA")
+    
+    # +1 if conversational
+    conversational = ["i ", "you", "!", "really", "tbh", "honestly"]
+    if any(word in response.lower() for word in conversational):
+        score += 1
+        reasons.append("conversational tone")
+    
+    # -2 if too salesy
+    salesy = ["our app", "download now", "sign up"]
+    if sum(1 for word in salesy if word in response.lower()) >= 2:
+        score -= 2
+        reasons.append("too promotional")
+    
+    final_score = min(10.0, max(0.0, score))
+    reason_text = " • ".join(reasons) if reasons else "baseline"
+    
+    return final_score, reason_text
+
+
+class GrowthOrchestrator:
+    """Orchestrates discovery, generation, and posting."""
+    
+    def __init__(self, brand_id: str = "goodpods"):
+        """Initialize orchestrator.
+        
+        Args:
+            brand_id: Brand to run agent for
+        """
+        self.brand_id = brand_id
+        self.settings = get_settings()
+        
+        # Initialize components
+        self.reddit = RedditAdapter(self.settings.reddit)
+        self.poster = RedditPoster(self.settings.reddit)
+        self.claude = ClaudeClient(self.settings.llm)
+        
+        # Load brand config
+        brands_dir = Path(__file__).parent.parent / "brands"
+        brand_loader = BrandLoader(brands_dir)
+        self.brand_config = brand_loader.load_brand_config(brand_id)
+        
+        # Initialize RAG
+        index_dir = brands_dir / brand_id / "index"
+        if index_dir.exists():
+            self.retriever = KnowledgeRetriever(index_dir)
+            logger.info("RAG retriever initialized")
+        else:
+            self.retriever = None
+            logger.warning("No RAG index found")
+        
+        # Initialize review queue
+        queue_dir = Path(__file__).parent.parent / "data" / "review_queue"
+        self.queue = ReviewQueue(queue_dir)
+        
+        self.prompt_template = PromptTemplate()
+        
+        logger.info(f"Orchestrator initialized for brand: {brand_id}")
+    
+    def discover_opportunities(self, limit: int = 10) -> List[RedditPost]:
+        """Discover podcast recommendation opportunities.
+        
+        Args:
+            limit: Maximum opportunities to return
+            
+        Returns:
+            List of Reddit posts
+        """
+        logger.info("Starting discovery...")
+        
+        query = '(title:"looking for" OR title:"recommend" OR title:"suggestions") AND podcast'
+        
+        posts = self.reddit.search_posts(
+            query=query,
+            subreddits=["podcasts"],
+            limit=limit * 2,
+            time_filter="day",
+        )
+        
+        # Filter and rank by engagement
+        eligible = []
+        for post in posts:
+            engagement = post.score + (post.num_comments * 2)
+            eligible.append((engagement, post))
+        
+        eligible.sort(reverse=True, key=lambda x: x[0])
+        top_posts = [post for _, post in eligible[:limit]]
+        
+        logger.info(f"Found {len(top_posts)} opportunities")
+        return top_posts
+    
+    def generate_response(self, post: RedditPost) -> DraftResponse:
+        """Generate response for a post.
+        
+        Args:
+            post: Reddit post to respond to
+            
+        Returns:
+            Draft response
+        """
+        draft_id = f"draft_{uuid.uuid4().hex[:12]}"
+        
+        # Retrieve relevant knowledge
+        rag_content = ""
+        rag_chunks = []
+        
+        if self.retriever:
+            chunks = self.retriever.retrieve_for_post(
+                post.title,
+                post.content,
+                top_k=3,
+                min_similarity=0.3,
+            )
+            
+            if chunks:
+                rag_content = "\n\n".join([
+                    f"[{chunk.filename}]\n{chunk.content}"
+                    for chunk in chunks
+                ])
+                rag_chunks = [chunk.filename for chunk in chunks]
+        
+        # Generate response
+        prompt = self.prompt_template.create_response_prompt(
+            post=post,
+            brand_config=self.brand_config,
+            rag_content=rag_content,
+            context={"intent": "recommendation_request"},
+        )
+        
+        response = self.claude.generate_response(
+            prompt=prompt,
+            post_id=post.id,
+            brand_id=self.brand_id,
+            response_id=draft_id,
+            prompt_template="production_v1",
+        )
+        
+        # Score response
+        quality_score, reasoning = score_response(response.content, post.title)
+        
+        # Create draft
+        draft = DraftResponse(
+            draft_id=draft_id,
+            post=post,
+            response_content=response.content,
+            quality_score=quality_score,
+            quality_reasoning=reasoning,
+            rag_chunks_used=rag_chunks,
+            created_at=datetime.now(UTC),
+        )
+        
+        logger.info(
+            f"Generated draft {draft_id} with quality score {quality_score:.1f}/10"
+        )
+        
+        return draft
+    
+    def run_discovery_cycle(self) -> dict:
+        """Run one complete discovery and generation cycle.
+        
+        Returns:
+            Dict with cycle stats
+        """
+        logger.info("=" * 60)
+        logger.info("Starting discovery cycle")
+        
+        # Check account health
+        health = self.poster.check_account_health()
+        if not health.get("can_post"):
+            logger.error(f"Account cannot post: {health.get('reason')}")
+            return {"error": "Account health check failed"}
+        
+        # Check 10% rule
+        activity = self.poster.get_recent_activity()
+        if not activity.get("safe_to_post"):
+            logger.warning("Promotional ratio too high, skipping cycle")
+            return {"skipped": "10% rule violation"}
+        
+        # Discover opportunities
+        opportunities = self.discover_opportunities(limit=5)
+        
+        if not opportunities:
+            logger.info("No opportunities found")
+            return {"opportunities": 0, "drafted": 0}
+        
+        # Generate responses
+        drafted = 0
+        for opp in opportunities:
+            try:
+                draft = self.generate_response(opp)
+                self.queue.add_draft(draft)
+                drafted += 1
+            except Exception as e:
+                logger.error(f"Error generating response for {opp.id}: {e}")
+        
+        stats = {
+            "opportunities": len(opportunities),
+            "drafted": drafted,
+            "queue_stats": self.queue.get_stats(),
+        }
+        
+        logger.info(f"Cycle complete: {stats}")
+        return stats
+    
+    def post_approved_drafts(self, limit: int = 3) -> dict:
+        """Post approved drafts to Reddit.
+        
+        Args:
+            limit: Maximum number to post
+            
+        Returns:
+            Dict with posting stats
+        """
+        logger.info("Posting approved drafts...")
+        
+        approved = self.queue.get_approved(limit=limit)
+        
+        if not approved:
+            logger.info("No approved drafts to post")
+            return {"posted": 0, "failed": 0}
+        
+        posted = 0
+        failed = 0
+        
+        for draft in approved:
+            try:
+                comment_id = self.poster.post_reply(
+                    post_id=draft.post.id,
+                    comment_text=draft.response_content,
+                    draft_id=draft.draft_id,
+                )
+                
+                if comment_id:
+                    self.queue.mark_posted(draft.draft_id, comment_id)
+                    posted += 1
+                else:
+                    failed += 1
+                    
+            except Exception as e:
+                logger.error(f"Error posting draft {draft.draft_id}: {e}")
+                failed += 1
+        
+        result = {"posted": posted, "failed": failed}
+        logger.info(f"Posting complete: {result}")
+        return result

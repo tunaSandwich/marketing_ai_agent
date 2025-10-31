@@ -2,6 +2,7 @@
 
 from datetime import datetime
 from enum import Enum
+from typing import Optional
 
 from pydantic import BaseModel, Field, HttpUrl
 
@@ -127,3 +128,29 @@ class DiscoveryQuery(BaseModel):
     max_results: int = Field(default=20, description="Maximum results to return")
     min_score: int = Field(default=1, description="Minimum post score")
     max_age_hours: int = Field(default=24, description="Maximum post age in hours")
+
+
+class ReviewStatus(str, Enum):
+    """Status of a draft in review queue."""
+    PENDING = "pending"
+    APPROVED = "approved"
+    REJECTED = "rejected"
+    POSTED = "posted"
+    FAILED = "failed"
+
+
+class DraftResponse(BaseModel):
+    """A generated response awaiting review."""
+    
+    draft_id: str
+    post: RedditPost
+    response_content: str
+    quality_score: float
+    quality_reasoning: str
+    rag_chunks_used: list[str] = []
+    created_at: datetime
+    status: ReviewStatus = ReviewStatus.PENDING
+    reviewed_at: Optional[datetime] = None
+    reviewer_notes: Optional[str] = None
+    posted_comment_id: Optional[str] = None
+    posted_at: Optional[datetime] = None
