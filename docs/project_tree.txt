@@ -1,0 +1,102 @@
+marketing-agent/
+├── .claude/
+│   ├── commands/
+│   └── settings.local.json
+├── brands/
+│   └── goodpods/
+│       ├── index/
+│       │   ├── faiss.index
+│       │   └── metadata.pkl
+│       ├── knowledge/
+│       │   ├── app_features.md
+│       │   ├── brand_voice.md
+│       │   ├── competitive_positioning.md
+│       │   ├── podcast_categories.md
+│       │   ├── reddit_best_practices.md
+│       │   ├── reddit_rules.md
+│       │   └── user_testimonials.md
+│       └── config.yaml
+├── data/
+│   └── review_queue/
+│       ├── approved/
+│       ├── pending/
+│       ├── posted/
+│       └── rejected/
+├── docs/
+│   ├── HUMAN_RESPONSES_UPDATE.md
+│   ├── project_tree
+│   ├── psychology_of_design_cheatsheet.md
+│   └── RAG_SYSTEM_SUMMARY.md
+├── documents/
+│   └── project_summary.md
+├── scripts/
+│   ├── demo_config_fixed.py
+│   ├── demo_discovery.py
+│   ├── demo_discovery_mock.py
+│   ├── demo_rag_enhanced.py
+│   ├── demo_warming_system.py
+│   ├── generate_project_tree.py
+│   ├── index_brand_knowledge.py
+│   ├── setup_rag.sh
+│   ├── test_auto_posting.py
+│   ├── test_end_to_end_rag.py
+│   ├── test_human_responses.py
+│   ├── test_rag.py
+│   ├── test_reddit_rules_rag.py
+│   └── test_system.py
+├── src/
+│   ├── brand/
+│   │   ├── __init__.py
+│   │   └── loader.py
+│   ├── llm/
+│   │   ├── __init__.py
+│   │   ├── client.py
+│   │   └── prompts.py
+│   ├── rag/
+│   │   ├── __init__.py
+│   │   ├── embedder.py
+│   │   └── retriever.py
+│   ├── reddit/
+│   │   ├── __init__.py
+│   │   ├── adapter.py
+│   │   ├── engagement.py
+│   │   ├── poster.py
+│   │   ├── search.py
+│   │   └── warmup.py
+│   ├── review/
+│   │   ├── __init__.py
+│   │   └── queue.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   └── config.py
+│   ├── __init__.py
+│   ├── models.py
+│   └── orchestrator.py
+├── tests/
+│   ├── data/
+│   ├── test_brand/
+│   │   ├── __init__.py
+│   │   └── test_loader.py
+│   ├── test_llm/
+│   ├── test_reddit/
+│   │   ├── __init__.py
+│   │   └── test_adapter.py
+│   ├── test_utils/
+│   │   ├── __init__.py
+│   │   └── test_config.py
+│   ├── __init__.py
+│   ├── conftest.py
+│   └── test_models.py
+├── .coverage
+├── .env
+├── .env.example
+├── .env.test
+├── .gitignore
+├── .pre-commit-config.yaml
+├── CLAUDE.md
+├── coverage.xml
+├── main.py
+├── Procfile
+├── pyproject.toml
+├── railway.json
+└── README.md

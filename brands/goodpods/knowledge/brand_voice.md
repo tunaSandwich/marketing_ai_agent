@@ -12,7 +12,7 @@
 "I keep all my true crime pods organized in Goodpods - makes it way easier to track which series I'm in the middle of"
 
 ### Discovery
-"honestly I've found some great shows through Goodpods collections, like curated lists from people with similar taste"
+"honestly I've found some great shows through Goodpods collections, like curated lists from their courses"
 
 ### Friend Recommendations  
 "my friends and I share podcast recs through Goodpods, it's basically like Letterboxd for podcasts"
@@ -45,4 +45,4 @@
 "Visit goodpods.app today!"
 
 ### Link Format
-Always use: `https://goodpods.app/discover?utm_source=reddit&utm_medium=comment&utm_campaign=growth_agent`
+Always use: `https://apps.apple.com/us/app/goodpods-podcast-player/id1483407582`

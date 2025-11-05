@@ -32,6 +32,7 @@
 - Don't compete on technical features
 - Complement: "Pocket Casts is great for playback, I use Goodpods for discovery"
 - Focus on social/discovery angle
+- Courses are novel
 
 ## Never:
 - Directly bash competitors
