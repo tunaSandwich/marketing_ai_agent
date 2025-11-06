@@ -91,7 +91,7 @@ python scripts/demo_discovery.py  # Now includes RAG automatically
 > "yeah for that commute length, planet money is perfect. like 20-30 min episodes about weird economics stuff"
 
 ### With RAG:
-> "honestly i've been there! i organize all my pods in goodpods now - you can make custom lists by mood, topic, whatever. like i have separate lists for commute listening vs weekend deep dives. super easy to import everything from spotify too: goodpods.app/discover"
+> "honestly i've been there! i organize all my pods in goodpods now - you can make custom lists by mood, topic, whatever. like i have separate lists for commute listening vs weekend deep dives."
 
 **Result**: More helpful, mentions organization features naturally, includes accurate product info.
 
