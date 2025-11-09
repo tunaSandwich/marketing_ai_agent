@@ -212,20 +212,28 @@ def test_review_queue():
         return False, str(e)
 
 
-def test_account_warming():
-    """Test account warming system."""
+def test_engagement_system():
+    """Test unified engagement system."""
     try:
         from src.utils.config import get_settings
-        from src.reddit.warmup import AccountWarmer
+        from src.reddit.engagement import RedditEngagementManager
+        from src.brand.loader import BrandLoader
         
         settings = get_settings()
-        warmer = AccountWarmer(settings.reddit)
+        brands_dir = Path(__file__).parent.parent / "brands"
+        brand_loader = BrandLoader(brands_dir)
+        brand_config = brand_loader.load_brand_config("goodpods")
         
-        # Test warming cycle simulation (don't actually run it)
-        # Just test that it initializes and can calculate goals
-        karma_goal = warmer.get_karma_goal(15)
+        manager = RedditEngagementManager(
+            reddit_config=settings.reddit,
+            llm_config=settings.llm,
+            brand_config=brand_config,
+        )
         
-        return True, f"Warming system ready, next goal: {karma_goal} karma"
+        # Test account health check
+        health = manager.get_account_health()
+        
+        return True, f"Engagement system ready, health: {health.health_score:.1f}/100 ({health.account_state.value})"
         
     except Exception as e:
         return False, str(e)
@@ -251,7 +259,6 @@ def run_all_tests():
         ("Reddit Discovery", test_discovery),
         ("Engagement System", test_engagement_system),
         ("Review Queue", test_review_queue),
-        ("Account Warming", test_account_warming),
     ]
     
     results = []

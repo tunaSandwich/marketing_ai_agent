@@ -29,6 +29,21 @@ class PromptTemplate:
         """
         context = context or {}
 
+        # Parse what user already mentioned to avoid duplicates
+        mentioned_podcasts = []
+        post_text = (post.title + " " + post.content).lower()
+        
+        # Common podcast names to check for duplicates
+        known_podcasts = ["serial", "criminal", "bear brook", "this american life", 
+                          "radiolab", "99% invisible", "hidden brain", "science vs",
+                          "casefile", "my favorite murder", "reply all", "planet money",
+                          "freakonomics", "stuff you should know", "conan o'brien needs a friend",
+                          "joe rogan", "ted talks", "the daily", "up first", "npr news now"]
+        
+        for podcast in known_podcasts:
+            if podcast in post_text:
+                mentioned_podcasts.append(podcast)
+
         # Choose response length variation
         response_lengths = [
             "Keep it VERY brief (1-2 sentences). Be almost too casual.",  # 30%
@@ -44,116 +59,88 @@ class PromptTemplate:
         ]
         response_length = random.choice(response_lengths)
 
-        # Choose a random persona for variety (simplified to avoid AI tells)
+        # Simplified personas focused on extreme brevity
         personas = [
-            # Direct Helper
             {
-                "intro": "You're a helpful Reddit user who gives direct recommendations.",
-                "style": """- Jump straight to recommendations, no story setup
-- Be brief and direct
-- Use fragments: "perfect for this", "exactly what you want"
-- Skip fake framing like "funny story", "ended up", "honestly it's become"
-- Personal context: 1 sentence MAX, only if directly relevant""",
-                "example": """on the edge with andrew gold. interviews everyone from cult survivors to random people
-
-somewhere in the skies if you like paranormal stuff"""
+                "name": "brief",
+                "intro": "you give very short podcast recommendations",
+                "style": "super brief, 1-2 podcasts max, no fluff, all lowercase",
+                "examples": [
+                    "try criminal for short episodes, bear brook for deep dives",
+                    "in the dark season 2 is incredible",
+                    "criminal and teacher's pet are both great"
+                ]
             },
-            # Casual Helper
             {
-                "intro": "You're a laid-back Reddit user who happens to know podcasts.",
-                "style": """- Start casually: "yeah" "check out" "try" 
-- Use fragments and incomplete thoughts
-- Include "tbh" "super similar vibe" "scratches that itch"
-- Be helpful but not overly structured
-- Drop unnecessary modifiers""",
-                "example": """yeah on the edge is perfect for this. gets wild guests
-
-been binging it lately, super similar vibe to what you want"""
+                "name": "direct", 
+                "intro": "you recommend podcasts directly",
+                "style": "straight to the point, 1-2 names only, lowercase",
+                "examples": [
+                    "criminal and bear brook",
+                    "try your own backyard",
+                    "casefile for international true crime"
+                ]
             },
-            # Brief Connector
             {
-                "intro": "You relate briefly and give recommendations.",
-                "style": """- Start by relating briefly: "been looking for this too" "discovered this last month"
-- Keep personal context to absolute minimum
-- Focus on recommendations
-- Use "scratches that itch" "exactly this" type language
-- No elaborate backstories""",
-                "example": """discovered on the edge last month and it's all i listen to now lol
-
-exactly what you're looking for - interview format with crazy diverse people"""
-            },
-            # Ultra Brief
-            {
-                "intro": "You give ultra-brief, almost lazy recommendations.",
-                "style": """- Get straight to the point
-- Very short responses
-- Skip most context
-- Use minimal words: "perfect for this", "exactly this", "check out X"
-- Almost too casual""",
-                "example": """on the edge with andrew gold. exactly this.
-
-somewhere in the skies for paranormal"""
+                "name": "minimal",
+                "intro": "you give minimal recommendations",
+                "style": "ultra minimal, just names and brief reason",
+                "examples": [
+                    "bear brook - cold case deep dive",
+                    "criminal - short true crime stories",
+                    "in the dark season 2"
+                ]
             }
         ]
 
-        persona = random.choice(personas)
+        # Check if we should skip brand mentions (warming mode)
+        skip_brand = context.get("skip_brand", False)
         
-        # Decide CTA inclusion (70% include naturally, 30% skip)
-        include_cta = random.random() < 0.7
-        cta_instruction = f"""- Occasionally mention {brand_config.brand_name} ONLY if it fits naturally
-- Use link: {brand_config.primary_cta}{brand_config.tracking_params}
-- Make it feel like a genuine tip, not a sales pitch
-- Sometimes abbreviate or be casual about it ("on goodpods" instead of "on the Goodpods app")""" if include_cta else "- Don't mention any apps or services this time - just focus on great recommendations"
-
+        # For warming mode, never mention brands
+        if skip_brand or context.get("mode") == "helpful":
+            include_cta = False
+        else:
+            # 70% chance to include brand naturally for promotional
+            include_cta = random.random() < 0.7
+        
         # Include RAG context if available
-        rag_section = ""
+        knowledge_section = ""
         if rag_content.strip():
-            rag_section = f"""
-RELEVANT KNOWLEDGE (use naturally when appropriate):
-{rag_content}
+            knowledge_section = f"\nKnowledge: {rag_content}"
+        
+        # Add context section if user mentioned specific podcasts
+        context_section = ""
+        if mentioned_podcasts:
+            context_section = f"\nIMPORTANT: User already mentioned: {', '.join(mentioned_podcasts)} - recommend DIFFERENT podcasts!\n"
+        
+        # Add brand guidance for promotional mode
+        brand_section = ""
+        if include_cta and brand_config.brand_name:
+            brand_section = f"\nMention {brand_config.brand_name} personally (like 'i use {brand_config.brand_name}...')"
+        
+        prompt = f"""STRICT RULES:
+1. Maximum 150 characters TOTAL (this is about 25-30 words)
+2. Recommend exactly 1-2 podcasts, NO MORE
+3. No introductions, no "oh man", no "i love", just recommendations
+4. All lowercase, no exclamation points
+5. Be complete but brief
 
-IMPORTANT: Don't mention this is from knowledge base - present it as your personal experience or general knowledge."""
+GOOD EXAMPLES (under 150 chars):
+- "try criminal for short episodes, bear brook for deep dives" (60 chars)
+- "in the dark season 2 is incredible" (36 chars)
+- "criminal and teacher's pet are both great" (43 chars)
 
-        prompt = f"""PERSONA: {persona['intro']}
+BAD EXAMPLES (too long):
+- Any response over 150 characters
+- Recommending more than 2 podcasts
+- Adding personal stories or context
 
-STYLE GUIDELINES:
-{persona['style']}
-
-RESPONSE LENGTH: {response_length}
-
-TONE MARKERS TO INCLUDE:
-- Use 1-2 of these: tbh, honestly, ngl, imo, actually, literally, basically
-- Sometimes start sentences with: and, but, or, so
-- Include Reddit-speak when natural: YMMV, ELI5, TIL, IIRC
-- Occasionally use "..." for trailing thoughts
-- Sometimes use "lol" or "haha" if something's genuinely funny
-
-BRAND CONTEXT (use only if super relevant):
-Company: {brand_config.brand_name} - {brand_config.company_description}
-{rag_section}
-
-CTA APPROACH:
-{cta_instruction}
-
-REDDIT POST TO RESPOND TO:
+REDDIT POST:
 Title: {post.title}
 Content: {post.content}
-Subreddit: r/{post.subreddit}
+{context_section}{knowledge_section}
 
-CRITICAL STYLE RULES:
-1. Be DIRECT - jump straight to recommendations, skip story setup
-2. Be BRIEF - shorter is more natural, don't over-explain
-3. Be LOOSE - fragments, incomplete thoughts, casual structure
-4. Skip fake framing like "funny story", "ended up", "honestly it's become"
-5. Personal context: 1 sentence MAX, only if directly relevant
-6. Don't over-describe: "interviews everyone" not "interviews everyone from X to Y to Z"
-7. Use Reddit patterns: "perfect for this", "exactly what you want", "super similar vibe"
-8. If you mention the app, make it feel like a genuine user tip
-
-EXAMPLE OF GOOD TONE:
-"{persona['example']}"
-
-Now write a response that sounds like a real Reddit user. Be helpful but human:"""
+Write ONE sentence, 1-2 podcast recommendations, under 150 chars{brand_section}:"""
 
         return prompt
 
@@ -179,7 +166,7 @@ Now write a response that sounds like a real Reddit user. Be helpful but human:"
 2. HELPFULNESS: Are the recommendations specific and useful?
 3. NATURALNESS: Does it sound like a real Reddit user or like ChatGPT?
 4. BRAND SAFETY: Is it following guidelines without being corporate?
-5. CTA SUBTLETY: If the app is mentioned, does it feel natural or forced?
+5. CTA SUBTLETY: If {brand_config.brand_name} is mentioned, does it feel natural or forced?
 
 Original Post:
 Title: {original_post.title}
@@ -187,6 +174,9 @@ Content: {original_post.content}
 
 Response:
 {response_content}
+
+Brand Guidelines for {brand_config.brand_name}:
+{chr(10).join(f"- {claim}" for claim in brand_config.allowed_claims[:3])}
 
 Good responses sound like:
 - "oh man if you loved Serial..." 

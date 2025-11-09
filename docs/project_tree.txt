@@ -3,18 +3,30 @@ marketing-agent/
 │   ├── commands/
 │   └── settings.local.json
 ├── brands/
-│   └── goodpods/
+│   ├── goodpods/
+│   │   ├── index/
+│   │   │   ├── faiss.index
+│   │   │   └── metadata.pkl
+│   │   ├── knowledge/
+│   │   │   ├── app_features.md
+│   │   │   ├── brand_voice.md
+│   │   │   ├── competitive_positioning.md
+│   │   │   ├── podcast_categories.md
+│   │   │   ├── reddit_best_practices.md
+│   │   │   ├── reddit_rules.md
+│   │   │   └── user_testimonials.md
+│   │   └── config.yaml
+│   └── warming/
 │       ├── index/
 │       │   ├── faiss.index
 │       │   └── metadata.pkl
 │       ├── knowledge/
-│       │   ├── app_features.md
-│       │   ├── brand_voice.md
-│       │   ├── competitive_positioning.md
-│       │   ├── podcast_categories.md
-│       │   ├── reddit_best_practices.md
-│       │   ├── reddit_rules.md
-│       │   └── user_testimonials.md
+│       │   ├── business_podcasts.md
+│       │   ├── comedy_podcasts.md
+│       │   ├── history_podcasts.md
+│       │   ├── science_podcasts.md
+│       │   ├── storytelling_podcasts.md
+│       │   └── true_crime_podcasts.md
 │       └── config.yaml
 ├── data/
 │   └── review_queue/
@@ -24,12 +36,14 @@ marketing-agent/
 │       └── rejected/
 ├── docs/
 │   ├── HUMAN_RESPONSES_UPDATE.md
-│   ├── project_tree
+│   ├── project_tree.txt
 │   ├── psychology_of_design_cheatsheet.md
 │   └── RAG_SYSTEM_SUMMARY.md
 ├── documents/
 │   └── project_summary.md
 ├── scripts/
+│   ├── debug_env.py
+│   ├── debug_model_config.py
 │   ├── demo_config_fixed.py
 │   ├── demo_discovery.py
 │   ├── demo_discovery_mock.py
@@ -38,12 +52,22 @@ marketing-agent/
 │   ├── generate_project_tree.py
 │   ├── index_brand_knowledge.py
 │   ├── setup_rag.sh
+│   ├── test_account_health.py
 │   ├── test_auto_posting.py
+│   ├── test_claude_models.py
+│   ├── test_comment_generation_auto.py
 │   ├── test_end_to_end_rag.py
+│   ├── test_engagement_preview.py
 │   ├── test_human_responses.py
+│   ├── test_interactive_fixed.py
+│   ├── test_promotional_detailed.py
+│   ├── test_promotional_quick.py
 │   ├── test_rag.py
 │   ├── test_reddit_rules_rag.py
-│   └── test_system.py
+│   ├── test_single_comment.py
+│   ├── test_step_by_step.py
+│   ├── test_system.py
+│   └── test_validation_only.py
 ├── src/
 │   ├── brand/
 │   │   ├── __init__.py
@@ -60,9 +84,11 @@ marketing-agent/
 │   │   ├── __init__.py
 │   │   ├── adapter.py
 │   │   ├── engagement.py
+│   │   ├── engagement_strategy.py
 │   │   ├── poster.py
 │   │   ├── search.py
-│   │   └── warmup.py
+│   │   ├── subreddit_selector.py
+│   │   └── warmup_OLD.py
 │   ├── review/
 │   │   ├── __init__.py
 │   │   └── queue.py
@@ -80,7 +106,8 @@ marketing-agent/
 │   ├── test_llm/
 │   ├── test_reddit/
 │   │   ├── __init__.py
-│   │   └── test_adapter.py
+│   │   ├── test_adapter.py
+│   │   └── test_engagement.py
 │   ├── test_utils/
 │   │   ├── __init__.py
 │   │   └── test_config.py

@@ -31,8 +31,8 @@ forbidden_topics:
   - "Monetization or business model"
   - "Future features not yet released"
   
-primary_cta: "https://goodpods.app/discover"
-tracking_params: "?utm_source=reddit&utm_medium=comment&utm_campaign=growth_agent"
+primary_cta: "https://apps.apple.com/us/app/goodpods-podcast-player/id1483407582"
+tracking_params: ""  # Empty for now, can add UTM params later if needed
 
 subreddits_tier1:
   - "podcasts"

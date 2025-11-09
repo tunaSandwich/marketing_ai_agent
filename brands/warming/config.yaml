@@ -1,0 +1,41 @@
+brand_id: "warming"
+brand_name: "Generic Podcast Knowledge"
+company_description: "Generic podcast knowledge for engagement (no promotional content)"
+voice_guidelines: |
+  - Helpful and knowledgeable about podcasts
+  - No brand mentions allowed
+  - Focus on providing genuine recommendations
+  - Natural and conversational
+  
+tone_attributes:
+  - helpful
+  - knowledgeable
+  - neutral
+
+allowed_claims: []
+forbidden_topics:
+  - "Brand mentions"
+  - "App recommendations"
+  - "Promotional content"
+
+primary_cta: "https://example.com"
+tracking_params: ""
+
+subreddits_tier1:
+  - "podcasts"
+  - "podcast"
+
+knowledge_files:
+  - true_crime_podcasts.md
+  - comedy_podcasts.md
+  - history_podcasts.md
+  - science_podcasts.md
+  - business_podcasts.md
+  - storytelling_podcasts.md
+
+retrieval_settings:
+  enabled: true
+  top_k: 2
+  min_similarity: 0.35
+  chunk_size: 300
+  chunk_overlap: 50

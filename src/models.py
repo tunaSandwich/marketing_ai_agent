@@ -1,10 +1,71 @@
 """Core data models for the marketing agent."""
 
+from dataclasses import dataclass
 from datetime import datetime
 from enum import Enum
-from typing import Optional
+from typing import List, Optional
 
 from pydantic import BaseModel, Field, HttpUrl
+
+
+# =============================================================================
+# LLM Model Configuration
+# =============================================================================
+
+class ClaudeModel(str, Enum):
+    """Available Claude models with their API identifiers."""
+    
+    # Working models (verified as of November 2024)
+    HAIKU = "claude-3-haiku-20240307"  # Fast, economical
+    OPUS = "claude-3-opus-20240229"    # Most capable, expensive
+    
+    # Legacy models (no longer available)
+    # SONNET_LEGACY = "claude-3-sonnet-20240229"  # DEPRECATED
+    # SONNET_35 = "claude-3-5-sonnet-20240620"    # DEPRECATED
+
+
+# Default model for the application
+DEFAULT_MODEL = ClaudeModel.HAIKU
+
+# Model configurations with performance characteristics
+MODEL_CONFIGS = {
+    ClaudeModel.HAIKU: {
+        "name": "Claude 3 Haiku",
+        "description": "Fast and economical model for general tasks",
+        "cost_tier": "low",
+        "speed": "fast",
+        "max_tokens_recommended": 300,
+        "temperature_recommended": 0.7,
+    },
+    ClaudeModel.OPUS: {
+        "name": "Claude 3 Opus", 
+        "description": "Most capable model for complex reasoning",
+        "cost_tier": "high",
+        "speed": "slow",
+        "max_tokens_recommended": 500,
+        "temperature_recommended": 0.7,
+    },
+}
+
+
+def get_default_model() -> str:
+    """Get the default model identifier."""
+    return DEFAULT_MODEL.value
+
+
+def get_model_config(model: ClaudeModel) -> dict:
+    """Get configuration for a specific model."""
+    return MODEL_CONFIGS.get(model, MODEL_CONFIGS[DEFAULT_MODEL])
+
+
+def is_model_available(model_name: str) -> bool:
+    """Check if a model name is in our available models list."""
+    return model_name in [model.value for model in ClaudeModel]
+
+
+# =============================================================================
+# Core Data Models
+# =============================================================================
 
 
 class RedditPost(BaseModel):
@@ -154,3 +215,114 @@ class DraftResponse(BaseModel):
     reviewer_notes: Optional[str] = None
     posted_comment_id: Optional[str] = None
     posted_at: Optional[datetime] = None
+
+
+class AccountState(str, Enum):
+    """Account state for engagement strategy."""
+    NEW = "new"  # 0-25 health
+    BUILDING = "building"  # 25-50 health
+    MATURING = "maturing"  # 50-75 health
+    READY = "ready"  # 75-90 health
+    ACTIVE = "active"  # 90+ health
+
+
+class RiskTolerance(str, Enum):
+    """Risk tolerance for engagement activities."""
+    LOW = "low"
+    MEDIUM = "medium"
+    HIGH = "high"
+
+
+class ComplexityLevel(str, Enum):
+    """Comment complexity level."""
+    SIMPLE = "simple"
+    MODERATE = "moderate"
+    COMPLEX = "complex"
+
+
+class CommentConstraints(BaseModel):
+    """Constraints for comment generation based on account state."""
+    
+    max_length: int = Field(..., description="Maximum comment length in characters")
+    min_post_score: int = Field(..., description="Minimum post score to reply to")
+    allow_follow_up_questions: bool = Field(
+        ..., 
+        description="Whether to allow asking follow-up questions"
+    )
+    allow_thread_replies: bool = Field(
+        ..., 
+        description="Whether to allow replying to comments (vs top-level only)"
+    )
+    complexity_level: ComplexityLevel = Field(
+        ..., 
+        description="Comment complexity level"
+    )
+
+
+class ActivityBudget(BaseModel):
+    """Activity budget for one engagement cycle."""
+    
+    upvotes_target: int = Field(..., description="Number of posts to upvote")
+    comments_target: int = Field(..., description="Number of comments to post")
+    promotional_ratio: float = Field(
+        ..., 
+        ge=0.0, 
+        le=1.0, 
+        description="Ratio of promotional to helpful content"
+    )
+    risk_tolerance: RiskTolerance = Field(
+        ..., 
+        description="Risk tolerance for this cycle"
+    )
+    allowed_tiers: List[int] = Field(
+        ..., 
+        description="Allowed subreddit tiers (1, 2, 3)"
+    )
+    max_posts_per_subreddit_per_day: int = Field(
+        ..., 
+        description="Maximum posts per subreddit per day"
+    )
+    comment_constraints: CommentConstraints = Field(
+        ..., 
+        description="Comment generation constraints"
+    )
+
+
+class EngagementCycleResult(BaseModel):
+    """Result of an engagement cycle."""
+    
+    cycle_type: str = Field(..., description="Type of cycle (engagement or discovery)")
+    health_score: float = Field(..., description="Account health score at cycle start")
+    account_state: AccountState = Field(..., description="Account state")
+    subreddit: Optional[str] = Field(None, description="Target subreddit")
+    upvotes_completed: int = Field(default=0, description="Number of upvotes completed")
+    helpful_comments_posted: List[str] = Field(
+        default_factory=list, 
+        description="IDs of helpful comments posted"
+    )
+    promotional_comments_posted: List[str] = Field(
+        default_factory=list, 
+        description="IDs of promotional comments posted"
+    )
+    errors: List[str] = Field(default_factory=list, description="Errors encountered")
+    completed_at: datetime = Field(default_factory=datetime.now)
+
+
+class AccountHealth(BaseModel):
+    """Account health metrics."""
+    
+    karma: int = Field(..., description="Current karma")
+    age_days: float = Field(..., description="Account age in days")
+    recent_activity_quality: float = Field(
+        default=0.5, 
+        ge=0.0, 
+        le=1.0, 
+        description="Quality score of recent activity"
+    )
+    health_score: float = Field(
+        ..., 
+        ge=0.0, 
+        le=100.0, 
+        description="Overall health score"
+    )
+    account_state: AccountState = Field(..., description="Current account state")

@@ -7,6 +7,8 @@ from typing import Optional
 from pydantic import BaseModel, Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
+from ..models import get_default_model
+
 
 class RedditConfig(BaseSettings):
     """Reddit API configuration."""
@@ -39,7 +41,7 @@ class LLMConfig(BaseSettings):
     )
 
     api_key: str = Field(..., description="Anthropic API key")
-    model: str = Field(default="claude-sonnet-4-20250514", description="Claude model to use")
+    model: str = Field(default_factory=get_default_model, description="Claude model to use")
     temperature: float = Field(default=0.7, description="Sampling temperature")
     max_tokens: int = Field(default=200, description="Maximum tokens in response")
     timeout_seconds: int = Field(default=30, description="API timeout in seconds")
