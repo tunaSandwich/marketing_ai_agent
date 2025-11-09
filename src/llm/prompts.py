@@ -124,11 +124,15 @@ class PromptTemplate:
 3. No introductions, no "oh man", no "i love", just recommendations
 4. All lowercase, no exclamation points
 5. Be complete but brief
+6. DO NOT include character counts, metadata, or formatting markers
 
 GOOD EXAMPLES (under 150 chars):
 - "try criminal for short episodes, bear brook for deep dives" (60 chars)
 - "in the dark season 2 is incredible" (36 chars)
 - "criminal and teacher's pet are both great" (43 chars)
+
+CRITICAL: Your response should ONLY contain the actual comment text.
+DO NOT add "(X chars)" or any other metadata.
 
 BAD EXAMPLES (too long):
 - Any response over 150 characters
