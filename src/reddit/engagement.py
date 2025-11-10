@@ -375,6 +375,18 @@ class RedditEngagementManager:
         if not post:
             return None
         
+        # Log selected post context
+        try:
+            logger.info(
+                f"Selected post for reply in r/{subreddit}: "
+                f"id={getattr(post, 'id', '?')}, score={getattr(post, 'score', '?')}, "
+                f"title={getattr(post, 'title', '')[:180]}{'...' if len(getattr(post, 'title', '')) > 180 else ''}"
+            )
+            if hasattr(post, "url"):
+                logger.debug(f"Post URL: {post.url}")
+        except Exception:
+            pass
+        
         # Generate comment (REUSE EXISTING create_response_prompt)
         comment_text = self._generate_comment(
             post=post,
@@ -385,14 +397,35 @@ class RedditEngagementManager:
         if not comment_text:
             return None
         
+        # Log generated comment (preview + length)
+        try:
+            preview = comment_text[:500]
+            suffix = "..." if len(comment_text) > 500 else ""
+            logger.debug(
+                f"Generated {'promotional' if is_promotional else 'helpful'} comment "
+                f"({len(comment_text)} chars): {preview}{suffix}"
+            )
+        except Exception:
+            pass
+        
         # Validate comment
         if is_promotional:
-            if not self._validate_promotional_comment(comment_text):
-                logger.warning("Generated promotional comment failed validation")
+            is_valid, reasons = self._validate_promotional_comment_with_reasons(
+                comment_text, constraints=budget.comment_constraints
+            )
+            if not is_valid:
+                logger.warning(
+                    "Generated promotional comment failed validation: " + "; ".join(reasons[:5])
+                )
                 return None
         else:
-            if not self._validate_helpful_comment(comment_text):
-                logger.warning("Generated helpful comment failed validation")
+            is_valid, reasons = self._validate_helpful_comment_with_reasons(
+                comment_text, constraints=budget.comment_constraints
+            )
+            if not is_valid:
+                logger.warning(
+                    "Generated helpful comment failed validation: " + "; ".join(reasons[:5])
+                )
                 return None
         
         # Post comment

@@ -8,6 +8,9 @@ from pathlib import Path
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent))
 
+# Silence HuggingFace tokenizers fork/parallelism warnings and avoid deadlocks
+os.environ.setdefault("TOKENIZERS_PARALLELISM", "false")
+
 import schedule
 import time
 from datetime import datetime
@@ -42,52 +45,33 @@ def setup_logging():
 
 
 def run_discovery_cycle():
-    """Run one discovery and generation cycle (or warming)."""
+    """Deprecated. Use unified orchestrator.run()."""
+    logger.warning("run_discovery_cycle() in main.py is deprecated; use orchestrator.run() instead")
     try:
-        logger.info("🔄 Starting cycle...")
-        
         orchestrator = GrowthOrchestrator(brand_id="goodpods")
-        
-        # Run cycle (automatically detects if warming needed)
-        stats = orchestrator.run_discovery_cycle()
-        
-        # Check if in warming mode
-        if stats.get("mode") == "warming":
-            logger.info("🌱 Warming mode active")
-            logger.info(f"   Reason: {stats.get('reason')}")
-            warming = stats.get('warming_result', {})
-            logger.info(f"   Progress: {warming.get('overall_progress_percent', 0):.1f}% complete")
-            if warming.get('upvotes'):
-                logger.info(f"   Upvoted: {warming['upvotes'].get('upvoted', 0)} posts")
-            if warming.get('comment_posted'):
-                logger.info(f"   Posted helpful comment: {warming['comment_posted']}")
-        else:
-            logger.info(f"✅ Cycle complete: {stats}")
-        
+        return orchestrator.run_discovery_cycle()
     except Exception as e:
         logger.error(f"❌ Cycle failed: {e}")
         import traceback
         logger.error(traceback.format_exc())
+        return {}
 
 
 def run_engagement():
-    """Maintain healthy engagement ratio."""
+    """Deprecated. Use unified orchestrator.run()."""
+    logger.warning("run_engagement() in main.py is deprecated; use orchestrator.run() instead")
     try:
-        logger.info("🎯 Running engagement maintenance...")
-        
         orchestrator = GrowthOrchestrator(brand_id="goodpods")
-        result = orchestrator.maintain_engagement_ratio()
-        
-        logger.info(f"✅ Engagement complete: {result}")
-        
+        return orchestrator.maintain_engagement_ratio()
     except Exception as e:
         logger.error(f"❌ Engagement failed: {e}")
         import traceback
         logger.error(traceback.format_exc())
+        return {}
 
 
 def main():
-    """Main production loop."""
+    """Main production loop - unified orchestrator with internal scheduling."""
     setup_logging()
     
     logger.info("=" * 60)
@@ -98,39 +82,16 @@ def main():
     logger.info(f"Brand: {settings.app.default_brand_id}")
     logger.info(f"Max replies/day: {settings.system.max_replies_per_day}")
     
-    # Run immediately on startup
-    logger.info("Running initial cycle...")
-    run_discovery_cycle()
-    
-    # Run initial engagement
-    logger.info("Running initial engagement...")
-    run_engagement()
-    
-    # Schedule discovery + auto-posting every hour
-    schedule.every(1).hours.do(run_discovery_cycle)
-    
-    # Schedule engagement maintenance every 2 hours (offset from discovery)
-    schedule.every(2).hours.at(":15").do(run_engagement)
-    
-    logger.info("📅 Scheduler configured:")
-    logger.info("  - Discovery + Auto-posting: Every 1 hour")
-    logger.info("  - Engagement (upvotes): Every 2 hours at :15")
-    logger.info("  - 🎯 Auto-post threshold: 8.0/10")
-    logger.info("  - ❌ Auto-reject threshold: <6.0/10")
-    
-    # Main loop
-    while True:
-        try:
-            schedule.run_pending()
-            time.sleep(60)  # Check every minute
-            
-        except KeyboardInterrupt:
-            logger.info("⚠️  Shutting down gracefully...")
-            break
-            
-        except Exception as e:
-            logger.error(f"Unexpected error in main loop: {e}")
-            time.sleep(300)  # Wait 5 minutes before retrying
+    try:
+        orchestrator = GrowthOrchestrator(brand_id=settings.app.default_brand_id)
+        logger.info("Starting unified orchestrator loop (internal scheduling enabled)")
+        orchestrator.run()
+    except KeyboardInterrupt:
+        logger.info("⚠️  Shutting down gracefully...")
+    except Exception as e:
+        logger.error(f"Unexpected error in orchestrator: {e}")
+        import traceback
+        logger.error(traceback.format_exc())
 
 
 if __name__ == "__main__":
