@@ -51,7 +51,6 @@ def main():
         ("RedditPoster", "src.reddit.poster", "RedditPoster"),
         ("RedditEngagement", "src.reddit.engagement", "RedditEngagement"),
         ("ClaudeClient", "src.llm.client", "ClaudeClient"),
-        ("ReviewQueue", "src.review.queue", "ReviewQueue"),
         ("KnowledgeRetriever", "src.rag.retriever", "KnowledgeRetriever"),
     ]
     
@@ -59,11 +58,7 @@ def main():
     
     for name, module, class_name in components:
         try:
-            if name == "ReviewQueue":
-                from src.review.queue import ReviewQueue
-                queue_dir = Path('data/review_queue')
-                ReviewQueue(queue_dir)
-            elif name == "KnowledgeRetriever":
+            if name == "KnowledgeRetriever":
                 from src.rag.retriever import KnowledgeRetriever
                 index_dir = Path(__file__).parent.parent / "brands" / "goodpods" / "index"
                 if index_dir.exists():
@@ -75,8 +70,16 @@ def main():
                 module_obj = __import__(module, fromlist=[class_name])
                 class_obj = getattr(module_obj, class_name)
                 
-                if name in ["RedditPoster", "RedditEngagement"]:
+                if name == "RedditPoster":
                     class_obj(settings.reddit)
+                elif name == "RedditEngagement":
+                    # RedditEngagement doesn't exist, it's RedditEngagementManager now
+                    from src.reddit.engagement import RedditEngagementManager
+                    from src.brand.loader import BrandLoader
+                    brands_dir = Path(__file__).parent.parent / "brands"
+                    brand_loader = BrandLoader(brands_dir)
+                    brand_config = brand_loader.load_brand_config("goodpods")
+                    RedditEngagementManager(settings.reddit, settings.llm, brand_config)
                 elif name == "ClaudeClient":
                     class_obj(settings.llm)
             
@@ -99,8 +102,7 @@ def main():
     auto_post_panel = Panel.fit(
         f"[yellow]Quality Score Thresholds:[/yellow]\n"
         f"• [green]8.0+[/green] → Auto-post immediately\n"
-        f"• [yellow]6.0-7.9[/yellow] → Queue for human review\n"
-        f"• [red]<6.0[/red] → Auto-reject\n\n"
+        f"• [red]<8.0[/red] → Auto-reject (hands-off mode)\n\n"
         f"[yellow]Account Requirements:[/yellow]\n"
         f"• 30+ days old (reduced from 90)\n"
         f"• 100+ karma\n"

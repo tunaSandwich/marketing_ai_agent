@@ -29,11 +29,6 @@ marketing-agent/
 │       │   └── true_crime_podcasts.md
 │       └── config.yaml
 ├── data/
-│   └── review_queue/
-│       ├── approved/
-│       ├── pending/
-│       ├── posted/
-│       └── rejected/
 ├── docs/
 │   ├── HUMAN_RESPONSES_UPDATE.md
 │   ├── project_tree.txt

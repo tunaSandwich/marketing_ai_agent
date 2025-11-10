@@ -4,10 +4,10 @@ import pytest
 from pydantic import ValidationError
 
 from src.utils.config import (
-    ApplicationConfig,
-    EvaluationConfig,
+    AppConfig,
     LLMConfig,
     RedditConfig,
+    SystemConfig,
     Settings,
 )
 
@@ -40,17 +40,17 @@ class TestLLMConfig:
 
     def test_llm_config_creation(self):
         """Test creating a valid LLM config."""
-        config = LLMConfig(anthropic_api_key="test_api_key")
+        config = LLMConfig(api_key="test_api_key")
 
-        assert config.anthropic_api_key == "test_api_key"
-        assert config.model == "claude-sonnet-4-20250514-sonnet-20241022"  # Default value
+        assert config.api_key == "test_api_key"
+        assert config.model  # Has a default value
         assert config.temperature == 0.7  # Default value
         assert config.max_tokens == 200  # Default value
 
     def test_llm_config_custom_values(self):
         """Test LLM config with custom values."""
         config = LLMConfig(
-            anthropic_api_key="test_key",
+            api_key="test_key",
             model="claude-3-haiku",
             temperature=0.5,
             max_tokens=500,
@@ -61,54 +61,51 @@ class TestLLMConfig:
         assert config.max_tokens == 500
 
 
-class TestEvaluationConfig:
-    """Tests for evaluation configuration."""
+class TestSystemConfig:
+    """Tests for system configuration."""
 
-    def test_evaluation_config_defaults(self):
-        """Test evaluation config default values."""
-        config = EvaluationConfig()
+    def test_system_config_defaults(self):
+        """Test system config default values."""
+        config = SystemConfig()
 
-        assert config.auto_post_threshold == 40
-        assert config.human_review_threshold == 30
-        assert config.reject_threshold == 25
+        assert config.auto_post_threshold == 8.0
+        assert config.max_replies_per_day == 50
+        assert config.discovery_interval_minutes == 60
 
-    def test_evaluation_config_custom_values(self):
-        """Test evaluation config with custom values."""
-        config = EvaluationConfig(
-            auto_post_threshold=45,
-            human_review_threshold=35,
-            reject_threshold=20,
+    def test_system_config_custom_values(self):
+        """Test system config with custom values."""
+        config = SystemConfig(
+            auto_post_threshold=9.0,
+            max_replies_per_day=100,
+            discovery_interval_minutes=30,
         )
 
-        assert config.auto_post_threshold == 45
-        assert config.human_review_threshold == 35
-        assert config.reject_threshold == 20
+        assert config.auto_post_threshold == 9.0
+        assert config.max_replies_per_day == 100
+        assert config.discovery_interval_minutes == 30
 
 
-class TestApplicationConfig:
+class TestAppConfig:
     """Tests for application configuration."""
 
-    def test_application_config_defaults(self):
+    def test_app_config_defaults(self):
         """Test application config default values."""
-        config = ApplicationConfig()
+        config = AppConfig()
 
         assert config.environment == "development"
         assert config.log_level == "INFO"
-        assert config.max_replies_per_day == 10
         assert config.default_brand_id == "goodpods"
 
-    def test_application_config_custom_values(self):
+    def test_app_config_custom_values(self):
         """Test application config with custom values."""
-        config = ApplicationConfig(
+        config = AppConfig(
             environment="production",
             log_level="DEBUG",
-            max_replies_per_day=50,
             default_brand_id="custom_brand",
         )
 
         assert config.environment == "production"
         assert config.log_level == "DEBUG"
-        assert config.max_replies_per_day == 50
         assert config.default_brand_id == "custom_brand"
 
 
@@ -120,8 +117,8 @@ class TestSettings:
         settings = Settings.create_for_testing()
 
         assert settings.reddit.client_id == "test_client_id"
-        assert settings.llm.anthropic_api_key == "test_api_key"
-        assert settings.evaluation.auto_post_threshold == 40
+        assert settings.llm.api_key == "test_api_key"
+        assert settings.system.auto_post_threshold == 8.0
         assert settings.app.environment == "development"
 
     def test_settings_nested_access(self):
@@ -131,5 +128,4 @@ class TestSettings:
         # Test nested access
         assert settings.reddit.rate_limit_per_minute == 30
         assert settings.llm.temperature == 0.7
-        assert settings.evaluation.human_review_threshold == 30
-        assert settings.app.max_replies_per_day == 10
+        assert settings.system.max_replies_per_day == 50

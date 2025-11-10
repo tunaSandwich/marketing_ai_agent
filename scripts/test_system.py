@@ -181,35 +181,6 @@ def test_discovery():
         return False, str(e)
 
 
-def test_engagement_system():
-    """Test engagement system initialization."""
-    try:
-        from src.utils.config import get_settings
-        from src.reddit.engagement import RedditEngagement
-        
-        settings = get_settings()
-        engagement = RedditEngagement(settings.reddit)
-        
-        return True, "Engagement system ready"
-        
-    except Exception as e:
-        return False, str(e)
-
-
-def test_review_queue():
-    """Test review queue system."""
-    try:
-        from src.review.queue import ReviewQueue
-        from pathlib import Path
-        
-        queue_dir = Path('data/review_queue')
-        queue = ReviewQueue(queue_dir)
-        stats = queue.get_stats()
-        
-        return True, f"Queue ready: {stats}"
-        
-    except Exception as e:
-        return False, str(e)
 
 
 def test_engagement_system():
@@ -258,7 +229,6 @@ def run_all_tests():
         ("Orchestrator Init", test_orchestrator),
         ("Reddit Discovery", test_discovery),
         ("Engagement System", test_engagement_system),
-        ("Review Queue", test_review_queue),
     ]
     
     results = []
@@ -311,8 +281,7 @@ def run_all_tests():
             "[yellow]Auto-posting Configuration:[/yellow]\n"
             "• Account age requirement: 30+ days\n"
             "• Auto-post threshold: 8.0/10 quality score\n"
-            "• Review queue: 6.0-7.9/10 scores\n"
-            "• Auto-reject: <6.0/10 scores\n\n"
+            "• Auto-reject: <8.0/10 scores (hands-off mode)\n\n"
             "[yellow]Safety Mechanisms Active:[/yellow]\n"
             "• Account health monitoring\n"
             "• 10% promotional ratio enforcement\n"

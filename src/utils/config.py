@@ -60,7 +60,6 @@ class SystemConfig(BaseSettings):
     max_replies_per_day: int = Field(default=50, description="Max replies per day")
     discovery_interval_minutes: int = Field(default=60, description="Minutes between discovery cycles")
     auto_post_threshold: float = Field(default=8.0, description="Quality score threshold for auto-posting")
-    review_threshold: float = Field(default=6.0, description="Quality score threshold for review queue")
 
 
 class AppConfig(BaseSettings):

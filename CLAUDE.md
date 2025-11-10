@@ -257,7 +257,6 @@ tests/
 
 ### Scalability
 - Single-threaded execution for MVP
-- Future: Queue-based processing
 - Brand isolation for multi-brand support
 
 ## Security Best Practices

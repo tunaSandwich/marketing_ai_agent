@@ -116,7 +116,6 @@ def main():
     logger.info("  - Discovery + Auto-posting: Every 1 hour")
     logger.info("  - Engagement (upvotes): Every 2 hours at :15")
     logger.info("  - 🎯 Auto-post threshold: 8.0/10")
-    logger.info("  - 📝 Review queue threshold: 6.0-7.9/10")
     logger.info("  - ❌ Auto-reject threshold: <6.0/10")
     
     # Main loop

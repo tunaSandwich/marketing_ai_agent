@@ -133,8 +133,7 @@ A production-ready growth agent that:
                      │ - Score drafts       │
                      │ - Route decisions    │
                      │ - Auto-post 8+/10    │
-                     │ - Review queue 6-7.9 │
-                     │ - Auto-reject <6     │
+                     │ - Auto-reject <8     │
                      └──────────────────────┘
 ```
 
@@ -170,7 +169,7 @@ A production-ready growth agent that:
 3. **RAG Lookup:** Relevant brand content retrieved
 4. **Draft Generation:** LLM creates response using template
 5. **Evaluation:** Scorer assesses quality and safety
-6. **Routing:** Decision on auto-post vs human review
+6. **Routing:** Decision on auto-post vs auto-reject
 7. **Action:** Post reply or queue for review
 8. **Tracking:** Log all actions and outcomes
 
@@ -218,7 +217,6 @@ A production-ready growth agent that:
 #### Integration Points
 - Reddit API ↔ Orchestrator
 - RAG System ↔ Orchestrator
-- Evaluator ↔ Human Review UI
 - All Components → Logging System
 
 ### Phase 3: Pilot & Iteration (Week 5-6)
@@ -300,7 +298,6 @@ reddit:
 
 evaluation:
   auto_post_threshold: 35
-  human_review_threshold: 25
   reject_threshold: 25
   
 logging:
@@ -543,7 +540,6 @@ class EvaluationCriteria:
 
 # Routing Thresholds
 AUTO_POST_THRESHOLD = 40/50
-HUMAN_REVIEW_THRESHOLD = 30/50  
 REJECT_THRESHOLD = 30/50
 ```
 
@@ -566,7 +562,7 @@ Original request:
 Provide scores and brief reasoning for each.
 ```
 
-### Human Review Interface
+### Hands-off Operation
 
 #### Review Dashboard Components
 - **Queue View:** Pending drafts with context
@@ -580,7 +576,6 @@ Provide scores and brief reasoning for each.
 
 **Quality Score Thresholds:**
 - **8.0-10.0**: Auto-post immediately (high confidence)
-- **6.0-7.9**: Queue for human review (moderate confidence)
 - **0.0-5.9**: Auto-reject (low quality)
 
 **Auto-Posting Workflow:**
@@ -597,7 +592,7 @@ Provide scores and brief reasoning for each.
 - Rate limiting and timing controls
 - Duplicate detection and prevention
 
-**Review Queue Process:**
+**Hands-off Auto-posting Process:**
 1. Reviewer sees post context, draft, and quality score
 2. Can edit response before approval
 3. Approves/rejects with optional feedback
@@ -612,7 +607,7 @@ Provide scores and brief reasoning for each.
 
 #### Engagement Metrics (Production)
 - **Auto-Post Rate:** Auto-posted replies / opportunities found  
-- **Review Queue Rate:** Replies needing review / total drafts
+- **Auto-Post Rate:** Auto-posted replies / total drafts
 - **Auto-Reject Rate:** Low-quality drafts auto-rejected
 - **Response Time:** Discovery to auto-posting (<5 minutes)
 - **Engagement Score:** (Upvotes - Downvotes) / Views
@@ -810,7 +805,7 @@ python -m src.main --mode pilot --replies-per-day 40
 # Account warming mode (if needed)
 python -m src.main --mode warm --cycles 5
 
-# Discovery mode (manual review)
+# Discovery mode (automated)
 python -m src.main --mode discover --dry-run false
 ```
 
@@ -957,7 +952,7 @@ pytest tests/integration/ --slow
 
 #### Production Monitoring
 - **Real-time Alerts**: Score threshold breaches, API failures, rate limit hits
-- **Quality Dashboards**: Auto-post success rates, review queue metrics
+- **Quality Dashboards**: Auto-post success rates, rejection metrics
 - **A/B Testing**: Draft variations, timing experiments, subreddit performance
 - **Error Tracking**: Failed posts, evaluation errors, warming cycle issues
 

@@ -12,12 +12,11 @@ from loguru import logger
 from src.brand.loader import BrandLoader
 from src.llm.client import ClaudeClient
 from src.llm.prompts import PromptTemplate
-from src.models import DraftResponse, EngagementCycleResult, RedditPost, ReviewStatus
+from src.models import DraftResponse, EngagementCycleResult, RedditPost
 from src.rag.retriever import KnowledgeRetriever
 from src.reddit.adapter import RedditAdapter
 from src.reddit.engagement import RedditEngagementManager
 from src.reddit.poster import RedditPoster
-from src.review.queue import ReviewQueue
 from src.utils.config import get_settings
 
 
@@ -109,10 +108,6 @@ class GrowthOrchestrator:
         else:
             self.retriever = None
             logger.warning("No RAG index found")
-        
-        # Initialize review queue
-        queue_dir = Path(__file__).parent.parent / "data" / "review_queue"
-        self.queue = ReviewQueue(queue_dir)
         
         self.prompt_template = PromptTemplate()
         
@@ -284,48 +279,6 @@ class GrowthOrchestrator:
             "promotional_comments": len(result.promotional_comments_posted),
             "errors": len(result.errors),
         }
-    
-    def post_approved_drafts(self, limit: int = 3) -> dict:
-        """Post approved drafts to Reddit.
-        
-        Args:
-            limit: Maximum number to post
-            
-        Returns:
-            Dict with posting stats
-        """
-        logger.info("Posting approved drafts...")
-        
-        approved = self.queue.get_approved(limit=limit)
-        
-        if not approved:
-            logger.info("No approved drafts to post")
-            return {"posted": 0, "failed": 0}
-        
-        posted = 0
-        failed = 0
-        
-        for draft in approved:
-            try:
-                comment_id = self.poster.post_reply(
-                    post_id=draft.post.id,
-                    comment_text=draft.response_content,
-                    draft_id=draft.draft_id,
-                )
-                
-                if comment_id:
-                    self.queue.mark_posted(draft.draft_id, comment_id)
-                    posted += 1
-                else:
-                    failed += 1
-                    
-            except Exception as e:
-                logger.error(f"Error posting draft {draft.draft_id}: {e}")
-                failed += 1
-        
-        result = {"posted": posted, "failed": failed}
-        logger.info(f"Posting complete: {result}")
-        return result
     
     def maintain_engagement_ratio(self) -> dict:
         """Legacy method - engagement now handled by unified system.

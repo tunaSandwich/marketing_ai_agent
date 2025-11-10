@@ -25,8 +25,7 @@ def main():
     config_table.add_row("Karma Requirement", "100+")
     config_table.add_row("10% Rule", "Max 10% promotional content")
     config_table.add_row("Auto-Post Threshold", "8.0/10 quality score")
-    config_table.add_row("Review Queue Threshold", "6.0-7.9/10")
-    config_table.add_row("Auto-Reject Threshold", "<6.0/10")
+    config_table.add_row("Auto-Reject Threshold", "<8.0/10 (hands-off mode)")
     
     console.print(config_table)
     
@@ -77,8 +76,7 @@ def main():
     console.print("3. 📊 Score response quality (0-10)")
     console.print("4. 🎯 Decision based on score:")
     console.print("   - [green]8.0+[/green] → Auto-post immediately")
-    console.print("   - [yellow]6.0-7.9[/yellow] → Queue for human review")
-    console.print("   - [red]<6.0[/red] → Auto-reject")
+    console.print("   - [red]<8.0[/red] → Auto-reject (hands-off mode)")
     console.print("5. 📝 Log all safety checks and decisions")
     console.print("6. 🎯 Maintain engagement (upvotes every 2 hours)")
     
@@ -111,10 +109,10 @@ def main():
         console.print("❌ RedditPoster import failed")
     
     try:
-        from src.reddit.engagement import RedditEngagement
-        console.print("✅ RedditEngagement ready")
+        from src.reddit.engagement import RedditEngagementManager
+        console.print("✅ RedditEngagementManager ready")
     except:
-        console.print("❌ RedditEngagement import failed")
+        console.print("❌ RedditEngagementManager import failed")
     
     try:
         from src.orchestrator import GrowthOrchestrator
@@ -122,11 +120,6 @@ def main():
     except:
         console.print("❌ GrowthOrchestrator import failed")
     
-    try:
-        from src.review.queue import ReviewQueue
-        console.print("✅ ReviewQueue ready")
-    except:
-        console.print("❌ ReviewQueue import failed")
     
     console.print("\n[bold green]✅ Auto-posting system ready for production![/bold green]")
     console.print("[dim]Note: System will only post when ALL safety checks pass[/dim]")

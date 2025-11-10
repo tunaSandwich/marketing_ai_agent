@@ -191,15 +191,6 @@ class DiscoveryQuery(BaseModel):
     max_age_hours: int = Field(default=24, description="Maximum post age in hours")
 
 
-class ReviewStatus(str, Enum):
-    """Status of a draft in review queue."""
-    PENDING = "pending"
-    APPROVED = "approved"
-    REJECTED = "rejected"
-    POSTED = "posted"
-    FAILED = "failed"
-
-
 class DraftResponse(BaseModel):
     """A generated response awaiting review."""
     
@@ -210,11 +201,6 @@ class DraftResponse(BaseModel):
     quality_reasoning: str
     rag_chunks_used: list[str] = []
     created_at: datetime
-    status: ReviewStatus = ReviewStatus.PENDING
-    reviewed_at: Optional[datetime] = None
-    reviewer_notes: Optional[str] = None
-    posted_comment_id: Optional[str] = None
-    posted_at: Optional[datetime] = None
 
 
 class AccountState(str, Enum):
