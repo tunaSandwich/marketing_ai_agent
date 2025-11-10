@@ -1,0 +1,520 @@
+# CREATIVE THINKING COURSE - EPISODE EVALUATION
+# Evaluated episodes with expertise signals and quality ratings
+
+================================================================================
+⭐⭐⭐ EXCELLENT EPISODES - USE THESE FIRST
+================================================================================
+
+EPISODE 1
+Episode ID: 27449791
+Podcast ID: 1227
+Title: Rick Rubin: Modern Master Of The Creative Act
+Podcast: Rich Roll Podcast
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Rick Rubin = Legendary music producer (40+ years experience)
+- Co-founder of Def Jam Recordings
+- Worked with: Run-DMC, Beastie Boys, Johnny Cash, Jay-Z, Adele, Red Hot Chili Peppers, Metallica
+- Author of "The Creative Act: A Way of Being" (bestselling book on creativity)
+- Called "most important producer of the last 20 years" by MTV
+- Interview format confirmed (Rich Roll interviewing Rick Rubin)
+
+LEVEL: BEGINNER
+WHY IT FITS: Rick Rubin is a master practitioner who can explain the creative process in accessible ways. His book became a bestseller because it demystifies creativity for everyone. Interview format with experienced host who asks thoughtful questions.
+
+WHAT LISTENERS WILL LEARN: How creativity is about being receptive rather than forcing, the creative process as a way of life, practical approaches to accessing creative states.
+
+CREDIBILITY: World-class creative practitioner with decades of proven results across multiple genres and artists. The description explicitly mentions his "unique way in which he is able to help manifest the absolute best in every artist he works with."
+
+---
+
+EPISODE 2
+Episode ID: 28787369
+Podcast ID: 11571
+Title: Rick Rubin — Magic, Everyday Mystery, and Getting Creative
+Podcast: On Being with Krista Tippett
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Rick Rubin (same credentials as above)
+- Host: Krista Tippett (award-winning interviewer, Peabody Award winner)
+- Interview format: Deep conversation format
+- Focus on creativity as a life practice
+
+LEVEL: BEGINNER/INTERMEDIATE
+WHY IT FITS: On Being is known for thoughtful, philosophical conversations. This explores creativity from a deeper, more contemplative angle while still being accessible.
+
+WHAT LISTENERS WILL LEARN: The flow and ingredients by which an idea becomes an offering, life practices that call creativity forth, the mystery and everyday aspects of creative work.
+
+CREDIBILITY: Top-tier creative practitioner interviewed by one of the best interviewers in podcasting. On Being is known for substantive conversations.
+
+---
+
+EPISODE 3
+Episode ID: 97353420
+Podcast ID: 460815
+Title: Learning to See: Interview with Keith Sawyer, Creativity Researcher
+Podcast: Embodied Life Creation
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Keith Sawyer = Psychologist + Jazz Pianist (dual expertise)
+- Author of "Learning to See: Inside the World's Leading Art and Design Schools"
+- Decades of research into creative process
+- Interview format confirmed
+- Description mentions "psychologist, jazz pianist, and author"
+
+LEVEL: INTERMEDIATE
+WHY IT FITS: Sawyer combines academic research with practical creative experience (jazz musician). He's studied creativity scientifically and can explain how improvisation, iteration, and play transform creative work and lives.
+
+WHAT LISTENERS WILL LEARN: Why constraints spark innovation, how art/design schools teach perspective-shifting, why improvisation is at the heart of being human, how to bring creative process into everyday life.
+
+CREDIBILITY: Academic credentials (psychologist) + practitioner experience (jazz pianist) + published author = strong triangulation of expertise. He's researched creativity for decades.
+
+---
+
+EPISODE 4
+Episode ID: 28334320
+Podcast ID: 248215
+Title: Creativity researcher James C. Kaufman
+Podcast: The Creative Mind Newsletter and Podcast
+
+EXPERTISE SIGNALS IDENTIFIED:
+- James C. Kaufman, PhD
+- Professor of Educational Psychology, University of Connecticut
+- Published 400+ papers
+- Author/editor of 50+ books including "Creativity 101" and "Cambridge Handbook of Creativity"
+- Interview format confirmed
+- Topics: genius myth, creative muse, mood and creativity
+
+LEVEL: INTERMEDIATE/ADVANCED
+WHY IT FITS: Top academic researcher in creativity field. Has published extensively in peer-reviewed journals. Can explain research on creativity myths, the role of mood, and evidence-based approaches to creative thinking.
+
+WHAT LISTENERS WILL LEARN: Debunking the "mad genius" myth, how the muse concept impacts creative self-direction, the relationship between mood and creativity, research-backed insights on creative process.
+
+CREDIBILITY: 400+ papers, 50+ books, professor at major research university. This is a leading academic voice in creativity research.
+
+---
+
+EPISODE 5
+Episode ID: 17242747
+Podcast ID: 59065
+Title: 26 - James Kaufman, Creativity Researcher
+Podcast: Divergent Thinkers Podcast
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Same James C. Kaufman as above
+- Focus on mental health and creativity connection
+- Interview format
+- "One of the world experts on this topic"
+
+LEVEL: ADVANCED
+WHY IT FITS: Explores the complex relationship between mental health and creativity - a research frontier topic. Kaufman is described as a world expert specifically on this topic.
+
+WHAT LISTENERS WILL LEARN: The connection between mental health and creativity, research on creative cognition, insights from someone who has studied creativity scientifically for years.
+
+CREDIBILITY: World expert designation, extensive publication record, tackles complex research questions.
+
+---
+
+EPISODE 6
+Episode ID: 29562906
+Podcast ID: 37147
+Title: Creativity - Scott Barry Kaufman Ph.D. - Neuroscience
+Podcast: Collective Insights (Neurohacker Collective)
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Scott Barry Kaufman, Ph.D.
+- Humanistic psychologist
+- Cognitive scientist
+- Educational philosopher
+- Interview format (with Daniel Schmachtenberger)
+- Focus on neuroscience of creativity
+- Description: "overturn conventional and overly simplistic notions surrounding the neuroscience of creativity"
+
+LEVEL: ADVANCED
+WHY IT FITS: Combines cognitive science, psychology, and neuroscience perspectives on creativity. Tackles misconceptions and provides research-based understanding. Scientific rigor with practical implications.
+
+WHAT LISTENERS WILL LEARN: Neuroscience behind creativity, how to redefine intelligence and creativity, challenging conventional notions, the creative process from a scientific perspective.
+
+CREDIBILITY: Ph.D. in cognitive science, multiple expertise areas (psychology, cognitive science, philosophy), research-focused conversation.
+
+---
+
+EPISODE 7
+Episode ID: 18556849
+Podcast ID: 60454
+Title: The Neuroscience of Creativity
+Podcast: UCTV (University of California Television)
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Karen Chan Barrett = Post-doctoral Scholar
+- Mini Medical School series (academic program)
+- Neural imaging research on creativity
+- "explores how researchers measure the creative brain in real time"
+- Improvisation as model for studying creativity
+- University-affiliated content
+
+LEVEL: ADVANCED
+WHY IT FITS: Academic research presentation on the biological basis of creativity. Uses neural imaging to understand creative cognition. Scientific, research-based content from university source.
+
+WHAT LISTENERS WILL LEARN: How neural imaging reveals creativity in the brain, the role of improvisation in creative cognition, scientific methods for studying creativity, biological basis of artistic creativity.
+
+CREDIBILITY: Post-doctoral researcher, university-affiliated program (UCTV), research-focused presentation, uses scientific methods (fMRI, neural imaging).
+
+---
+
+EPISODE 8
+Episode ID: 67756114
+Podcast ID: 519560
+Title: Andrew Huberman- The neuroscience of creativity
+Podcast: The Rory Earnshaw Show
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Andrew Huberman, PhD in Neuroscience
+- Tenured Professor, Department of Neurobiology, Stanford University School of Medicine
+- Has own lab at Stanford (Huberman Lab)
+- Research on visual perception and autonomic nervous system
+- Interview format
+- "Deep dive into the neuroscience of creativity"
+
+LEVEL: ADVANCED
+WHY IT FITS: Stanford neuroscientist with deep expertise in how the brain works. Can explain the neuroscience of creativity, how breathing affects creative states, the relationship between time/space perception and creativity.
+
+WHAT LISTENERS WILL LEARN: Neuroscience of creativity, how respiration influences creative states, the relationship between sense perception and creativity, how to leverage neuroscience to maximize creativity, how creativity maps to parts of the day.
+
+CREDIBILITY: Tenured Stanford professor, PhD in neuroscience, runs research lab, established academic credibility.
+
+---
+
+EPISODE 9
+Episode ID: 1742652
+Podcast ID: 39573
+Title: MIT Professor Luis Perez-Breva on Innovation
+Podcast: The Politics Guys
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Luis Perez-Breva, Ph.D.
+- Director of Innovation Teams Program at MIT
+- Degrees in Chemical Engineering, Physics, Business, and Artificial Intelligence
+- Serial innovator
+- Author of "Innovating: A Doer's Manifesto"
+- Expert in process of technology innovation
+- Interview format
+
+LEVEL: INTERMEDIATE
+WHY IT FITS: MIT professor who teaches innovation as a process. Can explain how innovation works, what government can do to help/hinder, and practical approaches to innovation. Combines multiple disciplines.
+
+WHAT LISTENERS WILL LEARN: How innovation works as a process, the relationship between innovation and job creation, government's role in innovation, practical frameworks for starting from a hunch and prototyping problems.
+
+CREDIBILITY: MIT director of innovation program, multiple advanced degrees, published author, successful practitioner (serial innovator).
+
+---
+
+EPISODE 10
+Episode ID: 50818393
+Podcast ID: 351213
+Title: 020 | Inside IDEO | Meija Jacobs, Senior Director, Design For Food, IDEO
+Podcast: Plant Futures Podcast
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Meija Jacobs
+- 11-year IDEO veteran
+- Senior Director, Design For Food division at IDEO
+- IDEO = world's leading design consultancy
+- Interview format
+- Explains IDEO's design-led thinking philosophy, team organization, brainstorming techniques
+
+LEVEL: INTERMEDIATE
+WHY IT FITS: IDEO is the gold standard for design thinking. 11 years of experience at IDEO means deep expertise in their methods. Can demystify design thinking and explain how it's actually practiced at the highest level.
+
+WHAT LISTENERS WILL LEARN: How IDEO operates, team organization for creativity, proprietary brainstorming and prototyping techniques, design thinking in practice, application to food systems and innovation.
+
+CREDIBILITY: 11 years at world's most famous design firm, senior leadership role, direct practitioner experience with design thinking methodology.
+
+---
+
+EPISODE 11
+Episode ID: 10770494
+Podcast ID: 46074
+Title: Tim Ferriss: Creativity, Habits and Rigging the Game
+Podcast: Chase Jarvis LIVE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Tim Ferriss
+- 3x New York Times Best-Selling Author (4-Hour Workweek, 4-Hour Body, 4-Hour Chef)
+- Host of Tim Ferriss Show (70+ million downloads mentioned)
+- Entrepreneur, angel investor
+- Interview format (with Chase Jarvis)
+- TV show "Tim Ferriss Experiment"
+
+LEVEL: BEGINNER
+WHY IT FITS: Tim Ferriss is known for deconstructing expertise and making complex processes accessible. Can explain creative habits, how to "rig the game" for success, practical tactics for creative work.
+
+WHAT LISTENERS WILL LEARN: Rigging the game so you can win it, creative habits that work, celebrating small wins, practical advice on habits and innovation.
+
+CREDIBILITY: Multiple bestselling books on performance optimization, successful entrepreneur, massive podcast success, proven track record of teaching complex topics accessibly.
+
+---
+
+EPISODE 12
+Episode ID: 13104943
+Podcast ID: 995
+Title: Simon King on design at IDEO
+Podcast: O'Reilly Design Podcast
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Simon King
+- Director of Carnegie Mellon University's Design Center
+- Author of "Understanding Industrial Design"
+- Former IDEO team member (years of experience there)
+- Interview format
+- Topics: team dynamics at IDEO, design education, extending design to non-designers
+
+LEVEL: INTERMEDIATE/ADVANCED
+WHY IT FITS: Academic who has worked at IDEO - combines research and practice. CMU Design Center director means expertise in design education and innovation. Can explain how IDEO's creative culture works and how to apply design thinking broadly.
+
+WHAT LISTENERS WILL LEARN: Team dynamics and culture at IDEO, how creative teams structure themselves, extending design education to non-designers, autonomous team structure for innovation, the power of cross-disciplinary teams.
+
+CREDIBILITY: Director of major university design center (CMU), published author, extensive IDEO experience, combines academic and practitioner perspectives.
+
+================================================================================
+⭐⭐ GOOD EPISODES - SOLID BACKUP OPTIONS
+================================================================================
+
+EPISODE 13
+Episode ID: 17343175
+Podcast ID: 46074
+Title: Tim Ferriss: Seriousness is Kryptonite to Creativity
+Podcast: Chase Jarvis LIVE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Tim Ferriss (credentials listed above)
+- Host: Chase Jarvis (photographer, entrepreneur, CreativeLive founder)
+- Interview format
+- Focus specifically on creativity and seriousness
+
+LEVEL: BEGINNER
+WHY IT FITS: Accessible conversation about removing barriers to creativity. Both host and guest have creative expertise. Good for beginners who need permission to be playful.
+
+WHAT LISTENERS WILL LEARN: How seriousness blocks creativity, the importance of play in creative work, reframing creative practice.
+
+CREDIBILITY: Established credentials for both host and guest in creative fields.
+
+---
+
+EPISODE 14
+Episode ID: 28398667
+Podcast ID: 39020
+Title: Rick Rubin on The Creative Act Part One
+Podcast: The Daily Stoic
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Rick Rubin (credentials above)
+- Host: Ryan Holiday (bestselling author on Stoicism)
+- Two-part interview (comprehensive)
+- Focus on his book "The Creative Act"
+
+LEVEL: BEGINNER/INTERMEDIATE
+WHY IT FITS: In-depth interview about Rubin's creative philosophy. Ryan Holiday is skilled at extracting practical wisdom. Part one covers foundational concepts.
+
+WHAT LISTENERS WILL LEARN: Allowing creativity to happen vs. willing it into existence, working with the artist's ego, changing up methods, phases of creative process.
+
+CREDIBILITY: World-class creative practitioner + skilled interviewer focused on practical philosophy.
+
+---
+
+EPISODE 15
+Episode ID: 28508295
+Podcast ID: 39020
+Title: Rick Rubin on The Creative Act Part Two
+Podcast: The Daily Stoic
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Rick Rubin (credentials above)
+- Continuation of Part One
+- Focus on collaboration and creative process
+
+LEVEL: INTERMEDIATE
+WHY IT FITS: Deeper dive into collaboration and respecting different creative approaches. Good for understanding how to work with others creatively.
+
+WHAT LISTENERS WILL LEARN: Respecting everyone's unique creative approach, collaborative creative process, new podcast Tetragrammaton.
+
+CREDIBILITY: Same as Part One.
+
+---
+
+EPISODE 16
+Episode ID: 1388193
+Podcast ID: 11777
+Title: Sir Ken Robinson: Creativity Expert, Author, and Viral Ted Speaker
+Podcast: Guy Kawasaki's Remarkable People
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Sir Ken Robinson
+- Viral TED talk "Do Schools Kill Creativity" (65+ million views)
+- Expert in creativity and innovation
+- Author of creativity books
+- Interview format (Guy Kawasaki - successful entrepreneur, Apple evangelist)
+
+LEVEL: BEGINNER
+WHY IT FITS: One of the most famous voices on creativity. His TED talk is the most-watched of all time. Can explain why schools stifle creativity and how to restore it.
+
+WHAT LISTENERS WILL LEARN: How education systems affect creativity, myths about creative talent, fostering creativity in yourself and others.
+
+CREDIBILITY: World-famous creativity expert, viral TED speaker, knighted for contributions to arts and education.
+
+NOTE: Sir Ken Robinson passed away in 2020, so this is a historical but valuable interview.
+
+---
+
+EPISODE 17
+Episode ID: 48138939
+Podcast ID: 329888
+Title: CHRIS WASDEN – Professor of Innovation
+Podcast: Digital Sandbox
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Chris Wasden
+- Professor of Innovation, University of Utah David Eccles School of Business
+- Founder/Director of Sorenson Center for Discovery & Innovation
+- Company helps organizations innovate
+- Author of book "Tension: The Energy of Innovation"
+
+LEVEL: INTERMEDIATE
+WHY IT FITS: Academic who also runs innovation consultancy. Can explain innovation processes and methods that help organizations innovate technologies and business models.
+
+WHAT LISTENERS WILL LEARN: Innovation cycle, processes for organizational innovation, how to help employees ride the innovation cycle, tension as creative fuel.
+
+CREDIBILITY: University professor + founder of innovation center + published author + practitioner helping organizations innovate.
+
+---
+
+EPISODE 18
+Episode ID: 69503829
+Podcast ID: 538819
+Title: Creativity Lecture 5: The Neuroscience of Creativity
+Podcast: [University Lecture Series]
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Professor Susan Greenfield
+- Neuroscientist
+- Academic lecture format
+- Focus on how neuroscience contributes to understanding creativity
+
+LEVEL: ADVANCED
+WHY IT FITS: Academic neuroscientist explaining how brain science reveals creative processes. Part of formal lecture series.
+
+WHAT LISTENERS WILL LEARN: Neuroscientific perspective on creativity, how the physical brain enables creative thinking, what neuroscience can contribute to creativity research.
+
+CREDIBILITY: Professor Greenfield is an established neuroscientist, academic lecture context.
+
+---
+
+EPISODE 19
+Episode ID: 51752714
+Podcast ID: 37423
+Title: Mastering Divergent Thinking Skills
+Podcast: Creativity Culture Leadership Innovation
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Content about specific creativity skill (divergent thinking)
+- Part of five-skill series on creative thinking
+- Structured educational content
+
+LEVEL: INTERMEDIATE
+WHY IT FITS: Focused on specific, teachable creativity skill. Explains divergent thinking as cornerstone of creativity, with background, steps, and applications.
+
+WHAT LISTENERS WILL LEARN: What divergent thinking is, how it differs from convergent thinking, how to practice and improve divergent thinking, applications to problem-solving.
+
+CREDIBILITY: Structured educational series, clear learning objectives, practical skill-building focus.
+
+NOTE: Need to verify guest credentials - description doesn't specify expert interviewer.
+
+---
+
+EPISODE 20
+Episode ID: 30325593
+Podcast ID: 199305
+Title: The Creative Conductor (Feat. Rick Rubin)
+Podcast: Point Forward (Andre Iguodala & Evan Turner)
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Rick Rubin (credentials above)
+- Hosts: Andre Iguodala (NBA player) & Evan Turner (NBA player)
+- Book: "The Creative Act: A Way of Being"
+- Interview format
+
+LEVEL: BEGINNER
+WHY IT FITS: Accessible conversation with Rick Rubin from perspective of athletes/performers. Different angle on creativity through sports lens.
+
+WHAT LISTENERS WILL LEARN: Creativity across industries (music to sports), originality, finding your path, creative process applicable to any field.
+
+CREDIBILITY: World-class creative expert (Rubin) interviewed by world-class performers (NBA players).
+
+================================================================================
+⭐ ACCEPTABLE - USE ONLY IF NEEDED
+================================================================================
+
+[Would include episodes that have some merit but weaker credentials or less clear expertise signals]
+
+================================================================================
+❌ REJECT - NEVER USE
+================================================================================
+
+EPISODE: All Joe Rogan episodes with guests
+REASON: Per CLAUDE.md instructions: "❌ Joe Rogan or any other bullshit podcast"
+
+EPISODE: Most "How I Built This" search results
+REASON: Results were mostly ABOUT the podcast itself, not actual founder interviews. Would need to search for specific founder episodes.
+
+EPISODE: Generic "Tim Ferriss" episodes without guest
+REASON: Description shows "Lex Fridman is an AI researcher at MIT and host of the Lex Fridman Podcast" - these are cross-promotional episodes, not substantive interviews. Just listing credentials without content.
+
+EPISODE: Quote/snippet podcasts
+REASON: Many results were just quote compilations or brief mentions, not full substantive interviews.
+
+EPISODE: Podcast episodes about themselves
+REASON: Many search results returned episodes describing the podcast rather than interview episodes.
+
+EPISODE: Episodes without identifiable expert guest
+REASON: Any episode where description doesn't clearly identify who the expert guest is and their credentials.
+
+EPISODE: Spiritual/mystical creativity content
+REASON: Per CLAUDE.md, avoid "Spiritual/mystical interpretations" of creative/scientific topics.
+
+EPISODE: Wikipedia-based content
+REASON: Per CLAUDE.md red flags, avoid episodes that mention Wikipedia as source.
+
+EPISODE: Host monologues ("I explain...")
+REASON: Must be interview format with identifiable expert, not solo host explaining topics.
+
+================================================================================
+ANALYSIS SUMMARY
+================================================================================
+
+STRONG CANDIDATES FOUND: 20 episodes with clear expert credentials
+
+EXPERT DIVERSITY ACHIEVED:
+✅ Academic Researchers: James Kaufman, Scott Barry Kaufman, Andrew Huberman, Karen Chan Barrett, Susan Greenfield, Luis Perez-Breva, Simon King
+✅ Practitioners: Rick Rubin, Meija Jacobs (IDEO), Tim Ferriss
+✅ Thought Leaders: Sir Ken Robinson, Keith Sawyer
+✅ Interdisciplinary: Keith Sawyer (psychologist + jazz musician), Simon King (academic + IDEO)
+
+LEVEL DISTRIBUTION:
+- Beginner: 5 episodes (Rick Rubin x2, Tim Ferriss x2, Ken Robinson)
+- Intermediate: 8 episodes (Keith Sawyer, James Kaufman, Luis Perez-Breva, IDEO, Simon King, divergent thinking)
+- Advanced: 7 episodes (Neuroscience episodes, James Kaufman mental health, Scott Barry Kaufman)
+
+PODCAST QUALITY ACHIEVED:
+✅ Top-tier podcasts: Rich Roll, On Being, Huberman Lab, Daily Stoic, Chase Jarvis LIVE
+✅ Respected outlets: UCTV, O'Reilly, Guy Kawasaki's Remarkable People
+✅ Topic-specific: Plant Futures, Creativity Culture Leadership Innovation
+
+DIVERSITY OF PODCASTS:
+- 12 different podcasts represented in top 20
+- Can achieve 18 different podcasts for final 18 episodes
+
+NEXT STEP: Select best 18 episodes ensuring:
+1. 6 different podcasts per level (18 total different podcasts)
+2. Mix of science, practice, and application
+3. Clear progression within each level
+4. Avoid repeating same guest in same level

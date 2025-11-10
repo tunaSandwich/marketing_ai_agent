@@ -1,0 +1,366 @@
+# Finding Product-Market Fit Course - Comprehensive Plan
+
+## Course Vision
+
+Create the definitive course on Product-Market Fit - "that magical moment when customers can't live without your product." This course will demystify the holy grail of entrepreneurship through stories, frameworks, and insights from entrepreneurs who've actually achieved PMF.
+
+**Target Audience**: Founders, product managers, and entrepreneurs struggling to find or validate product-market fit.
+
+**Unique Value**: Not just inspirational founder stories - this is systematic education in the most important concept in entrepreneurship, taught exclusively by people who've achieved it at scale.
+
+---
+
+## Level Progression Strategy
+
+### BEGINNER LEVEL: "What PMF Actually Feels Like"
+
+**Core Question**: How do you KNOW when you have product-market fit?
+
+**Learning Outcomes**:
+1. Recognize the qualitative signs: customers pulling, organic growth, retention without pushing
+2. Understand Marc Andreessen's "market pulling product out of you" viscerally through stories
+3. See the contrast between pre-PMF (pushing boulder uphill) vs post-PMF (can't keep up with demand)
+4. Learn from pivot stories: what it looks like to NOT have PMF, then find it
+5. Understand why "talking to customers" is not just advice, but survival
+
+**Episode Characteristics**:
+- Famous founder on top-tier interview podcast (How I Built This, Lex Fridman, Tim Ferriss)
+- Storytelling format, accessible to non-technical audience
+- Clear "before/after" PMF narrative
+- Honest about struggles and false starts
+- Inspiring but grounded in reality
+
+**Target Companies/Founders**:
+- Airbnb (Brian Chesky) - selling cereal, finding travel niche, COVID survival
+- Slack (Stewart Butterfield) - gaming company pivot to workplace tool
+- DoorDash (Tony Xu) - literally delivering food themselves to validate
+- Instagram (Kevin Systrom) - stripped down Burbn to just photo filters
+- Stripe (Patrick Collison) - solving painful developer problem
+- Dropbox (Drew Houston) - video proof before building
+
+---
+
+### INTERMEDIATE LEVEL: "The PMF Playbook"
+
+**Core Question**: What's the systematic process to find and validate PMF?
+
+**Learning Outcomes**:
+1. Customer Discovery: How many interviews? What questions? How to avoid false positives?
+2. MVP Strategy: How minimal is minimal? What to test first?
+3. Measurement Frameworks:
+   - Sean Ellis test (40% "very disappointed")
+   - Retention curves (flattening = PMF)
+   - Cohort analysis
+   - Net Promoter Score interpretation
+4. Iteration Cadence: Weekly? Monthly? How to know when to pivot?
+5. Early Adopter Psychology: Building for the fringes first (Geoffrey Moore)
+6. Problem-Solution Fit: Validating BEFORE building
+7. Founder-Market Fit: Why domain expertise matters
+
+**Episode Characteristics**:
+- Founders who used specific methodologies/frameworks
+- Product leaders or VCs who've seen patterns across companies
+- Episodes that explain the "how," not just the "what"
+- Tactical, process-oriented discussions
+- Mentions specific metrics or frameworks
+
+**Target Experts/Topics**:
+- Rahul Vohra (Superhuman) - created the "Superhuman PMF Engine"
+- Lenny Rachitsky - ex-Airbnb, studies PMF systematically
+- Des Traynor (Intercom) - customer communication, lots of content on PMF
+- April Dunford - positioning expert, product-market fit
+- Hiten Shah - FYI, Kissmetrics, product development
+- First Round Capital - Pattern matching across portfolio
+- Eric Ries / Steve Blank disciples - Lean Startup methodology
+
+---
+
+### ADVANCED LEVEL: "PMF at Scale & Edge Cases"
+
+**Core Question**: How does PMF evolve as you scale, and what about complex business models?
+
+**Learning Outcomes**:
+1. Scaling PMF: Does it hold as you grow? How to maintain it?
+2. Multi-Product PMF: When to launch product #2? Does PMF transfer?
+3. Marketplace PMF: Two-sided networks (chicken-egg, liquidity)
+4. Enterprise PMF: Long sales cycles, different validation signals
+5. Geographic Expansion: Does PMF translate across countries/cultures?
+6. Platform PMF: Ecosystem effects, developer adoption
+7. PMF Degradation: When/why you lose it (market shifts, competition)
+8. Timing & Market Waves: Being too early or too late
+
+**Episode Characteristics**:
+- Serial founders (2nd+ company) reflecting on patterns
+- VCs with decades of pattern recognition across markets
+- Operators who scaled companies 10x-100x
+- Academic or research perspectives on entrepreneurship
+- Nuanced discussions of edge cases and failure modes
+
+**Target Experts**:
+- Reid Hoffman - LinkedIn founder, Greylock, "Blitzscaling"
+- Marc Andreessen - Netscape, a16z, coined "PMF" term
+- Andrew Chen - Uber growth, a16z, wrote "The Cold Start Problem" (marketplace PMF)
+- Elad Gil - Color Genomics, "High Growth Handbook"
+- Jeff Jordan (a16z) - OpenTable, eBay - marketplace expertise
+- Julie Zhuo - Facebook product, "The Making of a Manager"
+- Bangaly Kaba - Instagram, Instacart growth leader
+- David Sacks - PayPal, Yammer, Craft Ventures
+
+---
+
+## Search Strategy (25 Targeted Queries)
+
+### Strategy A: Top Podcasts + Direct PMF Topics (10 searches)
+1. "How I Built This product market fit"
+2. "How I Built This founder early customers"
+3. "Masters of Scale product market fit"
+4. "Lenny's Podcast product market fit"
+5. "Lenny's Podcast retention growth"
+6. "a16z product market fit"
+7. "20VC product market fit"
+8. "Invest Like the Best founder"
+9. "Tim Ferriss entrepreneur startup"
+10. "Lex Fridman founder CEO"
+
+### Strategy B: Specific Methodologies & Frameworks (5 searches)
+11. "customer discovery Steve Blank"
+12. "lean startup Eric Ries"
+13. "minimum viable product founder"
+14. "retention metrics cohort analysis"
+15. "Sean Ellis product market fit"
+
+### Strategy C: Famous Pivot/PMF Stories (5 searches)
+16. "Slack Stewart Butterfield pivot"
+17. "Airbnb Brian Chesky"
+18. "Instagram pivot Burbn"
+19. "DoorDash founder early days"
+20. "Stripe Patrick Collison"
+
+### Strategy D: Marketplace & Platform PMF (3 searches)
+21. "marketplace two-sided network"
+22. "platform strategy founder"
+23. "Andrew Chen cold start problem"
+
+### Strategy E: Enterprise & B2B PMF (2 searches)
+24. "enterprise SaaS founder customer"
+25. "B2B product market fit"
+
+---
+
+## Expertise Indicators to Look For
+
+### PRIMARY EXPERTISE SIGNALS (MUST HAVE):
+
+**Founder Credentials:**
+- "Founder/Co-founder of [Company]"
+- "CEO of [Company]" (with founding context)
+- "[Name] founded/built [Company]"
+- Exit/acquisition history (e.g., "sold company to [Acquirer]")
+- Company valuation or funding raised (signals validation)
+- Famous company names (Airbnb, Stripe, Dropbox, Slack, etc.)
+
+**Investor Credentials:**
+- "Partner at [VC Firm]" (Sequoia, a16z, Benchmark, Greylock, etc.)
+- "Invested in [notable companies]"
+- "Board member at [Company]"
+- "Former founder, now investor"
+
+**Author/Thought Leader:**
+- "Author of [startup/business book]"
+- "Creator of [PMF framework]"
+- "Teaches entrepreneurship at [University]"
+
+**Operator Credentials:**
+- "VP/Head of Product at [Company]"
+- "Led growth at [Company]"
+- "Early employee at [successful startup]"
+- "[X] years building products"
+
+### INTERVIEW FORMAT SIGNALS:
+- "joins [host] to discuss"
+- "[Host] interviews [Founder Name]"
+- "[Founder Name] shares their story"
+- "sits down with"
+- Founder/expert name mentioned prominently
+
+### RED FLAGS FOR THIS TOPIC:
+❌ Business coaches without startup experience
+❌ "Startup bros" podcasting without credentials
+❌ Generic business advice podcasts
+❌ Marketing agencies discussing PMF theoretically
+❌ "Growth hackers" without actual PMF experience
+❌ Self-help podcasts covering entrepreneurship tangentially
+❌ Podcasts about "hustle" without substance
+❌ Paid acquisition stories (not organic PMF)
+
+---
+
+## Quality Standards
+
+### MUST HAVES:
+- All 18 episodes must feature someone who has ACTUALLY achieved PMF
+- No theoretical discussions without practitioner experience
+- Interview format only (no host monologues)
+- 18 different podcasts (maximum diversity)
+- Clear credentials in every description
+- Mix of consumer, B2B, marketplace expertise
+
+### QUALITY BAR:
+Every single episode must feature someone who has:
+1. Built a company to at least $10M ARR or 1M+ active users, OR
+2. Invested in 10+ companies and can pattern-match across them, OR
+3. Led growth/product at a company that achieved clear PMF
+
+### EPISODE RATING SYSTEM:
+
+⭐⭐⭐ EXCELLENT - Use these first:
+- Multiple strong credentials (e.g., "Founder of [famous company], author of...")
+- From Top 200 podcast OR highly respected topic-specific show
+- Clear interview format with named expert
+- Guest has achieved measurable PMF ($10M+ ARR, millions of users, successful exit)
+- Episode description promises specific insights, frameworks, or stories
+
+⭐⭐ GOOD - Solid backup:
+- One strong credential clearly stated
+- Reputable podcast (recognizable name or topic-specific)
+- Interview format confirmed
+- Relevant expertise even if not top-tier (e.g., $1M ARR, early-stage but credible)
+
+⭐ ACCEPTABLE - Use only if needed:
+- Some expertise mentioned but vague
+- Less known podcast but seems legitimate
+- Relevant but not ideal
+
+❌ REJECT - Never use:
+- Hits any red flag
+- No identifiable expert credentials
+- Wrong format (monologue, casual chat between non-experts)
+- Off-topic or tangential
+
+---
+
+## Diversity Requirements
+
+### Business Model Diversity:
+- Consumer apps (Instagram, Snapchat, TikTok)
+- B2B SaaS (Slack, Zoom, Figma, Notion)
+- Marketplaces (Airbnb, DoorDash, Uber)
+- Infrastructure/Developer tools (Stripe, Twilio, GitHub)
+- Enterprise software (Salesforce-type stories)
+- Hardware (if possible - Peloton, Nest)
+
+### PMF Journey Diversity:
+- Fast PMF (6 months or less)
+- Slow PMF (3+ years of iteration)
+- Pivot stories (no PMF → PMF)
+- Near-death experiences
+- Multiple PMF expansions (product 1 → product 2)
+
+### Expertise Diversity:
+- Consumer founders (2-3 episodes)
+- B2B founders (2-3 episodes)
+- Marketplace operators (2-3 episodes)
+- VCs with pattern recognition (2-3 episodes)
+- Product leaders from big tech (1-2 episodes)
+
+### Podcast Diversity:
+- 18 different podcasts across the course
+- Mix of top-tier interview shows (How I Built This, Lex Fridman)
+- Mix of tech-specific shows (a16z, Lenny's Podcast, 20VC)
+- Some academic/research shows if available (Stanford, YC)
+
+---
+
+## Episode Evaluation Criteria
+
+### For Beginner Level:
+✅ Clear PMF "moment" or realization described
+✅ Founder articulates the feeling/signs of PMF
+✅ Story of struggle → breakthrough
+✅ Well-known company (listeners will recognize it)
+✅ Hosted by top-tier interviewer (Lex, Tim Ferriss, Guy Raz)
+
+### For Intermediate Level:
+✅ Specific frameworks or metrics mentioned
+✅ Tactical advice ("we did X, then Y, then Z")
+✅ Discussion of measurement and validation
+✅ Process over narrative
+✅ Founder who's written/spoken about methodology
+
+### For Advanced Level:
+✅ Nuanced discussion of edge cases
+✅ Second-order effects (what happens after initial PMF)
+✅ Serial founder or experienced VC perspective
+✅ Discussion of why PMF differs by market/model
+✅ Research or data-driven insights
+
+---
+
+## Course Learning Outcomes
+
+By the end of this course, listeners should be able to:
+
+1. **Recognize PMF signals** in their own product (qualitative and quantitative)
+2. **Apply customer discovery frameworks** systematically (not just "talk to users")
+3. **Measure PMF** using retention curves, cohort analysis, and engagement metrics
+4. **Understand when to pivot vs. persevere** based on real signals
+5. **Know how PMF differs** across business models (consumer, B2B, marketplace, enterprise)
+6. **Avoid common false positives** (vanity metrics, paid growth ≠ PMF)
+7. **Scale PMF** across products, segments, and geographies
+8. **Maintain PMF** as markets and competition evolve
+
+---
+
+## What Makes This Course Exceptional
+
+- **Real practitioners only**: Every episode features someone who's actually achieved PMF at scale
+- **Honest about failure**: Includes pivot stories, false starts, and near-death experiences
+- **Actionable frameworks**: Not just inspiration - listeners get specific tools and metrics
+- **Diverse perspectives**: Consumer, B2B, marketplace, enterprise across all stages
+- **Progressive learning**: Stories → Process → Sophistication
+- **Illuminating for strugglers**: Every episode chosen to help founders currently searching for PMF
+
+**Tone**: Honest, practical, expert-driven, inspiring but realistic
+
+---
+
+## High-Quality Podcast Priority List
+
+**Tier 1 (Top Interview Podcasts)**:
+- How I Built This (Guy Raz)
+- Masters of Scale (Reid Hoffman)
+- Tim Ferriss Show
+- Lex Fridman Podcast
+- The Knowledge Project
+- Invest Like the Best (Patrick O'Shaughnessy)
+- Acquired
+
+**Tier 2 (Tech/Startup Focused)**:
+- a16z Podcast
+- Lenny's Podcast (Lenny Rachitsky)
+- 20VC (20 Minute VC)
+- The Logan Bartlett Show
+- All-In Podcast (when featuring founders)
+- The Prof G Pod (Scott Galloway)
+
+**Tier 3 (Subject-Specific)**:
+- Y Combinator podcasts (Startup School, Lightcone)
+- SaaStr
+- Product Hunt Radio
+- Entrepreneurial Thought Leaders (Stanford)
+- Harvard Business Review IdeaCast
+- First Round Review
+
+---
+
+## Next Steps
+
+1. Execute all 25 search queries systematically
+2. Save comprehensive results to results.txt
+3. Evaluate every episode for expertise signals
+4. Create episodes.txt with quality ratings
+5. Curate final 18 episodes (6 per level, 18 different podcasts)
+6. Document selections with expertise justification in course.txt
+7. Generate final product-market-fit.json
+
+Quality mantra: "Would I recommend this episode to a founder struggling to find PMF?"

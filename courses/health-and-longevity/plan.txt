@@ -1,0 +1,365 @@
+# Course Plan: "Health and Longevity"
+
+## Course Purpose
+A science-focused course on the principles and discoveries behind a long, healthy life. You'll learn about nutrition, exercise, sleep, stress regulation, and cutting-edge research in aging biology and preventive medicine. With insights from top scientists and physicians, this course connects daily habits with the molecular science of vitality — so you can understand (and extend) the span of your health.
+
+## Course Strategy
+
+### Foundational Concepts (Beginner Level)
+- What is longevity science? The basics of healthspan vs lifespan
+- The "big four" pillars: nutrition, exercise, sleep, stress
+- How aging works at the cellular level (accessible introduction)
+- Common health myths vs. evidence-based practices
+- Preventive medicine basics: Why early intervention matters
+- Making complex biology accessible through expert storytelling
+
+### Core Systems/Mechanisms (Intermediate Level)
+- Exercise science deep-dive: strength training, cardiovascular health, zone training
+- Nutritional biochemistry: macronutrients, micronutrients, metabolic health
+- Sleep architecture and optimization: circadian rhythms, sleep stages, recovery
+- Stress physiology: cortisol, HRV, nervous system regulation
+- Cardiovascular health: blood pressure, cholesterol, heart disease prevention
+- Brain health: neuroplasticity, cognitive decline prevention, mental performance
+- Metabolic health: insulin sensitivity, glucose regulation, Type 2 diabetes prevention
+- Body composition: muscle mass, fat loss, body recomposition
+
+### Cutting-Edge Research/Frontiers (Advanced Level)
+- Molecular biology of aging: cellular senescence, telomeres, DNA damage
+- NAD+ and sirtuins: energy metabolism and longevity pathways
+- Autophagy and cellular cleanup: fasting, time-restricted eating
+- Mitochondrial health and energy production
+- Epigenetics: How lifestyle changes gene expression and biological age
+- Senolytics and senescent cells: clearing "zombie cells"
+- Caloric restriction and longevity: what the research shows
+- Rapamycin, metformin, and pharmaceutical interventions
+- Biomarker tracking and personalized medicine
+- Future of longevity research: what's on the horizon
+
+## High-Quality Podcasts to Target
+
+### Top Priority (Longevity-Focused):
+- Huberman Lab (Andrew Huberman, Stanford neuroscientist - comprehensive health science)
+- Peter Attia Drive (Peter Attia MD - longevity medicine specialist)
+- Found My Fitness (Rhonda Patrick PhD - aging and nutrition expert)
+- The Tim Ferriss Show (when featuring health/longevity experts)
+- Lex Fridman Podcast (when featuring health scientists)
+- Joe Rogan Experience (when featuring health/longevity experts)
+- Lifespan Podcast (with David Sinclair)
+
+### Science & Health Podcasts:
+- Making Sense (Sam Harris - often covers health topics)
+- Sean Carroll's Mindscape (when relevant to health/biology)
+- StarTalk (Neil deGrasse Tyson - when covering health science)
+- Hidden Brain (neuroscience and behavior)
+- Radiolab (when covering health/biology)
+- Science Vs (evidence-based health topics)
+- The Knowledge Project (when featuring health experts)
+- TED Talks Daily / TED Radio Hour (health topics)
+
+### Medical/Clinical Focus:
+- ZOE Science & Nutrition
+- The Proof with Simon Hill (evidence-based nutrition)
+- The Drive (Peter Attia)
+- FoundMyFitness
+- Mind Pump (when featuring expert guests)
+- The Model Health Show (when featuring expert interviews)
+
+### Academic/Research Podcasts:
+- Stanford Medicine podcasts
+- Harvard Health Publishing podcasts
+- MIT biology/health podcasts
+- University-affiliated health research series
+
+## Topic Keywords and Subtopics
+
+### General Longevity:
+- longevity science, aging research
+- healthspan, lifespan extension
+- preventive medicine
+- healthy aging, successful aging
+- age-related disease prevention
+- longevity secrets, living longer
+
+### Nutrition & Diet:
+- nutrition science, nutritional biochemistry
+- diet longevity, optimal diet
+- macronutrients, micronutrients
+- metabolic health, metabolism
+- time-restricted eating, intermittent fasting
+- caloric restriction
+- plant-based diet, Mediterranean diet
+- protein intake, muscle protein synthesis
+- gut health, microbiome
+
+### Exercise & Movement:
+- exercise science, exercise physiology
+- strength training, resistance training
+- cardiovascular exercise, cardio health
+- zone 2 training, VO2 max
+- muscle mass, sarcopenia
+- exercise longevity
+- HIIT, high intensity interval training
+- flexibility, mobility
+
+### Sleep:
+- sleep science, sleep research
+- circadian rhythm, circadian biology
+- sleep optimization, sleep quality
+- sleep deprivation, sleep debt
+- REM sleep, deep sleep
+- insomnia, sleep disorders
+- Matthew Walker sleep
+
+### Stress & Mental Health:
+- stress physiology, stress response
+- cortisol, stress hormones
+- HRV, heart rate variability
+- nervous system regulation
+- meditation, mindfulness
+- mental health longevity
+- resilience, stress management
+
+### Cellular & Molecular Biology:
+- cellular senescence, senescent cells
+- autophagy, cellular cleanup
+- mitochondria, mitochondrial health
+- NAD+, sirtuins
+- telomeres, telomere length
+- DNA damage, DNA repair
+- oxidative stress, antioxidants
+- inflammation, chronic inflammation
+
+### Epigenetics & Biological Age:
+- epigenetics, epigenetic aging
+- biological age, biological clock
+- DNA methylation
+- gene expression
+- lifestyle genetics
+- aging clocks, Horvath clock
+
+### Disease Prevention:
+- cardiovascular disease prevention
+- heart health, heart disease
+- cancer prevention
+- Alzheimer's prevention, dementia prevention
+- Type 2 diabetes prevention
+- insulin resistance, insulin sensitivity
+- blood pressure, hypertension
+- cholesterol, lipids
+
+### Advanced Interventions:
+- rapamycin longevity
+- metformin aging
+- senolytics
+- NAD+ supplementation, NMN, NR
+- resveratrol
+- fasting mimicking diet
+- stem cells
+- hormone optimization
+- peptides
+
+### Brain & Cognitive Health:
+- neuroplasticity, brain plasticity
+- cognitive decline prevention
+- brain health, brain aging
+- memory, learning
+- BDNF, brain-derived neurotrophic factor
+- neurodegeneration
+
+### Biomarkers & Testing:
+- biomarkers, blood tests
+- continuous glucose monitoring, CGM
+- VO2 max testing
+- DEXA scan
+- cholesterol testing, lipid panel
+- inflammation markers
+- personalized medicine
+
+## Expertise Indicators to Look For
+
+### Medical Credentials:
+- MD (Medical Doctor)
+- DO (Doctor of Osteopathic Medicine)
+- Board certified in relevant specialty (internal medicine, cardiology, endocrinology, etc.)
+- Practicing physician with longevity/preventive focus
+- Medical school professor
+- Clinical researcher
+
+### PhD & Research Credentials:
+- PhD in relevant field (biology, biochemistry, nutrition, physiology, neuroscience)
+- Research scientist at university or institute
+- Published papers in peer-reviewed journals
+- Principal investigator (PI) of research lab
+- Postdoctoral researcher in relevant field
+
+### Academic Affiliations:
+- Stanford, Harvard, MIT, Johns Hopkins, UCSF, Yale, etc.
+- National Institutes of Health (NIH)
+- Research institutes (Salk Institute, Buck Institute, etc.)
+- Medical schools and hospitals
+- Professor, Assistant Professor, Associate Professor titles
+
+### Recognized Experts (Not Exhaustive):
+- Peter Attia MD (longevity medicine)
+- Andrew Huberman PhD (Stanford neuroscientist)
+- Rhonda Patrick PhD (aging, nutrition)
+- David Sinclair PhD (Harvard aging researcher)
+- Valter Longo PhD (USC, longevity, fasting)
+- Matthew Walker PhD (UC Berkeley sleep researcher)
+- Elissa Epel PhD (UCSF, stress and aging)
+- Matt Kaeberlein PhD (UW aging researcher)
+- Nir Barzilai MD (Albert Einstein longevity researcher)
+- Luigi Fontana MD PhD (longevity nutrition)
+- Steve Horvath PhD (UCLA, epigenetic aging clocks)
+- Brian Kennedy PhD (Buck Institute aging researcher)
+- Judith Campisi PhD (senescent cells researcher)
+- Eric Verdin MD (Buck Institute, NAD+ research)
+- Satchin Panda PhD (Salk Institute, circadian biology)
+- Layne Norton PhD (nutrition, body composition)
+- Andy Galpin PhD (kinesiology, exercise science)
+- Gabrielle Lyon MD (muscle-centric medicine)
+- Mark Mattson PhD (NIH neuroscientist, fasting)
+- Richard Johnson MD (fructose metabolism)
+- Robert Sapolsky (Stanford, stress biology)
+- Sara Gottfried MD (hormones, women's health)
+
+### Professional Authority:
+- Author of scientific books on health/longevity
+- TED speakers with scientific credentials
+- Director of longevity/aging research centers
+- Editor of medical/scientific journals
+- Keynote speakers at medical/scientific conferences
+
+### Red Flags (Lack of Credentials):
+- "Wellness coach" or "health coach" without scientific training
+- "Biohacker" without credentials
+- Alternative medicine practitioners without MD/PhD
+- Supplement company owners/salespeople
+- Fitness influencers without scientific background
+- Naturopaths, homeopaths (unless also MD/PhD)
+
+## Search Strategies (25 searches)
+
+### Strategy A: Top Health Podcasts + Topic (10 searches)
+1. "Huberman Lab aging"
+2. "Huberman Lab longevity"
+3. "Huberman Lab sleep"
+4. "Peter Attia exercise"
+5. "Peter Attia nutrition"
+6. "Found My Fitness longevity"
+7. "Rhonda Patrick aging"
+8. "Lex Fridman longevity"
+9. "Lex Fridman aging science"
+10. "Tim Ferriss longevity"
+
+### Strategy B: Topic + Expertise Signals (8 searches)
+11. "aging researcher interview"
+12. "longevity scientist professor"
+13. "sleep scientist interview"
+14. "nutrition researcher PhD"
+15. "exercise science professor"
+16. "preventive medicine physician"
+17. "neuroscience brain health"
+18. "cardiovascular health cardiologist"
+
+### Strategy C: Specific Mechanisms + Interview (7 searches)
+19. "autophagy fasting science"
+20. "NAD+ sirtuins researcher"
+21. "cellular senescence scientist"
+22. "epigenetics biological age"
+23. "mitochondrial health interview"
+24. "caloric restriction longevity"
+25. "telomeres aging scientist"
+
+### Strategy D: Named Experts (if needed for quality)
+- "David Sinclair aging"
+- "Matthew Walker sleep"
+- "Valter Longo fasting"
+- "Andy Galpin exercise"
+- "Satchin Panda circadian"
+
+## Quality Assurance for Health & Longevity Course
+
+### MUST HAVE:
+✅ MD or PhD credentials clearly stated
+✅ Academic affiliation (university, research institute, hospital)
+✅ Published research or clinical practice mentioned
+✅ Interview format (expert being interviewed, not solo host)
+✅ Evidence-based approach (mentions studies, research, data)
+✅ Specific expertise in the topic being discussed
+
+### RED FLAGS:
+❌ No credentials mentioned in description
+❌ "Wellness influencer" or "biohacker" without scientific background
+❌ Supplement salesperson or company owner as primary identity
+❌ Alternative medicine without scientific grounding
+❌ "Natural" or "holistic" without MD/PhD backing
+❌ Solo host monologue about health topics
+❌ No identifiable expert guest
+❌ Pseudoscience or unproven claims
+❌ Anti-vaccine or conspiracy theory content
+
+### Format Indicators:
+- ✅ GOOD: "[Name], MD/PhD, Professor at [University]"
+- ✅ GOOD: "Research scientist at [Institution]"
+- ✅ GOOD: "[Host] interviews [Expert]"
+- ✅ GOOD: "Board certified [specialty]"
+- ✅ GOOD: "Published research on [topic]"
+- ❌ BAD: "We discuss health" (no guest mentioned)
+- ❌ BAD: "I explain how to..." (solo host)
+- ❌ BAD: "Health coach shares tips" (no credentials)
+- ❌ BAD: Just "expert" or "specialist" without specifics
+
+## Expected Episode Progression
+
+### Beginner (6 episodes):
+1. Introduction to longevity science: What determines healthspan?
+2. The four pillars: nutrition, exercise, sleep, stress (overview)
+3. How aging works: Cellular and molecular basics made accessible
+4. Exercise fundamentals: What types of movement matter most?
+5. Nutrition basics: What does the science actually say?
+6. Sleep essentials: Why sleep is foundational to health
+
+**Format:** Well-known hosts (Huberman, Rogan, Fridman, Ferriss) interviewing top longevity experts
+**Guests:** Peter Attia, Rhonda Patrick, David Sinclair, Matthew Walker, etc.
+**Tone:** "Make complex biology accessible and show me why this matters for my life"
+
+### Intermediate (6 episodes):
+1. Exercise science deep-dive: Strength, cardio, zone training, VO2 max
+2. Nutritional biochemistry: Macros, micros, metabolic health
+3. Sleep architecture: Circadian rhythms, sleep stages, optimization
+4. Stress and the nervous system: HRV, cortisol, resilience
+5. Cardiovascular health: Prevention strategies backed by science
+6. Brain health and neuroplasticity: Cognitive longevity
+
+**Format:** Health-focused podcasts or academic discussions
+**Guests:** Exercise scientists, nutrition PhDs, cardiologists, neuroscientists
+**Tone:** "Teach me the mechanisms and how to apply them"
+
+### Advanced (6 episodes):
+1. Molecular biology of aging: Cellular senescence, DNA damage, repair
+2. NAD+, sirtuins, and longevity pathways: The cutting edge
+3. Autophagy and fasting: Time-restricted eating, caloric restriction
+4. Epigenetics and biological age: How lifestyle changes gene expression
+5. Mitochondrial health and energy: Optimizing cellular powerhouses
+6. Senolytics, rapamycin, and longevity interventions: What's next?
+
+**Format:** Research-focused discussions with scientists at the frontier
+**Guests:** Aging biology researchers, longevity scientists, clinical researchers
+**Tone:** "Show me the current research and where the field is headed"
+
+## Final Quality Checklist
+
+Before finalizing:
+- [ ] All 18 episodes have identifiable expert guests with MD or PhD credentials
+- [ ] All 18 podcasts are different
+- [ ] No solo host monologues (all feature expert scientists/physicians)
+- [ ] No wellness influencers or supplement salespeople without credentials
+- [ ] Beginner level makes science accessible via respected hosts interviewing experts
+- [ ] Intermediate level covers mechanisms with domain-specific experts
+- [ ] Advanced level addresses cutting-edge research (NAD+, senescence, epigenetics, etc.)
+- [ ] Logical progression within each level
+- [ ] Course covers: nutrition, exercise, sleep, stress, aging biology, preventive medicine
+- [ ] Course includes both practical lifestyle factors and molecular mechanisms
+- [ ] Course description emphasizes scientific rigor and expert credentials
+- [ ] Evidence-based approach throughout (no pseudoscience)

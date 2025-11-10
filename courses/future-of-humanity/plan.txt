@@ -1,0 +1,429 @@
+# Course Plan: The Future of Humanity
+
+## Course Purpose
+
+A comprehensive educational journey exploring humanity's long-term future through the lenses of space exploration and colonization, artificial intelligence and AGI development, longevity science and human enhancement, and civilization-scale thinking about existential risks and opportunities. This course curates expert interviews from leading researchers, practitioners, and thinkers who are actively shaping humanity's trajectory.
+
+Listeners will progress from foundational concepts to cutting-edge debates, learning from:
+- Physicists and astrophysicists about space and our cosmic future
+- AI researchers and philosophers about artificial general intelligence
+- Longevity scientists about extending human healthspan
+- Civilization thinkers about long-term risks and opportunities
+
+## Learning Progression
+
+### Beginner Level: Foundations of Future Thinking
+**What:** Introduction to long-term perspectives on humanity's future
+**Focus:**
+- Why space exploration matters for humanity's survival
+- Current state of AI and trajectory toward AGI
+- Basics of longevity science and aging research
+- Major existential risks (climate, pandemics, nuclear, AI)
+- The Fermi Paradox and our place in the universe
+- Introduction to long-termism and civilization-scale thinking
+
+**Guest Types:**
+- Accessible science communicators (Neil deGrasse Tyson, Michio Kaku)
+- Well-known authors/thinkers (Yuval Noah Harari, Sam Harris)
+- Practitioners explaining their work clearly (Peter Attia, David Sinclair)
+
+**Listener Outcome:** Understand why humanity's future is a critical topic, grasp foundational concepts in each domain, and develop framework for long-term thinking
+
+### Intermediate Level: Mechanisms, Challenges & Opportunities
+**What:** Deeper dive into technical challenges and current research
+**Focus:**
+- Technical challenges of Mars colonization and space settlement
+- AI alignment problem: Why it's hard and what's being done
+- Longevity research breakthroughs: NAD+, cellular senescence, aging as disease
+- Detailed analysis of existential risk categories and mitigation strategies
+- Brain-computer interfaces and human enhancement technologies
+- Economics, governance, and ethics of future societies
+
+**Guest Types:**
+- Domain experts with active research programs (Max Tegmark, Sean Carroll)
+- Founders/leaders at frontier organizations (Aubrey de Grey, researchers at AI labs)
+- Philosophers specializing in future risks (Toby Ord, Nick Bostrom)
+
+**Listener Outcome:** Understand the hard problems in each domain, appreciate technical complexity, learn about current solutions and research approaches
+
+### Advanced Level: Research Frontiers & Philosophical Debates
+**What:** Cutting-edge thinking and unresolved questions
+**Focus:**
+- Designing multi-planetary civilizations: technical and social challenges
+- AGI timelines, takeoff scenarios, and alignment solution proposals
+- Post-biological evolution, mind uploading, and transhumanism
+- Simulation hypothesis and anthropic reasoning
+- Long-termism vs near-term priorities debate in effective altruism
+- Humanity's cosmic endowment and potential reach in the universe
+- Philosophical implications of consciousness, identity, and value
+
+**Guest Types:**
+- Leading researchers at frontier of their fields
+- Philosophers working on hardest problems (consciousness, identity, value)
+- Practitioners implementing ambitious future-focused projects
+- Thinkers challenging mainstream views with novel perspectives
+
+**Listener Outcome:** Engage with unresolved debates, understand research frontiers, form informed views on civilization-scale questions
+
+## High-Quality Podcasts to Target
+
+### TIER 1 (Highest Priority - Top Interview Podcasts with Expert Guests)
+
+**Cross-Cutting Expert Interview Shows:**
+- Lex Fridman Podcast (AI, physics, space, philosophy - interviews world-class experts)
+- Making Sense with Sam Harris (AI safety, existential risk, philosophy)
+- The Tim Ferriss Show (longevity experts, founders, big thinkers)
+- Conversations with Tyler Cowen (economists, philosophers, long-term thinkers)
+- Sean Carroll's Mindscape (physics, cosmology, philosophy, AI)
+- The Knowledge Project (decision-making, long-term thinking, experts)
+
+**For AI & Existential Risk:**
+- 80,000 Hours Podcast (effective altruism, AI safety, existential risk experts)
+- Future of Life Institute Podcast (AI alignment, existential risk researchers)
+- Tetragrammaton with Rick Rubin (deep conversations with tech leaders, thinkers)
+
+**For Space & Physics:**
+- StarTalk with Neil deGrasse Tyson (astrophysicists, space experts)
+- Planetary Radio (Space Society - space exploration experts)
+- Sean Carroll's Mindscape (cosmology, physics of the universe)
+
+**For Longevity & Health:**
+- Huberman Lab (neuroscience, longevity, human enhancement)
+- The Peter Attia Drive (longevity research, healthspan experts)
+- Found My Fitness with Rhonda Patrick (aging research, longevity scientists)
+
+### TIER 2 (Strong Backup - Quality Tech/Business Podcasts with Relevant Episodes)
+
+- a16z Podcast (tech futures, AI, when interviewing domain experts)
+- Invest Like the Best (founders and thinkers on long-term trends)
+- EconTalk with Russ Roberts (economics, society, long-term thinking)
+- The Prof G Pod (tech, society - when featuring relevant experts)
+- TED Talks Daily / TED Radio Hour (when featuring relevant researchers)
+
+### TIER 3 (Subject-Specific Podcasts - Use When Quality is High)
+
+- AI Alignment Podcast
+- Future of Life Institute Podcast
+- Planetary Radio
+- Rationally Speaking (Julia Galef)
+- On Being (when featuring scientists/philosophers on relevant topics)
+
+## Topic Keywords and Subtopics
+
+### Space & Cosmology
+- Mars colonization
+- SpaceX interplanetary
+- multi-planetary civilization
+- space settlement challenges
+- Fermi paradox great filter
+- cosmic endowment
+- astrophysics future humanity
+- asteroid mining
+- space habitats
+- interstellar travel
+
+### Artificial Intelligence
+- artificial general intelligence AGI
+- AI alignment problem
+- AI safety research
+- superintelligence
+- machine learning future
+- neural networks consciousness
+- AI existential risk
+- AI governance ethics
+- transformative AI
+- AI timelines takeoff
+
+### Longevity & Human Enhancement
+- aging research longevity
+- healthspan lifespan extension
+- cellular senescence
+- NAD+ resveratrol aging
+- brain-computer interface
+- Neuralink neural enhancement
+- transhumanism human enhancement
+- biogerontology
+- regenerative medicine
+- cognitive enhancement
+
+### Existential Risk & Long-term Thinking
+- existential risk x-risk
+- effective altruism long-term
+- civilization survival
+- nuclear risk pandemic
+- climate change catastrophic risk
+- long-termism future generations
+- anthropic reasoning simulation
+- great filter
+- global catastrophic risk
+
+### Philosophy & Civilization
+- future of civilization
+- post-biological evolution
+- consciousness identity philosophy
+- simulation hypothesis
+- anthropic principle
+- value alignment
+- techno-optimism progress
+- humanity's potential
+
+## Expertise Indicators to Look For
+
+### ✅ STRONG CREDIBILITY SIGNALS
+
+**Academic Credentials:**
+- Professor at major research university (MIT, Stanford, Harvard, Oxford, Caltech, etc.)
+- PhD in relevant field (physics, computer science, biology, philosophy)
+- Director of research institute or center (Future of Humanity Institute, Future of Life Institute, etc.)
+- Published peer-reviewed research mentioned
+- "Research scientist at [major institution/company]"
+
+**Professional Authority:**
+- Founder/CEO of relevant organization (SpaceX, Anthropic, DeepMind, longevity biotech)
+- Senior researcher at frontier AI lab (OpenAI, DeepMind, Anthropic)
+- Medical doctor with specialization (longevity, neuroscience)
+- Chief Scientist, CTO at relevant company
+- Astronaut or aerospace engineer with space agency experience
+
+**Author/Thought Leader:**
+- Bestselling author on relevant topic (Superintelligence, Sapiens, Lifespan, etc.)
+- TED speaker with millions of views on relevant topic
+- Regular contributor to Nature, Science, major publications
+- Recognized expert cited by other researchers
+
+**Practitioner Credentials:**
+- "Founded [significant organization]"
+- "Led the team that built [major breakthrough]"
+- "X years researching [specific domain]"
+- Awards in field (Nobel, Breakthrough Prize, MacArthur, etc.)
+
+### ❌ RED FLAGS TO AVOID
+
+**Lack of Expertise:**
+- Generic "futurist" title with no specific technical background
+- "Visionary" or "thought leader" without concrete credentials
+- No university/organization affiliation mentioned
+- No verifiable track record in the domain
+- "Enthusiast" or "passionate about" instead of credentials
+
+**Wrong Format:**
+- "I explain...", "I break down..." (solo host monologue)
+- "We discuss..." with no expert guest identified
+- "Two friends exploring..." (casual conversation, not expert interview)
+- Host reading Wikipedia or secondary sources
+
+**Content Red Flags:**
+- Spiritual/mystical interpretations of scientific topics
+- "Quantum consciousness" or "quantum healing" pseudoscience
+- Ancient wisdom or eastern mysticism mixed with physics
+- Conspiracy theories about suppressed technologies
+- Overly speculative without grounding in current research
+- Tech influencer speculation without credentials
+
+**Quality Red Flags:**
+- Podcast has very low follower count (<500 unless exceptional guest)
+- Amateur production quality (unless guest is extraordinary)
+- Episode description is vague about guest credentials
+- No clear interview structure or preparation
+
+## Search Strategy (25 Searches Total)
+
+### Strategy A: High-Quality Podcast + Topic (10 searches)
+
+Top interview podcasts known for excellent guests on these topics:
+
+1. "Lex Fridman artificial intelligence AGI"
+2. "Lex Fridman space exploration Mars"
+3. "Sam Harris existential risk AI safety"
+4. "Peter Attia longevity aging"
+5. "Sean Carroll cosmology universe future"
+6. "Tim Ferriss longevity technology future"
+7. "Huberman Lab brain enhancement neuroscience"
+8. "Conversations with Tyler civilization long-term"
+9. "80000 Hours effective altruism AI risk"
+10. "Neil deGrasse Tyson space future humanity"
+
+### Strategy B: Topic + Expertise Signals (8 searches)
+
+Finding experts by combining topic with credibility indicators:
+
+11. "AI alignment professor researcher interview"
+12. "space colonization researcher scientist"
+13. "longevity aging research professor"
+14. "existential risk researcher philosopher"
+15. "Mars SpaceX founder CEO"
+16. "superintelligence Nick Bostrom philosopher"
+17. "transhumanism enhancement researcher"
+18. "cosmology physicist universe future"
+
+### Strategy C: Specific Subtopics + Interview Format (5 searches)
+
+Targeting specific concepts to find deep dives:
+
+19. "Fermi paradox great filter interview"
+20. "brain computer interface Neuralink expert"
+21. "AGI timelines alignment safety"
+22. "multi-planetary civilization design"
+23. "simulation hypothesis anthropic reasoning"
+
+### Strategy D: Specific Expert Names (2 searches)
+
+Known authorities in future of humanity topics:
+
+24. "Yuval Noah Harari future Sapiens technology"
+25. "Michio Kaku future physics civilization"
+
+## Episode Evaluation Criteria
+
+### Rating System
+
+**⭐⭐⭐ EXCELLENT (Priority Selection)**
+- Multiple strong credentials clearly stated (PhD + Professor, or Founder + Major achievements)
+- From Top 200 podcast OR highly respected subject-specific show
+- Clear interview format with identifiable expert guest
+- Guest has significant track record (publications, companies founded, research breakthroughs)
+- Episode description shows depth and substance
+- Topics align perfectly with course learning objectives
+- Example: Lex Fridman interviewing Max Tegmark on AI and physics
+
+**⭐⭐ GOOD (Solid Backup)**
+- At least one strong credential clearly stated (Professor OR successful founder OR recognized researcher)
+- Reputable podcast (recognizable name or topic-specific with good following)
+- Interview format confirmed
+- Guest has relevant expertise even if not top-tier name recognition
+- Topics highly relevant to course themes
+- Example: Domain-specific podcast interviewing working researcher
+
+**⭐ ACCEPTABLE (Use Only if Needed)**
+- Some expertise mentioned but somewhat vague
+- Less known podcast but appears legitimate
+- Interview format likely but not crystal clear
+- Relevant but not ideal for level placement
+- May lack depth or specificity
+
+**❌ REJECT (Never Use)**
+- Hits any red flag (no expert, monologue format, spiritual pseudoscience)
+- No identifiable expert credentials
+- Wrong format (casual chat, host explaining)
+- Off-topic or only tangentially related
+- Low quality podcast without redeeming exceptional guest
+
+### Specific Evaluation Questions
+
+For each episode, ask:
+
+1. **Who is the guest and what are their specific credentials?**
+   - Can I find their job title and affiliation?
+   - Have they published research, founded companies, or made breakthroughs?
+   - Would I trust them to teach a university course on this topic?
+
+2. **Is this an interview or a monologue?**
+   - Does the description say "[Host] talks to [Guest Name]"?
+   - Is a guest name mentioned at all?
+   - Are there phrases like "I explain" or "we discuss" without naming an expert?
+
+3. **What will the listener actually learn?**
+   - Are specific concepts, research, or insights mentioned?
+   - Is it substantive or just high-level speculation?
+   - Does it fit the learning objectives for a particular level?
+
+4. **Why should we trust this source?**
+   - What has the guest actually done in this field?
+   - Are they actively working on these problems?
+   - Do other experts cite or reference their work?
+
+5. **Does this fit our quality standards?**
+   - Would this episode make someone genuinely smarter about the topic?
+   - Is it grounded in real research and evidence?
+   - Does it avoid pseudoscience and unfounded speculation?
+
+## Quality Assurance Checklist
+
+Before finalizing episode selection, verify:
+
+- [ ] All 18 episodes have identifiable expert guests with credentials documented
+- [ ] For each episode, specific expertise signals are noted (job title, affiliation, achievements)
+- [ ] No episodes are solo host monologues (verified interview format)
+- [ ] All 18 podcasts are different (maximum diversity)
+- [ ] No spiritual/mystical content mixed with scientific topics
+- [ ] No Wikipedia-based or amateur "explaining to friends" formats
+- [ ] Prioritized Top 200 podcasts or recognized subject-specific shows
+- [ ] Episode descriptions indicate substantive expertise and depth
+- [ ] Beginner level features accessible experts explaining foundational concepts
+- [ ] Intermediate level goes deeper into technical mechanisms with domain experts
+- [ ] Advanced level features cutting-edge research, debates, or philosophical depth
+- [ ] Logical flow within each level (concepts build on each other)
+- [ ] Course description highlights expert credentials and learning progression
+- [ ] Broad panel of experts (not same expert repeated multiple times)
+- [ ] Geographic and institutional diversity where possible
+- [ ] Mix of academics, practitioners, and philosophers
+
+## Expected Expert Types by Level
+
+### Beginner Level
+**Ideal guests:** Science communicators, accessible academics, well-known authors
+- Neil deGrasse Tyson (astrophysicist, Hayden Planetarium)
+- Yuval Noah Harari (historian, Sapiens author)
+- Michio Kaku (physicist, futurist)
+- Peter Attia (physician, longevity expert)
+- Sam Harris (neuroscientist, philosopher)
+- David Sinclair (Harvard geneticist)
+
+**What to look for:** Excellent at making complex topics accessible while maintaining scientific rigor. Often interviewed on major podcasts (Lex Fridman, Tim Ferriss, etc.)
+
+### Intermediate Level
+**Ideal guests:** Active researchers, founders at frontier organizations, domain experts
+- Max Tegmark (physicist, MIT, Future of Life Institute)
+- Sean Carroll (physicist, Caltech/Johns Hopkins)
+- Aubrey de Grey (biogerontologist, SENS Research)
+- Stuart Russell (AI researcher, UC Berkeley)
+- Toby Ord (philosopher, Oxford, existential risk expert)
+- Sara Seager (astronomer, MIT, exoplanet researcher)
+
+**What to look for:** Deep domain expertise, active research programs, technical depth but still explainable to educated audience. Mix of academic researchers and practitioner experts.
+
+### Advanced Level
+**Ideal guests:** Leading researchers, philosophers working on hardest problems, pioneers
+- Nick Bostrom (philosopher, Oxford, superintelligence)
+- Paul Christiano (AI alignment researcher)
+- William MacAskill (philosopher, long-termism, EA)
+- Eliezer Yudkowsky (AI alignment theorist)
+- Anders Sandberg (researcher, Future of Humanity Institute)
+- Robin Hanson (economist, The Age of Em)
+
+**What to look for:** Pushing boundaries, challenging assumptions, working on unsolved problems, philosophical depth, novel frameworks. These episodes should be intellectually demanding.
+
+## Notes
+
+- When searching, Elasticsearch returns results by relevance score - this is just search matching, NOT quality rating
+- All search results should be documented in results.txt with full descriptions for later evaluation
+- Episode evaluation happens AFTER search - don't judge quality during search phase
+- Quality assessment requires reading full descriptions and verifying guest credentials
+- Better to do more searches (25+) and find exceptional episodes than rush with fewer searches
+- Diversity matters: 18 different podcasts shows broader perspective than repeating same shows
+- Guest diversity also matters: Seek varied perspectives and approaches within each domain
+- When uncertain about episode quality, err on side of being MORE selective
+- Course quality depends entirely on expert credibility - never compromise on this standard
+- If struggling to find 6 good episodes for a level, expand search with:
+  - Different high-quality podcast names
+  - Alternative keyword combinations
+  - Subtopic searches
+  - University/institution podcasts
+  - Conference recordings or lecture series
+
+## Success Criteria
+
+This course will be successful if:
+
+1. **Expert Quality:** Every episode features a genuine expert with verifiable credentials actively working in their field
+2. **Learning Progression:** A beginner could start at episode 1 and progressively build understanding through episode 18
+3. **Diversity:** 18 different podcasts showing varied perspectives and approaches
+4. **Credibility:** Each guest has a track record (publications, companies, breakthroughs) that validates their expertise
+5. **Depth:** Episodes go beyond surface-level futurism to substantive insights grounded in research
+6. **Inspiration:** After completing the course, listeners feel informed, inspired, and equipped to think about humanity's long-term future
+7. **Balance:** Course covers multiple domains (space, AI, longevity, philosophy) without overweighting any single area
+8. **Trust:** Listeners trust the course because every expert's credentials are transparent and verifiable
+
+---
+
+*This plan serves as the strategic foundation for creating a world-class educational course on humanity's future through expertly curated podcast episodes.*

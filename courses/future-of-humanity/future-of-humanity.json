@@ -1,0 +1,30 @@
+{
+    "title": "The Future of Humanity",
+    "image_url": "https://storage.googleapis.com/goodpods-images-bucket/courses/future-of-humanity.png",
+    "course_slug": "future-of-humanity",
+    "description": "What does humanity's future hold? Will we extend our lifespans indefinitely, colonize Mars, create artificial superintelligence, or face existential catastrophe? This course explores the biggest questions about our species through conversations with the world's leading experts actively shaping our trajectory. Learn from Harvard geneticists reversing aging, Oxford philosophers studying existential risk, UC Berkeley AI researchers building safe superintelligence, and theoretical physicists mapping humanity's cosmic future.\n\nYou'll journey from accessible introductions with science communicators like Neil deGrasse Tyson and historians like Yuval Noah Harari, through technical deep-dives with researchers at Stanford, Johns Hopkins, and Cambridge, to cutting-edge debates at the frontiers of human knowledge. Every episode features verified experts—professors, MDs, PhDs, and founders—discussing their actual research and why it matters. No speculation without credentials. No futurism without physics. Just 18 carefully curated conversations with people who are literally building humanity's future.\n\nThe course progresses through three levels: Beginner episodes introduce why longevity science, AI safety, space exploration, and long-term thinking matter for our species. Intermediate episodes explore the mechanisms, challenges, and policy implications. Advanced episodes tackle the hardest philosophical questions and research frontiers, from superintelligence and simulation hypothesis to the economics of civilizational stability. By the end, you'll understand not just what might happen, but what the smartest minds on Earth think should happen—and why.\n\nThis isn't science fiction. These are real researchers from Harvard, Oxford, Berkeley, and Stanford discussing breakthroughs happening now in their labs. You'll learn from the people who wrote the textbooks on AI (Stuart Russell), coined the term \"superintelligence\" (Nick Bostrom), founded the longevity movement (Aubrey de Grey), and advise governments on existential risk (Toby Ord). Whether you're curious about living to 150, worried about AI alignment, excited about Mars colonies, or thinking about civilization's next 10,000 years, this course offers authoritative, expert-led answers to humanity's biggest questions.",
+    "beginner_episodes": [
+        20722694,
+        30705925,
+        75689009,
+        793482,
+        49728989,
+        10492210
+    ],
+    "intermediate_episodes": [
+        21687639,
+        15572630,
+        71114873,
+        28269634,
+        50931130,
+        19439656
+    ],
+    "advanced_episodes": [
+        40551585,
+        12162621,
+        1453641,
+        41132452,
+        6613713,
+        30033132
+    ]
+}

@@ -1,0 +1,327 @@
+# CREATIVE THINKING COURSE - COMPREHENSIVE STRATEGY & SEARCH PLAN
+
+## COURSE OVERVIEW
+**Title:** Creative Thinking — Unlocking Innovation with Practical Creativity Frameworks
+**Slug:** creative-thinking
+**Target:** People who want to understand and develop creative thinking skills through expert-backed frameworks
+
+---
+
+## COURSE PROGRESSION STRATEGY
+
+### BEGINNER LEVEL - Foundations of Creative Thinking
+**Goals:** Demystify creativity, dispel myths, introduce foundational concepts
+
+**Core Questions:**
+- What is creativity and can it be learned?
+- How do creative people actually think?
+- What are the myths vs realities of creative genius?
+- What are basic frameworks for generating ideas?
+- How do constraints enable creativity?
+
+**Ideal Guests:**
+- Psychologists who study creativity
+- Well-known creative practitioners (designers, artists, inventors)
+- Authors of creativity books explaining their frameworks
+- Innovation professors at top universities
+- Design thinking pioneers (IDEO, d.school founders)
+
+**Episode Types:**
+- Accessible explanations from Lex Fridman, Tim Ferriss, Rick Rubin interviewing creative masters
+- TED talks or TED Radio Hour featuring creativity researchers
+- How I Built This founders explaining their creative process
+- Psychologists on Hidden Brain explaining creativity science
+
+---
+
+### INTERMEDIATE LEVEL - Techniques & Applications
+**Goals:** Learn specific frameworks, understand divergent/convergent thinking, see real-world applications
+
+**Core Questions:**
+- How does design thinking actually work?
+- What are proven techniques for divergent and convergent thinking?
+- How do organizations foster creativity?
+- How do you apply creative frameworks to business problems?
+- What role does failure play in creative innovation?
+
+**Ideal Guests:**
+- Design thinking practitioners (IDEO, Stanford d.school)
+- Innovation consultants with track records
+- Founders who built innovative companies
+- Product leaders from innovative companies
+- Organizational psychologists studying creativity in teams
+
+**Episode Types:**
+- Masters of Scale featuring innovation leaders
+- Lenny's Podcast with product innovators
+- a16z discussing innovation frameworks
+- Domain experts on specialized podcasts explaining specific techniques
+
+---
+
+### ADVANCED LEVEL - Research Frontiers & Complex Applications
+**Goals:** Understand the neuroscience, explore research debates, examine creativity in complex systems
+
+**Core Questions:**
+- What does neuroscience reveal about creative insight?
+- How do breakthrough innovations actually happen?
+- What are the cognitive mechanisms of creativity?
+- How does creativity work in AI/technology/science?
+- What are the limits and future of creativity research?
+
+**Ideal Guests:**
+- Neuroscientists studying creative cognition
+- Creativity researchers publishing in top journals
+- Nobel Prize winners or breakthrough innovators
+- AI researchers exploring computational creativity
+- Cognitive scientists studying insight and problem-solving
+
+**Episode Types:**
+- Huberman Lab on creativity neuroscience
+- Sean Carroll's Mindscape with creativity researchers
+- Academic researchers on specialized science podcasts
+- Pioneers in computational creativity or AI creativity
+
+---
+
+## HIGH-QUALITY PODCASTS TO PRIORITIZE
+
+**Tier 1 - General Interview (Beginner-friendly experts):**
+- Lex Fridman Podcast
+- Tim Ferriss Show
+- Tetragrammaton with Rick Rubin
+- TED Talks Daily / TED Radio Hour
+- How I Built This
+- Masters of Scale
+- On Being
+- Fresh Air
+
+**Tier 2 - Topic-Relevant:**
+- Hidden Brain (psychology/cognition)
+- Huberman Lab (neuroscience)
+- Making Sense (Sam Harris)
+- The Knowledge Project
+- Lenny's Podcast (product/innovation)
+- a16z Podcast (innovation/tech)
+- 99% Invisible (design)
+- Design Matters
+
+**Tier 3 - Academic/Science:**
+- Sean Carroll's Mindscape
+- Radiolab
+- Science Vs
+- StarTalk
+- Conversations with Tyler
+
+**Tier 4 - Specialized (if found in search):**
+- Design thinking podcasts
+- Innovation/creativity-specific shows
+- University research podcasts
+- Conference talks (TED, design conferences)
+
+---
+
+## TOPIC KEYWORDS & SUBTOPICS
+
+**Main Keywords:**
+- creativity, creative thinking, innovation, creative process
+- design thinking, divergent thinking, convergent thinking
+- creative problem solving, innovation frameworks
+- brainstorming, ideation, creative insight
+
+**Subtopics to Search:**
+- Creative constraints, creative blocks
+- Lateral thinking, associative thinking
+- Innovation strategy, disruptive innovation
+- Design process, human-centered design
+- Cognitive flexibility, creative cognition
+- Breakthrough thinking, eureka moments
+- Creative collaboration, team innovation
+- Product innovation, business model innovation
+
+**Specific Frameworks/Concepts:**
+- IDEO, d.school, design sprint
+- Double diamond, design process
+- Brainstorming techniques
+- SCAMPER, TRIZ, lateral thinking
+- Improvisation, play, experimentation
+
+**Scientific Angles:**
+- Neuroscience of creativity
+- Psychology of creativity
+- Default mode network, insight
+- Flow state, creative state
+- Cognitive processes in innovation
+
+---
+
+## EXPERTISE INDICATORS TO LOOK FOR
+
+**Academic Credentials:**
+- Professor of Psychology/Neuroscience/Design
+- Researcher at Stanford d.school, MIT Media Lab, IDEO
+- Author of creativity/innovation books
+- Published research on creativity, innovation, design thinking
+
+**Professional Authority:**
+- Founder/CEO of innovative company
+- Chief Innovation Officer, VP of Product
+- Design lead at major company (Apple, Google, IDEO, Airbnb)
+- Innovation consultant with major clients
+- Created widely-used framework or methodology
+
+**Practitioner Credentials:**
+- Built breakthrough product or company
+- Led innovation initiatives at scale
+- Award-winning designer/creative
+- TED speaker on creativity/innovation
+- Regular contributor to Harvard Business Review, Fast Company
+
+---
+
+## SEARCH STRATEGY: 25 QUERIES
+
+### STRATEGY A: High-Quality Podcast + Topic (12 queries)
+
+**Query 1:** "Lex Fridman creativity"
+**Why:** Lex interviews world-class thinkers; may have psychologists, neuroscientists, or creative practitioners discussing creativity
+
+**Query 2:** "Lex Fridman innovation"
+**Why:** Innovation episodes may feature founders, inventors, or researchers explaining creative processes
+
+**Query 3:** "Tim Ferriss creative process"
+**Why:** Tim deconstructs excellence; often interviews creative masters about their methods
+
+**Query 4:** "Tim Ferriss creativity"
+**Why:** Broad search for creativity-focused episodes with Tim's high-caliber guests
+
+**Query 5:** "Rick Rubin creative"
+**Why:** Rick Rubin is himself a creativity expert; Tetragrammaton may feature discussions with creative masters
+
+**Query 6:** "How I Built This innovation"
+**Why:** Founders often discuss creative breakthroughs, innovative thinking, and problem-solving
+
+**Query 7:** "Masters of Scale innovation"
+**Why:** Reid Hoffman's show focuses on scaling, often discusses innovation strategies with successful founders
+
+**Query 8:** "Hidden Brain creativity"
+**Why:** NPR show focusing on psychology/neuroscience; likely has creativity researchers explaining the science
+
+**Query 9:** "Huberman Lab creativity"
+**Why:** Neuroscience podcast; may cover the brain science of creativity, insight, or creative states
+
+**Query 10:** "TED creativity"
+**Why:** TED features experts giving talks on creativity, innovation, design thinking
+
+**Query 11:** "Lenny's Podcast product innovation"
+**Why:** Product-focused podcast featuring PMs and founders discussing innovative product development
+
+**Query 12:** "a16z innovation"
+**Why:** Andreessen Horowitz podcast featuring tech innovators, startup founders, innovation frameworks
+
+---
+
+### STRATEGY B: Topic + Expertise Signals (6 queries)
+
+**Query 13:** "creativity researcher interview"
+**Why:** Target academic researchers who study creativity scientifically (psychologists, neuroscientists)
+
+**Query 14:** "design thinking founder"
+**Why:** Find pioneers like Tim Brown (IDEO), David Kelley (d.school), or other design thinking originators
+
+**Query 15:** "creative process psychologist"
+**Why:** Psychology professors or researchers who study the creative mind and creative processes
+
+**Query 16:** "innovation professor interview"
+**Why:** Academic experts teaching innovation at universities (business schools, design schools)
+
+**Query 17:** "neuroscience creativity"
+**Why:** Neuroscientists researching the brain mechanisms behind creative thinking and insight
+
+**Query 18:** "creative problem solving expert"
+**Why:** Practitioners who specialize in creative problem-solving methodologies and frameworks
+
+---
+
+### STRATEGY C: Specific Frameworks/Concepts (4 queries)
+
+**Query 19:** "design thinking expert"
+**Why:** Find IDEO practitioners, d.school faculty, or consultants who teach design thinking methods
+
+**Query 20:** "divergent thinking interview"
+**Why:** Target experts discussing specific creativity technique (generating multiple ideas)
+
+**Query 21:** "IDEO design process"
+**Why:** IDEO is the gold standard for design thinking; find interviews with IDEO designers or leaders
+
+**Query 22:** "creative constraints"
+**Why:** Advanced topic about how limitations can enhance creativity; likely features creativity researchers
+
+---
+
+### STRATEGY D: Academic/Research Institutions (3 queries)
+
+**Query 23:** "creativity psychology Stanford"
+**Why:** Stanford has d.school and top psychology department; find Stanford researchers on creativity
+
+**Query 24:** "innovation research MIT"
+**Why:** MIT has innovation labs and research centers; find MIT faculty discussing innovation science
+
+**Query 25:** "cognitive neuroscience insight"
+**Why:** Find researchers studying the cognitive/neural mechanisms of creative insight and problem-solving
+
+---
+
+## QUALITY GATES FOR THIS COURSE
+
+**MUST HAVE:**
+- At least 2-3 academic researchers (psychology, neuroscience, cognitive science)
+- At least 2-3 design thinking practitioners (IDEO, d.school, etc.)
+- At least 2-3 successful founders/innovators who can speak to creative process
+- Mix of perspectives: science + practice + real-world application
+- NO spiritual/mystical creativity content
+- NO generic "be more creative" self-help without credentials
+
+**DIVERSITY TARGETS:**
+- Different podcasts for each episode (18 total)
+- Different guests for each episode (avoid repeating same expert)
+- Different angles: psychology, neuroscience, design, business, art, technology
+- Different frameworks: design thinking, divergent/convergent, constraints, collaboration, etc.
+
+---
+
+## EXPECTED EXPERTISE PROFILE
+
+**Beginner Level Examples:**
+- Ed Catmull (Pixar founder) on creativity
+- Psychologist discussing creativity myths
+- Designer explaining design thinking basics
+- Rick Rubin on creative process
+- TED speaker on innovation fundamentals
+
+**Intermediate Level Examples:**
+- Tim Brown or IDEO designer on design thinking application
+- Product leader discussing innovation frameworks
+- Organizational psychologist on team creativity
+- Founder explaining how they innovated in their industry
+- Design thinking professor on specific techniques
+
+**Advanced Level Examples:**
+- Neuroscientist on brain networks during creative insight
+- Creativity researcher publishing in Nature/Science
+- AI researcher on computational creativity
+- Cognitive scientist on mechanisms of insight
+- Nobel Prize winner on breakthrough thinking
+
+---
+
+## SUCCESS CRITERIA
+
+This course succeeds if:
+1. All episodes feature identifiable experts with clear credentials
+2. Mix of academic rigor (researchers) and practical application (designers, founders)
+3. Clear progression from "what is creativity" → "how to do it" → "cutting-edge research"
+4. 18 different podcasts showing breadth of available content
+5. No overlap in guests (diverse expert panel)
+6. Each episode has specific frameworks, techniques, or insights (not generic inspiration)
+7. Listeners leave with both understanding (science) and tools (frameworks)

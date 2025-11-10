@@ -1,0 +1,588 @@
+# PHILOSOPHY FUNDAMENTALS - EPISODE EVALUATIONS
+# Evaluated: 2025-10-14
+
+================================================================================
+RATING SYSTEM:
+⭐⭐⭐ EXCELLENT - Clear expert credentials, top podcast, interview format
+⭐⭐ GOOD - Solid credentials, reputable podcast, relevant content
+⭐ ACCEPTABLE - Some expertise, less known podcast but legitimate
+❌ REJECT - No clear credentials, wrong format, or off-topic
+================================================================================
+
+================================================================================
+BEGINNER LEVEL CANDIDATES
+Focus: Foundational questions, accessible explanations, famous philosophers
+================================================================================
+
+EPISODE: David Chalmers: The Hard Problem of Consciousness
+Episode ID: 791930
+Podcast ID: 22625
+Podcast: Lex Fridman Podcast
+Rating: ⭐⭐⭐ EXCELLENT
+Level: BEGINNER
+
+Guest: David Chalmers
+Credentials: Professor of Philosophy and Neural Science at NYU, co-director of NYU's Center for Mind, Brain, and Consciousness. Coined "the hard problem of consciousness."
+
+Expertise Signals:
+- Professor at major university (NYU)
+- Director of consciousness research center
+- Coined influential philosophical term
+- Lex Fridman interview (Top 200 podcast)
+
+Why This Episode:
+Perfect introduction to philosophy of mind. Chalmers makes the hard problem accessible while maintaining rigor. Discusses consciousness, simulation hypothesis, meaning of life, free will, and philosophical zombies - all key intro topics.
+
+What Learners Will Gain:
+- Understanding of what consciousness is
+- The "hard problem" concept
+- Why consciousness matters philosophically
+- Connection to AI and technology
+
+---
+
+EPISODE: Peter Singer on Utilitarianism, Influence, and Controversial Ideas
+Episode ID: 30520253
+Podcast ID: 36117
+Podcast: Conversations with Tyler
+Rating: ⭐⭐⭐ EXCELLENT
+Level: BEGINNER
+
+Guest: Peter Singer
+Credentials: Ira W. DeCamp Professor Emeritus of Bioethics at Princeton University. One of the world's most influential living philosophers. Author of Animal Liberation and Practical Ethics.
+
+Expertise Signals:
+- Professor at Princeton (top institution)
+- "One of the world's most influential living philosophers"
+- Multiple published books
+- Founded effective altruism movement
+
+Why This Episode:
+Singer is exceptionally clear and practical. This episode covers utilitarianism (a major ethical theory) in accessible terms. Tyler Cowen is an excellent interviewer who asks smart questions.
+
+What Learners Will Gain:
+- Understanding of utilitarian ethics
+- How philosophy applies to real-world decisions
+- Introduction to effective altruism
+- How to think about ethical dilemmas
+
+---
+
+EPISODE: Daniel Dennett: Philosophy, Free Will, Thinking Differently
+Episode ID: 95511154
+Podcast ID: 339796
+Podcast: Theories of Everything
+Rating: ⭐⭐⭐ EXCELLENT
+Level: BEGINNER
+
+Guest: Daniel Dennett (Note: Dennett passed away in 2024)
+Credentials: Emeritus Professor of Philosophy at Tufts University. Co-director of the Center for Cognitive Studies. One of the "Four Horsemen of New Atheism." Author of Consciousness Explained, Darwin's Dangerous Idea, Freedom Evolves.
+
+Expertise Signals:
+- Professor at major university
+- Director of research center
+- Multiple influential books published
+- Internationally recognized philosopher
+
+Why This Episode:
+Dennett is known for making complex ideas accessible. This covers free will, consciousness, qualia, and the soul - all fundamental philosophy topics. Good entry point to philosophy of mind.
+
+What Learners Will Gain:
+- Do we have free will?
+- What is consciousness really?
+- How to think about the mind
+- Introduction to philosophical pragmatism
+
+---
+
+EPISODE: Existentialism
+Episode ID: 671413 (or 3758173)
+Podcast ID: 19402
+Podcast: In Our Time (BBC)
+Rating: ⭐⭐⭐ EXCELLENT
+Level: BEGINNER
+
+Guests: Dr. A. C. Grayling (Reader in Philosophy, Birkbeck College, University of London), Christina Howells (Professor of French, University of Oxford, fellow of Wadham College), Simon Critchley (Professor of Philosophy, University of Essex)
+
+Credentials: Multiple professors from top UK universities
+
+Expertise Signals:
+- Three academic philosophers with PhDs
+- Universities: Birkbeck, Oxford, Essex
+- BBC In Our Time (highly respected)
+- Melvyn Bragg as moderator
+
+Why This Episode:
+Excellent overview of existentialism - Sartre, Camus, Kierkegaard. Covers freedom, responsibility, and meaning. BBC format ensures accessibility while maintaining rigor.
+
+What Learners Will Gain:
+- What is existentialism?
+- Key thinkers: Sartre, Camus, Kierkegaard
+- Concepts: freedom, authenticity, absurdity
+- Why existentialism matters today
+
+---
+
+EPISODE: Sean Carroll on Consciousness, Physicalism, and the History of Intellectual Progress
+Episode ID: 41495903 (or 98233441)
+Podcast ID: 300984
+Podcast: Future of Life Institute Podcast
+Rating: ⭐⭐⭐ EXCELLENT
+Level: BEGINNER
+
+Guest: Sean Carroll
+Credentials: Homewood Professor of Natural Philosophy at Johns Hopkins University, fractal faculty at Santa Fe Institute, theoretical physicist at Caltech. Host of Mindscape podcast.
+
+Expertise Signals:
+- Professor at Johns Hopkins
+- Santa Fe Institute (prestigious)
+- "Natural Philosophy" title (philosophy+physics)
+- Multiple published books
+
+Why This Episode:
+Carroll bridges physics and philosophy beautifully. Covers consciousness, free will, materialism, and the history of ideas. Very accessible for beginners while being substantive.
+
+What Learners Will Gain:
+- How physics relates to philosophy
+- What is physicalism?
+- Evolution of philosophical thought
+- The problem of consciousness from a scientist's view
+
+---
+
+EPISODE: Political Philosophy 101 - Plato & Aristotle
+Episode ID: 63018574
+Podcast ID: 467522
+Podcast: Two Tims (or similar)
+Rating: ⭐⭐ GOOD
+Level: BEGINNER
+
+Format: Educational discussion of Plato and Aristotle's political philosophy
+
+Expertise Signals:
+- Structured educational format
+- Covers foundational thinkers
+- Clear pedagogical approach
+
+Why This Episode:
+Direct introduction to ancient Greek philosophy, which is essential for understanding Western philosophy. Covers Plato's Republic and Aristotle's Politics.
+
+What Learners Will Gain:
+- Plato's theory of forms and ideal state
+- Aristotle's types of government
+- Ancient Greek foundations of philosophy
+- How philosophy connects to politics
+
+What Learners Will Gain:
+- Foundation in ancient philosophy
+- Understanding of Plato and Aristotle
+- How philosophy began in the West
+- Connection between philosophy and government
+
+================================================================================
+INTERMEDIATE LEVEL CANDIDATES
+Focus: Major philosophical movements, deeper ethical theories, philosophy of mind
+================================================================================
+
+EPISODE: #67 – David Chalmers on the nature and ethics of consciousness
+Episode ID: 6613664
+Podcast ID: 134884
+Podcast: 80,000 Hours Podcast
+Rating: ⭐⭐⭐ EXCELLENT
+Level: INTERMEDIATE
+
+Guest: David Chalmers
+Credentials: [Same as above - top philosopher]
+
+Expertise Signals:
+- 4+ hour deep dive
+- Covers multiple theories of consciousness
+- Discusses ethical implications
+- From respected EA/philosophy podcast
+
+Why This Episode:
+Goes much deeper than beginner episodes. Covers illusionism, panpsychism, dualism, materialism, and the ethical implications. Explores philosophical zombies and Vulcans thought experiments.
+
+What Learners Will Gain:
+- Different theories of consciousness (detailed)
+- Philosophical zombies and moral status
+- How consciousness relates to ethics
+- Contemporary debates in philosophy of mind
+
+---
+
+EPISODE: 209 - Peter Singer: Controversial Ideas, Utilitarianism, and Animal Liberation
+Episode ID: 52667129
+Podcast ID: 261052
+Podcast: Metaphysical Graffiti (or similar philosophy podcast)
+Rating: ⭐⭐⭐ EXCELLENT
+Level: INTERMEDIATE
+
+Guest: Peter Singer
+Credentials: [Same as above]
+
+Expertise Signals:
+- In-depth philosophical discussion
+- Covers meta-ethics
+- Discusses Journal of Controversial Ideas
+- Academic philosophy podcast
+
+Why This Episode:
+Deeper dive into Singer's philosophy. Covers not just utilitarianism but meta-ethics, moral realism vs anti-realism, and controversial applications of ethical theory.
+
+What Learners Will Gain:
+- Deeper understanding of utilitarian ethics
+- Meta-ethical questions
+- How to handle controversial ideas in philosophy
+- Singer's recent work and evolution
+
+---
+
+EPISODE: 207 - Sean Carroll: Quanta, Fields, and the Philosophy of Quantum Physics
+Episode ID: 51609014
+Podcast ID: 261052
+Podcast: Metaphysical Graffiti
+Rating: ⭐⭐⭐ EXCELLENT
+Level: INTERMEDIATE
+
+Guest: Sean Carroll
+Credentials: [Same as above]
+
+Expertise Signals:
+- Technical philosophy of physics
+- Discusses scientific realism
+- Covers philosophy of mathematics
+- Academic level discussion
+
+Why This Episode:
+Explores deeper questions about the foundations of reality, scientific realism, naturalized epistemology, and philosophy of mathematics. More technical than beginner episodes.
+
+What Learners Will Gain:
+- Philosophy of science concepts
+- What is scientific realism?
+- How physics and philosophy intersect
+- The nature of reality at fundamental levels
+
+---
+
+EPISODE: Is Consciousness an Illusion? with Philosopher KEITH FRANKISH
+Episode ID: 54083453 (multiple podcast IDs)
+Podcast ID: 211061
+Podcast: The Creative Process
+Rating: ⭐⭐⭐ EXCELLENT
+Level: INTERMEDIATE
+
+Guest: Keith Frankish
+Credentials: Honorary Professor of Philosophy at University of Sheffield, Visiting Research Fellow at The Open University, Adjunct Professor at University of Crete. Editor of "Illusionism as a Theory of Consciousness" and "The Cambridge Handbook of Cognitive Science."
+
+Expertise Signals:
+- Professor at multiple universities
+- Editor of academic books
+- Known for "illusionist" view of consciousness
+- Published extensively on philosophy of mind
+
+Why This Episode:
+Challenges mainstream views of consciousness with illusionism. Requires understanding of dualism vs materialism to fully appreciate. Discusses Dennett's influence.
+
+What Learners Will Gain:
+- Alternative view: consciousness as illusion
+- Critique of dualism
+- How science relates to philosophy
+- Contemporary debates in philosophy of mind
+
+---
+
+EPISODE: Adventures in Philosophy with Daniel Dennett and Richard Dawkins
+Episode ID: 42628648
+Podcast ID: 116246
+Podcast: Intelligence Squared
+Rating: ⭐⭐⭐ EXCELLENT
+Level: INTERMEDIATE
+
+Guests: Daniel Dennett and Richard Dawkins
+Credentials: Dennett [as above], Dawkins (evolutionary biologist, author of The Selfish Gene, The God Delusion)
+
+Expertise Signals:
+- Two major public intellectuals
+- Covers evolution and philosophy
+- Intelligence Squared (high-quality platform)
+- Discussion between equals
+
+Why This Episode:
+Fascinating dialogue between philosopher and scientist. Covers evolution, consciousness, religion, and free will. Shows how philosophy and science interact.
+
+What Learners Will Gain:
+- Evolution's implications for philosophy
+- How philosophers and scientists think differently
+- The relationship between science and philosophy
+- Darwin's impact on philosophical thought
+
+---
+
+EPISODE: Making Sense of Free Will
+Episode ID: 41132337
+Podcast ID: 300706
+Podcast: Making Sense (Sam Harris)
+Rating: ⭐⭐⭐ EXCELLENT
+Level: INTERMEDIATE
+
+Guests: Robert Sapolsky (neuroscientist, Stanford), Daniel Dennett, Sean Carroll, Judea Pearl, Jerry Coyne, Ricky Gervais
+
+Credentials: Multiple professors and experts
+
+Expertise Signals:
+- Compilation of multiple expert views
+- Stanford neuroscientist
+- Multiple philosophers
+- Sam Harris has PhD in neuroscience
+
+Why This Episode:
+Comprehensive exploration of free will from multiple angles. Shows different philosophical and scientific perspectives on the same question.
+
+What Learners Will Gain:
+- Do we have free will?
+- Neuroscience perspective (Sapolsky)
+- Philosophical perspectives (Dennett, Carroll)
+- Why this question matters
+
+================================================================================
+ADVANCED LEVEL CANDIDATES
+Focus: Contemporary debates, cutting-edge topics, technical philosophy
+================================================================================
+
+EPISODE: Moral Implications of AI Consciousness, w Philosopher Jeff Sebo
+Episode ID: 71089900
+Podcast ID: 556914
+Podcast: AI-Curious
+Rating: ⭐⭐⭐ EXCELLENT
+Level: ADVANCED
+
+Guest: Jeff Sebo
+Credentials: Professor at New York University, Director of the Mind, Ethics, and Policy Program, author of "Saving Animals, Saving Ourselves"
+
+Expertise Signals:
+- Professor at NYU
+- Director of specialized ethics program
+- Published book
+- Works at intersection of philosophy and cutting-edge technology
+
+Why This Episode:
+Explores frontier question: if AI becomes conscious, what are the moral implications? Requires understanding of consciousness, ethics, and philosophy of mind.
+
+What Learners Will Gain:
+- Ethics of AI consciousness
+- Do AIs deserve rights?
+- What is moral status?
+- Future ethical challenges
+
+---
+
+EPISODE: Posthumanism
+Episode ID: 78322701
+Podcast ID: 193156
+Podcast: Hotel Bar Sessions
+Rating: ⭐⭐ GOOD
+Level: ADVANCED
+
+Format: Discussion of posthumanism and transhumanism
+
+Expertise Signals:
+- Covers Foucault, Haraway
+- Discusses contemporary philosophy
+- Explores technology and humanity
+
+Why This Episode:
+Explores what comes after humanism. Discusses whether we're moving beyond "the human." Requires understanding of humanism first.
+
+What Learners Will Gain:
+- What is posthumanism?
+- Transhumanism vs posthumanism
+- How technology changes human identity
+- Contemporary philosophical movements
+
+---
+
+EPISODE: Transhumanism and Posthumanism
+Episode ID: 671444
+Podcast ID: 19405
+Podcast: Philosophy Now
+Rating: ⭐⭐⭐ EXCELLENT
+Level: ADVANCED
+
+Guests: Debra Shaw (University of East London), Blay Whitby (University of Sussex), David Gamez (Imperial College London)
+
+Credentials: Three academics from UK universities
+
+Expertise Signals:
+- Multiple university affiliations
+- Philosophy Now (respected publication)
+- Expert panel format
+
+Why This Episode:
+Academic discussion of humanity's future. Covers biotechnology, enhancement, and philosophical implications of transforming humanity.
+
+What Learners Will Gain:
+- Future of humanity philosophically
+- Ethics of human enhancement
+- Limits of biotechnology
+- Contemporary debates on what it means to be human
+
+---
+
+EPISODE: Philosopher Explains What Consciousness Is - Philip Goff
+Episode ID: 67459668
+Podcast ID: 516535
+Podcast: [Podcast name unclear]
+Rating: ⭐⭐⭐ EXCELLENT
+Level: ADVANCED
+
+Guest: Philip Goff
+Credentials: Philosopher specializing in consciousness, metaphysics, and philosophy of mind. Known for work on panpsychism. Author of "Galileo's Error: Foundations for a New Science of Consciousness."
+
+Expertise Signals:
+- Specializes in consciousness
+- Published book on consciousness
+- Known for panpsychism advocacy
+- Professional philosopher
+
+Why This Episode:
+Explores panpsychism - the idea that consciousness is fundamental and present in all matter. Advanced metaphysical position that challenges materialism.
+
+What Learners Will Gain:
+- What is panpsychism?
+- Alternative to materialism and dualism
+- Why consciousness might be fundamental
+- Cutting-edge philosophy of mind
+
+---
+
+EPISODE: From Consciousness to Synthetic Consciousness: Prof. David Chalmers
+Episode ID: 51381123
+Podcast ID: 355671
+Podcast: [Podcast name unclear]
+Rating: ⭐⭐⭐ EXCELLENT
+Level: ADVANCED
+
+Guest: David Chalmers
+Credentials: [Same as above]
+
+Expertise Signals:
+- Discusses synthetic consciousness
+- Explores simulation hypothesis in depth
+- Technical philosophical arguments
+- Examines future of consciousness
+
+Why This Episode:
+Advanced topics: Can machines be conscious? Are we in a simulation? Explores the future of consciousness and AI. Requires foundational understanding.
+
+What Learners Will Gain:
+- Can machines be conscious?
+- The simulation argument
+- What is artificial consciousness?
+- Future philosophical questions
+
+---
+
+EPISODE: Francesca Ferrando on Philosophical Posthumanism
+Episode ID: 11237580
+Podcast ID: 55139
+Podcast: [Podcast name unclear]
+Rating: ⭐⭐⭐ EXCELLENT
+Level: ADVANCED
+
+Guest: Francesca Ferrando
+Credentials: Author of "Philosophical Posthumanism," scholar specializing in posthumanism and transhumanism
+
+Expertise Signals:
+- Published academic book
+- Specializes in posthumanism
+- Scholar in the field
+
+Why This Episode:
+Academic treatment of posthumanism. Distinguishes philosophical posthumanism from transhumanism. Advanced contemporary philosophy.
+
+What Learners Will Gain:
+- What is philosophical posthumanism?
+- How it differs from transhumanism
+- Contemporary continental philosophy
+- Future of philosophical thought
+
+================================================================================
+ADDITIONAL STRONG CANDIDATES (BACKUP)
+================================================================================
+
+EPISODE: Episode 36, The Daniel Dennett Interview (Part I & II)
+Episode ID: 672612, 672610
+Podcast ID: 19416
+Podcast: The Panpsycast
+Rating: ⭐⭐⭐ EXCELLENT
+Level: INTERMEDIATE/ADVANCED
+
+Two-part interview with Dennett covering philosophy of religion and philosophy of mind. Academic philosophy podcast.
+
+---
+
+EPISODE: Sean Carroll: Is Consciousness Emergent?
+Episode ID: 35044722
+Podcast ID: 281448
+Podcast: Panpsycast (or similar)
+Rating: ⭐⭐⭐ EXCELLENT
+Level: INTERMEDIATE
+
+Carroll debates Philip Goff on whether consciousness is emergent. Technical philosophical discussion.
+
+================================================================================
+EPISODES TO AVOID (Examples)
+================================================================================
+
+❌ REJECT: "Lex Fridman" (Episode where Lex is the guest)
+- Wrong format: Host being interviewed, not philosopher
+- Not philosophy-focused
+
+❌ REJECT: Most "Simulation Hypothesis" episodes
+- No clear expert philosophers
+- Speculative rather than rigorous philosophical treatment
+
+❌ REJECT: Generic "meaning of life" episodes
+- No clear philosophical expertise
+- Self-help rather than philosophy
+
+================================================================================
+SELECTION STRATEGY FOR FINAL 18 EPISODES
+================================================================================
+
+BEGINNER (6 episodes):
+✓ David Chalmers on Lex Fridman - Consciousness intro
+✓ Peter Singer on Conversations with Tyler - Ethics/utilitarianism
+✓ Daniel Dennett on Theories of Everything - Free will/philosophy of mind
+✓ BBC In Our Time - Existentialism
+✓ Sean Carroll on FLI - Consciousness and physicalism
+✓ Plato & Aristotle episode - Ancient philosophy
+
+INTERMEDIATE (6 episodes):
+✓ David Chalmers on 80,000 Hours - Deep dive on consciousness
+✓ Peter Singer - Animal Liberation/deeper ethics
+✓ Sean Carroll - Philosophy of quantum physics
+✓ Keith Frankish - Illusionism
+✓ Dennett & Dawkins - Philosophy and evolution
+✓ Making Sense of Free Will - Compilation
+
+ADVANCED (6 episodes):
+✓ Jeff Sebo - AI consciousness ethics
+✓ Posthumanism (Philosophy Now or Hotel Bar)
+✓ Philip Goff - Panpsychism
+✓ David Chalmers - Synthetic consciousness
+✓ Francesca Ferrando - Philosophical posthumanism
+✓ [Need one more - possibly simulation hypothesis with actual philosopher]
+
+DIVERSITY CHECK:
+- 18 different podcasts ✓ (will verify in final selection)
+- Mix of male and female philosophers (need to check - may need to find more female philosophers)
+- Mix of topics: consciousness, ethics, political philosophy, existentialism, free will, posthumanism ✓
+- Geographic diversity: US, UK, Australia ✓
+
+POTENTIAL GAPS:
+- Could use more female philosophers (only have Francesca Ferrando clearly identified)
+- Aesthetics not well covered
+- Could use more specific epistemology episode
+- Could use Simone de Beauvoir or other female existentialist

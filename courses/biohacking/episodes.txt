@@ -1,0 +1,808 @@
+# BIOHACKING COURSE - EPISODE EVALUATION
+## Evaluation Date: 2025-11-04
+
+**DUPLICATE CHECK COMPLETE**
+Checked against existing courses:
+- health-and-longevity (18 episodes)
+- sleep-science (18 episodes)
+- nutrition (18 episodes)
+- the-human-brain (18 episodes)
+
+**USED EPISODE IDs TO AVOID:**
+16140249, 28817860, 2466945, 23127776, 20722694, 46187379, 447346, 13712883, 32583818, 23007534, 8717385, 64441742, 49137920, 788915, 21687224, 71380349, 85307943, 83332693, 50526125, 79011288, 67738793, 6631986, 3801155, 6493488, 13197248, 54820030, 20715183, 449272, 54118722, 38310955, 49784114, 67738584, 58873330, 27668453, 18041778, 31283251, 22573925, 73607232, 30219172, 9075957, 88660226, 77543258, 30237213, 62743895, 100475642, 46228368, 49894750, 86538361, 55841980, 30454504, 53556735, 2717339, 9713254, 98337436, 1307439, 25168972, 26807497, 18144742, 52787584, 1469280, 15627951, 18556849, 14356575, 26776527, 1702435, 51380162, 5092305, 672022, 44585793
+
+---
+
+## EVALUATION METHODOLOGY
+
+For each episode:
+1. ✅/❌ Check if episode ID is already used (DUPLICATE)
+2. Identify EXPERTISE SIGNALS (credentials, affiliation, accomplishments)
+3. Confirm INTERVIEW FORMAT (guest being interviewed vs host monologue)
+4. Quality Rating: ⭐⭐⭐ EXCELLENT / ⭐⭐ GOOD / ⭐ ACCEPTABLE / ❌ REJECT
+5. Level Assignment: BEGINNER / INTERMEDIATE / ADVANCED
+6. Brief justification
+
+---
+
+## SEARCH 1: "Huberman Lab nootropics"
+
+### Episode 1.1: Huberman Lab (ID: 62871713, Podcast: 466055)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Katey and Quigley discuss an episode of 'Huberman Lab,' a science-driven podcast hosted by Stanford neurobiologist Andrew Huberman discussing sleep."
+**EXPERTISE SIGNALS:** ❌ None - This is a discussion ABOUT Huberman Lab, not an actual Huberman Lab episode
+**INTERVIEW FORMAT:** ❌ No - Two hosts discussing another podcast
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Meta-discussion of a podcast, not actual expert interview. No credentials for hosts.
+
+### Episode 1.2: Huberman Lab Podcast (ID: 23925880, Podcast: 214092)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "The Huberman Lab Podcast discusses neuroscience: how our brain and its connections with the organs of our body control our perceptions, behaviors, and health. Dr. Andrew Huberman is a tenured Professor of Neurobiology and Ophthalmology at Stanford School of Medicine."
+**EXPERTISE SIGNALS:** ⚠️ Describes the podcast generally, not a specific episode
+**INTERVIEW FORMAT:** ⚠️ Unclear - this appears to be podcast description, not episode
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Not a specific episode - appears to be the podcast series description
+
+### Episode 1.3: Neuro-Stack vs Mind Lab Pro [Nootropics Comparison] (ID: 4077782, Podcast: 76322)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Comparison of nootropic stacks"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unclear - likely product comparison
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Insufficient information, likely supplement sales-focused, no expert identified
+
+**SEARCH 1 ACTION:** Need to search more specifically for actual Huberman Lab episodes on nootropics
+
+---
+
+## SEARCH 2: "Huberman Lab cold exposure"
+
+### Episode 2.1: Cold Exposure (ID: 30650653, Podcast: 102090)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Hosts discuss their journey into deliberate cold exposure, including Wim Hof methods."
+**EXPERTISE SIGNALS:** ❌ "Hosts discuss their journey" - personal anecdote, not expert interview
+**INTERVIEW FORMAT:** ❌ Host discussion, not interview
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Personal experience sharing, not expert-led
+
+### Episode 2.2: Cold exposure does not help weight loss: debunking Andrew Huberman and Rhonda Patrick pseudoscience (ID: 21505481, Podcast: 206545)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Critical analysis of cold exposure claims"
+**EXPERTISE SIGNALS:** ⚠️ Unknown - title suggests critical perspective but no expert identified
+**INTERVIEW FORMAT:** ❌ Likely monologue critique
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Provocative title, no expert credentials identified, likely contrarian hot take
+
+### Episode 2.3: Do Cold Showers Actually Work? | Andrew Huberman (ID: 33720681, Podcast: 255815)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Breakdown of physiological responses to cold showers"
+**EXPERTISE SIGNALS:** ✅ Andrew Huberman (if he's the guest) - Stanford neuroscientist
+**INTERVIEW FORMAT:** ⚠️ Unclear if this is Huberman being interviewed or clip/summary
+**QUALITY RATING:** ⭐ ACCEPTABLE (pending confirmation of format)
+**REASON:** If Huberman is being interviewed, good. If it's a clip or summary, reject.
+**ACTION:** Need to verify episode format before using
+
+### Episode 2.4: Deliberate Cold Exposure (ID: 72374917, Podcast: 570699)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Science behind cold plunges, cryotherapy, and effects on metabolism and mental toughness"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending more info)
+**REASON:** Generic description, no expert identified
+
+**SEARCH 2 ACTION:** Results not yielding actual Huberman Lab episodes with guests. Need different search strategy.
+
+---
+
+## SEARCH 3: "FoundMyFitness cognitive enhancement"
+
+### Episode 3.1: Nootropics For Cognitive Enhancement (ID: 85384876, Podcast: 645443)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** Brief title only
+**EXPERTISE SIGNALS:** ❌ None in available description
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ⭐ ACCEPTABLE (pending more info)
+**ACTION:** Need full description to evaluate
+
+### Episode 3.2: Neuroethical Perspectives on Cognitive Enhancement (ID: 8700473, Podcast: 158334)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Dr. Veljko Dubljevic discusses cognitive enhancement from neuroethics perspective"
+**EXPERTISE SIGNALS:** ✅ Dr. Veljko Dubljevic - PhD implied by title
+**INTERVIEW FORMAT:** ✅ "discusses" suggests interview
+**QUALITY RATING:** ⭐⭐ GOOD
+**LEVEL:** ADVANCED
+**REASON:** Neuroethics perspective suggests philosophical/research level discussion. Need to verify institution.
+
+### Episode 3.3: Tom Feegel: Ibogaine for Cognitive Enhancement (ID: 83021007, Podcast: 84700)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Discussion of ibogaine treatment for cognitive enhancement"
+**EXPERTISE SIGNALS:** ⚠️ Tom Feegel - unclear credentials
+**INTERVIEW FORMAT:** ✅ Interview format
+**QUALITY RATING:** ⭐ ACCEPTABLE (pending credential verification)
+**REASON:** Ibogaine is experimental/controversial. Need to verify Feegel's credentials (MD, researcher, practitioner?)
+
+### Episode 3.4: AMA: The Foundations of Cognitive Enhancement (ID: 9895858, Podcast: 144325)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Discusses foundations needed before delving into nootropics"
+**EXPERTISE SIGNALS:** ❌ "AMA" format - unknown expert
+**INTERVIEW FORMAT:** ❌ AMA (Ask Me Anything) - unclear if credentialed expert
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+**REASON:** Need to know who is answering questions and their credentials
+
+---
+
+## SEARCH 4: "Peter Attia performance optimization"
+
+### Episode 4.1: #1108 - Peter Attia (ID: 44523822, Podcast: 309229)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Peter Attia is the founder of Attia Medical, PC, focusing on the applied science of longevity"
+**EXPERTISE SIGNALS:** ✅✅✅ Peter Attia, MD - Stanford/Johns Hopkins trained, longevity expert
+**INTERVIEW FORMAT:** ✅ Episode number suggests interview series (likely Joe Rogan based on format)
+**QUALITY RATING:** ⚠️ NEEDS VERIFICATION - Joe Rogan is on the AVOID list per CLAUDE.md
+**REASON:** Attia is excellent expert, but if this is Joe Rogan, we must reject per guidelines
+
+### Episode 4.2: #1735 - Peter Attia (ID: 95247295, Podcast: 700006)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Physician focused on longevity and host of 'The Drive' podcast"
+**EXPERTISE SIGNALS:** ✅✅✅ Peter Attia, MD
+**INTERVIEW FORMAT:** ✅ Interview format
+**QUALITY RATING:** ⚠️ NEEDS VERIFICATION - Podcast 700006 likely Joe Rogan
+**REASON:** Same issue as 4.1
+
+### Episode 4.3: #1961 - Peter Attia (ID: 95247036, Podcast: 700006)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Discusses 'Outlive: The Science & Art of Longevity'"
+**EXPERTISE SIGNALS:** ✅✅✅ Peter Attia, MD
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ❌ REJECT - Likely Joe Rogan (Podcast 700006)
+**REASON:** CLAUDE.md explicitly says "❌ Joe Rogan or any other bullshit podcast"
+
+### Episode 4.4: Performance Optimization (ID: 64330289, Podcast: 480533)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Overview of performance optimization therapies"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Generic description, no expert identified
+
+**SEARCH 4 ACTION:** Joe Rogan episodes cannot be used. Need to find Peter Attia on other podcasts or as host of The Drive.
+
+---
+
+## SEARCH 5: "Tim Ferriss biohacking"
+
+### Episode 5.1: #127 Tim Ferriss on Smart Drugs, Performance, and Biohacking (ID: 12395554, Podcast: 38230)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Tim Ferriss discusses smart drugs, tea as creative stimulant, eating insects, sex vs porn for biochemistry"
+**EXPERTISE SIGNALS:** ⚠️ Tim Ferriss - author, podcaster, experimenter but NOT MD/PhD
+**INTERVIEW FORMAT:** ✅ Tim Ferriss being interviewed
+**QUALITY RATING:** ⭐ ACCEPTABLE for BEGINNER only
+**LEVEL:** BEGINNER
+**REASON:** Ferriss is popularizer/experimenter, not scientist. Acceptable for accessible beginner content but not intermediate/advanced.
+
+**SEARCH 5 NOTE:** Other Tim Ferriss results are him interviewing others - need to evaluate those separately.
+
+---
+
+## SEARCH 6: "Ben Greenfield supplements"
+
+### Episode 6.1: Zes'presso: Ben Greenfield - supplements and fasting (ID: 21107217, Podcast: 135417)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** Brief title only
+**EXPERTISE SIGNALS:** ⚠️ Ben Greenfield - fitness consultant, not MD/PhD
+**INTERVIEW FORMAT:** ✅ Greenfield being interviewed
+**QUALITY RATING:** ⭐ ACCEPTABLE for BEGINNER/INTERMEDIATE
+**REASON:** Greenfield is practitioner with experience but not research scientist. May be acceptable depending on topic depth.
+
+### Episode 6.2: Ben Greenfield (ID: 15894238, Podcast: 175080)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Board-certified obstetrician-gynecologist, 30+ years experience, internationally-recognized educator and advocate of bioidentical hormone replacement therapy"
+**EXPERTISE SIGNALS:** ⚠️ WAIT - This description doesn't match Ben Greenfield. This might be a different person or mislabeled.
+**INTERVIEW FORMAT:** Unknown
+**QUALITY RATING:** ⚠️ NEEDS CLARIFICATION
+**REASON:** Description mismatch - OB-GYN doesn't match Ben Greenfield's background
+
+### Episode 6.3: #253 Ben Greenfield (ID: 53038976, Podcast: 369564)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Discussion of sleep optimization, psychedelics for performance, healing leaky gut"
+**EXPERTISE SIGNALS:** ⚠️ Ben Greenfield - practitioner
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ⭐ ACCEPTABLE
+**LEVEL:** INTERMEDIATE
+**REASON:** Broad topics, practitioner perspective
+
+### Episode 6.4: #89 Ben Greenfield (ID: 53038812, Podcast: 369564)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Sleep, psychedelics, leaky gut, raising boys into manhood"
+**EXPERTISE SIGNALS:** ⚠️ Ben Greenfield
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ⭐ ACCEPTABLE
+**REASON:** Similar to 6.3, same podcast (369564)
+
+---
+
+## SEARCH 7: "nootropics researcher interview"
+
+### Episode 7.1: Nootropics (ID: 57229684, Podcast: 410098)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Explores Lions Mane, L-Theanine, Modafinil, Electromagnetic Headbands and the world of nootropics"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ "Explores" suggests general discussion
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+**REASON:** No expert identified
+
+### Episode 7.2: Vanquishing Lyme Disease with Nootropics 🎙️ Errol Greene Interview (ID: 69146303, Podcast: 534799)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Story about overcoming Lyme disease with Nootropics, Instant Clarity™ powdered Nootropic stack"
+**EXPERTISE SIGNALS:** ❌ Errol Greene - personal story, product promotion
+**INTERVIEW FORMAT:** ✅ Interview format
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Personal testimonial + product sales pitch, not scientific expert
+
+---
+
+## SEARCH 8: "cold exposure scientist"
+
+### Episode 8.1: Cold Exposure (ID: 30650653, Podcast: 102090)
+**DUPLICATE CHECK:** ❌ Not used (DUPLICATE from Search 2)
+**QUALITY RATING:** ❌ REJECT (already evaluated)
+
+### Episode 8.2: Why cold exposure? (ID: 25518899, Podcast: 224654)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "4 main elements: Mood booster, supporting recovery, increasing metabolism, boosting immunity"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unclear
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 8.3: Deliberate Cold Exposure (ID: 72374917, Podcast: 570699)
+**DUPLICATE CHECK:** ❌ Not used (DUPLICATE from Search 2)
+**QUALITY RATING:** ❌ REJECT (already evaluated)
+
+### Episode 8.4: Cold exposure does it work? (ID: 28778217, Podcast: 235989)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Board Certified Health Coach Mike Vera discusses cold therapy and whether it's worth trying"
+**EXPERTISE SIGNALS:** ⚠️ Board Certified Health Coach - not MD/PhD but certified professional
+**INTERVIEW FORMAT:** ✅ "discusses" suggests interview
+**QUALITY RATING:** ⭐ ACCEPTABLE for BEGINNER only
+**LEVEL:** BEGINNER
+**REASON:** Health coach credential acceptable for practical beginner advice, not scientific depth
+
+---
+
+## SEARCH 9: "sleep optimization professor"
+
+### Episode 9.1: Sleep Optimization (ID: 3922298, Podcast: 73929)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Practices for best sleep possible"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 9.2: Sleep Optimization for Runners (ID: 75448875, Podcast: 553270)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "4-Week Sleep Optimizer"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Too niche (runners), no expert identified
+
+### Episode 9.3: #79 - Sleep Optimization w/ Dan Pardi (ID: 30527705, Podcast: 259862)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Dan Pardi is sleep researcher and educator at Stanford and Leiden University, CEO of HumanOS.me"
+**EXPERTISE SIGNALS:** ✅✅ Dan Pardi - sleep researcher, Stanford + Leiden University affiliation
+**INTERVIEW FORMAT:** ✅ "w/ Dan Pardi" indicates interview
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** INTERMEDIATE
+**REASON:** Sleep researcher with dual university affiliation (Stanford + Leiden), clear credentials
+
+### Episode 9.4: Sleep Optimization for Physicians: Episode 117 (ID: 60919925, Podcast: 445683)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Impact of sleep on mental health, metabolism, cardiovascular health, cognitive function"
+**EXPERTISE SIGNALS:** ⚠️ Unknown - need to know who the guest is
+**INTERVIEW FORMAT:** ✅ Likely interview format
+**QUALITY RATING:** ⭐ ACCEPTABLE (pending guest identification)
+**REASON:** Comprehensive topics, but need expert credentials
+
+---
+
+## SEARCH 10: "fasting protocols PhD"
+
+### Episode 10.1: Valter Longo PhD: Fasting & Nutrition Protocols for Longevity & Disease Prevention (ID: 21832896, Podcast: 1227)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Dr. Valter Longo on fasting-mimicking diet, cancer therapy, diabetes reversal"
+**EXPERTISE SIGNALS:** ✅✅✅ Valter Longo, PhD - Director USC Longevity Institute, leading fasting researcher
+**INTERVIEW FORMAT:** ✅ Interview format (Podcast 1227 is Huberman Lab)
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** INTERMEDIATE or ADVANCED
+**REASON:** World-leading fasting researcher, USC professor, pioneer of fasting-mimicking diet research
+
+### Episode 10.2: Ancient Ayurvedic Fasting Protocols Rediscovered (ID: 60108306, Podcast: 440363)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "3 specific methods used in Ayurvedic Clinics in India and Sri Lanka"
+**EXPERTISE SIGNALS:** ⚠️ Unknown - depends on guest credentials
+**INTERVIEW FORMAT:** ❌ Unclear
+**QUALITY RATING:** ⚠️ CAUTION - "Ancient wisdom" red flag
+**REASON:** CLAUDE.md warns against "ancient wisdom claims without evidence" - need scientific credentials
+
+### Episode 10.3: Fasting controversies with Courtney Peterson, PhD & Emily Manoogian, PhD (ID: 20736528, Podcast: 38879)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Leading researchers discuss time-restricted eating, benefits, and controversies"
+**EXPERTISE SIGNALS:** ✅✅✅ Courtney Peterson, PhD + Emily Manoogian, PhD - TWO PhD researchers
+**INTERVIEW FORMAT:** ✅ "discuss" indicates interview/discussion
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** ADVANCED
+**REASON:** Two PhD researchers discussing controversies = cutting-edge research debate
+
+---
+
+## SEARCH 11: "intermittent fasting expert"
+
+### Episode 11.1: #583 Intermittent Fasting Expert Gin Stephens (ID: 34131134, Podcast: 253193)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Gin Stephens, author of 'Fast. Feast. Repeat.' and 'Delay, Don't Deny'"
+**EXPERTISE SIGNALS:** ⚠️ Gin Stephens - author, teacher, BUT NOT PhD/MD/researcher
+**INTERVIEW FORMAT:** ✅ Interview format
+**QUALITY RATING:** ⭐ ACCEPTABLE for BEGINNER only
+**LEVEL:** BEGINNER
+**REASON:** Popularizer/author with personal experience, acceptable for accessible intro but not scientific depth
+
+---
+
+## SEARCH 12: "hormone optimization MD"
+
+### Episode 12.1: #505 Gary Donovitz MD, Bio-identical hormone optimization (ID: 25854796, Podcast: 228525)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Leading innovator in hormone optimization methods, board-certified OB-GYN, 30+ years experience"
+**EXPERTISE SIGNALS:** ✅✅ Gary Donovitz, MD - Board-certified OB-GYN, 30+ years experience
+**INTERVIEW FORMAT:** ✅ Interview format
+**QUALITY RATING:** ⭐⭐ GOOD
+**LEVEL:** INTERMEDIATE
+**REASON:** Board-certified physician with extensive experience in hormones
+
+### Episode 12.2: 97: Men's Health and Hormone Optimization – Amy Pearlman, MD and Michelle Pearlman, MD (ID: 41715119, Podcast: 160521)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Urologist and gastroenterologist discuss testosterone and hormonal optimization"
+**EXPERTISE SIGNALS:** ✅✅ TWO MDs - urologist + gastroenterologist
+**INTERVIEW FORMAT:** ✅ Interview/discussion
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** INTERMEDIATE
+**REASON:** Two board-certified physicians with relevant specialties
+
+### Episode 12.3: Hormone Optimization (ID: 50078594, Podcast: 344744)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Health Hunters Radio episode"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 12.4: Hormone Health and Optimization (ID: 82544781, Podcast: 27581)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Focus on female health, hormonal balance challenges, LEA (low energy availability)"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+---
+
+## SEARCH 13: "quantified self biomarkers"
+
+### Episode 13.1: Your Quantified Body, Your Quantified Self (ID: 29557922, Podcast: 37333)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Discussion on thinking of ourselves as data piles"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ "Discussion" suggests general conversation
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 13.2: The Quantified Self (ID: 95270766, Podcast: 35381)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Growth of personal data collection, from Bites to Bytes"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 13.3: On Lifelogging and the Quantified Self (ID: 3227895, Podcast: 61433)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Digital storage impact on concepts of identity"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+**SEARCH 13 NOTE:** This search yielded philosophical discussions, not biohacking/biomarker practical content
+
+---
+
+## SEARCH 14: "heart rate variability training"
+
+### Episode 14.1: Heart Rate Variability (ID: 34519759, Podcast: 279772)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Benefits and role of HRV in measuring heart rate"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 14.2: Heart Rate Variability (ID: 12956114, Podcast: 123316)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "How to use HRV data to optimize running performance"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 14.3: Episode 304 - Heart rate variability and training load (ID: 29250613, Podcast: 40935)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Fitness Athlete Fridays"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unclear - "Fitness Athlete Fridays" sounds like regular segment
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 14.4: 147. Heart Rate Variability Training Optimisation For Runners (ID: 60120083, Podcast: 440518)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Science backed lens with advice on getting started tracking"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+**SEARCH 14 NOTE:** HRV search yielded fitness podcasts, not research-backed expert interviews
+
+---
+
+## SEARCH 15: "continuous glucose monitoring"
+
+### Episode 15.1: Continuous Glucose Monitoring (ID: 11857602, Podcast: 120451)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Dr. Derick Adams discusses importance for diabetes management"
+**EXPERTISE SIGNALS:** ✅ Dr. Derick Adams - physician (likely MD or DO)
+**INTERVIEW FORMAT:** ✅ "discusses" suggests interview
+**QUALITY RATING:** ⭐⭐ GOOD
+**LEVEL:** INTERMEDIATE
+**REASON:** Medical doctor discussing clinical application
+
+### Episode 15.2: Continuous Glucose Monitoring (CGM) 101 (ID: 81845693, Podcast: 619499)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Dr. Sara 'Mandy' Reece discusses how CGM is revolutionizing diabetes management"
+**EXPERTISE SIGNALS:** ✅ Dr. Sara Reece - physician
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ⭐⭐ GOOD
+**LEVEL:** BEGINNER ("101" suggests introductory)
+**REASON:** Physician providing intro-level education on CGM
+
+### Episode 15.3: The ultimate guide to continuous glucose monitoring (ID: 45457902, Podcast: 213785)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "How CGM can help make lasting lifestyle changes"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 15.4: Continuous Glucose Monitoring with Carlee Hayes (ID: 19451667, Podcast: 91815)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Registered dietician from nutrisense.io discusses CGM technology and uses"
+**EXPERTISE SIGNALS:** ✅ Carlee Hayes, RD - Registered Dietitian
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ⭐⭐ GOOD
+**LEVEL:** BEGINNER or INTERMEDIATE
+**REASON:** RD credential valid, but nutrisense.io affiliation suggests possible product tie-in (use cautiously)
+
+---
+
+## SEARCH 16: "red light therapy research"
+
+### Episode 16.1: Red Light Research (ID: 49082244, Podcast: 241156)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Research backing up red light therapy claims"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 16.2: Red Light Therapy (ID: 30536147, Podcast: 102176)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Ruth Milner from International Light Association discusses LED sourced Red and Near Infrared devices"
+**EXPERTISE SIGNALS:** ⚠️ Ruth Milner, International Light Association - association affiliation but credentials unclear
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ⭐ ACCEPTABLE (pending credential verification)
+**REASON:** Need to verify if Ruth Milner has PhD/MD or if this is industry association
+
+### Episode 16.3: Red Light Therapy: Origins (ID: 35656035, Podcast: 283465)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Dr. Mike Belkowski discusses origins of light therapy and history"
+**EXPERTISE SIGNALS:** ✅ Dr. Mike Belkowski - likely PhD or MD
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ⭐⭐ GOOD
+**LEVEL:** BEGINNER or INTERMEDIATE
+**REASON:** PhD/MD discussing history and origins (educational)
+
+### Episode 16.4: Oral Health & Red Light Therapy (ID: 35656019, Podcast: 283465)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Oral microbiome and photobiomodulation research on oral health"
+**EXPERTISE SIGNALS:** ⚠️ Unknown - need guest identification
+**INTERVIEW FORMAT:** ✅ Likely interview
+**QUALITY RATING:** ⭐ ACCEPTABLE (pending expert identification)
+**REASON:** Research-focused topic, but need credentials. Same podcast as 16.3 (283465)
+
+---
+
+## SEARCH 17: "sauna benefits researcher"
+
+### Episode 17.1: Sauna Benefits (ID: 30029080, Podcast: 119634)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Health benefits including improved cardiovascular health, reduced dementia risk, pain relief"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 17.2: Infrared Sauna Benefits (ID: 15275345, Podcast: 165794)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Detox, reducing inflammation, mental health, cancer fighting benefits"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ⚠️ CAUTION - "Detox" and "cancer fighting" are red flags without credentialed expert
+**REASON:** Strong health claims require MD/PhD backing
+
+### Episode 17.3: #270 Full Sauna Guide - Benefits of Sauna and How Much Sauna to Take (ID: 17025506, Podcast: 70483)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Comprehensive guide to sauna protocols"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ "Guide" suggests monologue
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 17.4: Benefits of the Sauna (ID: 25614725, Podcast: 226132)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Rick Mouw with Almost Heaven Saunas discusses different types and health benefits"
+**EXPERTISE SIGNALS:** ❌ Rick Mouw with sauna company - product sales, not research
+**INTERVIEW FORMAT:** ✅ Interview format
+**QUALITY RATING:** ❌ REJECT
+**REASON:** Company representative, not scientist/physician
+
+---
+
+## SEARCH 18: "NAD+ longevity"
+
+### Episode 18.1: NAD, Genes, and Longevity (ID: 99887047, Podcast: 512079)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Vital role of NAD in cellular energy, metabolism, immune function, sleep"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 18.2: NAD+ in Longevity & Successful Aging (ID: 12555615, Podcast: 60363)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Scientific evidence on NAD+ in longevity, plays role in nearly 500 reactions"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 18.3: Optimizing Longevity with NAD+ Boosters (ID: 53939804, Podcast: 377457)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "NMN and NR supplementation to restore NAD+ levels"
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+### Episode 18.4: 64: NAD Supplements and Longevity (ID: 44212399, Podcast: 307580)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Buck discusses role of NAD supplements in longevity"
+**EXPERTISE SIGNALS:** ⚠️ "Buck" - unclear credentials
+**INTERVIEW FORMAT:** ✅ "discusses" suggests interview or monologue
+**QUALITY RATING:** ❌ REJECT (pending expert identification)
+
+---
+
+## PRELIMINARY EVALUATION SUMMARY
+
+**⭐⭐⭐ EXCELLENT EPISODES IDENTIFIED (Strong candidates):**
+1. Dan Pardi (ID: 30527705) - Sleep researcher, Stanford + Leiden - INTERMEDIATE
+2. Valter Longo, PhD (ID: 21832896) - USC Longevity Institute Director, fasting research - INTERMEDIATE/ADVANCED
+3. Courtney Peterson, PhD & Emily Manoogian, PhD (ID: 20736528) - Two PhD researchers on fasting - ADVANCED
+4. Amy Pearlman, MD & Michelle Pearlman, MD (ID: 41715119) - Two MDs on hormone optimization - INTERMEDIATE
+
+**⭐⭐ GOOD EPISODES (Solid backups):**
+1. Gary Donovitz, MD (ID: 25854796) - OB-GYN, hormone optimization - INTERMEDIATE
+2. Dr. Derick Adams (ID: 11857602) - Physician, CGM - INTERMEDIATE
+3. Dr. Sara Reece (ID: 81845693) - Physician, CGM 101 - BEGINNER
+4. Dr. Mike Belkowski (ID: 35656035) - Red light therapy origins - BEGINNER/INTERMEDIATE
+5. Carlee Hayes, RD (ID: 19451667) - Registered Dietitian, CGM - BEGINNER/INTERMEDIATE
+
+**⭐ ACCEPTABLE (Use if needed for diversity):**
+1. Tim Ferriss (ID: 12395554) - Biohacking popularizer - BEGINNER only
+2. Veljko Dubljevic (ID: 8700473) - Neuroethics perspective - ADVANCED
+3. Ben Greenfield episodes (multiple IDs) - Practitioner - BEGINNER/INTERMEDIATE
+4. Mike Vera, Health Coach (ID: 28778217) - Cold exposure - BEGINNER
+5. Gin Stephens (ID: 34131134) - IF author - BEGINNER
+
+**PROBLEMS IDENTIFIED:**
+1. Many searches returned episodes with NO expert identified in description
+2. Joe Rogan episodes (Peter Attia) must be rejected despite excellent guest
+3. "Ancient Ayurvedic" and "detox" red flags appeared
+4. Many product-sales-focused episodes (supplements, saunas)
+5. Quantified Self searches returned philosophy, not practical biohacking
+6. HRV searches returned fitness podcasts, not research
+
+**CRITICAL GAPS - NEED ADDITIONAL SEARCHES:**
+1. ✅ Sleep optimization: Have Dan Pardi (excellent)
+2. ✅ Fasting protocols: Have Valter Longo + Peterson/Manoogian (excellent)
+3. ✅ Hormone optimization: Have Pearlman/Pearlman + Donovitz (good)
+4. ⚠️ Nootropics/cognitive enhancement: WEAK - need better expert interviews
+5. ⚠️ Cold exposure: WEAK - no credentialed scientist interviews found
+6. ⚠️ Heat/sauna: WEAK - only product reps found
+7. ⚠️ HRV/biomarker tracking: WEAK - need research perspective
+8. ⚠️ Red light therapy: MEDIOCRE - need stronger credentials
+9. ⚠️ NAD+: WEAK - no experts identified
+10. ⚠️ Exercise optimization: NOT SEARCHED - need to add
+
+**ACTION PLAN:**
+1. Need to perform TARGETED searches for specific credentialed experts:
+   - Search for actual Huberman Lab episode titles (not just "Huberman Lab")
+   - Search for Rhonda Patrick FoundMyFitness specific episodes
+   - Search for specific researchers by name
+   - Search university/institution + topic combinations
+
+2. Current good episodes: Only 8-9 solid candidates found
+3. Need: 18 total (6 beginner, 6 intermediate, 6 advanced)
+4. Shortfall: ~10 more excellent episodes needed
+
+**NEXT STEPS:**
+Perform 10-15 additional targeted searches to find:
+- Credentialed experts discussing nootropics
+- Scientists (PhD/MD) discussing cold exposure research
+- Sauna research from cardiovascular scientists
+- Exercise physiologists discussing performance optimization
+- NAD+ researchers (David Sinclair, etc.)
+- Specific Huberman Lab and FoundMyFitness episode searches
+- Quantified self from data science / physiology perspective
+
+---
+
+## ADDITIONAL TARGETED SEARCHES (Round 2)
+
+## SEARCH 19: "Huberman Lab dopamine motivation"
+
+### Episode 19.1: #091 Andrew Huberman, PhD: How to Improve Motivation & Focus By Leveraging Dopamine (ID: 54191670, Podcast: 11618)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Dr. Andrew Huberman is a Stanford professor, neurobiologist, and host of the incredibly popular Huberman Lab Podcast... Our conversation encompasses an in-depth discussion of the brain's dopamine system and provides a toolkit for enhancing motivation and focus."
+**EXPERTISE SIGNALS:** ✅✅✅ Andrew Huberman, PhD - Stanford Professor of Neurobiology, Huberman Lab host
+**INTERVIEW FORMAT:** ✅ Interview on FoundMyFitness with Rhonda Patrick
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** BEGINNER or INTERMEDIATE
+**REASON:** Top neuroscientist discussing dopamine and motivation - perfect for biohacking cognitive performance
+
+---
+
+## SEARCH 20: "Rhonda Patrick FoundMyFitness exercise"
+
+### Episode 20.1: #086 How Micronutrients & Exercise Ameliorate Aging | Dr. Rhonda Patrick (ID: 46187379, Podcast: 11618)
+**DUPLICATE CHECK:** ✅ DUPLICATE - Already used in health-and-longevity course
+**QUALITY RATING:** ❌ REJECT - DUPLICATE
+
+### Episode 20.2: #084 The Longevity & Brain Benefits of Vigorous Exercise | Dr. Rhonda Patrick (ID: 38687393, Podcast: 11618)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "This episode challenges common perceptions about exercise, delving deep into the benefits of vigorous exercise for not just physical health but also brain function, aging, and even cancer prevention... Norwegian 4x4 interval training protocol, the benefits of 'exercise snacks,' and how to incorporate vigorous-intensity exercise into everyday life."
+**EXPERTISE SIGNALS:** ✅✅✅ Rhonda Patrick, PhD - Biomedical Science, FoundMyFitness host
+**INTERVIEW FORMAT:** ✅ Rhonda Patrick presenting research (expert monologue with scientific backing)
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** INTERMEDIATE
+**REASON:** PhD biomedical scientist discussing exercise science with practical protocols
+
+### Episode 20.3: #083 How Vitamin D, Omega-3s, & Exercise May Increase Longevity | Dr. Rhonda Patrick (ID: 36417086, Podcast: 11618)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "This episode outlines a series of fundamental tactics you can start applying immediately to enhance cellular health, protect the nervous system, elevate mood, reduce inflammation, promote muscle and bone function, and help prevent chronic disease."
+**EXPERTISE SIGNALS:** ✅✅✅ Rhonda Patrick, PhD
+**INTERVIEW FORMAT:** ✅ Expert presentation
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** BEGINNER
+**REASON:** Foundational biohacking tactics from PhD scientist
+
+---
+
+## SEARCH 21: "David Sinclair NAD resveratrol"
+
+### Episode 21.1: #27 - David Sinclair, Ph.D.: Slowing aging – sirtuins, NAD, and the epigenetics of aging (ID: 788915, Podcast: 22593)
+**DUPLICATE CHECK:** ✅ DUPLICATE - Already used in health-and-longevity course
+**QUALITY RATING:** ❌ REJECT - DUPLICATE
+
+### Episode 21.2: Dr. David Sinclair on Informational Theory of Aging, Nicotinamide Mononucleotide, Resveratrol & More (ID: 425717, Podcast: 11618)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "David A. Sinclair, PhD, is a professor in the Department of Genetics at Harvard Medical School and co-director of the Paul F. Glenn Center for the Biological Mechanisms of Aging... discusses NAD+, resveratrol, sirtuins, and longevity mechanisms."
+**EXPERTISE SIGNALS:** ✅✅✅ David Sinclair, PhD - Harvard Professor of Genetics, co-director Paul F. Glenn Center
+**INTERVIEW FORMAT:** ✅ Interview on FoundMyFitness
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** ADVANCED
+**REASON:** Leading aging researcher discussing cutting-edge NAD+ and resveratrol science
+
+---
+
+## SEARCH 22: "Andy Galpin exercise performance muscle"
+
+### Episode 22.1: Building Strength, Muscle Size & Endurance with Dr. Andy Galpin (ID: 64441733, Podcast: 481908)
+**DUPLICATE CHECK:** ❌ Not used (NOTE: Need to verify this isn't already in health-and-longevity)
+**DESCRIPTION:** "Kyle Gillett, MD, is a dual board-certified physician... Dr. Galpin is one of the foremost experts in the world on the science and application of methods to increase strength, hypertrophy and endurance performance."
+**EXPERTISE SIGNALS:** ✅✅✅ Andy Galpin, PhD - Professor of Kinesiology, human performance expert
+**INTERVIEW FORMAT:** ✅ Interview format
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** INTERMEDIATE
+**REASON:** Leading exercise physiologist discussing strength, muscle, and endurance
+
+### Episode 22.2: Dr. Andy Galpin, PhD, Human Performance Scientist (ID: 31826231, Podcast: 44855)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Andy Galpin, a tenured full Professor at California State University, Fullerton... Co-Director of the Center for Sport Performance and Founder/Director of the Biochemistry and Molecular Exercise Physiology Laboratory... PhD in Human Bioenergetics and over 100 peer-reviewed publications."
+**EXPERTISE SIGNALS:** ✅✅✅ Andy Galpin, PhD - Professor, 100+ publications
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ⭐⭐⭐ EXCELLENT
+**LEVEL:** INTERMEDIATE or ADVANCED
+**REASON:** Top exercise science researcher with extensive credentials
+
+---
+
+## SEARCH 23: "sauna cardiovascular health research"
+
+### Episode 23.1: 159. Sauna Therapy, cardiovascular health, athletic performance + depression (ID: 72115983, Podcast: 440518)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Today we chat about the myths and facts of sauna bathing. Lydia reviews the science to get the real data... acute affects of sauna therapy on the body; physiology + molecular changes medium to long term affects on heart disease and cardiovascular risk, plasma volume enhancement for athletes, researched dosages + timeframes."
+**EXPERTISE SIGNALS:** ⚠️ Lydia (need to verify credentials - appears to be science-based review)
+**INTERVIEW FORMAT:** ⚠️ Appears to be expert presenting research
+**QUALITY RATING:** ⭐⭐ GOOD (pending credential verification)
+**LEVEL:** INTERMEDIATE
+**REASON:** Science-based sauna protocol review with research citations
+
+---
+
+## SEARCH 24: "testosterone hormone optimization physician"
+
+### Episode 24.1: Testosterone & Male Hormone Optimization with Dr. Tracy Gapin (ID: 41485872, Podcast: 294625)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Male hormone expert Dr. Tracy Gapin for a practical & motivating conversation about how YOU can be the best version of yourself by optimizing all of your male hormone levels."
+**EXPERTISE SIGNALS:** ✅✅ Dr. Tracy Gapin - MD specializing in male hormones
+**INTERVIEW FORMAT:** ✅ Interview
+**QUALITY RATING:** ⭐⭐ GOOD
+**LEVEL:** INTERMEDIATE
+**REASON:** Physician specializing in hormone optimization
+
+---
+
+## SEARCH 25: "VO2 max cardiovascular fitness longevity"
+
+### Episode 25.1: #217 ‒ Exercise, VO2 max, and longevity | Mike Joyner, M.D. (ID: 23007534, Podcast: 22593)
+**DUPLICATE CHECK:** ✅ DUPLICATE - Already used in health-and-longevity course
+**QUALITY RATING:** ❌ REJECT - DUPLICATE
+
+### Episode 25.2: Longevity: VO2 Max + Cardiovascular Fitness (ID: 91057654, Podcast: 686206)
+**DUPLICATE CHECK:** ❌ Not used
+**DESCRIPTION:** "Longevity is a product of lifestyle. The most effective action you can take right now is to improve your cardiovascular fitness."
+**EXPERTISE SIGNALS:** ❌ None mentioned
+**INTERVIEW FORMAT:** ❌ Unknown
+**QUALITY RATING:** ❌ REJECT (no expert identified)
+
+---
+
+## UPDATED EXCELLENT EPISODES LIST
+
+**⭐⭐⭐ EXCELLENT EPISODES (Top Priority):**
+1. Dan Pardi (ID: 30527705) - Sleep researcher, Stanford + Leiden - INTERMEDIATE
+2. Valter Longo, PhD (ID: 21832896) - USC Longevity Institute Director, fasting - INTERMEDIATE/ADVANCED
+3. Courtney Peterson, PhD & Emily Manoogian, PhD (ID: 20736528) - Two PhD researchers on fasting - ADVANCED
+4. Amy Pearlman, MD & Michelle Pearlman, MD (ID: 41715119) - Two MDs on hormone optimization - INTERMEDIATE
+5. Andrew Huberman, PhD (ID: 54191670) - Stanford neuroscientist on dopamine/motivation - BEGINNER/INTERMEDIATE
+6. Rhonda Patrick, PhD - Vigorous Exercise (ID: 38687393) - INTERMEDIATE
+7. Rhonda Patrick, PhD - Vitamin D, Omega-3s, Exercise (ID: 36417086) - BEGINNER
+8. David Sinclair, PhD (ID: 425717) - Harvard geneticist on NAD+/resveratrol - ADVANCED
+9. Andy Galpin, PhD (ID: 64441733 or 31826231) - Exercise physiologist - INTERMEDIATE
+
+**TOTAL EXCELLENT: 9 episodes** (need 18 total, so need 9 more)
+
+**⭐⭐ GOOD EPISODES (Solid Backups):**
+1. Gary Donovitz, MD (ID: 25854796) - Hormone optimization - INTERMEDIATE
+2. Dr. Derick Adams (ID: 11857602) - Physician, CGM - INTERMEDIATE
+3. Dr. Sara Reece (ID: 81845693) - Physician, CGM 101 - BEGINNER
+4. Dr. Mike Belkowski (ID: 35656035) - Red light therapy - BEGINNER/INTERMEDIATE
+5. Carlee Hayes, RD (ID: 19451667) - CGM - BEGINNER/INTERMEDIATE
+6. Dr. Tracy Gapin (ID: 41485872) - Testosterone optimization - INTERMEDIATE
+7. Lydia - Sauna (ID: 72115983) - INTERMEDIATE (need credential check)
+
+**ACTION NEEDED:**
+Need to identify 9 more high-quality episodes to reach 18 total. Consider:
+- More specific searches for cold exposure scientists
+- Nootropics researchers
+- HRV experts
+- More hormone optimization MDs
+- Exercise physiologists beyond Galpin
+
+---
+
+END OF PRELIMINARY EVALUATION

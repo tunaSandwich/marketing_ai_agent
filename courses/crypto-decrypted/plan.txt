@@ -1,0 +1,272 @@
+# Course Plan: "Crypto Decrypted"
+
+## Course Purpose
+A clear, educational journey through the technology, philosophy, and mechanics of cryptocurrency and blockchain. You'll learn how Bitcoin, Ethereum, and other major systems actually function, why they were created, and how cryptography and decentralization reshape trust, finance, and the internet itself. This isn't about price speculation — it's about understanding the architecture and ideas that define Web3.
+
+## Course Strategy
+
+### Foundational Concepts (Beginner Level)
+- What is Bitcoin and why was it created? (Satoshi's vision, the cypherpunk movement)
+- How does blockchain technology work? (Blocks, chains, distributed ledgers)
+- Basic cryptography: public/private keys, hashing, digital signatures
+- What is decentralization and why does it matter?
+- Digital scarcity and solving the double-spend problem
+- Introduction to Ethereum and smart contracts
+- The difference between Bitcoin, Ethereum, and other protocols
+
+### Core Mechanics/Systems (Intermediate Level)
+- Proof of Work vs Proof of Stake: consensus mechanisms explained
+- How mining works (and why it's energy-intensive)
+- How validators and staking work in PoS systems
+- Smart contract mechanics and how DeFi protocols operate
+- Tokenomics: protocol design, incentives, and game theory
+- Layer 2 scaling solutions: Lightning Network, Rollups (Optimistic & ZK)
+- Cryptographic primitives: Merkle trees, hash functions, elliptic curve cryptography
+- Security: attack vectors, 51% attacks, smart contract vulnerabilities
+
+### Research Frontiers/Debates (Advanced Level)
+- Zero-knowledge proofs: zk-SNARKs, zk-STARKs, and privacy technology
+- MEV (Maximal Extractable Value): protocol security and fairness
+- Formal verification and smart contract auditing techniques
+- Cross-chain bridges and interoperability challenges
+- Sharding and advanced scaling approaches
+- Censorship resistance vs regulatory compliance
+- Privacy coins and anonymity techniques (Monero, Zcash)
+- The future of decentralized systems: DAO governance, protocol evolution
+
+## High-Quality Podcasts to Target
+
+### Top Priority (Crypto-Specific):
+- Bankless (Ryan Sean Adams, David Hoffman - premier DeFi/crypto podcast)
+- Lex Fridman Podcast (interviews with Vitalik, Nick Szabo, etc.)
+- Unchained / Unconfirmed (Laura Shin - investigative crypto journalism)
+- Epicenter (long-running crypto tech podcast)
+- The Defiant (Camila Russo - DeFi focus)
+- Uncommon Core (Hasu - crypto research)
+- Zero Knowledge Podcast (ZK tech and privacy)
+- Bell Curve (crypto research and analysis)
+- a16z Podcast (Chris Dixon and crypto episodes)
+- Delphi Podcast (crypto research firm)
+
+### General Interview Podcasts with Crypto Experts:
+- Tim Ferriss Show (crypto practitioners and founders)
+- Joe Rogan Experience (when featuring crypto experts)
+- Sean Carroll's Mindscape (cryptography, economics, game theory)
+- Making Sense (Sam Harris - crypto and technology episodes)
+- Kevin Rose Show (crypto episodes)
+- Peter McCormack's What Bitcoin Did
+
+### Academic/Research Podcasts:
+- Stanford Blockchain Club podcasts
+- MIT Cryptocurrency Engineering podcasts
+- Berkeley Blockchain Xcelerator
+- Research-focused shows featuring academic cryptographers
+
+## Topic Keywords and Subtopics
+
+### Core Crypto Concepts:
+- Bitcoin, blockchain, cryptocurrency, digital currency
+- Satoshi Nakamoto, cypherpunk, cryptography
+- Public key cryptography, private keys, wallets
+- Hashing, SHA-256, cryptographic hash functions
+- Digital signatures, ECDSA (Elliptic Curve Digital Signature Algorithm)
+- Merkle trees, Merkle roots
+- Proof of Work, Proof of Stake, consensus
+- Mining, miners, hash rate, difficulty adjustment
+- Validators, staking, slashing
+- Decentralization, distributed systems
+- Byzantine Fault Tolerance, Byzantine Generals Problem
+- Double-spend problem, 51% attack
+
+### Protocols and Platforms:
+- Bitcoin (BTC), Satoshi Nakamoto, Bitcoin whitepaper
+- Ethereum (ETH), Vitalik Buterin, Ethereum 2.0
+- Smart contracts, Solidity, EVM (Ethereum Virtual Machine)
+- Layer 2: Lightning Network, Rollups, Optimistic Rollups, ZK Rollups
+- Polkadot, Cosmos, Cardano, Solana (alternative L1s)
+- DeFi: decentralized finance, AMMs (Automated Market Makers)
+- Uniswap, Aave, Compound, MakerDAO (DeFi protocols)
+- NFTs and digital ownership
+- DAOs (Decentralized Autonomous Organizations)
+- Stablecoins: algorithmic, collateralized
+
+### Advanced Topics:
+- Zero-knowledge proofs, zk-SNARKs, zk-STARKs
+- Privacy technology, confidential transactions
+- MEV (Maximal Extractable Value), front-running
+- Cross-chain bridges, interoperability
+- Sharding, state channels, plasma
+- Cryptoeconomics, tokenomics, mechanism design
+- Protocol security, formal verification
+- Smart contract auditing, security vulnerabilities
+- Privacy coins: Monero (ring signatures), Zcash (zk-SNARKs)
+- Censorship resistance, regulatory challenges
+- Governance: on-chain vs off-chain
+- Scalability trilemma (security, decentralization, scalability)
+
+## Expertise Indicators to Look For
+
+### Academic Credentials:
+- Professor of Computer Science, Cryptography, Economics, Distributed Systems
+- MIT, Stanford, Berkeley, Cornell, Princeton, CMU
+- University blockchain labs and research centers
+- PhD in Cryptography, Computer Science, Economics, Game Theory
+- Published papers on blockchain, consensus mechanisms, cryptography
+- Turing Award winners (Silvio Micali, Shafi Goldwasser)
+
+### Professional Authority:
+- Bitcoin Core developers (Wladimir van der Laan, etc.)
+- Ethereum Foundation researchers and core developers
+- Protocol founders: Vitalik Buterin (Ethereum), Gavin Wood (Polkadot), Charles Hoskinson (Cardano)
+- Cryptographers: Dan Boneh (Stanford), Matt Green (Johns Hopkins), Zooko Wilcox (Zcash)
+- Security researchers and smart contract auditors
+- DeFi protocol founders/architects (Hayden Adams - Uniswap, Stani Kulechov - Aave)
+- Research organizations: Chaincode Labs, Paradigm, a16z crypto
+
+### Author/Thought Leader:
+- Author of Bitcoin/crypto books (Andreas Antonopoulos, Saifedean Ammous, etc.)
+- Wrote influential crypto research papers or whitepapers
+- Created major protocols, standards, or cryptographic schemes
+- Regular contributor to Bitcoin Improvement Proposals (BIPs) or Ethereum Improvement Proposals (EIPs)
+- Keynote speakers at Consensus, Devcon, Bitcoin conferences
+
+### Specific Names to Look For (Not Exhaustive):
+- Vitalik Buterin (Ethereum founder)
+- Nick Szabo (smart contracts pioneer, bit gold creator)
+- Gavin Wood (Ethereum co-founder, Polkadot founder)
+- Andreas Antonopoulos (Bitcoin educator, author of "Mastering Bitcoin")
+- Hal Finney (early Bitcoin developer - historical, sadly passed)
+- Adam Back (Hashcash inventor, Blockstream CEO, cited in Bitcoin whitepaper)
+- Dan Boneh (Stanford cryptography professor)
+- Silvio Micali (Turing Award winner, Algorand founder, zero-knowledge proofs)
+- Shafi Goldwasser (Turing Award winner, zero-knowledge proofs)
+- Matt Green (Johns Hopkins cryptography professor, Zcash)
+- Zooko Wilcox (Zcash founder)
+- Chris Dixon (a16z crypto)
+- Naval Ravikant (crypto investor, philosopher)
+- Balaji Srinivasan (former CTO Coinbase, a16z, author)
+- Nic Carter (Castle Island Ventures, crypto researcher)
+- Dan Robinson (Paradigm, Uniswap v3 designer)
+- Hasu (crypto researcher, Uncommon Core)
+- Georgios Konstantopoulos (Paradigm CTO)
+- Hayden Adams (Uniswap founder)
+- Stani Kulechov (Aave founder)
+- Emin Gün Sirer (Cornell professor, Avalanche founder)
+- Juan Benet (Protocol Labs, IPFS, Filecoin)
+- Ari Juels (Cornell Tech, Chainlink co-founder)
+
+## Search Strategies (22 searches)
+
+### Strategy A: Top Podcast + Crypto Topic (8 searches)
+1. "Lex Fridman Bitcoin"
+2. "Lex Fridman Vitalik Buterin"
+3. "Lex Fridman blockchain"
+4. "Bankless Ethereum protocol"
+5. "Bankless DeFi"
+6. "a16z crypto web3"
+7. "Tim Ferriss cryptocurrency"
+8. "Epicenter blockchain technology"
+
+### Strategy B: Topic + Expertise Signals (6 searches)
+9. "blockchain developer interview"
+10. "cryptography professor Bitcoin"
+11. "Ethereum core developer"
+12. "smart contracts researcher"
+13. "consensus mechanism expert"
+14. "protocol designer cryptocurrency"
+
+### Strategy C: Specific Subtopics + Interview (6 searches)
+15. "proof of work mining"
+16. "zero knowledge proofs privacy"
+17. "DeFi decentralized finance protocol"
+18. "Layer 2 scaling blockchain"
+19. "tokenomics protocol design"
+20. "MEV maximal extractable value"
+
+### Strategy D: Specific Experts/Protocols (2 searches)
+21. "Nick Szabo smart contracts"
+22. "Andreas Antonopoulos Bitcoin"
+
+## Quality Assurance for Crypto Course
+
+### MUST HAVE:
+✅ Clear technical credentials (developer, professor, protocol founder, cryptographer)
+✅ Interview format (not solo host monologue)
+✅ Focus on TECHNOLOGY not price speculation or "get rich" schemes
+✅ Technical depth (discusses cryptography, consensus, protocol mechanics)
+✅ Practitioner experience (actually built protocols, wrote code, researched crypto)
+✅ No pump-and-dump schemes or scam tokens
+
+### RED FLAGS:
+❌ No credentials mentioned in description
+❌ Focus on price predictions, "get rich quick", or investment hype
+❌ Solo host explaining crypto from secondary sources (Wikipedia, articles)
+❌ Hype/marketing without technical substance
+❌ Promoting specific tokens without technical merit
+❌ "Crypto guru" personalities without engineering/research background
+❌ Spiritual/mystical interpretations of blockchain technology
+❌ Financial advice or trading strategies (we want technology education)
+
+### Technology vs Speculation:
+This course is about HOW crypto works, not WHY you should invest:
+✅ GOOD: "How does Bitcoin's Proof of Work consensus mechanism secure the network?"
+✅ GOOD: "What are the trade-offs between Optimistic and ZK Rollups?"
+✅ GOOD: "How do zk-SNARKs enable privacy on public blockchains?"
+
+❌ BAD: "Why Bitcoin will reach $100k"
+❌ BAD: "Top 10 altcoins to buy now"
+❌ BAD: "How to get rich with crypto"
+
+## Expected Episode Progression
+
+### Beginner (6 episodes):
+1. What is Bitcoin? Why was it created? (Satoshi's vision, cypherpunk origins)
+2. How does blockchain work? (Blocks, chains, miners, consensus basics)
+3. Public key cryptography and digital signatures (how wallets work)
+4. What is Ethereum and why do smart contracts matter?
+5. Decentralization vs centralization: why it matters
+6. The history and philosophy of cryptocurrency (from cypherpunks to Web3)
+
+**Format:** Lex Fridman, Tim Ferriss, or Joe Rogan interviewing crypto founders/experts
+**Guests:** Vitalik Buterin, Nick Szabo, Andreas Antonopoulos, Chris Dixon
+**Tone:** "Explain the technology and ideas, not the price"
+
+### Intermediate (6 episodes):
+1. Proof of Work vs Proof of Stake: consensus mechanisms explained
+2. Smart contracts and DeFi: how Uniswap, Aave, or Compound work
+3. Layer 2 scaling: Lightning, Rollups, and scaling solutions
+4. Tokenomics and protocol design: incentives and game theory
+5. Cryptographic primitives: hash functions, Merkle trees, elliptic curves
+6. Security: attack vectors, vulnerabilities, and protocol hardening
+
+**Format:** Bankless, Epicenter, Unchained interviewing protocol builders and researchers
+**Guests:** Protocol founders, Ethereum developers, DeFi builders, security researchers
+**Tone:** "How does this actually work in practice?"
+
+### Advanced (6 episodes):
+1. Zero-knowledge proofs: zk-SNARKs, zk-STARKs, and cryptographic privacy
+2. MEV and protocol security: fairness, censorship, and game theory
+3. Formal verification and smart contract security auditing
+4. Cross-chain bridges and interoperability: the challenges
+5. Sharding, advanced scaling, and the scalability trilemma
+6. Future of decentralized systems: governance, censorship resistance, evolution
+
+**Format:** Technical deep-dives with cryptographers, researchers, protocol designers
+**Guests:** Dan Boneh, researchers from Paradigm/a16z crypto, core protocol developers
+**Tone:** "What are the hardest unsolved problems?"
+
+## Final Quality Checklist
+
+Before finalizing:
+- [ ] All 18 episodes have clear expert credentials documented
+- [ ] All 18 podcasts are different (maximum diversity)
+- [ ] No solo host monologues (all expert interviews)
+- [ ] No price speculation or "get rich" content (focus on technology)
+- [ ] No scam tokens or pump-and-dump schemes
+- [ ] Beginner level is accessible but expert-led (founders, educators)
+- [ ] Intermediate level discusses real protocol mechanics and implementation
+- [ ] Advanced level covers cryptographic research and unsolved problems
+- [ ] Logical progression within each level
+- [ ] Course description emphasizes technology education over financial advice
+- [ ] Mix of Bitcoin, Ethereum, and broader crypto/Web3 topics
+- [ ] Include foundational history (cypherpunks, Satoshi) and cutting-edge tech (ZK, MEV)

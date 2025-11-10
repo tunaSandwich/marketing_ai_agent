@@ -1,0 +1,644 @@
+# SEARCH RESULTS: THE FUTURE OF HUMANITY COURSE
+
+Total Searches Conducted: 20
+Date: November 4, 2025
+
+## SEARCH STRATEGY SUMMARY
+
+Searches organized by topic area:
+- AI & AGI: 6 searches
+- Space & Cosmology: 4 searches
+- Longevity & Health: 2 searches
+- Civilization & Philosophy: 4 searches
+- Future Technologies: 4 searches
+
+---
+
+## SEARCH 1: "Lex Fridman artificial intelligence AGI"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+- ID: 74891758 | "[AI] AGI discussion - Lex Fridman interviews John Carmack" | Podcast: Unknown (586368)
+- ID: 44520029 | "#1537 - Lex Fridman" | The Joe Rogan Experience (309227)
+  Description: "Scientist Lex Fridman researches human-centered artificial intelligence and autonomous vehicles at MIT"
+
+- ID: 44521824 | "#1696 - Lex Fridman" | The Joe Rogan Experience (309229)
+  Description: "Lex Fridman is a scientist and researcher in the fields of artificial intelligence and autonomous vehicles, as well as the host of 'The Lex Fridman Podcast.'"
+
+ASSESSMENT: Many results about Lex himself appearing on other podcasts, but fewer specific AI expert interviews. Need to search for specific guests on Lex's show.
+
+---
+
+## SEARCH 2: "Lex Fridman space exploration Mars"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+Similar pattern - mostly Lex as guest on other shows rather than his interviews with space experts.
+
+ASSESSMENT: Will need more targeted searches for specific space experts being interviewed.
+
+---
+
+## SEARCH 3: "Sam Harris existential risk AI safety"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 75689009 | "Sam Harris on Global Priorities, Existential Risk, and What Matters Most" | Future of Life Institute Podcast (592928)
+Description: "Sam Harris joins us to discuss some of these global priorities, the ethics surrounding them, and what we can do to address them. Topics discussed in this episode include: The problem of communication, Global priorities, Existential risk, Animal suffering in both wild animals and factory farmed animals, Global poverty, Artificial general intelligence risk and AI alignment, Ethics, Sam's book, The Moral Landscape"
+GUEST: Sam Harris - Philosopher, neuroscientist, PhD, bestselling author
+EXPERTISE SIGNALS: PhD, neuroscientist, recognized AI safety voice, author of The Moral Landscape
+LEVEL: Intermediate
+
+⭐⭐⭐ ID: 98233453 | "Sam Harris on Global Priorities, Existential Risk, and What Matters Most" | Making Sense (300984)
+Same episode as above, different podcast feed
+GUEST: Sam Harris
+LEVEL: Intermediate
+
+⭐⭐ ID: 41495915 | "Sam Harris on Global Priorities, Existential Risk, and What Matters Most" | Making Sense (300984)
+(Duplicate entry)
+
+---
+
+## SEARCH 4: "Peter Attia longevity aging"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 72662667 | "Peter Attia (on longevity)" | Armchair Expert (11502)
+Description: "Dr. Peter Attia (Outlive: The Science & Art of Longevity) is a physician, podcaster, and author. Peter joins the Armchair Expert to discuss the morality of cloning, why he wanted to be a professional boxer, and what the act of achievement-seeking does to the body. Peter and Dax talk about the difference between lifespan and healthspan, the four horsemen of health, and the genetic gifts of centenarians."
+GUEST: Dr. Peter Attia - Physician, MD (Stanford/Johns Hopkins trained)
+EXPERTISE SIGNALS: MD, physician, author of Outlive, host of The Drive podcast, longevity expert
+LEVEL: Beginner/Intermediate
+
+⭐⭐⭐ ID: 2466936 | "The Science of Longevity (Dr. Peter Attia)" | Unknown (49321)
+Description: "Dr. Peter Attia shares predictions about how we could cure diabetes and cancer in the next 10 years, ultra endurance, and parenting."
+GUEST: Dr. Peter Attia
+LEVEL: Intermediate
+
+⭐⭐⭐ ID: 30705925 | "The Science of Longevity | Dr. Peter Attia" | Ten Percent Happier (1228)
+Description: "Dr. Peter Attia discusses how to eat better, exercise smarter, and extend your lifespan. Topics: Why Peter kind of hates the word 'longevity', The definitions of 'lifespan' and 'healthspan', The importance of exercise, The roles our genes play, The importance of nutrition, How to get better sleep, How to think about pharmaceutical tools, The importance of emotional health"
+GUEST: Dr. Peter Attia
+EXPERTISE SIGNALS: Stanford/Johns Hopkins trained physician, author of Outlive
+LEVEL: Beginner
+
+⭐⭐⭐ ID: 64867930 | "Peter Attia: Longevity, Diet, and Finding the Drive" | Unknown (486840)
+GUEST: Dr. Peter Attia
+Description: Comprehensive interview covering longevity science
+LEVEL: Intermediate
+
+⭐⭐⭐ ID: 64625724 | "Supplements for Longevity & Their Efficacy | Dr. Peter Attia" | Huberman Lab (175447)
+Description: "Dr. Peter Attia, M.D., a Stanford and Johns Hopkins School of Medicine-trained physician expert in improving human healthspan and lifespan. Dr. Attia is also the host of The Drive podcast and author of the best-selling book Outlive. We discuss the NAD pathway, NMN, NR, rapamycin, resveratrol and whether they can extend lifespan."
+GUEST: Dr. Peter Attia
+HOST: Andrew Huberman (Stanford neurobiology professor)
+EXPERTISE SIGNALS: MD, Stanford/Johns Hopkins trained, author, podcast host
+LEVEL: Intermediate/Advanced
+
+⭐⭐⭐ ID: 40551585 | "#085 Dr. Peter Attia on Mastering Longevity" | FoundMyFitness (11618)
+Description: "Peter Attia, MD is a highly respected expert in preventive medicine, focused on the crucial subject of longevity and cardiovascular health. Topics: Defining cardiovascular disease, How ApoB predicts heart disease, ApoB thresholds, Dietary factors, Genetics, Statins, Zone 2 training, Cancer screening, Menopause & HRT, Testosterone, Blood pressure"
+GUEST: Dr. Peter Attia
+HOST: Dr. Rhonda Patrick
+EXPERTISE SIGNALS: MD, preventive medicine expert, author of Outlive
+LEVEL: Advanced
+
+⭐⭐⭐ ID: 23127776 | "Exercise, Nutrition, Hormones for Vitality & Longevity | Dr. Peter Attia" | Huberman Lab (175447)
+GUEST: Dr. Peter Attia
+HOST: Andrew Huberman
+Description: Comprehensive discussion on healthspan and longevity strategies
+LEVEL: Intermediate
+
+---
+
+## SEARCH 5: "Sean Carroll cosmology universe future"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 1318934 | "Cosmic Queries: Mysterious Cosmology, with Sean Carroll" | StarTalk (35384)
+Description: "String theory, the fabric of spacetime, the multiverse, quantum mechanics, and much more – explore the cosmological mysteries of the universe with Neil deGrasse Tyson, comic co-host Chuck Nice, and theoretical physicist Sean Carroll."
+GUEST: Sean Carroll - Theoretical physicist, Caltech/Johns Hopkins professor
+HOST: Neil deGrasse Tyson
+EXPERTISE SIGNALS: Theoretical physicist, professor at Caltech/Johns Hopkins, cosmologist, Mindscape podcast host
+LEVEL: Intermediate
+
+⭐⭐⭐ ID: 23840610 | "Sean Carroll - The Biggest Ideas In The Universe" | The Astral Hustle (145410)
+Description: "Sean Carroll is a quantum physicist, author, and podcast host. We talk about the wonder of the universe, reducing anxiety by increasing your perspective, and misunderstandings of the multiverse."
+GUEST: Sean Carroll
+EXPERTISE SIGNALS: Quantum physicist, author, professor
+LEVEL: Intermediate/Advanced
+
+⭐⭐⭐ ID: 28269634 | "Sean Carroll on the Biggest Ideas in the Universe" | Closer To Truth (174102)
+Description: "Sean Carroll talks about about his terrific new book, The Biggest Ideas in the Universe: Space, Time, and Motion. He also dives into the importance of equations in popular science writing, conservation, Noether's Theorem, the mechanics of space, the nature of time, black holes, gravity, and many other topics."
+GUEST: Sean Carroll - Homewood Professor of Natural Philosophy at Johns Hopkins
+EXPERTISE SIGNALS: Professor (joint appointment physics/philosophy), Mindscape podcast host, author
+LEVEL: Advanced
+
+⭐⭐⭐ ID: 61312941 | "The Smallest Ideas in the Universe with Sean Carroll" | StarTalk (35384)
+Description: "What is the nature of quantum physics? Neil deGrasse Tyson and comedian Chuck Nice get quantum, exploring Schrodinger's Cat, electrons, Hilbert Space, and the biggest ideas in the universe (in the smallest particles) with theoretical physicist Sean Carroll."
+GUEST: Sean Carroll
+HOST: Neil deGrasse Tyson
+LEVEL: Advanced
+
+---
+
+## SEARCH 6: "Tim Ferriss longevity technology future"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+Most results were about Tim Ferriss himself, not specific interviews with longevity/future experts. Need more targeted searches.
+
+ASSESSMENT: Tim Ferriss does interview longevity experts, but this search didn't surface the best episodes. Would need to search for specific guests on his show.
+
+---
+
+## SEARCH 7: "Huberman Lab brain enhancement neuroscience"
+Total Results: 10,000+
+
+ASSESSMENT: Many episodes about Huberman Lab podcast itself, but need to identify specific expert interviews relevant to human enhancement and future of humanity.
+
+---
+
+## SEARCH 8: "Conversations with Tyler civilization long-term"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 6613713 | "#45 - Tyler Cowen's case for maximising econ growth, stabilising civilization & thinking long-term" | 80,000 Hours Podcast (134884)
+Description: "Tyler Cowen - Professor of Economics at George Mason University makes the case that: 1. Our top moral priority should be preserving and improving humanity's long-term future 2. The way to do that is to maximise the rate of sustainable economic growth 3. We should respect human rights and follow general principles while doing so. Topics: Should we discount the future? How should we aggregate welfare across people? Why focus on increasing the rate of economic growth rather than making sure that it doesn't go to zero? Is improving coordination and international cooperation a major priority? What does Tyler think Derek Parfit was most wrong about?"
+GUEST: Tyler Cowen - Professor of Economics at George Mason University
+HOST: 80,000 Hours
+EXPERTISE SIGNALS: Professor of Economics, Marginal Revolution blogger, Conversations with Tyler host, economist
+LEVEL: Advanced
+
+---
+
+## SEARCH 9: "80000 Hours effective altruism AI risk"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 42883318 | "Effective Altruism, AI, and Existential Risk (Robert Wright & Émile P. Torres)" | Nonzero (304127)
+Description: "A short history of 'longtermism'... The evolution of effective altruism (EA)... Unpacking the TESCREAL bundle... Why AGI dominates longtermist thinking... Are AI doomers and accelerationists more aligned than it seems?"
+GUESTS: Robert Wright & Émile P. Torres
+EXPERTISE SIGNALS: Philosopher, researcher on existential risk
+LEVEL: Intermediate/Advanced
+
+---
+
+## SEARCH 10: "Neil deGrasse Tyson space future humanity"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 49728989 | "Neil deGrasse Tyson: Uniting Humanity" | Reimagine (341783)
+Description: "How can science bring us together? Astrophysicist, author, and television host Neil deGrasse Tyson closes out the first season of Reimagine by sharing his cosmic view of life and why understanding science is key to building back a better world."
+GUEST: Neil deGrasse Tyson - Astrophysicist, Frederick P. Rose Director of Hayden Planetarium
+EXPERTISE SIGNALS: PhD, astrophysicist, Hayden Planetarium director, science communicator
+LEVEL: Beginner
+
+⭐⭐⭐ ID: 16965523 | "The Future of Humanity (and more) With Neil deGrasse Tyson!" | Unknown (34138)
+Description: "Neil deGrasse Tyson talks science, misinformation, authoritarianism, human progress and more!"
+GUEST: Neil deGrasse Tyson
+EXPERTISE SIGNALS: Astrophysicist, PhD, science communicator
+LEVEL: Beginner
+
+⭐⭐⭐ ID: 11477549 | "Neil deGrasse Tyson on the Future of Space Exploration" | Unknown (418)
+GUEST: Neil deGrasse Tyson
+EXPERTISE SIGNALS: Astrophysicist, Hayden Planetarium director
+LEVEL: Beginner
+
+---
+
+## SEARCH 11: "AI alignment professor researcher interview"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 50579590 | "12 - AI Alignment & AGI Fire Alarm - Connor Leahy" | Mere Mortals Podcast (349136)
+Description: "Why would advanced AI systems pose an existential risk, and what would it look like if a whole brain computer interface were realized? In this episode, I interview Paul Christiano about his views of how AI could be so dangerous, what bad AI scenarios could look like, and what he thinks about various techniques to reduce this risk."
+GUEST: Paul Christiano - AI alignment researcher
+EXPERTISE SIGNALS: AI alignment researcher, working on AI safety
+LEVEL: Advanced
+
+⭐⭐⭐ ID: 100679472 | "Former MIRI Researcher Solving AI Alignment by Engineering Smarter Human Babies" | Doom Debates (551394)
+Description: "Former Machine Intelligence Research Institute (MIRI) researcher Tsvi Benson-Tilsen is championing an audacious path to prevent AI doom: engineering smarter humans to tackle AI alignment. After seven years at MIRI, he co-founded the Berkeley Genomics Project."
+GUEST: Tsvi Benson-Tilsen - Former MIRI researcher, AI alignment
+EXPERTISE SIGNALS: 7 years at MIRI (Machine Intelligence Research Institute), AI alignment researcher
+LEVEL: Advanced
+
+---
+
+## SEARCH 12: "space colonization researcher scientist"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+- Several episodes on space colonization theory
+- Episodes on Mars missions and challenges
+- Technical discussions of multi-planetary civilization
+
+ASSESSMENT: Good theoretical content but need to identify specific expert interviews rather than general discussions.
+
+---
+
+## SEARCH 13: "longevity aging research professor"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 21687639 | "What Aging Research Tells Us About Longevity with Danica Chen" | Longevity by Design (207317)
+Description: "Danica Chen is a Professor of Metabolic Biology, Nutritional Sciences & Toxicology at the University of California at Berkeley. Even though she originally intended to study international accounting, life had other plans. Now, she's a member of Berkeley Stem Cell Center and a member of QB3 Consortium in Lifespan Extension, conducting research studies that aim to understand aging-associated conditions. Topics: The challenges in aging research, STEM cells' role in aging, and why the elderly are more prone to COVID."
+GUEST: Danica Chen - Professor, UC Berkeley
+EXPERTISE SIGNALS: Professor at UC Berkeley, Berkeley Stem Cell Center member, aging researcher
+LEVEL: Intermediate
+
+---
+
+## SEARCH 14: "existential risk researcher philosopher"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 19439656 | "Existential Risk" | Free Thinking (211)
+Description: "The doomsday clock stands at less than two minutes to midnight, but how alarmed should we be and how can art respond to humanity's apparent vulnerability? SJ Beard is Academic Programme Manager at the Centre for the Study of Existential Risk and a New Generation Thinker."
+GUEST: SJ Beard - Academic Programme Manager, Centre for the Study of Existential Risk
+EXPERTISE SIGNALS: Centre for the Study of Existential Risk, researcher
+LEVEL: Intermediate
+
+⭐⭐⭐ ID: 41132452 | "#208 - Existential Risk" | Making Sense (300706)
+Description: "Toby Ord is a philosopher at Oxford University, working on the big picture questions facing humanity. He is focused on the ethics of global poverty and is one of the co-founders of the Effective Altruism movement. His current research is on the risks that threaten human extinction or the permanent collapse of civilization. Toby's new book The Precipice: Existential Risk and the Future of Humanity explores the cutting-edge science behind the risks we face."
+GUEST: Toby Ord - Philosopher, Oxford University
+HOST: Sam Harris
+EXPERTISE SIGNALS: PhD (implied), Oxford University philosopher, co-founder of Effective Altruism, author of The Precipice
+LEVEL: Advanced
+
+⭐⭐⭐ ID: 7153691 | "350 - Existential Risk" | Omega Tau (61270)
+Description: "Oxford philosopher Toby Ord argues in his book The Precipice that those risks are much more likely than the natural ones. In this episode we explore this idea with him, and also discuss what we should do about this realization. Topics: asteroid impacts, nuclear war, pandemics, biotechnology, AI alignment, anthropogenic hazards"
+GUEST: Toby Ord
+HOST: Markus Voelter
+EXPERTISE SIGNALS: Oxford philosopher, author of The Precipice, existential risk expert
+LEVEL: Advanced
+
+---
+
+## SEARCH 15: "Mars SpaceX founder CEO"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+Many episodes about SpaceX and Mars missions, but most don't feature clear expert interviews. Would need Elon Musk interviews or aerospace engineer interviews.
+
+---
+
+## SEARCH 16: "Fermi paradox great filter interview"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 97627815 | "The Great Filter: Decoding the Fermi Paradox" | Unknown (705053)
+Description: "We unpack what abiogenesis means, why intelligent life may be rare, how universal limits to technology could cap civilizations, and what cosmic hazards—like gamma-ray bursts—could erase galactic civilizations. Topics: abiogenesis, Great Filter, existential threats, gamma-ray bursts"
+ASSESSMENT: AI-generated podcast - may not meet quality standards
+LEVEL: Beginner
+
+⭐⭐ ID: 4909344 | "The Fermi Paradox and The Great Filter w/ Fraser Cain" | Unknown (90621)
+Description: "Fraser Cain from Universe Today. In this episode, we dive into the topic of 'Where is everybody?'"
+GUEST: Fraser Cain - Founder/Publisher of Universe Today
+EXPERTISE SIGNALS: Science communicator, Universe Today founder, space journalist
+LEVEL: Beginner
+
+---
+
+## SEARCH 17: "brain computer interface Neuralink expert"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+Many episodes about Neuralink and brain-computer interfaces, but most are news/commentary rather than expert interviews. Need to find neuroscience researchers discussing BCI technology.
+
+---
+
+## SEARCH 18: "AGI timelines alignment safety"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 22888718 | "Episode 49: AGI Alignment and Safety" | Unknown (206254)
+Description: "Is Elon Musk right that Artificial General Intelligence (AGI) research is like 'summoning the demon' and should be regulated? We discussed how our genes 'align' our interests with their own utilizing carrots and sticks (pleasure/pain). If our genes can create a General Intelligence alignment and safety 'program' for us, what's to stop us from doing that to future Artificial General Intelligences?"
+ASSESSMENT: Interesting philosophical approach but unclear if expert guest
+LEVEL: Intermediate
+
+⭐⭐⭐ ID: 50470472 | "51. AGI Safety and Alignment with Robert Miles" | Unknown (348255)
+Description: "We're chatting with Robert Miles about why we even want artificial general intelligence, general AI as narrow AI where its input is the world, when predictions of AI sound like science fiction, covering terms like: AI safety, the control problem, AI alignment, specification problem; the lack of people working in AI alignment, AGI doesn't need to be conscious, and more"
+GUEST: Robert Miles - AI safety researcher/YouTuber
+EXPERTISE SIGNALS: AI safety researcher, popular explainer of AI alignment
+LEVEL: Intermediate
+
+⭐⭐⭐ ID: 25851587 | "Collapsing AGI timelines, with Ross Nordby" | Unknown (228472)
+Description: "Ross Nordby is an AI researcher who has shortened his AGI timelines: he has changed his mind about when AGI might be expected to exist. He recently published an article on the LessWrong community discussion site, giving his argument in favour of shortening these timelines. He now identifies 2030 as the date by which it is 50% likely that AGI will exist."
+GUEST: Ross Nordby - AI researcher
+EXPERTISE SIGNALS: AI researcher, grant recipient from EA Long-Term Future Fund
+LEVEL: Advanced
+
+---
+
+## SEARCH 19: "multi-planetary civilization design"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 47850867 | "Multi-Planetary Empires" | Science & Futurism with Isaac Arthur (116431)
+Description: "One day humanity may settle countless worlds, but could any nation hope to govern multiple planets or even star systems?"
+HOST: Isaac Arthur
+EXPERTISE SIGNALS: Science futurist, physicist background, extensive content on future civilization design
+LEVEL: Intermediate
+
+ASSESSMENT: This is more of a solo explanatory show rather than interview format, but Isaac Arthur is well-respected in futurism circles.
+
+⭐⭐⭐ ID: 50931130 | "Frank White - The Overview Effect and a planetary civilization" | Origins Podcast (352256)
+Description: "Frank White is a philosopher of space. In 1987 he coined the term 'the overview effect,' referring to the life-altering experience astronauts received upon witnessing our planet from outer space. Topics: The Overview Effect, Gerard K. O'Neill and the Space Studies Institute, Orbital Assembly Corporation, indigenous thinking"
+GUEST: Frank White - Philosopher, author
+EXPERTISE SIGNALS: Coined term "overview effect", space philosopher, author
+LEVEL: Beginner/Intermediate
+
+---
+
+## SEARCH 20: "simulation hypothesis anthropic reasoning"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+Many episodes on simulation hypothesis but most are general discussions rather than expert interviews with philosophers or physicists specializing in this area.
+
+---
+
+## OVERALL ASSESSMENT
+
+STRONG CANDIDATES IDENTIFIED:
+
+**Longevity/Health:**
+- Peter Attia episodes (multiple excellent options across different difficulty levels)
+- Danica Chen on aging research
+
+**Space/Cosmology:**
+- Neil deGrasse Tyson episodes (accessible, beginner-friendly)
+- Sean Carroll episodes (more advanced physics/cosmology)
+- Frank White on planetary civilization
+
+**AI/AGI & Existential Risk:**
+- Sam Harris on existential risk (Future of Life Institute)
+- Toby Ord on existential risk (multiple episodes)
+- Paul Christiano on AI alignment
+- Robert Miles on AGI safety
+- Ross Nordby on AGI timelines
+
+**Civilization/Long-term Thinking:**
+- Tyler Cowen on long-termism and economic growth
+- SJ Beard on existential risk
+
+**GAPS IDENTIFIED:**
+
+Need better episodes for:
+1. Specific AI researchers (Geoffrey Hinton, Yoshua Bengio, Stuart Russell, etc.)
+2. Space exploration practitioners (astronauts, aerospace engineers)
+3. Transhumanism/human enhancement experts
+4. More diverse longevity researchers (David Sinclair, Aubrey de Grey)
+5. Specific Lex Fridman episodes with expert guests (need to search by guest name)
+
+**RECOMMENDATIONS FOR ADDITIONAL SEARCHES:**
+
+To fill gaps, should search for:
+- "Lex Fridman Max Tegmark" (AI & physics)
+- "Lex Fridman Michio Kaku" (physics, future of humanity)
+- "Lex Fridman Nick Bostrom" (superintelligence)
+- "David Sinclair aging Harvard" (longevity researcher)
+- "Aubrey de Grey SENS" (aging research)
+- "Yuval Harari future Sapiens" (civilization thinking)
+- "Chris Hadfield space" (astronaut perspective)
+- "Stuart Russell AI" (AI safety researcher)
+
+**NEXT STEPS:**
+
+1. May need 5-10 additional targeted searches to ensure we have 30-40 strong candidates
+2. Begin detailed episode evaluation with ratings and expertise signals
+3. Curate final selection ensuring diversity of podcasts and expert perspectives
+4. Create final JSON file
+
+---
+
+## ADDITIONAL TARGETED SEARCHES (Round 2)
+## Conducted: November 4, 2025
+## Total Additional Searches: 8
+
+---
+
+## SEARCH 21: "Lex Fridman Max Tegmark"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+- Multiple episodes about Lex Fridman himself appearing on other shows
+- Did NOT find specific Max Tegmark interview episodes in top results
+
+ASSESSMENT: This search didn't yield the expected results - mostly returned episodes where Lex was a guest rather than episodes where Max Tegmark was interviewed. Will need to search differently for Max Tegmark content.
+
+---
+
+## SEARCH 22: "David Sinclair aging Harvard"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 12162621 | "Understanding Genetics of Aging with Harvard Professor Dr. David Sinclair" | New Frontiers Podcast (146558)
+Description: "Harvard scientist and NYT best-selling author David Sinclair, PhD and I take a tour around the science of aging. If aging is THE root cause of all of the chronic diseases of aging, then arguably, if we focus on the aging journey itself, we might be able to stop playing 'whack-a-mole medicine.' A lot of complex environmental, genetic, epigenetic and biochemical processes go into the aging journey, however, as Dr. Sinclair discusses, it looks like a very heavy lifter in aging is epigenetic changes – specifically, DNA methylation and demethylation (plus histone acetylation)."
+GUEST: David Sinclair, PhD - Harvard Professor, Geneticist, NYT bestselling author
+EXPERTISE SIGNALS: PhD, Harvard Medical School professor, author of "Lifespan", leading aging researcher
+
+⭐⭐⭐ ID: 5192609 | "Crossing Medicine's Last Perimeter. Aging & Longevity with Harvard Geneticist, David Sinclair, PhD." | The Naked Soul Club (97806)
+Description: "David Sinclair is a professor of genetics at Harvard Medical School and co-director of the Paul Glenn Center Biological Mechanisms of Aging. He is widely considered one the world's foremost experts on longevity research. A co-founder of the journal Aging and several biotech companies, he also holds 35 patents."
+GUEST: David Sinclair, PhD
+EXPERTISE SIGNALS: Harvard professor, co-director research center, 35 patents, co-founder journal Aging
+
+⭐⭐⭐ ID: 20722694 | "David Sinclair: Reversing the Aging Process" | The Knowledge Project (11710)
+Description: "Biologist and genetics expert Dr. David Sinclair is out to prove he can live past 100 years old, and he thinks you can too. Dr. Sinclair is a professor of genetics and co-director of the Paul F. Glenn Center for Biology of Aging Research at Harvard Medical School"
+GUEST: David Sinclair, PhD
+EXPERTISE SIGNALS: Professor of genetics, Harvard Medical School, co-director aging research center
+
+⭐⭐ ID: 10719596 | "This Harvard Professor Explains the Secret to Aging in Reverse | David Sinclair on Health Theory" | Health Theory (141591)
+GUEST: David Sinclair
+EXPERTISE SIGNALS: Harvard professor, author of bestselling book on aging
+
+ASSESSMENT: EXCELLENT results! Multiple high-quality episodes featuring David Sinclair with clear credentials from top podcasts.
+
+---
+
+## SEARCH 23: "Yuval Harari future Sapiens"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+
+⭐⭐⭐ ID: 10492210 | "Yuval Harari on Sapiens" | EconTalk (178)
+Description: "Yuval Harari of Hebrew University and author of Sapiens talks with EconTalk host Russ Roberts about the history of humanity. Topics discussed include the move from hunting and gathering to agriculture, the role of fiction in sustaining imagination, the nature of money, the impact of empires and the synergies between empires and science."
+GUEST: Yuval Noah Harari - Professor, Hebrew University, bestselling author
+EXPERTISE SIGNALS: Professor at Hebrew University, author of "Sapiens", historian specializing in macrohistory
+
+Many other results in foreign languages (Portuguese, Spanish, Hungarian)
+
+ASSESSMENT: Found solid EconTalk episode. Many results are book summaries or foreign language episodes. The EconTalk episode is a strong candidate.
+
+---
+
+## SEARCH 24: "Stuart Russell AI safety"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 791990 | "Stuart Russell: Long-Term Future of AI" | Lex Fridman Podcast (22625)
+Description: "Stuart Russell is a professor of computer science at UC Berkeley and a co-author of the book that introduced me and millions of other people to AI, called Artificial Intelligence: A Modern Approach."
+GUEST: Stuart Russell - Professor, UC Berkeley, author of definitive AI textbook
+EXPERTISE SIGNALS: UC Berkeley professor of CS, co-author of standard AI textbook used in 1,500 universities
+
+⭐⭐⭐ ID: 71114873 | "Delving Into AI Ethics, Safety and Global Regulations with Stuart Russell" | Regulating AI Podcast (557234)
+Description: "Stuart Russell, Professor of Computer Science at UC Berkeley; Former Chair of the Electrical Engineering and Computer Science Program at UC Berkeley; Holder of the Smith-Zadeh Chair in Engineering; Director of the Center for Human-Compatible AI; Author of Artificial Intelligence: A Modern Approach"
+GUEST: Stuart Russell
+EXPERTISE SIGNALS: UC Berkeley professor, former department chair, director of AI safety center, author of seminal textbook
+
+⭐⭐ ID: 1444224 | "47. AI Boom, or Doom? | Stuart Russell" | The Lunar Society Podcast (36509)
+Description: "Stuart Russell's textbook is used to teach AI in over 1,400 universities and 120 countries. If AI scares him, it should scare you too."
+GUEST: Stuart Russell
+EXPERTISE SIGNALS: Textbook used in 1,400+ universities
+
+⭐⭐⭐ ID: 793482 | "3 principles for creating safer AI | Stuart Russell" | TED Talks Daily (22650)
+Description: "How can we harness the power of superintelligent AI while also preventing the catastrophe of robotic takeover? AI pioneer Stuart Russell is working on something a bit different: robots with uncertainty."
+GUEST: Stuart Russell
+EXPERTISE SIGNALS: AI pioneer, UC Berkeley professor
+
+ASSESSMENT: EXCELLENT results! Multiple strong episodes with Stuart Russell from reputable podcasts including Lex Fridman and TED.
+
+---
+
+## SEARCH 25: "Nick Bostrom superintelligence"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 70814363 | "Nick Bostrom on Superintelligence" | EconTalk (553749)
+Description: "Nick Bostrom of the University of Oxford talks with EconTalk host Russ Roberts about his book, Superintelligence: Paths, Dangers, Strategies. Bostrom argues that when machines exist which dwarf human intelligence they will threaten human existence unless steps are taken now to reduce the risk."
+GUEST: Nick Bostrom - Professor, Oxford University, author
+EXPERTISE SIGNALS: Oxford professor, director Future of Humanity Institute, bestselling author of "Superintelligence"
+
+⭐⭐⭐ ID: 1453641 | "#83 – Nick Bostrom: Simulation and Superintelligence" | Lex Fridman Podcast (22625)
+Description: "Nick Bostrom is a philosopher at University of Oxford and the director of the Future of Humanity Institute. He has worked on fascinating and important ideas in existential risks, simulation hypothesis, human enhancement ethics, and the risks of superintelligent AI systems, including in his book Superintelligence."
+GUEST: Nick Bostrom
+EXPERTISE SIGNALS: Oxford philosopher, director Future of Humanity Institute, author of "Superintelligence"
+
+⭐⭐⭐ ID: 10492256 | "Nick Bostrom on Superintelligence" | EconTalk (178)
+Description: Same as above (appears to be duplicate entry)
+
+⭐⭐ ID: 23449057 | "Nick Bostrom: Superintelligence (#256)" | Into the Impossible Podcast (82576)
+GUEST: Nick Bostrom
+EXPERTISE SIGNALS: Swedish philosopher at Oxford, founder of Future of Humanity Institute, included in Foreign Policy's Top 100 Global Thinkers
+
+ASSESSMENT: EXCELLENT results! Multiple high-quality episodes featuring Nick Bostrom from top podcasts (Lex Fridman, EconTalk).
+
+---
+
+## SEARCH 26: "Elon Musk SpaceX Mars colonization"
+Total Results: 10,000+
+
+NOTABLE EPISODES:
+- ID: 62336277 | "How Elon Musk and SpaceX plan to colonize Mars" | The Daily (NYT) (336761)
+- Various episodes ABOUT Elon Musk rather than interviews WITH him
+
+ASSESSMENT: Many results are about Elon Musk rather than interviews with him. The Daily (NYT) episode may feature reporting/analysis rather than direct interview. Need to be cautious - may not meet our interview format criteria. Will likely skip most of these.
+
+---
+
+## SEARCH 27: "Aubrey de Grey SENS longevity"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 15572630 | "Age Longevity with Aubrey de Grey" | Zestology Podcast (179328)
+Description: "Aubrey de Grey, the godfather of the longevity movement, returns to talk more about ending ageing. Facing the hurdles of ageing and society, de Grey is optimistic about its scientific progress and regulations."
+GUEST: Aubrey de Grey - Biogerontologist, SENS Research Foundation
+EXPERTISE SIGNALS: "Godfather of the longevity movement", Chief Science Officer SENS Foundation
+
+⭐⭐⭐ ID: 50366755 | "Aubrey de Grey - Longevity & Life-Extension" | Unknown Podcast (347419)
+Description: "Life-Extension pioneer Dr. Aubrey De Grey discusses the LEV & SENS foundations, the latest trends in anti-aging research, new animal trials anticipated to double or triple life expectancy. Dr. Aubrey de Grey is President and CSO at the Longevity Escape Velocity (LEV) Foundation and Co-founder at the SENS Research Foundation. He's also the author of The Mitochondrial Free Radical Theory of Aging and co-author of Ending Aging."
+GUEST: Aubrey de Grey, PhD
+EXPERTISE SIGNALS: President/CSO LEV Foundation, co-founder SENS Foundation, author of multiple books, adjunct professor Moscow Institute of Physics and Technology
+
+⭐⭐⭐ ID: 1444211 | "Aubrey de Grey" | The Tim Ferriss Show (36508)
+Description: "Can you imagine living a healthy life to the ripe old age of 1,000? Our guest on this episode believes we are only 25 years from making this dream a reality. This man is Aubrey de Grey, an English author and theoretician"
+GUEST: Aubrey de Grey
+EXPERTISE SIGNALS: Author, theoretician, biogerontologist
+
+⭐⭐ ID: 1702450 | "Life Extension & Human Longevity with Dr. Aubrey de Grey" | Mind and Machine Podcast (39183)
+Description: "My guest is Dr. Aubrey de Grey, a leading voice in the field and the Chief Science Officer of the SENS Research Foundation which is doing pioneering work on significantly extending healthy, active lifespans. Aubrey is a biomedical gerontologist with a degree in Computer Science and a Ph.D. in Biology."
+GUEST: Aubrey de Grey, PhD
+EXPERTISE SIGNALS: PhD in Biology, CSO SENS Research Foundation, biomedical gerontologist
+
+ASSESSMENT: EXCELLENT results! Multiple strong episodes featuring Aubrey de Grey including Tim Ferriss Show. Very strong credentials documented.
+
+---
+
+## SEARCH 28: "Michio Kaku physics future civilization"
+Total Results: 10,000+
+
+HIGHLY PROMISING EPISODES:
+
+⭐⭐⭐ ID: 791954 | "Michio Kaku: Future of Humans, Aliens, Space Travel & Physics" | Lex Fridman Podcast (22625)
+Description: "Michio Kaku is a theoretical physicist, futurist, and professor at the City College of New York. He is the author of many fascinating books on the nature of our reality and the future of our civilization."
+GUEST: Michio Kaku, PhD
+EXPERTISE SIGNALS: Theoretical physicist, professor City College of New York, co-founder string field theory, multiple bestselling books
+
+⭐⭐ ID: 3049371 | "Michio Kaku" | Marginalia Podcast (58673)
+Description: "The co-founder of string field theory joins Jim Mustich in the studio, to talk about his new book The Future of Humanity, why he's an optimist about the world of tomorrow"
+GUEST: Michio Kaku
+EXPERTISE SIGNALS: Co-founder string field theory, author "Future of Humanity"
+
+⭐⭐ ID: 30033132 | "Michio Kaku" | The Long Now Foundation (280)
+Description: "Kaku is a co-founder of string field theory and he's one of today's most recognizable scientists. In his latest book, Quantum Supremacy"
+GUEST: Michio Kaku
+EXPERTISE SIGNALS: Co-founder string field theory, theoretical physicist, bestselling author
+
+ASSESSMENT: Good results featuring Michio Kaku from reputable podcasts including Lex Fridman. Strong credentials as theoretical physicist and futurist.
+
+---
+
+## UPDATED OVERALL ASSESSMENT
+
+**ADDITIONAL STRONG CANDIDATES IDENTIFIED:**
+
+**Longevity/Health (MAJOR ADDITIONS):**
+- David Sinclair (multiple excellent episodes - Harvard geneticist)
+- Aubrey de Grey (multiple excellent episodes - SENS Foundation, Tim Ferriss)
+- Peter Attia episodes (from previous searches)
+
+**Space/Cosmology:**
+- Michio Kaku episodes (theoretical physicist, string theory co-founder)
+- Neil deGrasse Tyson (from previous searches)
+- Sean Carroll (from previous searches)
+
+**AI/AGI & Existential Risk (MAJOR ADDITIONS):**
+- Stuart Russell (multiple excellent episodes - UC Berkeley, AI textbook author)
+- Nick Bostrom (multiple excellent episodes - Oxford, "Superintelligence" author)
+- Sam Harris (from previous searches)
+- Toby Ord (from previous searches)
+
+**Civilization/Philosophy:**
+- Yuval Noah Harari (EconTalk episode - historian, "Sapiens" author)
+- Tyler Cowen (from previous searches)
+
+**TOTAL STRONG CANDIDATES NOW: ~35-40 episodes**
+
+We now have sufficient high-quality candidates across all topic areas to proceed with detailed evaluation and final selection.
+
+**GAPS STILL REMAINING:**
+- Space exploration practitioners (astronauts, aerospace engineers) - may need one more targeted search
+- More diversity in physics/cosmology experts
+
+**NEXT STEPS:**
+1. Begin comprehensive episode evaluation in episodes.txt
+2. Rate all 35-40 candidates with detailed expertise analysis
+3. Ensure 18 different podcasts for final selection
+4. Create balanced course across all levels
+
+---
+
+END OF RESULTS DOCUMENT

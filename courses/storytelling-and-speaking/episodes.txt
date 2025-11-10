@@ -1,0 +1,623 @@
+# STORYTELLING & SPEAKING COURSE - EPISODE EVALUATIONS
+
+This file contains detailed evaluations of candidate episodes, including quality ratings, expertise signals, and level categorization.
+
+Rating System:
+⭐⭐⭐ EXCELLENT - Use these first (strong credentials, top podcasts, clear interview format)
+⭐⭐ GOOD - Solid backup (one strong credential, reputable podcast)
+⭐ ACCEPTABLE - Use only if needed (some expertise mentioned but vague)
+❌ REJECT - Never use (hits red flags, no credentials, wrong format)
+
+---
+
+## ⭐⭐⭐ EXCELLENT EPISODES
+
+### Episode ID: 23712836
+**Title:** "Presentation Skills Masterclass with Nancy Duarte"
+**Podcast:** Joseph Jaffe is Not Famous (ID: 213248)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- CEO of Duarte, Inc.
+- Author of multiple books (Resonate, Slide:ology, HBR Guide to Persuasive Presentations)
+- HBR Guide is best-selling Harvard Business Review guide ever
+- 20 years experience with global companies
+- Worked with Apple, Cisco, Facebook, GE, Google, HP, TED, Twitter, World Bank
+- Presentation expert with proven track record
+
+**Why This Fits:**
+This is an interview with Nancy Duarte, one of the world's foremost presentation experts. Her firm has created over 250,000 presentations for major companies. Clear interview format on a recognized podcast.
+
+**Level Categorization:** INTERMEDIATE/ADVANCED
+Nancy's expertise is deep and technical - best for those ready to master presentation skills at a high level.
+
+**What Listeners Will Learn:**
+- Universal presentation skills that work in any environment
+- Storytelling in business presentations
+- Visual thinking principles
+- Persuasion techniques
+
+---
+
+### Episode ID: 38259037
+**Title:** "Matthew Dicks on Storytelling"
+**Podcast:** The Learnings Podcast (ID: 292269)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- 56-time Moth StorySLAM champion
+- 9-time GrandSLAM champion
+- Author of bestselling book "Storyworthy"
+- Author of "Someday is Today"
+- Elementary school teacher (20 years)
+- West Hartford Teacher of the Year
+- Finalist for Connecticut Teacher of the Year
+- Co-founder and creative director of Speak Up storytelling organization
+- Featured in NYT, Atlantic, Reader's Digest, Huffington Post
+
+**Why This Fits:**
+Matthew is the most decorated Moth storyteller in history. His book "Storyworthy" is THE definitive guide to storytelling. He combines teaching expertise with storytelling mastery.
+
+**Level Categorization:** BEGINNER/INTERMEDIATE
+Matthew's approach is accessible and practical - perfect for anyone wanting to learn storytelling fundamentals and techniques.
+
+**What Listeners Will Learn:**
+- How to find stories in everyday life
+- "Homework for Life" technique
+- Story structure and arc
+- Making stories engaging and memorable
+- Using vulnerability in storytelling
+
+---
+
+### Episode ID: 73102713
+**Title:** "Matthew Dicks: The Storytelling Expert"
+**Podcast:** The Knowledge Project (ID: 11710)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- Same credentials as above episode
+- This is Shane Parrish's Knowledge Project - highly respected podcast
+- Deep dive into storytelling techniques
+- Discusses psychological triggers in stories
+
+**Why This Fits:**
+Another Matthew Dicks interview but on a different, highly respected podcast. Shane Parrish is known for deep, intellectual conversations.
+
+**Level Categorization:** INTERMEDIATE/ADVANCED
+This appears to be more technical and deep than the other Matthew Dicks episode.
+
+**What Listeners Will Learn:**
+- Story architecture
+- How to avoid common mistakes
+- Difference between stories and anecdotes
+- Strategic listening
+- Structuring stories for impact
+
+---
+
+### Episode ID: 61901215
+**Title:** "Nancy Duarte, a communication expert and founder of Duarte, Inc."
+**Podcast:** Unknown (ID: 456040)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- Communication expert
+- Featured in Fortune, Forbes, Fast Company, Wired, WSJ, NYT, LA Times, CNN
+- Founder of Duarte, Inc.
+- Created 250,000+ presentations
+- Clients include Apple, Cisco, Facebook, Google, TED, World Bank
+- Persuasion specialist
+- Developed unique methodology applying storytelling principles to business
+
+**Why This Fits:**
+Same expert as previous Nancy Duarte episode but different podcast. Her credentials are impeccable.
+
+**Level Categorization:** INTERMEDIATE
+Focuses on business communications and persuasion.
+
+---
+
+### Episode ID: 1444084
+**Title:** "Carmine Gallo"
+**Podcast:** Voices (ID: 36508)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- Bestselling author of "Talk Like TED: The 9 Public-Speaking Secrets of the World's Top Minds"
+- Former anchor and correspondent for CNN and CBS
+- Communications coach for world's most admired brands
+- Columnist for Forbes and Monster.com
+- Worked with Coca-Cola, Intel, LinkedIn, Stanford, Cisco
+
+**Why This Fits:**
+Carmine Gallo is one of the most recognized names in presentation training. His "Talk Like TED" book analyzed hundreds of TED talks to extract principles.
+
+**Level Categorization:** BEGINNER/INTERMEDIATE
+His TED-focused approach is accessible to beginners but has depth for intermediate learners.
+
+**What Listeners Will Learn:**
+- Secrets of TED speakers
+- How to stand out as a communicator
+- Making messages emotional, novel, and memorable
+- The science of passion being contagious
+
+---
+
+### Episode ID: 42960768
+**Title:** "TED Curator Chris Anderson (ep. 640)"
+**Podcast:** The Tim Ferriss Show (ID: 36794)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- Curator of TED for over 20 years
+- Author of "Infectious Generosity" and "TED Talks: The Official TED Guide to Public Speaking"
+- Has seen first-hand how world's boldest thinkers share ideas
+- Runs one of the most influential idea-sharing platforms in the world
+
+**Why This Fits:**
+Chris Anderson literally wrote the book on TED Talks and has coached thousands of speakers. Being interviewed by Tim Ferriss (huge podcast) adds credibility.
+
+**Level Categorization:** INTERMEDIATE/ADVANCED
+Insights from curating TED - high-level strategic thinking about public speaking.
+
+**What Listeners Will Learn:**
+- How to share ideas that spread
+- Public speaking fundamentals from TED's perspective
+- How to cultivate generous mindset in communication
+- What makes ideas worth spreading
+
+---
+
+### Episode ID: 21499964
+**Title:** "Debate Like a World Champion: A Conversation with Bo Seo, Harvard Debate Coach & Global Debate Champion"
+**Podcast:** Intelligence Squared (ID: 64840)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- Winner of World Schools Debating Championship
+- Winner of World Universities Debating Championship
+- Harvard debate coach
+- Author of "Good Arguments"
+- Featured in NYT and The Atlantic
+- One of most recognized figures in global debate community
+
+**Why This Fits:**
+Bo Seo is literally a world champion debater and teaches at Harvard. His expertise in argumentation and persuasion is world-class. Intelligence Squared is a respected podcast.
+
+**Level Categorization:** ADVANCED
+Debate techniques and argumentation - sophisticated level.
+
+**What Listeners Will Learn:**
+- Good-faith debate techniques
+- How to engage so people listen
+- Active listening and responding
+- The importance of debate in democracy
+
+---
+
+### Episode ID: 79610317
+**Title:** "On Public Speaking & Anxiety with Expert Public Speaking Coach Alyson Connolly"
+**Podcast:** Life Shouldn't Hurt (ID: 304400)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- Expert public speaking coach
+- Specializes in conquering fear of public speaking
+- Provides proven techniques to overcome anxiety
+- Uses practical tools and strategies
+
+**Why This Fits:**
+Addresses the #1 fear (public speaking anxiety) with an expert coach. Essential topic for beginners.
+
+**Level Categorization:** BEGINNER
+Perfect for those struggling with fear and anxiety about speaking.
+
+**What Listeners Will Learn:**
+- How to conquer fear of public speaking
+- Techniques to transform anxiety into power
+- Building confidence as a communicator
+- Practical strategies for managing nervousness
+
+---
+
+### Episode ID: 46811272
+**Title:** "Encore: The Story of a MOTH Storyteller"
+**Podcast:** The Speaker Lab (ID: 181586)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- Margot Leitman: 5-time Moth StorySLAM winner
+- Moth GrandSLAM winner in New York City
+- First ever perfect score of 10 at Moth
+- Author of bestselling "Long Story Short: the Only Storytelling Guide You'll Ever Need"
+- Author of "What's Your Story?" and "Gawky"
+- Worked for "This American Life" as West Coast story scout
+- Founder of storytelling program at Upright Citizen's Brigade Theatre
+- Travels worldwide teaching storytelling
+
+**Why This Fits:**
+Margot is a champion storyteller and has a proven teaching methodology. The Speaker Lab is a reputable podcast for professional speakers.
+
+**Level Categorization:** INTERMEDIATE
+The Moth storytelling format is a specific technique that requires some foundational understanding.
+
+**What Listeners Will Learn:**
+- The art and craft of live storytelling
+- How to win storytelling competitions
+- Performance techniques
+- Storytelling structure
+
+---
+
+### Episode ID: 56991517
+**Title:** "04 Patricia Fripp, Executive Speech Coach"
+**Podcast:** Your Intended Message (ID: 407798)
+**Rating:** ⭐⭐⭐ EXCELLENT
+
+**Expertise Signals Identified:**
+- Executive speech coach
+- Helps leaders find and tell their stories
+- Professional speaker (considered a "rock star" in the industry)
+- Created FrippVT virtual presentation skills training
+- Works with corporate executives globally
+
+**Why This Fits:**
+Patricia Fripp is a legend in professional speaking. She's been coaching executives for decades.
+
+**Level Categorization:** INTERMEDIATE/ADVANCED
+Executive-level communication - for those in leadership positions or aspiring to them.
+
+**What Listeners Will Learn:**
+- How to tell stories in business context
+- Executive presence and communication
+- Finding everyday heroes stories in organizations
+- Creating memorable presentations
+
+---
+
+## ⭐⭐ GOOD EPISODES
+
+### Episode ID: 30706459
+**Title:** "032 Guest Interview with Mike Ganino, Storytelling and Speaking Coach"
+**Podcast:** Unknown (ID: 260411)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- Storytelling and speaking coach
+- Helps clients with "dramatic expression of truth"
+- Teaches people to find their speaking voice
+- Website: mikeganino.com
+
+**Why This Fits:**
+Professional coach with speaking expertise, though less prominent credentials than others.
+
+**Level Categorization:** BEGINNER/INTERMEDIATE
+
+---
+
+### Episode ID: 99185037
+**Title:** "Mastering Presentation Skills"
+**Podcast:** This Is Not What I Signed Up For (ID: 582895)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- Chris Graham: communication expert
+- Trained over 15,000 people at North America's leading law firms
+- Head of Speaker Coaching at TEDxToronto (2022)
+- Studied at Oxford University, University of Toronto Law School
+- Graduate of stand-up comedy program at The Second City in Toronto
+
+**Why This Fits:**
+Strong credentials - TEDx speaker coach, trained thousands, comedy background adds unique perspective.
+
+**Level Categorization:** INTERMEDIATE
+Focuses on management and professional settings.
+
+**What Listeners Will Learn:**
+- Connecting with your audience
+- Managing filler words
+- Importance of being genuine
+- Death by PowerPoint pitfalls
+- Using humor effectively
+
+---
+
+### Episode ID: 12156901
+**Title:** "2020 Toastmasters World Champion of Public Speaking - Mike Carr"
+**Podcast:** Making Waves at C-Level (ID: 120675)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- 2020 Toastmasters World Champion of Public Speaking
+- First podcast interview after winning championship
+- Toastmasters competitor with proven success
+
+**Why This Fits:**
+World champion credentials, though Toastmasters style is very specific. Good for understanding competition-level speaking.
+
+**Level Categorization:** INTERMEDIATE/ADVANCED
+
+**What Listeners Will Learn:**
+- Journey to championship level
+- Competition speaking techniques
+- How to prepare for high-stakes presentations
+
+---
+
+### Episode ID: 87310817
+**Title:** "Overcoming Public Speaking Anxiety"
+**Podcast:** Unknown (ID: 253193)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- Lee Glickstein: author of "Be Seen Now!"
+- Founder of Speaking Circles International
+- Founder of Mirror Work Alchemy
+- Authority on Relational Presence in public speaking
+- Developed approach from personal stage fright experience
+- Offers workshops and one-on-one coaching
+
+**Why This Fits:**
+Specialized expertise in anxiety and relational presence. Developed unique methodology.
+
+**Level Categorization:** BEGINNER
+Perfect for those with severe public speaking anxiety.
+
+**What Listeners Will Learn:**
+- Relational Presence technique
+- How to connect with audience
+- Overcoming severe anxiety
+- Making speaking listener-friendly
+
+---
+
+### Episode ID: 58450214
+**Title:** "Elevate your work with personal storytelling | Victor Barbella, Storytelling Coach"
+**Podcast:** Digging for Insights (ID: 423284)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- Professional storytelling coach
+- Trains executives around the world
+- Specializes in personal storytelling at work
+- Teaches how stories can persuade decision makers
+
+**Why This Fits:**
+Business storytelling focus, works with executives internationally.
+
+**Level Categorization:** INTERMEDIATE
+Business and professional context.
+
+**What Listeners Will Learn:**
+- Creating personal storytelling library
+- Making presentations come alive with stories
+- Executive storytelling techniques
+
+---
+
+### Episode ID: 74732646
+**Title:** "The Todd Ault Podcast - Interview With Storytelling Coach Neal Foard"
+**Podcast:** The Todd Ault Podcast (ID: 584709)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- Persuasion expert
+- Storytelling coach
+- Former advertising executive
+- Gained massive social media following with inspirational videos about kindness
+
+**Why This Fits:**
+Advertising background plus storytelling expertise - practical perspective.
+
+**Level Categorization:** INTERMEDIATE
+
+**What Listeners Will Learn:**
+- Persuasion through storytelling
+- String theory and storytelling
+- Manifestation and human connection
+- Media's role in communication
+
+---
+
+### Episode ID: 65494258
+**Title:** "Episode 155 - Adam Wade Storyteller, 20-time Moth Story-slam Winner"
+**Podcast:** Unknown (ID: 493898)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- 20-time Moth story-slam winner
+- Author
+- Teacher of storytelling in New York City
+- Website: adamwade.com
+
+**Why This Fits:**
+Impressive Moth wins record, teaches storytelling professionally.
+
+**Level Categorization:** INTERMEDIATE
+
+**What Listeners Will Learn:**
+- Secrets of storytelling success
+- Moth storytelling techniques
+- How to win storytelling competitions
+
+---
+
+### Episode ID: 68028455
+**Title:** "Ep. 373 - Laura Bresee - Executive Speech Voice Coach"
+**Podcast:** Unknown (ID: 522540)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- Executive speech voice coach
+- Specializes in vocal delivery
+- Website: speechcoachlaura.com
+
+**Why This Fits:**
+Specialized voice coaching for executives.
+
+**Level Categorization:** INTERMEDIATE/ADVANCED
+Technical voice work.
+
+---
+
+### Episode ID: 26208259
+**Title:** "Interview with Communication Professor Karen Swett"
+**Podcast:** Unknown (ID: 233563)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- Communication professor
+- Expert in communication process
+- Specializes in body language
+
+**Why This Fits:**
+Academic credentials, though less prominent than others.
+
+**Level Categorization:** BEGINNER/INTERMEDIATE
+
+---
+
+### Episode ID: 82059804
+**Title:** "The Art of Persuasion: Discussing Rhetoric with Professor Rob Danisch"
+**Podcast:** The Rational Egoist (ID: 520426)
+**Rating:** ⭐⭐ GOOD
+
+**Expertise Signals Identified:**
+- Professor Rob Danisch
+- Expert in communication arts at Waterloo University
+- Academic research in rhetoric
+- Real-world applications of rhetoric
+
+**Why This Fits:**
+Academic expertise in classical rhetoric - foundational knowledge.
+
+**Level Categorization:** ADVANCED
+Classical rhetoric is sophisticated.
+
+**What Listeners Will Learn:**
+- Timeless power of rhetoric
+- Effective persuasion techniques
+- Ethical considerations in communication
+- How language influences thought and action
+
+---
+
+## ⭐ ACCEPTABLE EPISODES
+
+### Episode ID: 6870440
+**Title:** "Speech Breakdown of Toastmasters Champion Ramona Smith"
+**Podcast:** The Speaker Lab (ID: 38418)
+**Rating:** ⭐ ACCEPTABLE
+
+**Expertise Signals Identified:**
+- 2018 Toastmasters Champion Ramona J. Smith
+- Speech analysis format
+- The Speaker Lab podcast (reputable)
+
+**Why This Fits:**
+Good for learning from examples, but it's speech breakdown rather than direct interview with techniques.
+
+**Level Categorization:** INTERMEDIATE
+
+---
+
+### Episode ID: 98843250
+**Title:** "Master Public Speaking With Drama & Improvisation Skills"
+**Podcast:** Unknown (ID: 425957)
+**Rating:** ⭐ ACCEPTABLE
+
+**Expertise Signals Identified:**
+- Salman Qureshi: experienced actor, comedian, theater improviser
+- Courtyard Playhouse Theatre in Dubai
+- Corporate trainer
+
+**Why This Fits:**
+Unique angle (improv for speaking) but less prominent credentials.
+
+**Level Categorization:** INTERMEDIATE
+
+---
+
+## ❌ REJECT EPISODES
+
+### Episode ID: Various Lex Fridman episodes
+**Reason for Rejection:**
+While Lex Fridman is popular, these episodes don't focus specifically on storytelling or speaking skills. They're general interviews.
+
+### Episode ID: Various Tim Ferriss episodes
+**Reason for Rejection:**
+Most don't specifically cover speaking/storytelling as the main topic. Guest selection would need to be very specific.
+
+### Episode ID: Various "TED Talks" titled episodes
+**Reason for Rejection:**
+Many are just podcast names or generic discussions, not expert interviews on speaking.
+
+### Episode ID: Most "Toastmasters" episodes
+**Reason for Rejection:**
+Too focused on Toastmasters-specific competition format. While some champions are good, the style is very particular and not universally applicable.
+
+### Episode ID: Various generic "presentation skills" episodes
+**Reason for Rejection:**
+Many lack clear expert credentials or are host monologues without guest interviews.
+
+---
+
+## SUMMARY OF TOP CANDIDATES BY LEVEL
+
+### BEGINNER (Need 6):
+1. ⭐⭐⭐ Matthew Dicks - Storytelling fundamentals
+2. ⭐⭐⭐ Carmine Gallo - TED talk secrets
+3. ⭐⭐⭐ Alyson Connolly - Overcoming anxiety
+4. ⭐⭐ Lee Glickstein - Severe anxiety and presence
+5. ⭐⭐ Chris Graham - Basic presentation skills
+6. Need 1 more beginner-friendly episode
+
+### INTERMEDIATE (Need 6):
+1. ⭐⭐⭐ Nancy Duarte - Presentation mastery
+2. ⭐⭐⭐ Margot Leitman - Moth storytelling
+3. ⭐⭐⭐ Patricia Fripp - Executive speech
+4. ⭐⭐⭐ Matthew Dicks (Knowledge Project) - Advanced storytelling
+5. ⭐⭐ Mike Ganino - Speaking coach insights
+6. ⭐⭐ Victor Barbella - Business storytelling
+
+### ADVANCED (Need 6):
+1. ⭐⭐⭐ Bo Seo - World champion debate
+2. ⭐⭐⭐ Chris Anderson - TED curator insights
+3. ⭐⭐⭐ Nancy Duarte (second episode) - Advanced persuasion
+4. ⭐⭐ Mike Carr - Championship speaking
+5. ⭐⭐ Rob Danisch - Classical rhetoric
+6. Need 1 more advanced episode
+
+---
+
+## PODCAST DIVERSITY CHECK
+
+Current podcasts represented:
+1. Joseph Jaffe is Not Famous
+2. The Learnings Podcast
+3. The Knowledge Project
+4. Voices
+5. The Tim Ferriss Show
+6. Intelligence Squared
+7. Life Shouldn't Hurt
+8. The Speaker Lab
+9. Your Intended Message
+10. This Is Not What I Signed Up For
+11. Making Waves at C-Level
+12. Digging for Insights
+13. The Todd Ault Podcast
+14. The Rational Egoist
+
+✓ Good diversity across different podcasts
+✓ Mix of well-known (Tim Ferriss, Knowledge Project) and niche speaking podcasts
+✓ No single podcast dominates
+
+---
+
+## NEXT STEPS:
+1. Need to find 1-2 more strong episodes to complete the 18
+2. Verify episode IDs and podcast IDs are correct
+3. Listen to or research episodes more deeply if needed
+4. Create final course.txt with detailed justifications
+5. Build final JSON file

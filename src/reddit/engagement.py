@@ -92,11 +92,33 @@ class RedditEngagementManager:
         self.strategy_manager = EngagementStrategyManager()
         
         # Initialize subreddit selector
+        # Extend Tier 1 with supplemental (subject-derived) subreddits so the agent
+        # can begin exploring a broader, learning-focused set early on.
+        try:
+            from .supplemental_subs import load_flattened_subject_subreddits
+            supplemental = load_flattened_subject_subreddits(limit=200)
+        except Exception as e:
+            logger.warning(f"Could not load supplemental subreddits: {e}")
+            supplemental = []
+        
+        # Merge and de-duplicate while preserving original tier1 order preference
+        tier1_merged: list[str] = []
+        seen: set[str] = set()
+        for sub in brand_config.subreddits_tier1 + supplemental:
+            key = sub.strip()
+            if key and key not in seen:
+                seen.add(key)
+                tier1_merged.append(key)
+        
         self.subreddit_selector = SubredditSelector(
-            tier1_subreddits=brand_config.subreddits_tier1,
+            tier1_subreddits=tier1_merged,
             tier2_subreddits=brand_config.subreddits_tier2,
             tier3_subreddits=brand_config.subreddits_tier3,
             cooldown_hours=2,
+        )
+        logger.info(
+            f"SubredditSelector Tier1 size: brand={len(brand_config.subreddits_tier1)}, "
+            f"supplemental+merged={len(tier1_merged)}"
         )
         
         # Track recent activity for quality scoring

@@ -1,0 +1,264 @@
+# STORYTELLING & SPEAKING COURSE - SEARCH RESULTS
+## Total Searches Conducted: 25
+
+This file contains the raw results from all Elasticsearch searches conducted to find expert interviews on storytelling, public speaking, communication, and related topics.
+
+---
+
+## SEARCH STRATEGY A: High-Quality Podcast + Topic
+
+### Search 1: "Lex Fridman public speaking"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 8807774: "Lex Fridman" - Lex and Whitney discuss love and robots
+- Episode 44520029: "#1537 - Lex Fridman" - Scientist researches AI and autonomous vehicles at MIT
+- Episode 18708794: "282 - Lex Fridman" (Tim Dillon Show) - Discussion on various topics
+
+### Search 2: "Tim Ferriss storytelling"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 72662715: "Tim Ferriss" (Armchair Expert) - Discusses stoicism, psychedelic treatment, risk analysis
+- Episode 9187572: "Tim Ferriss" (TED Intersections) - Talks about depression, suicide, major life changes
+
+### Search 3: "TED talks storytelling expert"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 30759918: "TED Talks over storytelling die je gezien moet hebben" - Collection of TED talks on storytelling
+- Episode 48766037: "TED Talks" - Book discussion by Chris Anderson on public speaking
+
+### Search 4: "Huberman Lab communication"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 23925880: "Huberman Lab" - Discusses neuroscience and behavior
+- Episode 62871713: "'Huberman Lab'" - Discussion about the podcast
+
+### Search 5: "How I Built This presentation"
+Total Results: 10,000+
+Notable Episodes:
+- Various "How I Built This" episodes but most focus on business building rather than presentation skills
+
+### Search 6: "Making Sense rhetoric persuasion"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 67017033: "Making sense of the overwhelming recession rhetoric"
+- Episode 6260544: "E022 - Communicating effectively (Rhetoric and persuasion)"
+
+### Search 7: "Knowledge Project storytelling"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 19293648: "Knowledge Project" - Discusses mental models and living meaningfully
+- Episode 70561136: "The Storytelling Project" - Fordham University students share stories
+
+### Search 8: "Masters of Scale presentation skills"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 52483728: "Masters of Scale - Book Summary"
+- Various presentation skills episodes
+
+---
+
+## SEARCH STRATEGY B: Expert Types + Interview
+
+### Search 9: "TED speaker interview"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 41993961: "Sam Leach Interview - Entrepreneur, TED speaker and Investor"
+- Various AA speaker episodes (not relevant)
+
+### Search 10: "storytelling coach interview"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 74732646: "The Todd Ault Podcast - Interview With Storytelling Coach Neal Foard" - Persuasion expert and storytelling coach
+- Episode 57583734: "Annette Fix | Storytelling Coach & Author" - Author of The Break Up Diet, discusses therapeutic writing
+- Episode 30706459: "032 Guest Interview with Mike Ganino, Storytelling and Speaking Coach"
+- Episode 58450214: "Elevate your work with personal storytelling | Victor Barbella, Storytelling Coach"
+
+### Search 11: "communication professor interview"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 26208259: "Interview with Communication Professor Karen Swett" - Discusses body language and communication concepts
+- Episode 63584088: "Joseph Turow, University of Pennsylvania Communication Professor"
+- Episode 82915626: "Professor Sara Yeo - Humor in Science Communication"
+
+### Search 12: "public speaking anxiety expert"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 79610317: "On Public Speaking & Anxiety with Expert Public Speaking Coach Alyson Connolly"
+- Episode 87310817: "Overcoming Public Speaking Anxiety" - Lee Glickstein, founder of Speaking Circles International
+- Episode 84122220: "Public Speaking: Dealing with Anxiety"
+
+### Search 13: "presentation skills author"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 60165608: "Presentation Skills" - Research-focused discussion
+- Episode 75908162: "Presentation Skills Webinar" - 45-minute skills session
+- Episode 99185037: "Mastering Presentation Skills" - Ross interviews Chris Graham, communication expert
+
+### Search 14: "Moth storyteller interview"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 46811272: "Encore: The Story of a MOTH Storyteller" - Margot Leitman, Moth GrandSlam winner
+- Episode 65494258: "Episode 155 - Adam Wade Storyteller, 20-time Moth Story-slam Winner"
+- Episode 9240813: "Marty 'The Moth' Casaus Interview"
+
+### Search 15: "speech coach executive"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 56991517: "04 Patricia Fripp, Executive Speech Coach" - Helps clients find and tell their stories
+- Episode 68028455: "Ep. 373 - Laura Bresee - Executive Speech Voice Coach"
+
+### Search 16: "rhetoric professor"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 82059804: "The Art of Persuasion: Discussing Rhetoric with Professor Rob Danisch"
+- Episode 15476991: "267 Daniel B. French - Ethical Persuasion & Mastering Rhetoric"
+
+---
+
+## SEARCH STRATEGY C: Specific Techniques + Expert
+
+### Search 17: "narrative structure expert"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 1758849: "Narrative Structure" - Discusses the shape of narratives
+- Episode 85144491: "S2E2: Elizabeth Kulas on Narrative Structure" - ABC's Days Like These host
+
+### Search 18: "vocal delivery coach"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 70452943: "Public Speaking Tips - Vocal Delivery | Introduction"
+- Episode 1556410: "Vocal Coach Spencer Welch"
+
+### Search 19: "body language communication"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 24596625: "Body Language and communication"
+- Episode 76714718: "Body Language Improves Our Communication" - Research on how body language improves understanding
+- Episode 89962795: "Mastering Body Language for Effective Communication" - With Joe Navarro insights
+
+### Search 20: "improvisation speaking"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 70452953: "Public Speaking Tips - Improvisation | Introduction"
+- Episode 98843250: "Master Public Speaking With Drama & Improvisation Skills" - With Salman Qureshi
+
+### Search 21: "persuasive communication researcher"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 44834743: "Persuasive Communication" - Making sure you get to the story
+- Episode 67534505: "Creating Persuasive Communication"
+- Episode 74143595: "Persuasive Communication/Debate #86" - Larry Wilson on becoming better persuasive communicators
+
+### Search 22: "Toastmasters champion"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 6870440: "Speech Breakdown of Toastmasters Champion Ramona Smith" - 2018 champion
+- Episode 12156901: "2020 Toastmasters World Champion of Public Speaking - Mike Carr"
+
+### Search 23: "debate champion interview"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 21499964: "Debate Like a World Champion: A Conversation with Bo Seo, Harvard Debate Coach & Global Debate Champion"
+
+### Search 24: "comedian storytelling technique"
+Total Results: 10,000+
+Notable Episodes:
+- Various comedy-related episodes but less focused on technique
+
+---
+
+## SEARCH STRATEGY D: Specific Experts/Books
+
+### Search 25: "Chris Anderson TED"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 59556898: "Ted Talks | Chris Anderson" - Public speaking tips from TED curator
+- Episode 51824678: "Chris Anderson on TED" - Head of TED discussing TED's rise
+- Episode 42960768: "TED Curator Chris Anderson (ep. 640)" - Infectious Generosity book discussion
+
+### Search 26: "Nancy Duarte presentation expert"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 23712836: "Presentation Skills Masterclass with Nancy Duarte"
+- Episode 61901215: "Nancy Duarte, a communication expert and founder of Duarte, Inc." - Created presentations for Apple, Google, TED
+- Episode 101116482: "#66: Nancy Duarte—How to Crush that Upcoming Presentation"
+
+### Search 27: "Matthew Dicks storytelling"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 38259037: "Matthew Dicks on Storytelling" - 56-time Moth StorySLAM champion, author of Storyworthy
+- Episode 73102713: "Matthew Dicks: The Storytelling Expert" - Knowledge Project interview
+- Episode 10013882: "Matthew Dicks - Speak Up Storytelling" - 39-time Moth champion
+
+### Search 28: "Carmine Gallo communication"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 20300932: "Episode #349 Carmine Gallo Communication Coach" - Bestselling author
+- Episode 1444084: "Carmine Gallo" - "Talk Like Ted" author, communications coach for world's most admired brands
+- Episode 25069405: "Persuasion with Carmine Gallo"
+
+### Search 29: "stage fright overcome fear"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 89653959: "Overcome Stage Fright"
+- Episode 64149192: "Overcome Stage Fright"
+- Episode 12460809: "Fear & Stage Fright" - The Big Talk podcast
+
+### Search 30: "authentic storytelling vulnerable"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 32122782: "Authentic and Vulnerable"
+- Episode 31040616: "Vulnerable Storytelling with Adil Mansoor" - Theater director
+
+### Search 31: "keynote speaker professional"
+Total Results: 10,000+
+Notable Episodes:
+- Episode 45755947: "Seasoned Professional & Keynote Speaker Summer Jelinek"
+- Episode 1014089: "039: Journey To Becoming A Professional Keynote Speaker"
+
+---
+
+## KEY FINDINGS
+
+### Top Candidates for Course (Based on Initial Review):
+
+**EXCELLENT Potential (⭐⭐⭐):**
+1. Nancy Duarte - Presentation expert, CEO of Duarte Inc., worked with Apple, Google, TED
+2. Matthew Dicks - 56-time Moth StorySLAM champion, author of "Storyworthy"
+3. Carmine Gallo - "Talk Like TED" author, communications coach
+4. Chris Anderson - TED curator, author of "TED Talks" book
+5. Patricia Fripp - Executive speech coach
+6. Bo Seo - Harvard debate coach, World Debate Champion
+7. Margot Leitman - Moth GrandSlam winner, author
+8. Alyson Connolly - Public speaking coach specializing in anxiety
+
+**GOOD Potential (⭐⭐):**
+- Mike Ganino - Storytelling and speaking coach
+- Chris Graham - Communication expert, TEDxToronto speaker coach
+- Victor Barbella - Storytelling coach
+- Lee Glickstein - Founder of Speaking Circles International
+- Mike Carr - 2020 Toastmasters World Champion
+
+**Topics Well-Covered:**
+✓ Overcoming fear/anxiety
+✓ Storytelling structure
+✓ TED-style presentations
+✓ Vocal delivery
+✓ Body language
+✓ Improvisation
+✓ Persuasive communication
+✓ Executive communication
+
+**Gaps to Address:**
+- Need more beginner-friendly episodes on fundamentals
+- Could use more on authentic/vulnerable storytelling
+- Need diversity of podcast sources (not just interview podcasts)
+
+---
+
+## NEXT STEPS:
+1. Review episode descriptions in detail for expertise signals
+2. Verify interview format (not host monologues)
+3. Check for podcast diversity
+4. Rate each episode: ⭐⭐⭐ EXCELLENT / ⭐⭐ GOOD / ⭐ ACCEPTABLE / ❌ REJECT
+5. Select 6 episodes per level (18 total) from different podcasts

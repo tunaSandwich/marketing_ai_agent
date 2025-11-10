@@ -1,0 +1,625 @@
+# Psychology of Decision Making - Episode Evaluation
+## Date: November 3, 2025
+
+---
+
+## BEGINNER LEVEL CANDIDATES
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 1488761
+**Title:** "Daniel Kahneman: Thinking Fast and Slow"
+**Podcast:** Long Now Foundation (ID: 37010)
+**Description:** Seminal talk about rationality, System 1 vs System 2 thinking
+
+**Expert Credentials:**
+- Daniel Kahneman - Nobel Prize winner in Economic Sciences (2002)
+- Professor of Psychology (Princeton University)
+- Author of "Thinking, Fast and Slow" - one of most influential psychology books
+- Pioneer of behavioral economics
+
+**Expertise Signals:**
+✓ Nobel Prize laureate
+✓ Princeton University affiliation
+✓ Pioneering research in judgment and decision-making
+✓ Best-selling author with decades of research
+
+**Format:** Lecture/Talk (Long Now Foundation seminars are high-quality intellectual talks)
+
+**Level Justification - BEGINNER:**
+This is THE foundational episode for understanding decision-making psychology. Kahneman explains System 1 (fast, intuitive) vs System 2 (slow, analytical) thinking in accessible terms. Perfect introduction to cognitive biases and why we make irrational decisions. The Long Now Foundation format makes complex ideas digestible for general audiences.
+
+**Why This Episode:**
+- Most influential figure in behavioral economics
+- Introduces core concepts used throughout course
+- Accessible explanation of dual-process theory
+- Foundation for understanding all other episodes
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 11639966
+**Title:** "Dr. Barry Schwartz, The Paradox of Choice"
+**Podcast:** Unknown podcast (ID: 143539)
+**Description:** Professor of psychology at Swarthmore College discusses "The Paradox of Choice: Why More Is Less" - named one of top business books by Business Week and Forbes
+
+**Expert Credentials:**
+- Barry Schwartz - Professor of Psychology, Swarthmore College
+- Author of "The Paradox of Choice" (2004)
+- TED talk with millions of views
+- Recognized by Business Week and Forbes
+
+**Expertise Signals:**
+✓ Professor at prestigious liberal arts college
+✓ Published researcher (100+ articles in professional journals)
+✓ Acclaimed book named top business book
+✓ Popular TED speaker
+
+**Format:** Interview
+
+**Level Justification - BEGINNER:**
+Choice overload is something everyone experiences daily - from Netflix to grocery stores. Schwartz makes the research highly relatable with everyday examples. Perfect beginner topic because it's immediately applicable and doesn't require understanding of complex economic theories. Introduces satisficing vs maximizing in accessible way.
+
+**Why This Episode:**
+- Relatable topic everyone experiences
+- Clear practical implications
+- Introduces decision-making strategies simply
+- Bridges psychology and everyday life
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 3350206
+**Title:** "Predictably Irrational: Dan Ariely #114"
+**Podcast:** Conversation Earth (ID: 63771)
+**Description:** Behavioral economist Dan Ariely discusses decision-making, cognitive biases, inter-temporal choice, hedonic treadmill, identifiable victim effect, behavior substitution
+
+**Expert Credentials:**
+- Dan Ariely - Professor of Psychology and Behavioral Economics, Duke University
+- Best-selling author of "Predictably Irrational"
+- TED speaker with millions of views
+- Decades of research on irrational behavior
+
+**Expertise Signals:**
+✓ Duke University professor
+✓ Dual expertise (Psychology + Behavioral Economics)
+✓ Best-selling author
+✓ Extensive research on decision-making biases
+
+**Format:** Interview (host interviewing Ariely)
+
+**Level Justification - BEGINNER:**
+Ariely is known for making behavioral economics fun and accessible. The episode covers fundamental biases through engaging examples. The "predictably irrational" framing helps beginners understand that our mistakes follow patterns, which is empowering rather than discouraging.
+
+**Why This Episode:**
+- Engaging storytelling about research
+- Multiple concrete examples of biases
+- Accessible without being simplistic
+- Shows how biases affect everyday decisions
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 10492170
+**Title:** "Angela Duckworth on Grit"
+**Podcast:** EconTalk (ID: 178) with Russ Roberts
+**Description:** University of Pennsylvania professor and author discusses how grit matters in success, whether grit is malleable or something we're born with
+
+**Expert Credentials:**
+- Angela Duckworth - Professor, University of Pennsylvania
+- PhD in Psychology from Penn
+- MacArthur "Genius" Fellowship winner (2013)
+- Author of best-selling "Grit"
+- Founded Character Lab
+
+**Expertise Signals:**
+✓ UPenn professor
+✓ MacArthur Fellow (prestigious recognition)
+✓ Published researcher on perseverance
+✓ Best-selling author
+✓ Founded research institution
+
+**Format:** Interview with Russ Roberts (EconTalk format)
+
+**Level Justification - BEGINNER:**
+Grit and perseverance are intuitive concepts that relate to decision-making about long-term goals vs short-term gratification. Duckworth explains her research in storytelling format. EconTalk is known for accessible intellectual conversations.
+
+**Why This Episode:**
+- Relatable topic (everyone wants more grit)
+- Clear research findings explained simply
+- Practical implications for decision-making
+- EconTalk format is accessible yet intellectually rigorous
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 20250974
+**Title:** "Ep229 - Dan Ariely | Predictably Irrational"
+**Podcast:** Talks at Google (ID: 127310)
+**Description:** Behavioral economist discusses paradox of choice in "Age of Tinder", research-based insights for modern dating and relationships, how cognitive biases affect everyday decisions
+
+**Expert Credentials:**
+- Dan Ariely - (same as above)
+- Professor at Duke University
+- Best-selling author
+
+**Expertise Signals:**
+✓ Same as previous Ariely episode
+✓ Talks at Google format ensures quality
+✓ Research-based insights
+
+**Format:** Talk/Interview at Google
+
+**Level Justification - BEGINNER:**
+Uses modern, relatable examples (dating apps, technology) to explain decision-making principles. Google Talks format is designed for educated general audiences. Makes behavioral economics relevant to contemporary life.
+
+**Why This Episode:**
+- Modern examples resonate with audiences
+- Shows application of bias research to dating/relationships
+- Engaging speaker in accessible format
+- Demonstrates breadth of decision-making research
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 90896694
+**Title:** "Richard Thaler | Nudge"
+**Podcast:** Talks at Google (ID: 127310)
+**Description:** Professor discusses "Nudge" book, choice architecture, how to nudge people toward better decisions without restricting freedom, mentions Nudge Unit
+
+**Expert Credentials:**
+- Richard Thaler - Nobel Prize in Economic Sciences (2017)
+- Professor, University of Chicago Booth School of Business
+- Co-author of "Nudge" (with Cass Sunstein)
+- Influential in government policy (UK Nudge Unit)
+
+**Expertise Signals:**
+✓ Nobel Prize winner
+✓ University of Chicago professor
+✓ Book influenced government policy worldwide
+✓ Pioneer of behavioral economics
+
+**Format:** Talk at Google (presentation + Q&A)
+
+**Level Justification - BEGINNER:**
+"Nudging" is an immediately understandable concept - small changes that help people make better choices. Thaler uses everyday examples (cafeteria food placement, retirement savings). Shows how understanding biases leads to practical solutions. Perfect for beginners because it's optimistic and actionable.
+
+**Why This Episode:**
+- Nobel laureate making economics accessible
+- Practical applications of behavioral science
+- Positive framing (how to help people decide better)
+- Real-world policy impact examples
+
+---
+
+## INTERMEDIATE LEVEL CANDIDATES
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 13763252
+**Title:** "Julia Galef on the Scout Mindset"
+**Podcast:** EconTalk (ID: 178) with Russ Roberts
+**Description:** Podcaster and author discusses "The Scout Mindset," urges being more rational and open-minded rather than defending beliefs (soldier mindset)
+
+**Expert Credentials:**
+- Julia Galef - Co-founder, Center for Applied Rationality
+- Host of "Rationally Speaking" podcast (decade-long run)
+- Author of "The Scout Mindset"
+- Expert on rational decision-making
+
+**Expertise Signals:**
+✓ Founded organization dedicated to rationality
+✓ Long-running podcast on rationality and decision-making
+✓ Published author on cognitive biases
+✓ Regular speaker on rational thinking
+
+**Format:** Interview with Russ Roberts
+
+**Level Justification - INTERMEDIATE:**
+Builds on beginner understanding of biases to explore metacognition - thinking about our thinking. The soldier vs scout distinction requires understanding that we often defend ideas rather than seek truth. More abstract than beginner concepts but highly practical.
+
+**Why This Episode:**
+- Introduces meta-level thinking about rationality
+- Practical framework (scout vs soldier) for self-awareness
+- Builds on bias knowledge from beginner level
+- Shows how to actively improve reasoning
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 16754350
+**Title:** "Annie Duke, Former Poker Champion & Decision Strategist: Improving Your Decision Making"
+**Podcast:** Coaching podcast (ID: 185332)
+**Description:** Former world-class poker player with PhD in psychology discusses "Thinking in Bets" and "How to Decide," focuses on outcome vs process (resulting), group decision-making
+
+**Expert Credentials:**
+- Annie Duke - PhD in Psychology, University of Pennsylvania
+- Former professional poker player (World Series of Poker winner)
+- Author of "Thinking in Bets" and "How to Decide"
+- Decision-making consultant
+
+**Expertise Signals:**
+✓ PhD in Psychology from UPenn
+✓ World-class poker success (real-world decision-making under uncertainty)
+✓ Two published books on decision-making
+✓ Consults for businesses on strategic decisions
+
+**Format:** Interview
+
+**Level Justification - INTERMEDIATE:**
+Poker provides unique framework for understanding probability, incomplete information, and separating outcomes from decision quality. Duke's concept of "resulting" (judging decisions by outcomes) requires nuanced understanding. Her work on group decision-making applies bias knowledge to organizational settings.
+
+**Why This Episode:**
+- Unique bridge between academic psychology and real-world application
+- Introduces probabilistic thinking
+- Discusses group dynamics in decision-making
+- Practical frameworks for business/team decisions
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 24858834
+**Title:** "Sludge with Cass Sunstein"
+**Podcast:** Brainfluence (ID: 218925)
+**Description:** Harvard professor, founder of Program on Behavioral Economics and Public Policy, discusses "sludge" (bad processes that waste time/money), formerly Administrator of White House Office of Information and Regulatory Affairs, co-author of "Nudge"
+
+**Expert Credentials:**
+- Cass Sunstein - Robert Walmsley University Professor, Harvard Law School
+- Co-author of "Nudge" (with Richard Thaler)
+- Former Administrator, White House OIRA (2009-2012)
+- Founded Program on Behavioral Economics at Harvard
+- Holberg Prize winner (2018)
+
+**Expertise Signals:**
+✓ Harvard Law School professor
+✓ White House government experience
+✓ International recognition (Holberg Prize)
+✓ Founded behavioral economics program
+✓ Co-author of influential book
+
+**Format:** Interview
+
+**Level Justification - INTERMEDIATE:**
+"Sludge" concept builds on nudge theory but requires understanding of institutional design and friction in decision-making. Discusses policy applications of behavioral economics. Requires familiarity with nudge concepts from beginner level.
+
+**Why This Episode:**
+- Extends nudge theory to identifying bad design
+- Real-world policy expertise
+- Shows how bias knowledge applies to institutions
+- Practical for organizational decision-making
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 71049611
+**Title:** "Nudge with Richard Thaler"
+**Podcast:** Commonwealth Club (ID: 537636)
+**Description:** 2021 interview about "Nudge: The Final Edition," discusses choice architecture, libertarian paternalism, practical applications of behavioral economics
+
+**Expert Credentials:**
+- Richard Thaler - (same as previous)
+- Nobel Prize winner
+- University of Chicago professor
+
+**Expertise Signals:**
+✓ Same as previous Thaler episode
+✓ Commonwealth Club format ensures depth
+
+**Format:** Interview at Commonwealth Club
+
+**Level Justification - INTERMEDIATE:**
+Final edition includes decade of new research since original. Discusses more sophisticated applications of nudging, ethical considerations, policy implementations. Requires understanding of basic nudge concepts.
+
+**Why This Episode:**
+- Updated with latest research and applications
+- Deeper dive into ethics of influencing behavior
+- More sophisticated policy examples
+- Reflects on decade of real-world implementation
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 10492201
+**Title:** "Philip Tetlock on Superforecasting"
+**Podcast:** EconTalk (ID: 178) with Russ Roberts
+**Description:** University of Pennsylvania professor discusses assessing probabilities with teams of trained amateurs, superforecasters who outperformed intelligence experts in IARPA tournament
+
+**Expert Credentials:**
+- Philip Tetlock - Professor, University of Pennsylvania (Wharton)
+- Author of "Superforecasting" (with Dan Gardner)
+- Ran IARPA forecasting tournament
+- Decades of research on expert judgment
+
+**Expertise Signals:**
+✓ UPenn/Wharton professor
+✓ IARPA government research project
+✓ Published extensive research on forecasting
+✓ Best-selling author
+
+**Format:** Interview with Russ Roberts
+
+**Level Justification - INTERMEDIATE:**
+Superforecasting requires understanding probability, calibration, and how to systematically improve predictions. Builds on bias knowledge to show how to overcome them. More technical than beginner episodes but highly practical.
+
+**Why This Episode:**
+- Evidence-based approach to improving predictions
+- Real-world competition with measurable results
+- Introduces probabilistic thinking and calibration
+- Shows how ordinary people can beat experts
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 3472945
+**Title:** "Michael Lewis with Malcolm Gladwell: The Undoing Project"
+**Podcast:** 92nd Street Y (ID: 65630)
+**Description:** Live conversation about "The Undoing Project" examining Nobel Prize-winning theory of the mind, discusses Kahneman and Tversky partnership
+
+**Expert Credentials:**
+- Michael Lewis - Best-selling author ("Moneyball," "The Big Short," "The Undoing Project")
+- Malcolm Gladwell - Best-selling author, journalist, "The Tipping Point," "Blink," "Outliers"
+- Both are exceptional science communicators
+
+**Expertise Signals:**
+✓ Two of world's best nonfiction writers
+✓ Both specialize in making complex ideas accessible
+✓ Lewis thoroughly researched Kahneman/Tversky story
+✓ Gladwell wrote "Blink" about decision-making
+✓ Live at prestigious 92nd Street Y
+
+**Format:** Conversation between two authors
+
+**Level Justification - INTERMEDIATE:**
+Discusses the history and development of behavioral economics through biography of Kahneman and Tversky. Requires some familiarity with their concepts. Shows how the field evolved and connects personal story to scientific discoveries.
+
+**Why This Episode:**
+- Two master storytellers discussing foundational research
+- Historical context for behavioral economics
+- Personal dimension of scientific collaboration
+- Meta-perspective on decision-making research
+
+---
+
+## ADVANCED LEVEL CANDIDATES
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 2647197
+**Title:** "Neuroeconomics and the Study of Human Decision-Making"
+**Podcast:** Center for Advanced Studies (ID: 52097)
+**Description:** Prof. Paul Glimcher discusses neuroeconomics, challenges to traditional economic assumptions about rationality, brain mechanisms behind economic behavior
+
+**Expert Credentials:**
+- Paul Glimcher - Professor, NYU
+- Pioneer of neuroeconomics field
+- Director, Center for Neural Science, NYU
+- Published extensively on decision neuroscience
+
+**Expertise Signals:**
+✓ NYU professor and research center director
+✓ Pioneered entire field (neuroeconomics)
+✓ Combines neuroscience and economics
+✓ Published in top journals
+
+**Format:** Academic lecture (Center for Advanced Studies)
+
+**Level Justification - ADVANCED:**
+Neuroeconomics explores brain mechanisms underlying decision-making at neural level. Requires understanding of both economics and neuroscience. Discusses cutting-edge research on how brain processes value and choice. Technical but crucial for understanding biological basis of decision-making.
+
+**Why This Episode:**
+- Cutting-edge neuroscience research
+- Bridges biology and economics
+- Explains neural mechanisms of decision-making
+- Shows frontier of decision science
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 54408114
+**Title:** "Nature & Nurture #62: Dr. Isabelle Brocas - Neuroeconomics & Decision Making"
+**Podcast:** Nature & Nurture (ID: 381105)
+**Description:** Economist, neuroscientist, USC Professor, co-director of LA Behavioral Economics Laboratory discusses how neuroeconomics emerged, game theory, rationality concept, neurodevelopment and strategic decision-making in children
+
+**Expert Credentials:**
+- Isabelle Brocas - Professor, University of Southern California
+- Economist AND neuroscientist (dual expertise)
+- Co-director, Los Angeles Behavioral Economics Laboratory
+- Co-director, Theoretical Research in Neuroeconomic Decision Making Institute
+
+**Expertise Signals:**
+✓ USC professor
+✓ Directs two research institutes
+✓ Dual expertise (economics + neuroscience)
+✓ Published researcher on decision neuroscience
+
+**Format:** Interview
+
+**Level Justification - ADVANCED:**
+Discusses game theory, rationality from neuroeconomic perspective, developmental aspects of decision-making. Technical discussion of how economic reasoning develops. Requires solid foundation in behavioral economics concepts.
+
+**Why This Episode:**
+- Combines multiple advanced perspectives
+- Developmental angle adds depth
+- Game theory applications
+- Shows how decision-making capabilities develop
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 1505315
+**Title:** "Philip E. Tetlock on Forecasting and Foraging as a Fox"
+**Podcast:** Conversations with Tyler (ID: 36117) - Tyler Cowen
+**Description:** Professor discusses forecasting, whether world is becoming harder to predict, qualities of best forecasters, fox-like integrative thinking, counterfactual reasoning
+
+**Expert Credentials:**
+- Philip Tetlock - (same as earlier episode)
+- Wharton professor
+- Author of "Superforecasting"
+
+**Expertise Signals:**
+✓ Same as previous Tetlock episode
+✓ Tyler Cowen is economist, ensuring intellectual depth
+
+**Format:** Interview with Tyler Cowen
+
+**Level Justification - ADVANCED:**
+Deeper dive into forecasting methodology, discusses counterfactual reasoning, fox vs hedgehog distinction (Isiah Berlin), machine learning vs human forecasters. Tyler Cowen asks sophisticated questions. Requires understanding of forecasting basics.
+
+**Why This Episode:**
+- More philosophical and methodological depth
+- Discusses future of forecasting (AI implications)
+- Counterfactual reasoning is advanced topic
+- Tyler Cowen pushes for deeper insights
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 1488735
+**Title:** "Philip Tetlock: Superforecasting"
+**Podcast:** Long Now Foundation (ID: 37010)
+**Description:** Discusses IARPA tournament where amateur superforecasters beat intelligence professionals by 30%, what makes forecasters successful, fox-like thinking
+
+**Expert Credentials:**
+- Philip Tetlock - (same as above)
+
+**Expertise Signals:**
+✓ Same as previous episodes
+✓ Long Now Foundation format (deep intellectual talks)
+
+**Format:** Seminar talk
+
+**Level Justification - ADVANCED:**
+Detailed examination of forecasting tournament methodology, statistical analysis of what works, deep dive into cognitive strategies of superforecasters. Long Now format allows for comprehensive treatment.
+
+**Why This Episode:**
+- Most detailed explanation of superforecasting research
+- Discusses methodology and statistical findings
+- Long-form format allows depth
+- Shows rigorous approach to improving judgment
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 14224508
+**Title:** "The Scout Mindset, with Julia Galef"
+**Podcast:** Afford Anything (ID: 173446) - Episode #319
+**Description:** Expert on rational decision making discusses "The Scout Mindset," how to look at situations objectively, difference between soldier and scout mindsets, thought exercises to develop scout mindset
+
+**Expert Credentials:**
+- Julia Galef - (same as earlier episode)
+- Founder, Center for Applied Rationality
+
+**Expertise Signals:**
+✓ Same as previous Galef episode
+✓ Afford Anything focuses on decision-making and finance
+
+**Format:** Interview
+
+**Level Justification - ADVANCED:**
+This interview goes deeper into practical techniques for developing scout mindset, discusses specific thought exercises and self-awareness practices. More focus on implementation than theory. Requires understanding of cognitive biases to apply techniques.
+
+**Why This Episode:**
+- Practical techniques for advanced practitioners
+- Goes beyond concepts to implementation
+- Self-awareness and metacognition focus
+- Actionable frameworks for improvement
+
+---
+
+### ⭐⭐⭐ EXCELLENT - Episode ID: 35719223
+**Title:** "Ep 31: Philip Tetlock on the Art of Forecasting"
+**Podcast:** Brave New World (ID: 283668) - with Vasant Dhar
+**Description:** Discusses what superforecasters do consistently well, how to improve judgment and decision-making, importance of base rates, deliberate practice, feedback loops
+
+**Expert Credentials:**
+- Philip Tetlock - (same as above)
+- Vasant Dhar - Professor, NYU Stern (host brings technical expertise)
+
+**Expertise Signals:**
+✓ Same Tetlock credentials
+✓ Host is NYU professor, ensures technical depth
+
+**Format:** Interview with professor host
+
+**Level Justification - ADVANCED:**
+Technical discussion of forecasting methods, base rates (statistical concept), how to close feedback loops for long-term predictions. Vasant Dhar asks sophisticated methodological questions. Requires statistical thinking.
+
+**Why This Episode:**
+- Most technical of Tetlock interviews
+- Discusses statistical concepts (base rates)
+- Feedback loops and deliberate practice
+- Host understands methodology deeply
+
+---
+
+## ADDITIONAL QUALITY EPISODES (BACKUP OPTIONS)
+
+### ⭐⭐ GOOD - Episode ID: 21746147
+**Title:** "The Scout Mindset ft. Julia Galef"
+**Podcast:** Neoliberal Project (ID: 207847)
+**Description:** Discusses scout vs soldier mindset, how to be less biased, intersection between identity and belief
+
+**Level:** INTERMEDIATE
+**Why Good:** Solid discussion of scout mindset with focus on political beliefs and identity, good complement to other Galef episodes
+
+---
+
+### ⭐⭐ GOOD - Episode ID: 13194383
+**Title:** "143 | Julia Galef on Openness, Bias, and Rationality"
+**Podcast:** Mindscape with Sean Carroll (ID: 210)
+**Description:** Sean Carroll (physicist) interviews Galef about rationality, scout mindset, how to achieve openness
+
+**Expert Addition:**
+- Sean Carroll - Theoretical physicist, Cal
+
+tech professor
+- Brings scientific rigor to conversation
+
+**Level:** ADVANCED
+**Why Good:** Physicist perspective brings different angle, discusses rationality from scientific method viewpoint
+
+---
+
+### ⭐⭐ GOOD - Episode ID: 12662248
+**Title:** "The Scout Mindset with Julia Galef"
+**Podcast:** Village Global (ID: 87153)
+**Description:** Author discusses scout mindset, why bottleneck to rationality is motivation not knowledge, signaling and soldier mindset
+
+**Level:** INTERMEDIATE
+**Why Good:** Focus on motivation vs knowledge is unique angle, discusses social signaling
+
+---
+
+## REJECTED EPISODES
+
+### ❌ REJECT - Most "Lex Fridman" search results
+**Reason:** Results were ABOUT Lex Fridman as guest on other shows, not him HOSTING decision-making experts. Would need to search for specific Lex Fridman podcast episodes with experts like Kahneman or Ariely.
+
+### ❌ REJECT - Most "Huberman Lab" search results
+**Reason:** Top results were about the podcast, not specific episodes. Would need to find specific Huberman Lab episodes where he interviews decision-making experts or discusses the topic himself with credentials.
+
+### ❌ REJECT - Generic "Cognitive Bias" episodes without clear expert
+**Reason:** Many results lacked identifiable expert guests with credentials. Need clear expertise signals.
+
+### ❌ REJECT - Book summary podcasts without author interview
+**Reason:** While useful, prefer episodes with actual experts rather than summaries by non-experts.
+
+---
+
+## PODCAST DIVERSITY CHECK
+
+Current selection uses these podcasts:
+1. Long Now Foundation (Kahneman, Tetlock - 2 episodes but different experts)
+2. EconTalk (Duckworth, Galef, Tetlock superforecasting - 3 but highly respected)
+3. Talks at Google (Ariely predictably, Thaler - 2)
+4. Conversation Earth (Ariely #114)
+5. Commonwealth Club (Thaler nudge)
+6. 92nd Street Y (Lewis/Gladwell)
+7. Coaching podcast (Annie Duke)
+8. Brainfluence (Sunstein sludge)
+9. Center for Advanced Studies (Glimcher neuroeconomics)
+10. Nature & Nurture (Brocas neuroeconomics)
+11. Conversations with Tyler (Tetlock fox)
+12. Afford Anything (Galef scout)
+13. Brave New World (Tetlock forecasting)
+14. Unknown podcast (Schwartz paradox)
+
+**Note:** Need to verify final selection doesn't repeat podcasts more than once, per guidelines. EconTalk and Long Now appear multiple times but with different experts on different topics. May need to select only one per podcast to maximize diversity.
+
+---
+
+## FINAL QUALITY ASSESSMENT
+
+**Total ⭐⭐⭐ EXCELLENT Episodes Identified:** 18
+- Beginner: 6 excellent options
+- Intermediate: 6 excellent options
+- Advanced: 6 excellent options
+
+**All episodes feature:**
+✓ Credentialed experts (professors, Nobel laureates, published researchers)
+✓ Clear expertise signals (university affiliations, published work, credentials)
+✓ Interview or talk format (not solo monologues)
+✓ Relevant to decision-making psychology
+✓ High-quality podcast formats
+
+**Ready for next step:** Select final 18 episodes ensuring maximum podcast diversity (18 different podcasts if possible).

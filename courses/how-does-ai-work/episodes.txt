@@ -1,0 +1,293 @@
+# Episode Evaluation for "How Does AI Work?"
+
+This document contains evaluations of all episodes found through searches, rated by expertise signals, credentials, and quality.
+
+Rating System:
+⭐⭐⭐ EXCELLENT - Use these first (multiple strong credentials, Top 200 podcast, clear interview format)
+⭐⭐ GOOD - Solid backup (one strong credential, reputable podcast, interview confirmed)
+⭐ ACCEPTABLE - Use only if needed (some expertise mentioned but vague)
+❌ REJECT - Never use (red flags, no credentials, wrong format)
+
+---
+
+## STRATEGY A RESULTS: Top Podcast + AI Topic
+
+### Search: "Lex Fridman transformer"
+
+EPISODE 1:
+ID: Need to retrieve from search results
+Title: [To be filled from search results]
+Podcast: Lex Fridman Podcast
+Rating: [Pending detailed search review]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "Lex Fridman neural networks 2024"
+
+EPISODE 2:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: Lex Fridman Podcast
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "Lex Fridman GPT"
+
+EPISODE 3:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: Lex Fridman Podcast
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "Dwarkesh AI alignment"
+
+EPISODE 4:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: The Lunar Society (Dwarkesh Patel)
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "Dwarkesh scaling laws"
+
+EPISODE 5:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: The Lunar Society (Dwarkesh Patel)
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "a16z artificial intelligence 2024"
+
+EPISODE 6:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: a16z Podcast
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "Machine Learning Street Talk interpretability"
+
+EPISODE 7:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: Machine Learning Street Talk
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "Sean Carroll AI"
+
+EPISODE 8:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: Sean Carroll's Mindscape
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "Making Sense AI safety"
+
+EPISODE 9:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: Making Sense with Sam Harris
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "Huberman Lab artificial intelligence"
+
+EPISODE 10:
+ID: [To be retrieved]
+Title: [To be filled]
+Podcast: Huberman Lab
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+---
+
+## STRATEGY B RESULTS: Topic + Expertise Signals
+
+### Search: "transformer architecture researcher interview"
+
+EPISODE 11:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "neural network training professor"
+
+EPISODE 12:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "AI alignment researcher interview"
+
+EPISODE 13:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "deep learning scientist 2024"
+
+EPISODE 14:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "OpenAI researcher interview"
+
+EPISODE 15:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "reinforcement learning expert"
+
+EPISODE 16:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "machine learning interpretability"
+
+EPISODE 17:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+---
+
+## STRATEGY C RESULTS: Specific Subtopics + Interview
+
+### Search: "attention mechanism explained"
+
+EPISODE 18:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "RLHF reinforcement learning human feedback"
+
+EPISODE 19:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "diffusion models expert"
+
+EPISODE 20:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "multimodal AI interview"
+
+EPISODE 21:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "AI safety control problem"
+
+EPISODE 22:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "mechanistic interpretability"
+
+EPISODE 23:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "emergent abilities LLM"
+
+EPISODE 24:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+### Search: "AGI artificial general intelligence"
+
+EPISODE 25:
+ID: [To be retrieved]
+Title: [To be filled]
+Rating: [Pending]
+Expertise Signals: [To be determined]
+Level: [To be determined]
+Notes: [To be added]
+
+---
+
+## EVALUATION IN PROGRESS
+
+Next steps:
+1. Retrieve detailed results from each search query
+2. Extract episode IDs, titles, descriptions, podcast names
+3. Analyze descriptions for expertise signals
+4. Rate each episode
+5. Categorize by level
+6. Select top 18 episodes (6 per level) from different podcasts

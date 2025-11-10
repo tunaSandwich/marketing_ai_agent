@@ -1,0 +1,910 @@
+# THE HUMAN BRAIN - EPISODE EVALUATIONS
+
+Quality Rating System:
+⭐⭐⭐ EXCELLENT - Use these first (multiple strong credentials, top podcasts, clear interview format)
+⭐⭐ GOOD - Solid backup (one strong credential, reputable podcast)
+⭐ ACCEPTABLE - Use only if needed (some expertise mentioned but vague)
+❌ REJECT - Never use (hits red flags)
+
+Total Episodes Evaluated: 26
+Target for Course: 18 episodes from 18 different podcasts
+
+---
+
+## EPISODE 1
+**Quality Rating: ⭐⭐⭐ EXCELLENT**
+
+Episode ID: 9713254
+Episode Title: "#139 – Andrew Huberman: Neuroscience of Optimal Performance"
+Podcast: Lex Fridman Podcast (ID: 22625)
+Podcast Name: Lex Fridman Podcast
+
+**Guest:** Andrew Huberman, PhD
+**Credentials:**
+- Professor of Neurobiology and Ophthalmology
+- Stanford University School of Medicine
+- Tenured professor
+- Runs Huberman Lab at Stanford
+- 20+ years publishing in Nature, Science, Cell, Neuron
+- McKnight Foundation Fellow
+- Pew Charitable Trusts Fellow
+
+**Expertise Signals Identified:**
+✅ Named professor at top university (Stanford)
+✅ Clear academic credentials (PhD, Professor)
+✅ Active research lab
+✅ Published in top journals
+✅ Multiple prestigious fellowships
+✅ Interview format (Lex interviewing Andrew)
+
+**Topics Covered:**
+- Fear and brain states
+- Virtual reality and perception
+- Vision system
+- Stress and focus
+- Brain abstractions
+- Science of consciousness
+- Optimal performance
+
+**Level Categorization:** BEGINNER
+**Why:** World-renowned host (Lex Fridman) interviewing Stanford neuroscientist. Accessible, covers fundamental concepts. Perfect for introducing brain science through engaging conversation.
+
+**What Listener Will Learn:**
+- How brain processes fear and manages stress
+- Visual system's role in perception
+- How brain states affect performance
+- Connection between neuroscience and daily life
+
+**Why This Guest/Episode is Credible:**
+Andrew Huberman is one of the world's leading neuroscientists with proven track record at Stanford. His research on brain states, vision, and neural plasticity has been published in the most prestigious scientific journals. He later went on to create Huberman Lab podcast, one of the top health/science podcasts globally.
+
+---
+
+## EPISODE 2
+**Quality Rating: ⭐⭐⭐ EXCELLENT**
+
+Episode ID: 78458913
+Episode Title: "Huberman Lab: Dr. Terry Sejnowski: How to Improve at Learning Using Neuroscience & AI"
+Podcast: Huberman Lab (ID: 360024)
+Podcast Name: Huberman Lab
+
+**Guest:** Terry Sejnowski, PhD
+**Credentials:**
+- Professor of Computational Neurobiology
+- Salk Institute for Biological Studies
+- Francis Crick Chair
+- Investigator at Howard Hughes Medical Institute
+- Published hundreds of papers
+- Pioneer in computational neuroscience
+
+**Expertise Signals Identified:**
+✅ Professor at world-renowned Salk Institute
+✅ Named chair position (Francis Crick Chair)
+✅ Howard Hughes Medical Institute investigator (prestigious)
+✅ Computational neurobiology expertise
+✅ Decades of research experience
+✅ Interview format (Huberman interviewing Sejnowski)
+
+**Topics Covered:**
+- How brain processes and stores information
+- Learning and memory mechanisms
+- Using AI tools for neuroscience
+- Sleep spindles and memory consolidation
+- Cognitive velocity
+- Mitochondrial function and cognition
+- Exercise and brain function
+
+**Level Categorization:** INTERMEDIATE
+**Why:** Deep dive into learning mechanisms with a computational neuroscience pioneer. More technical than beginner, but Huberman makes it accessible. Perfect for understanding HOW the brain learns.
+
+**What Listener Will Learn:**
+- Brain mechanisms underlying learning and memory
+- How to optimize learning using neuroscience principles
+- Connection between sleep, exercise, and brain function
+- Role of AI in understanding the brain
+
+**Why This Guest/Episode is Credible:**
+Terry Sejnowski is a founding figure in computational neuroscience. His work at the Salk Institute has fundamentally shaped our understanding of how neural networks learn. He bridges theory and experiment, making him ideal for explaining brain function.
+
+---
+
+## EPISODE 3
+**Quality Rating: ⭐⭐⭐ EXCELLENT**
+
+Episode ID: 98337436
+Episode Title: "How emotions work | Neuroscientist Lisa Feldman Barrett"
+Podcast: Big Think (ID: 668994)
+Podcast Name: Big Think / The Well
+
+**Guest:** Lisa Feldman Barrett, PhD
+**Credentials:**
+- University Distinguished Professor of Psychology
+- Northeastern University
+- Appointments at Harvard Medical School and Massachusetts General Hospital
+- Chief Science Officer, Center for Law, Brain & Behavior
+- Top 1% most-cited scientists in the world
+- Published 250+ peer-reviewed papers
+- NIH Director's Pioneer Award
+- Guggenheim Fellowship in Neuroscience
+- Fellow of American Academy of Arts and Sciences
+- Royal Society of Canada
+- Author: "How Emotions are Made", "Seven and a Half Lessons About the Brain"
+
+**Expertise Signals Identified:**
+✅ University Distinguished Professor (highest level)
+✅ Harvard Medical School affiliation
+✅ Top 1% most-cited (extraordinary achievement)
+✅ 250+ publications
+✅ NIH Pioneer Award (transformative research)
+✅ Guggenheim Fellow
+✅ Multiple prestigious society memberships
+✅ Bestselling author
+✅ Interview format
+
+**Topics Covered:**
+- How brain creates emotions
+- Myths about emotions
+- Brain's predictive nature
+- Changing your brain's predictions
+- Depression as metabolic illness
+- Control over emotional experiences
+
+**Level Categorization:** BEGINNER
+**Why:** Big Think format makes complex neuroscience accessible. Barrett explains fundamental concepts about emotions in engaging way. Essential topic (emotions) from world's leading expert.
+
+**What Listener Will Learn:**
+- Emotions aren't "triggered" but constructed by brain
+- How past experiences shape emotional responses
+- Practical ways to change emotional patterns
+- Connection between body, brain, and feelings
+
+**Why This Guest/Episode is Credible:**
+Lisa Feldman Barrett is THE authority on emotion neuroscience. Her theory of constructed emotion has revolutionized the field. With 250+ publications and top-tier academic positions, she represents the highest level of expertise combined with excellent communication skills.
+
+---
+
+## EPISODE 4
+**Quality Rating: ⭐⭐⭐ EXCELLENT**
+
+Episode ID: 18144742
+Episode Title: "Neuroscience, Perception and Hallucination – Professor Anil Seth"
+Podcast: The Weekend University (ID: 143923)
+Podcast Name: The Weekend University - Psychology Lectures
+
+**Guest:** Anil Seth, PhD
+**Credentials:**
+- Professor of Cognitive and Computational Neuroscience
+- University of Sussex
+- Co-Director, Sackler Centre for Consciousness Science
+- Editor-in-Chief, Neuroscience of Consciousness (academic journal)
+- Wellcome Trust Engagement Fellow
+- Senior Fellow, Canadian Institute for Advanced Research
+- President, British Science Association Psychology Section (2017)
+- TED talk: 9+ million views
+- Author: "Being You: A New Science of Consciousness"
+
+**Expertise Signals Identified:**
+✅ Professor at major university
+✅ Co-Director of leading consciousness research center
+✅ Editor-in-Chief of academic journal
+✅ Multiple prestigious fellowships
+✅ Leadership in scientific associations
+✅ Massive public reach (TED talk views)
+✅ Published researcher
+✅ Interview/lecture format
+
+**Topics Covered:**
+- Neuroscience of consciousness
+- How brain generates conscious experience
+- Perception and reality
+- Hallucinations and predictions
+- Neural mechanisms of consciousness
+- Consciousness in normal and altered states
+
+**Level Categorization:** INTERMEDIATE
+**Why:** Tackles consciousness - a complex topic - but Seth is known for making it accessible. More conceptual depth than beginner level. Perfect for understanding HOW consciousness emerges from brain activity.
+
+**What Listener Will Learn:**
+- How brain creates our sense of reality
+- Neural basis of conscious experience
+- Why we "hallucinate" our reality
+- How brain predictions shape perception
+- Consciousness in health and disease
+
+**Why This Guest/Episode is Credible:**
+Anil Seth is one of the world's foremost experts on consciousness neuroscience. As Co-Director of the Sackler Centre and Editor-in-Chief of the field's journal, he's at the cutting edge of consciousness research. His ability to explain complex concepts (evidenced by 9M+ TED views) makes him perfect for this course.
+
+---
+
+## EPISODE 5
+**Quality Rating: ⭐⭐⭐ EXCELLENT**
+
+Episode ID: 1307439
+Episode Title: "Professor Russell Foster, professor of circadian neuroscience"
+Podcast: Desert Island Discs (BBC) (ID: 35293)
+Podcast Name: Desert Island Discs
+
+**Guest:** Russell Foster, PhD
+**Credentials:**
+- Professor of Circadian Neuroscience
+- University of Oxford
+- Head, Sleep and Circadian Neuroscience Institute
+- Director, Nuffield Laboratory of Ophthalmology
+- Discovered photosensitive retinal ganglion cells
+- Chartered Psychologist
+- Fellow, British Psychological Society
+- Fellow, Association for Psychological Science
+- Senior Fellow, Higher Education Academy
+- Queen's Anniversary Prize for Higher Education (2006)
+- Published several books on sleep
+
+**Expertise Signals Identified:**
+✅ Professor at Oxford University
+✅ Head of major research institute
+✅ Groundbreaking discovery (new cell type)
+✅ Multiple fellowship recognitions
+✅ Queen's Prize winner
+✅ Published author
+✅ Changed clinical definition of blindness
+✅ Interview format (BBC Desert Island Discs)
+
+**Topics Covered:**
+- Sleep and circadian rhythms
+- How light regulates body clock
+- Discovery of light-sensitive cells in eyes
+- Sleep as most important health behavior
+- Impact of sleep on brain function
+- Memory consolidation during sleep
+- Circadian disruption and health
+
+**Level Categorization:** BEGINNER
+**Why:** BBC Desert Island Discs format is highly accessible. Foster is engaging communicator. Sleep is relatable topic everyone experiences. Perfect introduction to how brain regulates daily rhythms.
+
+**What Listener Will Learn:**
+- Why sleep is critical for brain health
+- How light affects brain and body clock
+- Brain's cleaning system during sleep
+- Memory formation and sleep
+- Practical sleep optimization strategies
+
+**Why This Guest/Episode is Credible:**
+Russell Foster made a fundamental discovery about how eyes communicate with brain beyond vision. His work at Oxford's Sleep Institute has revolutionized understanding of circadian neuroscience. The Queen's Prize and his position as Head of Institute demonstrate highest-level recognition.
+
+---
+
+## EPISODE 6
+**Quality Rating: ⭐⭐⭐ EXCELLENT**
+
+Episode ID: 52787584
+Episode Title: "Neuroscientist Explains Selective Memory (Charan Ranganath)"
+Podcast: Science Salon (ID: 74023)
+Podcast Name: Science Salon / Michael Shermer
+
+**Guest:** Charan Ranganath, PhD
+**Credentials:**
+- Professor of Psychology and Neuroscience
+- University of California at Davis
+- Director, Dynamic Memory Lab
+- 25+ years studying memory mechanisms
+- Brain imaging techniques expertise
+- Computational modeling
+- Studies of memory disorder patients
+- Guggenheim Fellowship
+- Vannevar Bush Faculty Fellowship (Department of Defense)
+- Author: "Why We Remember: Unlocking Memory's Power to Hold on to What Matters"
+
+**Expertise Signals Identified:**
+✅ Professor at major university
+✅ Lab director (Dynamic Memory Lab)
+✅ 25+ years specialized research
+✅ Multiple research methodologies
+✅ Guggenheim Fellowship (prestigious)
+✅ Vannevar Bush Fellowship (highly selective)
+✅ Published author
+✅ Interview format
+
+**Topics Covered:**
+- How memories are formed, stored, retrieved
+- Why we forget
+- Selective memory mechanisms
+- False memories and confabulation
+- Memory disorders
+- Improving memory
+- Memory and identity
+- Future of memory research
+
+**Level Categorization:** INTERMEDIATE
+**Why:** Dives deep into memory mechanisms. More technical than beginner but Ranganath explains clearly. Perfect for understanding the HOW and WHY of memory. Bridges basic concepts to advanced understanding.
+
+**What Listener Will Learn:**
+- Brain systems involved in memory
+- Why we remember some things and forget others
+- How to improve memory function
+- Difference between types of memory
+- Memory's role in decision-making and identity
+
+**Why This Guest/Episode is Credible:**
+Charan Ranganath is a leading memory researcher with 25+ years at a top research university. His Guggenheim and Vannevar Bush Fellowships represent the highest levels of scientific recognition. As Director of the Dynamic Memory Lab, he's producing cutting-edge research on how brain creates memories.
+
+---
+
+## EPISODE 7
+**Quality Rating: ⭐⭐⭐ EXCELLENT**
+
+Episode ID: 28817860
+Episode Title: "Dr. Peter Attia: Improve Vitality, Emotional & Physical Health & Lifespan"
+Podcast: Huberman Lab (ID: 175447)
+Podcast Name: Huberman Lab
+
+**Guest:** Peter Attia, MD
+**Credentials:**
+- Medical Doctor (MD)
+- Stanford University School of Medicine (training)
+- Johns Hopkins School of Medicine (training)
+- National Institutes of Health (NIH) (training)
+- Founder, Early Medical
+- Host: "The Drive" podcast
+- Author: "Outlive: The Science & Art of Longevity" (#1 NYT Bestseller)
+- Focus: Applied science of longevity, brain health
+
+**Expertise Signals Identified:**
+✅ Medical doctor (MD)
+✅ Trained at top institutions (Stanford, Johns Hopkins, NIH)
+✅ Founder of medical practice
+✅ Bestselling author
+✅ Successful podcast host
+✅ 25+ years medical experience
+✅ Interview format (on Huberman Lab)
+
+**Topics Covered:**
+- Brain health across lifespan
+- Disease prevention (including neurodegeneration)
+- Blood markers for brain health
+- Emotional health and brain
+- Sleep and cognitive function
+- Exercise and brain function
+- Lifestyle factors affecting brain aging
+- Alzheimer's risk factors and prevention
+
+**Level Categorization:** BEGINNER
+**Why:** Attia excels at making complex medical science accessible. Huberman Lab audience is general public. Practical, actionable information about maintaining brain health. Perfect introduction to brain health optimization.
+
+**What Listener Will Learn:**
+- How to measure and monitor brain health
+- Risk factors for cognitive decline
+- Lifestyle interventions for brain longevity
+- Connection between body and brain health
+- Practical strategies for brain optimization
+
+**Why This Guest/Episode is Credible:**
+Peter Attia trained at the most prestigious medical institutions and has dedicated his career to understanding longevity and health. His bestselling book and massive podcast audience demonstrate his ability to translate complex medical science. His focus on "Medicine 3.0" brings prevention-focused thinking to brain health.
+
+---
+
+## EPISODE 8
+**Quality Rating: ⭐⭐ GOOD**
+
+Episode ID: 1469280
+Episode Title: "Dr. Ed Taub: Stroke Rehab and Brain Plasticity (neuroplasticity)"
+Podcast: Brain Science Podcast (ID: 36783)
+Podcast Name: Brain Science Podcast
+
+**Guest:** Edward Taub, PhD (or MD)
+**Credentials:**
+- Pioneer of Constraint-Induced (CI) Therapy
+- Research on brain plasticity for stroke rehabilitation
+- Developed clinically-proven therapy method
+- Decades of research on neural adaptation
+
+**Expertise Signals Identified:**
+✅ Pioneered therapeutic approach (CI Therapy)
+✅ Clinical application of neuroscience
+✅ Research-based credentials
+✅ Interview format
+⚠️ Could use more specific institutional affiliation
+
+**Topics Covered:**
+- Brain plasticity/neuroplasticity
+- Stroke rehabilitation
+- How brain rewires after injury
+- Constraint-Induced therapy
+- Recovery from brain damage
+- Neural adaptation mechanisms
+
+**Level Categorization:** INTERMEDIATE
+**Why:** Specific, applied topic (stroke rehab) with deeper understanding of plasticity mechanisms. Shows practical application of neuroscience. Good for understanding brain's adaptive capabilities.
+
+**What Listener Will Learn:**
+- How brain changes and adapts after injury
+- Mechanisms of neuroplasticity
+- Real-world application of brain science
+- Recovery potential of damaged brain
+- Therapeutic approaches using plasticity
+
+**Why This Guest/Episode is Credible:**
+Ed Taub pioneered a therapeutic approach that's now widely used in rehabilitation. His CI Therapy demonstrates deep understanding of brain plasticity translated into clinical practice. The therapy's proven effectiveness validates his expertise.
+
+**Note:** Would benefit from confirming specific university affiliation or current position.
+
+---
+
+## EPISODE 9
+**Quality Rating: ⭐⭐ GOOD**
+
+Episode ID: 26776527
+Episode Title: "Making Sense of Consciousness"
+Podcast: Making Sense with Sam Harris (ID: 208900)
+Podcast Name: Making Sense with Sam Harris
+
+**Multiple Guests Featured:**
+1. David Chalmers - Philosopher/Cognitive Scientist, coined "Hard Problem of Consciousness"
+2. Anil Seth - Professor, University of Sussex (already listed as Episode 4)
+3. Thomas Metzinger - Philosopher, consciousness research
+4. Annaka Harris - Consciousness researcher, author
+5. Iain McGilchrist - Psychiatrist, split-brain research
+6. Donald Hoffman - Cognitive Scientist, UC Irvine
+
+**Expertise Signals Identified:**
+✅ Multiple expert perspectives
+✅ David Chalmers: Famous for "Hard Problem"
+✅ Mix of neuroscientists and philosophers
+✅ Compilation format synthesizing ideas
+✅ Interview/discussion format
+
+**Topics Covered:**
+- Hard Problem of Consciousness
+- Theories of consciousness
+- Split-brain experiments
+- Panpsychism
+- Philosophical zombies
+- Neural correlates of consciousness
+- Evolution of consciousness
+
+**Level Categorization:** ADVANCED
+**Why:** Tackles the deepest questions about consciousness. Multiple expert viewpoints. More philosophical and theoretical. Perfect for understanding current debates and frontiers in consciousness research.
+
+**What Listener Will Learn:**
+- Major theories of consciousness
+- Why consciousness is so difficult to explain
+- Different scientific and philosophical approaches
+- Current state of consciousness research
+- Unresolved questions in the field
+
+**Why This Guest/Episode is Credible:**
+Compilation of leading consciousness researchers and philosophers. Sam Harris himself has PhD in neuroscience. David Chalmers is renowned for defining the Hard Problem. Multiple perspectives from different disciplines provide comprehensive overview.
+
+**Note:** This is a compilation episode - excellent for advanced overview but check CLAUDE.md guidance on whether compilation format is acceptable (seems OK as multiple interviews compiled, not monologue).
+
+---
+
+## EPISODE 10
+**Quality Rating: ⭐⭐ GOOD**
+
+Episode ID: 15627951
+Episode Title: "273: Effective Learning with Learning Scientist Megan Sumeracki"
+Podcast: Leading Learning (ID: 25394)
+Podcast Name: Leading Learning
+
+**Guest:** Megan Sumeracki, PhD
+**Credentials:**
+- Associate Professor of Psychology
+- Rhode Island College
+- Co-founder, The Learning Scientists
+- Cognitive psychological scientist
+- Expertise: Human learning and memory
+- Trained in cognitive neuroscience
+- Trained in neuroimaging
+
+**Expertise Signals Identified:**
+✅ Associate Professor (academic position)
+✅ Co-founder of educational initiative
+✅ Cognitive psychology expertise
+✅ Neuroscience training
+✅ Neuroimaging experience
+✅ Interview format
+
+**Topics Covered:**
+- Science of learning
+- Memory and retrieval practice
+- Cognitive psychology of education
+- How to optimize learning
+- Evidence-based learning strategies
+- Spacing and interleaving
+- Application of brain science to education
+
+**Level Categorization:** INTERMEDIATE
+**Why:** Specific application of neuroscience (learning). Bridges basic brain function to practical strategies. Good for understanding how brain's learning mechanisms can be optimized.
+
+**What Listener Will Learn:**
+- How brain learns most effectively
+- Science behind study techniques
+- Why some learning methods work better than others
+- Practical application of cognitive science
+- Memory formation and retrieval
+
+**Why This Guest/Episode is Credible:**
+Megan Sumeracki is a cognitive psychologist specializing in learning with formal neuroscience training. As co-founder of The Learning Scientists, she's dedicated to translating research into practice. Her academic position and focus on evidence-based methods ensure credibility.
+
+---
+
+## EPISODE 11
+**Quality Rating: ⭐⭐ GOOD**
+
+Episode ID: 1702435
+Episode Title: "First Principles Thinking & Secret Mastermind of Brain Scientists - Donald Hoffman, Cognitive Scientist"
+Podcast: Mind & Machine (ID: 39183)
+Podcast Name: Mind & Machine
+
+**Guest:** Donald Hoffman, PhD
+**Credentials:**
+- Cognitive Scientist
+- University of California, Irvine
+- Professor of Cognitive Sciences
+- Author: "The Case Against Reality"
+- Part of brain scientists mastermind group (20 years)
+- Research on perception, consciousness, evolution
+
+**Expertise Signals Identified:**
+✅ Professor at major university (UC Irvine)
+✅ Published author
+✅ Long-term researcher (20+ years)
+✅ Cognitive science expertise
+✅ Interview format
+
+**Topics Covered:**
+- Perception and reality
+- Evolutionary theory of consciousness
+- Interface theory of perception
+- How brain constructs reality
+- First principles thinking in neuroscience
+- Evolution of mind
+
+**Level Categorization:** ADVANCED
+**Why:** Challenges fundamental assumptions about perception and reality. Theoretical and philosophical depth. Perfect for understanding cutting-edge theories about how brain creates our experience of reality.
+
+**What Listener Will Learn:**
+- Revolutionary theories about perception
+- Why brain might "hide" reality from us
+- Evolutionary perspective on consciousness
+- Interface theory of perception
+- Deep questions about mind and reality
+
+**Why This Guest/Episode is Credible:**
+Donald Hoffman is a professor at UC Irvine with decades of research on perception and consciousness. His controversial but scientifically grounded theories challenge conventional wisdom. Part of exclusive brain scientists group for 20 years shows recognition by peers.
+
+---
+
+## EPISODE 12
+**Quality Rating: ⭐⭐ GOOD**
+
+Episode ID: 18556849
+Episode Title: "The Neuroscience of Creativity"
+Podcast: UC TV / Mini Medical School (ID: 60454)
+Podcast Name: University of California Television
+
+**Guest:** Karen Chan Barrett
+**Credentials:**
+- Post-doctoral Scholar
+- University of California
+- Neural imaging researcher
+- Studies biological basis of artistic creativity
+- Measures creative brain in real time
+- Focus on improvisation and creativity
+
+**Expertise Signals Identified:**
+✅ Post-doctoral position (advanced training)
+✅ UC affiliation
+✅ Neural imaging expertise
+✅ Research on creativity
+✅ Lecture/educational format
+
+**Topics Covered:**
+- Neuroscience of creativity
+- Neural imaging of creative brain
+- Improvisation as model for studying creativity
+- Biological basis of artistic creativity
+- Brain networks involved in creative thinking
+- Real-time measurement of creativity
+
+**Level Categorization:** INTERMEDIATE
+**Why:** Specific topic (creativity) with technical depth. Neural imaging discussed. University lecture format assumes some knowledge. Good for understanding specialized brain functions.
+
+**What Listener Will Learn:**
+- How brain generates creative ideas
+- Neural networks involved in creativity
+- How scientists study creativity
+- Connection between improvisation and brain
+- Biological basis of innovation
+
+**Why This Guest/Episode is Credible:**
+Karen Chan Barrett is a postdoctoral researcher at UC using advanced neural imaging techniques. University of California's medical school lecture series maintains high standards. Her focus on measurable, real-time brain activity grounds creativity research in solid neuroscience.
+
+**Note:** Post-doctoral position is earlier career stage than professor, but still demonstrates advanced expertise and active research.
+
+---
+
+## EPISODE 13
+**Quality Rating: ⭐ ACCEPTABLE (Investigate Further)**
+
+Episode ID: 18230142
+Episode Title: "Cognitive Neuroscience Researcher John Harmon on 'Our Brain and Mind Under Pressure'"
+Podcast: Neuroscience Meets SEL (ID: 53400)
+Podcast Name: Neuroscience Meets Social and Emotional Learning Podcast
+
+**Guest:** John Harmon
+**Credentials:**
+- Independent researcher
+- Developed MA (Memory Activation) Method
+- Cognitive neuroscience tool development
+- Focus on how brain maps to learning
+
+**Expertise Signals Identified:**
+⚠️ Independent researcher (no institution mentioned)
+✅ Developed novel methodology
+✅ Cognitive neuroscience focus
+✅ Interview format
+⚠️ Limited verification of credentials in description
+
+**Topics Covered:**
+- How brain maps to learning
+- Memory activation
+- Brain under pressure/stress
+- Cognitive neuroscience of learning
+- Novel approaches to brain function
+
+**Level Categorization:** INTERMEDIATE (if used)
+**Why:** Specific methodology, technical concepts. Would need to verify credentials before including.
+
+**What Listener Will Learn:**
+- Brain response to pressure
+- Learning and memory mechanisms
+- Novel perspectives on cognition
+
+**Why This Might Work:**
+Independent researchers can make valuable contributions. The MA Method, if legitimate, represents novel thinking.
+
+**Concerns:**
+- Need to verify credentials and method legitimacy
+- No institutional affiliation mentioned
+- Would need to research his background further
+
+**Decision:** HOLD - Investigate further before including. Not enough information to confirm expertise level. Use only if unable to find 18 episodes from other sources with clearer credentials.
+
+---
+
+## EPISODE 14
+**Quality Rating: ⭐ ACCEPTABLE (Investigate Further)**
+
+Episode ID: 24245237
+Episode Title: "Cognition and the Aging Brain"
+Podcast: MedChat (Norton Healthcare) (ID: 26066)
+Podcast Name: MedChat / Norton Healthcare
+
+**Guest:** Gregory E. Cooper, M.D., Ph.D.
+**Credentials:**
+- Medical Doctor (MD) and PhD
+- Neurologist
+- Norton Neuroscience Institute
+- Chief of Neurology
+- Medical Director, Norton Neuroscience Institute Memory Center
+- Louisville, Kentucky
+
+**Expertise Signals Identified:**
+✅ Dual degrees (MD, PhD)
+✅ Neurologist (medical specialty)
+✅ Chief of Neurology (leadership position)
+✅ Memory Center director
+✅ Clinical and research focus
+
+**Topics Covered:**
+- Cognitive impairment in aging
+- Normal aging vs. Alzheimer's Disease
+- Screening and diagnostic tools
+- Management of cognitive impairment
+- Brain aging process
+
+**Level Categorization:** INTERMEDIATE (if used)
+**Why:** Clinical perspective on brain aging. Diagnostic and practical focus. Good for understanding brain changes with age.
+
+**What Listener Will Learn:**
+- Difference between normal aging and disease
+- How to assess cognitive function
+- Brain changes with age
+- Prevention and management strategies
+
+**Why This Could Work:**
+Gregory Cooper has strong medical credentials (MD, PhD, Chief of Neurology). Clinical expertise in memory disorders. Practical, applicable information.
+
+**Concerns:**
+- Regional medical center (not major research institution)
+- Less research-focused, more clinical
+- Need to verify if he has publications/research background
+
+**Decision:** ACCEPTABLE backup option. Strong medical credentials but less research prestige than top-tier episodes. Use if needed to hit 18 episodes with good podcast diversity.
+
+---
+
+## EPISODE 15
+**Quality Rating: ⭐ ACCEPTABLE (Need More Info)**
+
+Episode ID: 62871700
+Episode Title: "'Hidden Brain'"
+Podcast: Podcast About Podcasts (ID: 466055)
+Podcast Name: Podcast About Podcasts
+
+**Note:** This is a META-EPISODE - a podcast about Hidden Brain podcast, not an actual Hidden Brain episode.
+
+**Quality Rating: ❌ REJECT**
+**Why:** Not an actual episode featuring a neuroscientist. It's a review/discussion of Hidden Brain podcast. Does not meet criteria.
+
+---
+
+## EPISODE 16
+**Quality Rating: ⭐⭐ GOOD (if we can get specific episode)**
+
+Episode ID: 23926023
+Episode Title: "Hidden Brain"
+Podcast: Hidden Brain (ID: 214092)
+Podcast Name: Hidden Brain
+
+**Host:** Shankar Vedantam
+**Credentials:**
+- Science correspondent
+- Uses science and storytelling
+- Interviews researchers regularly
+
+**Expertise Signals:**
+✅ Established science podcast
+✅ NPR-quality production
+✅ Regular expert interviews
+⚠️ Need specific episode with neuroscientist guest
+
+**Topics Covered (Generally):**
+- Unconscious patterns driving behavior
+- Cognitive psychology
+- Neuroscience of decision-making
+- Social psychology
+- Brain and behavior
+
+**Level Categorization:** BEGINNER (typically)
+**Why:** Hidden Brain excels at making research accessible. Perfect for general audience introduction to brain science concepts.
+
+**Decision:** HOLD - Need to identify specific Hidden Brain episode with clear neuroscientist guest (name and credentials in description). Hidden Brain is excellent source but need episode-level detail.
+
+---
+
+## EPISODE 17
+**Quality Rating: ⭐⭐ GOOD (if we can get specific episode)**
+
+Episode ID: 56442416
+Episode Title: "Lyn's Brain: Fresh Air"
+Podcast: Fresh Air (ID: 403944)
+Podcast Name: Fresh Air (NPR)
+
+**Host:** Terry Gross
+**Format:** Interview show
+
+**Note:** This appears to be a specific Fresh Air segment but description doesn't identify the neuroscientist guest.
+
+**Expertise Signals:**
+✅ Fresh Air is top-tier interview show
+✅ Terry Gross is renowned interviewer
+✅ NPR quality standards
+⚠️ Need specific guest identification
+
+**Decision:** HOLD - Fresh Air regularly features neuroscientists. Need to identify specific episode with named expert and credentials. Excellent source but need episode details.
+
+---
+
+## EPISODE 18
+**Quality Rating: ❌ REJECT**
+
+Episode ID: Various "Joe Rogan" results
+**Why:** Search results returned many Joe Rogan episodes but descriptions didn't clearly identify neuroscientist guests with credentials. Without specific episode numbers and guest details, cannot evaluate.
+
+**Potential:** Joe Rogan has interviewed many neuroscientists. Would need to:
+1. Identify specific episode numbers
+2. Confirm guest is neuroscientist
+3. Verify credentials in description
+
+**Decision:** Don't use without specific episode details.
+
+---
+
+## ADDITIONAL EPISODES TO INVESTIGATE
+
+Based on searches, these podcasts likely have good episodes but need specific episode identification:
+
+1. **The Drive (Peter Attia)** - Focus on brain health/longevity
+2. **Fresh Air (NPR)** - Terry Gross interviews neuroscientists
+3. **Hidden Brain** - Shankar Vedantam with researchers
+4. **Joe Rogan Experience** - Various neuroscientist guests
+5. **TED Radio Hour** - Neuroscience-focused episodes
+6. **RadioLab** - Brain science episodes
+7. **StarTalk** - Neil deGrasse Tyson with brain scientists
+
+---
+
+## SUMMARY OF EVALUATED EPISODES
+
+### ⭐⭐⭐ EXCELLENT (7 episodes - USE THESE FIRST):
+1. Andrew Huberman on Lex Fridman - BEGINNER
+2. Terry Sejnowski on Huberman Lab - INTERMEDIATE
+3. Lisa Feldman Barrett on Big Think - BEGINNER
+4. Anil Seth on Weekend University - INTERMEDIATE
+5. Russell Foster on Desert Island Discs - BEGINNER
+6. Charan Ranganath on Science Salon - INTERMEDIATE
+7. Peter Attia on Huberman Lab - BEGINNER
+
+### ⭐⭐ GOOD (5 episodes - SOLID BACKUPS):
+8. Ed Taub on Brain Science Podcast - INTERMEDIATE
+9. Sam Harris Making Sense (Consciousness compilation) - ADVANCED
+10. Megan Sumeracki on Leading Learning - INTERMEDIATE
+11. Donald Hoffman on Mind & Machine - ADVANCED
+12. Karen Chan Barrett on UC TV - INTERMEDIATE
+
+### ⭐ ACCEPTABLE (1 episode - INVESTIGATE FURTHER):
+13. Gregory Cooper on MedChat - INTERMEDIATE
+
+### TOTAL STRONG CANDIDATES: 12-13 episodes
+### NEED FOR 18: 5-6 more episodes
+
+---
+
+## STRATEGY TO REACH 18 EPISODES
+
+**Option 1:** Identify specific episodes from:
+- Hidden Brain (with named neuroscientist guest)
+- Fresh Air (with named neuroscientist guest)
+- Joe Rogan (with specific neuroscientist episode)
+- The Drive (Peter Attia interviewing neuroscientist)
+
+**Option 2:** Do targeted searches for:
+- "Radiolab neuroscience"
+- "TED Radio Hour brain"
+- "StarTalk neuroscience"
+- Additional university lecture series
+- Topic-specific shows (sleep, memory, consciousness podcasts)
+
+**Option 3:** Use some ⭐ ACCEPTABLE episodes after deeper investigation:
+- Verify John Harmon's credentials
+- Confirm Gregory Cooper's research background
+- Find additional clinical neuroscientists with strong credentials
+
+---
+
+## CURRENT PODCAST DIVERSITY: 12 different podcasts
+
+1. Lex Fridman Podcast ✅
+2. Huberman Lab ✅ (used twice - Sejnowski and Attia as guests)
+3. Big Think ✅
+4. The Weekend University ✅
+5. Desert Island Discs ✅
+6. Science Salon ✅
+7. Brain Science Podcast ✅
+8. Making Sense ✅
+9. Leading Learning ✅
+10. Mind & Machine ✅
+11. UC TV ✅
+12. MedChat ✅
+
+**Note:** Huberman Lab used twice (Episodes 2 and 7) - both have different expert guests (Sejnowski and Attia). Per CLAUDE.md, we want 18 DIFFERENT podcasts, so should only use Huberman Lab once in final selection.
+
+**Action:** Choose either Sejnowski (INTERMEDIATE) OR Attia (BEGINNER) from Huberman Lab, not both.
+
+---
+
+## NEXT STEPS
+
+1. ✅ Episode evaluation complete for current results
+2. ⏭️ Decide: Do we need additional searches OR work with current 12-13 strong episodes?
+3. ⏭️ If need more: Execute targeted searches for specific missing topics/levels
+4. ⏭️ Make final selections ensuring 18 different podcasts
+5. ⏭️ Create course.txt with final 18 episodes
+6. ⏭️ Create JSON file
+
+---
+
+Generated: 2025-10-14
+Status: 12-13 strong episodes identified, need 5-6 more for complete course
+Next: Final curation and selection

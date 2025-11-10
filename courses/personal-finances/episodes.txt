@@ -1,0 +1,2198 @@
+# PERSONAL FINANCES COURSE - EPISODE EVALUATIONS
+# Comprehensive Quality Assessment of All Search Results
+# Date: 2025-11-04
+
+===============================================================================
+STRATEGY A: HIGH-QUALITY PODCAST + TOPIC (10 SEARCHES)
+===============================================================================
+
+---
+SEARCH 1: "Lex Fridman investing money finance"
+---
+
+EPISODE ID: 8807774
+PODCAST ID: 40350
+PODCAST NAME: Unknown (Lex Fridman related)
+EPISODE TITLE: Lex Fridman
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No expert guest identified in description
+- Only mentions "Lex and Whitney discuss love and robots"
+- Topic is completely off-topic (love and robots, not finance)
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This episode is completely off-topic. It discusses love and robots, with no mention of investing, money, or finance. No guest credentials mentioned. This is not suitable for a personal finance course.
+
+DESCRIPTION SNIPPET:
+"Lex and Whitney discuss love and robots."
+
+---
+
+EPISODE ID: 44520029
+PODCAST ID: 309227
+PODCAST NAME: Unknown (Joe Rogan Experience)
+EPISODE TITLE: #1537 - Lex Fridman
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Lex Fridman: Research scientist at MIT working on AI and autonomous vehicles
+- NOT a personal finance expert
+- This appears to be Lex as GUEST on Joe Rogan, discussing AI/technology
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+While Lex Fridman has strong academic credentials (MIT research scientist), his expertise is in artificial intelligence and autonomous vehicles, NOT personal finance. This episode is off-topic and does not fit the course requirements.
+
+DESCRIPTION SNIPPET:
+"Scientist Lex Fridman researches human-centered artificial intelligence and autonomous vehicles at MIT, and studies Brazilian Jiu-Jitsu in his spare time."
+
+---
+
+EPISODE ID: 44521824
+PODCAST ID: 309229
+PODCAST NAME: Unknown (Joe Rogan Experience)
+EPISODE TITLE: #1696 - Lex Fridman
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Lex Fridman: Scientist and researcher in AI and autonomous vehicles
+- Host of "The Lex Fridman Podcast"
+- NOT a personal finance expert
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Same issue as above - Lex is an AI/technology expert, not a personal finance expert. This is Lex appearing as a guest on Joe Rogan discussing AI topics, not finance. Completely off-topic.
+
+DESCRIPTION SNIPPET:
+"Lex Fridman is a scientist and researcher in the fields of artificial intelligence and autonomous vehicles, as well as the host of 'The Lex Fridman Podcast.'"
+
+---
+
+EPISODE ID: 95247801
+PODCAST ID: 700006
+PODCAST NAME: Unknown (Joe Rogan Experience)
+EPISODE TITLE: #1292 - Lex Fridman
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Lex Fridman: Research scientist at MIT
+- Expertise in human-centered AI and autonomous vehicles
+- NOT a personal finance expert
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Another Joe Rogan episode featuring Lex Fridman. Same issue - wrong expertise area. These search results are picking up "Lex Fridman" keyword matches but the content is about AI/technology, not finance.
+
+DESCRIPTION SNIPPET:
+"Lex Fridman is a research scientist at MIT working on human-centered artificial intelligence and autonomous vehicles."
+
+---
+
+EPISODE ID: 18708794
+PODCAST ID: 80861
+PODCAST NAME: Unknown (Tim Dillon Show)
+EPISODE TITLE: 282 - Lex Fridman
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Lex Fridman: AI researcher at MIT
+- NOT a personal finance expert
+- Discussion topics: Ghislaine/Jeffrey, intelligence, Elon Musk, blockchain
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Lex Fridman appearing as guest on Tim Dillon Show discussing various topics including blockchain, but this is not a structured educational episode about personal finance. No finance credentials. Casual conversation format, not expert interview about money management.
+
+DESCRIPTION SNIPPET:
+"Tim has on Lex Fridman in Austin, TX to discuss why Ghislaine and Jeffrey were in love, Robert Maxwell's ties to intelligence, Elon Musk's sense of humor, Jack Dorsey's intention, the future of blockchain technology, and what actually permits you the most freedom in life. Lex Fridman is an AI researcher at MIT and host of the Lex Fridman Podcast."
+
+---
+
+SEARCH 2: "Tim Ferriss personal finance wealth"
+---
+
+EPISODE ID: 86576691
+PODCAST ID: 658418
+PODCAST NAME: Getting Real
+EPISODE TITLE: Personal Finance & Building Wealth
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- John Natale: Real estate professional
+- No financial planning credentials mentioned (no CFP, CFA, CPA)
+- Self-proclaimed success story ("worth very little to over a millionaire five years later")
+- Focus is on real estate agent commission management, not comprehensive personal finance
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is a solo host monologue format, not an expert interview. John Natale discusses his personal experience as a real estate agent managing commission checks, but has no verifiable financial planning credentials. The description uses "I" language throughout ("John highlights what to do," "what has helped him"). This is promotional content for a real estate coaching business, not expert financial education.
+
+DESCRIPTION SNIPPET:
+"In this episode of Getting Real, John Natale discusses the easiest ways to take control of your personal finances, build wealth and have it all snowball to being a more successful real estate professional."
+
+---
+
+EPISODE ID: 56933429
+PODCAST ID: 407158
+PODCAST NAME: Unknown
+EPISODE TITLE: Tim Ferriss
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- None - this is just a blog post reference, not a podcast episode
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is not an actual podcast episode - it's just a reference to a blog post. Cannot be used for the course.
+
+DESCRIPTION SNIPPET:
+"This episode is also available as a blog post: http://oftenquotes.com/2022/11/11/tim-ferriss/"
+
+---
+
+EPISODE ID: 72662715
+PODCAST ID: 11502
+PODCAST NAME: Armchair Expert
+EPISODE TITLE: Tim Ferriss
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Tim Ferriss: Author (The 4-Hour Workweek, Tribe of Mentors), entrepreneur, podcaster
+- NOT a personal finance expert
+- Topics discussed: stoicism, psychedelics, risk analysis
+- No mention of personal finance topics
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+While Tim Ferriss is a well-known author and entrepreneur, this episode does not focus on personal finance. The topics are stoicism, psychedelics, anxiety, and trauma - not investing, budgeting, or financial planning. Tim is not a credentialed financial expert (no CFP, CFA, finance degree). Off-topic for this course.
+
+DESCRIPTION SNIPPET:
+"Tim Ferriss (The 4-Hour Workweek, Tribe of Mentors, The Tim Ferriss Show) is an author, entrepreneur, and podcaster. Tim joins the Armchair Expert to discuss his perspective on stoicism, why he thinks psychedelic treatment progress has been slow, and how he analyzes taking risks."
+
+---
+
+EPISODE ID: 9187572
+PODCAST ID: 35667
+PODCAST NAME: Unknown
+EPISODE TITLE: Tim Ferriss
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Tim Ferriss: Four-time New York Times bestselling author
+- NOT a personal finance expert
+- Topics: depression, suicide, major life changes
+- No finance-related content
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This episode with Tim Ferriss discusses mental health topics (depression, suicide, life changes), not personal finance. While Tim is a successful author, he's not a financial expert. Completely off-topic for a personal finance course.
+
+DESCRIPTION SNIPPET:
+"Debbie talks to four time New York Times best selling author Tim Ferriss about depression, suicide, and major changes in his life."
+
+---
+
+SEARCH 3: "Invest Like the Best portfolio"
+---
+
+EPISODE ID: 1422854
+PODCAST ID: 36257
+PODCAST NAME: Invest Like the Best
+EPISODE TITLE: Pat Dorsey Returns - The Moat Portfolio
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Pat Dorsey: Former Director of Equity Research at Morningstar
+- Founder of Dorsey Asset Management (his own asset management company)
+- Deep expertise in competitive advantage and capital allocation
+- Interview format clearly indicated
+- High-quality podcast (Invest Like the Best)
+- Discussion of investment philosophy, moats, and specific stock analysis
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+This is an excellent episode featuring a credentialed investment professional being interviewed. Pat Dorsey has institutional credibility from Morningstar and runs his own asset management firm. The episode covers intermediate concepts like moats, competitive advantage, capital allocation, and stock valuation (Facebook, Google, Amazon). Clear interview format with Patrick O'Shaughnessy. This would be ideal for the intermediate level covering investment mechanics and portfolio construction.
+
+DESCRIPTION SNIPPET:
+"My guest this week, back for a second conversation, is Pat Dorsey. Pat ran equity research at Morningstar before leaving to start his own asset management company: Dorsey Asset Management. His areas of deep interest are competitive advantage and capital allocation."
+
+---
+
+EPISODE ID: 1422858
+PODCAST ID: 36257
+PODCAST NAME: Invest Like the Best
+EPISODE TITLE: Dr. Ben Hunt - The Three-Body Portfolio
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Dr. Ben Hunt: Chief Investment Strategist at Salient
+- Author of "Epsilon Theory" (popular finance publication)
+- PhD credential (indicated by "Dr." title)
+- Interview format
+- Discussion of risk parity and advanced portfolio strategies
+- High-quality podcast (Invest Like the Best)
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode for advanced level. Dr. Ben Hunt has strong credentials (PhD, Chief Investment Strategist at institutional firm). The content covers sophisticated concepts like the three-body problem applied to investing, risk parity, profound agnosticism strategy, and market uncertainty. Clear interview format. This would fit perfectly in the advanced level covering cutting-edge portfolio strategies.
+
+DESCRIPTION SNIPPET:
+"My guest this week is Dr. Ben Hunt, the chief investment strategist at Salient and the author of the extremely popular epsilon theory. In this conversation, we discuss his recent post the three body problem, why growth has been beating value, and why a strategy that he calls profound agnosticism—a take on risk parity—may be the most appropriate investing strategy."
+
+---
+
+EPISODE ID: 29400005
+PODCAST ID: 36257
+PODCAST NAME: Invest Like the Best
+EPISODE TITLE: Dr. Peter Attia - The Portfolio to Live Longer
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Dr. Peter Attia: Strong academic credentials in longevity and health
+- Author of "Outlive"
+- Leader in longevity and healthspan
+- NOT a personal finance expert
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+While this is from the excellent "Invest Like the Best" podcast and Dr. Peter Attia has strong credentials, the topic is longevity and health, NOT personal finance. The "portfolio" metaphor refers to health strategies, not financial investments. This is off-topic for a personal finance course despite being a high-quality episode.
+
+DESCRIPTION SNIPPET:
+"My guest this week is Dr. Peter Attia. He's one of the clear leaders on the topic and practice of longevity and health span. He has a new book out called Outlive. We highlight the big picture in our conversation, including the transition from Medicine 2.0 to Medicine 3.0."
+
+---
+
+EPISODE ID: 42749858
+PODCAST ID: 11710
+PODCAST NAME: The Knowledge Project
+EPISODE TITLE: Tom Gayner: Invest Like The Best
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Tom Gayner: CEO of Markel Group (major insurance and investment company)
+- Director of The Coca-Cola Company
+- Chairman of Davis Series Mutual Funds board
+- Board member of Graham Holdings and Markel
+- Decades of investment experience
+- Learned from Charlie Munger and Berkshire Hathaway
+- Interview format with Shane Parrish
+
+LEVEL: Intermediate to Advanced
+
+EVALUATION NOTES:
+Outstanding episode featuring a highly credentialed investment professional. Tom Gayner is CEO of a major financial institution and serves on multiple corporate boards including Coca-Cola. His expertise is institutional-level and the discussion covers investment philosophy, lessons from Munger, opportunity cost, and debt management. Clear interview format on a top-tier podcast (The Knowledge Project). Could work for either intermediate or advanced level depending on other selections.
+
+DESCRIPTION SNIPPET:
+"Tom Gayner, CEO of Markel Group, reveals the lessons he's learned from Charlie Munger and Berkshire Hathaway, how he invests, and the specific way he thinks about opportunity cost. Gayner shares the difference between good debt and bad debt, where he disagrees with Munger, and why he focuses on the basics."
+
+---
+
+SEARCH 4: "The Knowledge Project money investing"
+---
+
+EPISODE ID: 19293648
+PODCAST ID: 196784
+PODCAST NAME: Unknown
+EPISODE TITLE: Knowledge Project
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Extremely vague description
+- No guest identified
+- Topics mentioned: directives, mental models, Tony Robbins, meaningful life
+- Not clearly about personal finance
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+The description is too vague to determine if this is a finance-focused episode or who the guest is. Mentions Tony Robbins but unclear if he's the guest or just referenced. Cannot evaluate expertise signals. Too uncertain to use.
+
+DESCRIPTION SNIPPET:
+"Directives, 2¢, reading, mental models, Tony Robbins, living a meaningful life and the biggest mistake I ever made"
+
+---
+
+EPISODE ID: 20085570
+PODCAST ID: 8843
+PODCAST NAME: Unknown
+EPISODE TITLE: Bookmark: The Knowledge Project
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- This is a guest appearance episode (someone appearing ON The Knowledge Project)
+- Not clear who the guest is or what the topic is
+- Seems to be about "happy habits" not personal finance
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is a rebroadcast/bookmark episode but the description doesn't provide enough information to determine if it's finance-focused. Mentions "happy habits" which suggests it's more about personal development than personal finance. Cannot verify expertise or topic relevance.
+
+DESCRIPTION SNIPPET:
+"my guest appearance on The Knowledge Project hosted by Shane Parrish... In it we are just hanging out in Shane's office in Ottawa talking about happy habits."
+
+---
+
+EPISODE ID: 90854771
+PODCAST ID: 11710
+PODCAST NAME: The Knowledge Project
+EPISODE TITLE: The Knowledge Project Podcast: Trailer
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- This is just a trailer/promotional episode
+- Not a full episode
+- Cannot be used for the course
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is a podcast trailer, not an actual episode with content. Cannot be used.
+
+DESCRIPTION SNIPPET:
+"Trusted by Fortune 500 CEOs and elite performers, this is where you go to think better, live better, and get ahead."
+
+---
+
+EPISODE ID: 9976615
+PODCAST ID: 32332
+PODCAST NAME: Unknown
+EPISODE TITLE: Money knowledge
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- Speaker is "business owner" with no specific credentials
+- Solo host format ("from my experience as a business owner")
+- Topic: money saving (very basic)
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is a solo host monologue from someone describing themselves only as a "business owner" with no financial credentials. Not an interview format. No expertise signals that would qualify them as a financial expert. Reject.
+
+DESCRIPTION SNIPPET:
+"Fron my experience as a business owner, this is the truth about money saving"
+
+---
+
+SEARCH 5: "Planet Money investing retirement"
+---
+
+EPISODE ID: 9924113
+PODCAST ID: 144199
+PODCAST NAME: Money Talks
+EPISODE TITLE: Money Talks: Retirement Investing
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Ryder Taff: Investment expert from New Perspectives (investment firm)
+- Interview format indicated
+- Discussion of retirement investing
+- References J.P. Morgan guides and Vanguard/Nerd Wallet calculators
+
+LEVEL: Beginner to Intermediate
+
+EVALUATION NOTES:
+This appears to be a legitimate interview with an investment professional from New Perspectives firm. However, the description doesn't provide detailed credentials (no CFP, CFA mentioned) and the firm "New Perspectives" is not a major recognizable institution. The content seems educational and practical. Rating as GOOD rather than EXCELLENT due to limited credential information, but could be used as a backup option for beginner/intermediate level on retirement investing basics.
+
+DESCRIPTION SNIPPET:
+"Ryder Taff, our investment expert from New Perspectives https://www.newper.com/, suggests reading J.P. Morgan's Guide To Retirment. There are a number of retirement calculators available on the internet."
+
+---
+
+EPISODE ID: 76548205
+PODCAST ID: 454802
+PODCAST NAME: Money Bootcamp
+EPISODE TITLE: Money Bootcamp: Investing for retirement
+
+QUALITY RATING: ⭐ ACCEPTABLE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Maya Fisher-French and Mapalo Makhu: Co-hosts/experts
+- No specific credentials mentioned in description
+- Podcast series format ("Santam Insure your Future money boot camp")
+- Discussion of retirement investing and Two Pot retirement system
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+This appears to be an educational episode about retirement investing with focus on South African retirement system (Two Pot system). While the hosts seem knowledgeable, no specific credentials are provided (no CFP, CFA, etc.). The content seems practical but without clear expertise signals, this rates as ACCEPTABLE only. Would only use if better options aren't available.
+
+DESCRIPTION SNIPPET:
+"Welcome to the Santam Insure your Future money boot camp with Maya Fisher-French and Mapalo Makhu. In the last two episodes we looked at saving and investing for those goals we want to achieve during our working years. But at some point, we want to kick back and retire."
+
+---
+
+EPISODE ID: 54057598
+PODCAST ID: 369494
+PODCAST NAME: Money Talk
+EPISODE TITLE: Money Talk - Retirement, Investing, and More!
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Mel Abraham: CPA (Certified Public Accountant)
+- Entrepreneur and financial expert/advisor
+- Author of upcoming book "Building Your Money Machine"
+- #1 Bestseller "The Entrepreneur's Solution: The Modern Millionaire's Path"
+- Founder of The Affluence Blueprint and The Legacy Factor
+- Interview format with Hallie on SLP podcast
+- Shares stages with Arianna Huffington, Tony Robbins, Brendon Burchard, Ed Mylett, Amy Porterfield
+
+LEVEL: Beginner to Intermediate
+
+EVALUATION NOTES:
+Excellent episode featuring Mel Abraham, a CPA with strong credentials and bestselling author status. While the podcast is targeted at Speech Language Pathologists, the financial advice is universal. Mel covers debt management, investing strategies, index funds, ETFs, retirement accounts, and compounding interest. Clear interview format. His credentials (CPA, bestselling author, business advisor) are strong. The content is educational and practical for beginners and intermediate learners.
+
+DESCRIPTION SNIPPET:
+"Hi, fellow SLPs! In today's episode, Hallie welcomes Mel Abraham, a CPA by education, entrepreneur, financial expert/advisor to businesses and individuals and an author of an upcoming book titled Building Your Money Machine."
+
+---
+
+SEARCH 6: "Freakonomics personal finance"
+---
+
+EPISODE ID: 7225690
+PODCAST ID: 4516
+PODCAST NAME: Unknown (possibly Freakonomics)
+EPISODE TITLE: Personal Finance
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No description provided
+- Cannot evaluate without content
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Empty description - cannot evaluate this episode. Must reject due to lack of information.
+
+DESCRIPTION SNIPPET:
+[Empty]
+
+---
+
+EPISODE ID: 3680140
+PODCAST ID: 69762
+PODCAST NAME: Unknown
+EPISODE TITLE: Personal Finance
+
+QUALITY RATING: ⭐ ACCEPTABLE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Harold Pollack: Guest (name mentioned but no credentials in description)
+- Very minimal description
+- Cannot verify expertise without more information
+
+LEVEL: Unknown
+
+EVALUATION NOTES:
+Only mentions "with Harold Pollack" but provides no information about who he is or what credentials he has. Harold Pollack is actually a professor at University of Chicago known for the "index card" of personal finance advice, but this information is not in the description. Cannot confidently rate without seeing the actual credentials mentioned in the episode description. Tentatively ACCEPTABLE but would need to verify his credentials are mentioned in the full episode.
+
+DESCRIPTION SNIPPET:
+"with Harold Pollack. Learn more about your ad choices."
+
+---
+
+EPISODE ID: 19604008
+PODCAST ID: 37185
+PODCAST NAME: Reduce Debt Increase Wealth
+EPISODE TITLE: Personal Finance
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- Solo host format (description uses "This podcast focuses on...")
+- Very general educational content
+- No credentials mentioned
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be a general educational podcast about personal finance basics with no identified expert guest. The format seems to be solo host explaining concepts, not an expert interview. No credentials mentioned. Does not meet the course requirement for expert interviews.
+
+DESCRIPTION SNIPPET:
+"What is personal finance, it more than paying off debt or creating a budget. It is planning, managing money as well as savings and investing. Also, the protection of assets plus protection of income. This podcast focuses on reducing debt, but personal finance is much more."
+
+---
+
+SEARCH 7: "Masters of Scale financial"
+---
+
+EPISODE ID: 52483728
+PODCAST ID: 365226
+PODCAST NAME: Book Summary Podcast
+EPISODE TITLE: Masters of Scale - Book Summary
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- This is a book summary, not an interview
+- Not an actual podcast episode
+- Cannot be used
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is a book summary episode, not an interview with a financial expert. Cannot be used for the course.
+
+DESCRIPTION SNIPPET:
+"'Surprising Truths from the World's Most Successful Entrepreneurs' Author: Reid Hoffman Category: Entrepreneurship"
+
+---
+
+EPISODE ID: 1306613
+PODCAST ID: 35282
+PODCAST NAME: Masters of Scale
+EPISODE TITLE: Coming Soon: Masters of Scale
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- This is a trailer/promo episode
+- Not a full episode
+- Reid Hoffman's podcast is about entrepreneurship, not personal finance
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is just a trailer for the podcast, not an actual episode. Cannot be used.
+
+DESCRIPTION SNIPPET:
+"Coming May 3rd, Reid Hoffman, legendary Silicon Valley entrepreneur and investor, explains how famous founders take their companies from zero to a gazillion."
+
+---
+
+SEARCH 8: "How I Built This wealth money"
+---
+
+EPISODE ID: 23873962
+PODCAST ID: 213720
+PODCAST NAME: Unknown
+EPISODE TITLE: How I Built This
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- Solo host format ("How I got started," "how I built")
+- Focus on Amazon FBA business
+- No financial planning credentials
+- This is someone's personal story, not expert advice
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is someone's personal story about building an Amazon FBA business, not an interview with a financial expert. Solo format focused on e-commerce, not comprehensive personal finance. Does not meet course requirements.
+
+DESCRIPTION SNIPPET:
+"How I Built This Amazon Business! How I got started with Amazon FBA and how I built it into 7 Figures. It's time to take action TODAY!"
+
+---
+
+EPISODE ID: 792801
+PODCAST ID: 22643
+PODCAST NAME: Unknown
+EPISODE TITLE: How I built this
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Extremely vague description
+- "Micro business launch"
+- No expert identified
+- No content details
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Description is too vague to evaluate. Only says "Micro business launch" with no guest, no credentials, no content details. Cannot use.
+
+DESCRIPTION SNIPPET:
+"Micro business launch."
+
+---
+
+SEARCH 9: "a16z investing portfolio"
+---
+
+EPISODE ID: 77884507
+PODCAST ID: 11879
+PODCAST NAME: a16z Podcast
+EPISODE TITLE: a16z Podcast: Investing in Communities
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Kesha Cash: Founder and General Partner of the Impact America Fund
+- Investor in Mayvenn and other companies
+- Interview format with a16z's Tawny Holguin
+- Focus on impact investing in underserved markets
+- Reputable podcast (a16z)
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+This is a solid interview with Kesha Cash, a venture capital fund founder and GP. However, the focus is on impact investing and venture capital in underserved communities, which is a specialized topic. While the content covers investing principles, it's more about VC/impact investing than personal finance for individual investors. Could work for advanced level as an alternative investment perspective, but it's not core personal finance content. Rating as GOOD due to strong credentials but specialized focus.
+
+DESCRIPTION SNIPPET:
+"Investing to make a return both financial AND societal isn't new, but the opportunities to reach and build businesses in communities that have been underserved by tech are larger than ever. Kesha Cash (founder and general partner of the Impact America Fund, also an investor in Mayvenn) discusses how she puts her fund's money to work in markets that target underserved Americans."
+
+---
+
+EPISODE ID: 460767
+PODCAST ID: 11879
+PODCAST NAME: a16z Podcast
+EPISODE TITLE: a16z Podcast: How Technology Is Changing Investing
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No description provided
+- Cannot evaluate
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Empty description - cannot evaluate this episode.
+
+DESCRIPTION SNIPPET:
+[Empty]
+
+---
+
+SEARCH 10: "Conversations with Tyler economics finance"
+---
+
+EPISODE ID: 59203532
+PODCAST ID: 431641
+PODCAST NAME: Conversations in Economics Central
+EPISODE TITLE: Conversations in Economics Central an Accounting and Finance special
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Mrs B and Mr Shaw (teachers)
+- Focus: Year 11 exam prep
+- NOT expert-level content
+- Educational for high school students
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is a high school teacher giving exam prep tips to Year 11 students. While educational, this is not expert-level financial planning content suitable for a professional personal finance course. The teachers may be good educators but they're not credentialed financial professionals. Reject.
+
+DESCRIPTION SNIPPET:
+"In this episode Mrs B interviews Mr Shaw to find out his hints and tips for Year 11 students getting ready for the Accounting and Finance exam."
+
+---
+
+EPISODE ID: 16098456
+PODCAST ID: 181012
+PODCAST NAME: Unknown
+EPISODE TITLE: #90 - Conversations with Tyler
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Extremely vague description
+- Just says "Conversations with Tyler"
+- No guest identified, no topic identified
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Description provides zero information about the episode content, guest, or topic. Cannot evaluate.
+
+DESCRIPTION SNIPPET:
+"Conversations with Tyler"
+
+---
+
+EPISODE ID: 68258799
+PODCAST ID: 525293
+PODCAST NAME: KORE Women
+EPISODE TITLE: Financial Advisor with expertise in retirement planning, tax planning, investment management and more - Adrianne Branche
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Adrianne Branche: Financial Advisor
+- Started career in 2015 as financial caseworker for Navy-Marine Corps Relief Society
+- Has own financial planning practice
+- Expertise areas: retirement planning, tax planning, investment management, risk management, employer benefits
+- Multi-advisor approach to comprehensive financial planning
+- Interview format with Dr. Summer Watson
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+This is a legitimate interview with a practicing financial advisor. However, the description doesn't mention specific credentials like CFP or CFA. Adrianne has professional experience and runs her own practice with focus on comprehensive planning. The content covers relevant intermediate topics. Rating as GOOD rather than EXCELLENT due to lack of specific professional certifications mentioned. Could be used as backup option.
+
+DESCRIPTION SNIPPET:
+"Adrianne Branche, who is Financial Advisor. Her journey in finance began in 2015 as a financial caseworker for the Navy-Marine Corps Relief Society. To impact more people, Adrianne started her own practice, and now she supports clients from diverse backgrounds, including families, executives, entrepreneurs, and retirees. Her areas of expertise include: retirement planning, tax planning, investment management, risk management, and maximizing employer benefits."
+
+===============================================================================
+STRATEGY B: TOPIC + EXPERTISE SIGNALS (8 SEARCHES)
+===============================================================================
+
+---
+SEARCH 11: "financial planner CFP interview"
+---
+
+EPISODE ID: 55996035
+PODCAST ID: 398817
+PODCAST NAME: TooWays
+EPISODE TITLE: Interview: Adnaan Bazier MBA CFP, financial planner & investment advisor
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Adnaan Bazier: MBA, CFP (Certified Financial Planner)
+- Financial planner and investment advisor
+- Interview format
+- Discussion of career journey and financial planning knowledge
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+Good episode featuring a credentialed financial professional (CFP, MBA). Clear interview format. The podcast "TooWays" appears to be focused on young professionals sharing career journeys. While credentials are solid, the podcast is less known than top-tier shows. Content covers financial planning comprehensively. This would work well for intermediate level. Rating as GOOD due to strong credentials but lesser-known podcast.
+
+DESCRIPTION SNIPPET:
+"An interview with a financial planner & investment advisor who also holds an MBA. Guest: Adnaan Bazier MBA CFP. Topic: His career journey, sharing his knowledge with us and making us more aware of the importance and tools of financial planning."
+
+---
+
+EPISODE ID: 6806075
+PODCAST ID: 139473
+PODCAST NAME: Unknown
+EPISODE TITLE: Jim Hazelton, CFP®,CLU Financial Planner
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Jim Hazelton: CFP® (Certified Financial Planner), CLU (Chartered Life Underwriter)
+- Interview format
+- Podcast focused on money matters book co-authors
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+Solid episode with a credentialed financial planner (CFP and CLU). Interview format confirmed. The description is minimal but credentials are clear. This would work for intermediate level covering financial planning concepts. Rating as GOOD due to strong credentials but minimal description detail.
+
+DESCRIPTION SNIPPET:
+"Jim Hazelton, CFP®,CLU Financial Planner is interviewed in this episode."
+
+---
+
+EPISODE ID: 28029501
+PODCAST ID: 190739
+PODCAST NAME: Unknown
+EPISODE TITLE: Therapist Turned Financial Planner, Elizabeth Snyder, CFP®
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Elizabeth (Liz) Snyder: CFP® (Certified Financial Planner)
+- Former therapist, brings unique perspective on emotions and financial decisions
+- Founder of Trail Financial Planning (https://www.trailfp.com/)
+- Interview format
+- Focuses on how emotions impact financial decisions
+- Holistic approach beyond simple financial matters
+
+LEVEL: Beginner to Intermediate
+
+EVALUATION NOTES:
+Excellent episode featuring a CFP with a unique background. Liz's former career as a therapist adds valuable perspective on the behavioral/emotional aspects of money management, which is perfect for beginners who need to understand the psychological side of personal finance. Clear interview format. Her credentials are solid (CFP) and her practice demonstrates professional standing. This would work beautifully for beginner or intermediate level, particularly for episodes covering money psychology and decision-making.
+
+DESCRIPTION SNIPPET:
+"In this week's episode, I am delighted to meet and introduce a marvelous lady with a ton of wisdom, perspective and life experience. Please meet Liz Snyder, CFP®. Liz is a former therapist, turned financial planner. I love her gentle disposition and the way she helps clients, unlike any other financial planner I have met. Liz really dives deep with her clients, understanding how their emotions impact financial decisions."
+
+---
+
+EPISODE ID: 33374190
+PODCAST ID: 275316
+PODCAST NAME: Business Innovators Radio
+EPISODE TITLE: Interview with Jeremy Keil – CFP®, CFA Retirement-Focused Financial Planner with Keil Financial Partners
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Jeremy Keil: CFP® (Certified Financial Planner) AND CFA® (Chartered Financial Analyst)
+- Unique combination - only 6 advisors in Wisconsin with both CFP and CFA
+- Host of "Retirement Revealed" blog and podcast
+- 17 years of experience
+- Former adjunct professor at Concordia University Wisconsin and Wisconsin Lutheran College
+- Part of Thrivent Advisor Network
+- Interview format with Ross Marino
+
+LEVEL: Intermediate to Advanced
+
+EVALUATION NOTES:
+Outstanding episode featuring one of only 6 financial advisors in Wisconsin with both CFP and CFA credentials - an extremely rare and valuable combination. Jeremy has 17 years of experience, teaching background, and runs his own practice. The episode covers retirement planning comprehensively. Clear interview format. His dual credentials (CFP for planning + CFA for investment analysis) make him exceptionally qualified. Perfect for intermediate or advanced level covering retirement planning and investment strategies.
+
+DESCRIPTION SNIPPET:
+"Jeremy is the host of the Retirement Revealed blog and podcast. After graduating from college, Jeremy started out by selling suits at Jos A. Bank and working on different political campaigns. In fact, out of over 10,000 financial advisors in Wisconsin, only six have the unique combination of being a CERTIFIED FINANCIAL PLANNER™ professional AND a Chartered Financial Analyst® charterholder."
+
+---
+
+SEARCH 12: "portfolio manager CFA interview"
+---
+
+EPISODE ID: 55996138
+PODCAST ID: 398817
+PODCAST NAME: TooWays
+EPISODE TITLE: Interview: Abdul Davids CFA, Head of Research and Portfolio Manager
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Abdul Davids: CFA (Chartered Financial Analyst)
+- Head of Research and Portfolio Manager at Kagiso Asset Management
+- Interview format
+- Discussion of career journey, investment industry, asset management
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode featuring a CFA charterholder in a senior position at a professional asset management firm. Abdul is both Head of Research AND Portfolio Manager, indicating high-level institutional experience. Clear interview format. Kagiso Asset Management is a legitimate investment firm. This would work well for advanced level covering professional investment management perspectives and industry insights.
+
+DESCRIPTION SNIPPET:
+"This is an interview with the Head of Research and Portfolio Manager at Kagiso Asset Management. Guest: Abdul Davids. Topic: His career journey, the investment industry, the asset management industry... as well as his current projects."
+
+---
+
+EPISODE ID: 55996098
+PODCAST ID: 398817
+PODCAST NAME: TooWays
+EPISODE TITLE: Interview: Manka Sebastian CFA CAIA FMVA, Portfolio Manager at Sanlam Investments
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Manka Sebastian: CFA (Chartered Financial Analyst), CAIA (Chartered Alternative Investment Analyst), FMVA (Financial Modeling & Valuation Analyst)
+- Portfolio Manager at Sanlam Investments
+- Focus on listed property investment
+- Interview format
+- Multiple advanced credentials
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Outstanding episode with a highly credentialed portfolio manager. Manka holds three specialized certifications (CFA, CAIA, FMVA), demonstrating deep expertise in investments and alternative assets. Works at Sanlam Investments, a major financial institution. Her focus on listed property adds valuable diversification perspective. Perfect for advanced level covering alternative investments and specialized portfolio strategies.
+
+DESCRIPTION SNIPPET:
+"This is an interview with CFA and Junior Portfolio Manager at Sanlam Investments with a focus on listed property investment. Guest: Manka Sebastian CFA CAIA FMVA. Topic: Her career journey, the investment industry, the listed property industry... as well as her current projects."
+
+---
+
+EPISODE ID: 55996193
+PODCAST ID: 398817
+PODCAST NAME: TooWays
+EPISODE TITLE: Interview: Yusuf Mowlana CA(SA), CFA and Portfolio Manager at Prudential Investment Managers
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Yusuf Mowlana: CA(SA) (Chartered Accountant - South Africa), CFA (Chartered Financial Analyst)
+- Portfolio Manager at Prudential Investment Managers
+- Interview format
+- Dual credentials: accounting + investment analysis
+- Discussion of CA vs CFA paths
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode featuring a dual-credentialed professional (Chartered Accountant + CFA) working as a portfolio manager at Prudential Investment Managers. The combination of accounting and investment credentials is valuable for understanding both financial statements and investment analysis. Clear interview format. Would work well for advanced level covering professional investment management and financial analysis.
+
+DESCRIPTION SNIPPET:
+"An interview with Chartered Accountant, Chartered Financial Analyst and Portfolio Manager at Prudential Investment Managers. Guest: Yusuf Mowlana. Topic: His career journey, CA v CFA, the investment industry as well as his current projects."
+
+---
+
+EPISODE ID: 79801051
+PODCAST ID: 273583
+PODCAST NAME: Alpha Exchange
+EPISODE TITLE: Michael Green, CFA, Portfolio Manager, Chief Strategist, Simplify Asset Management
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Michael Green: CFA (Chartered Financial Analyst)
+- Portfolio Manager and Chief Strategist at Simplify Asset Management
+- Partner at the firm
+- Research focus on market structure and leveraged products
+- Interview format
+- Discussion of Treasury market, volatility, dealer balance sheets, and market mechanics
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Outstanding episode for advanced level. Mike Green is a well-known market structure expert with CFA credentials and senior position at Simplify Asset Management. The content is sophisticated - covering Treasury market breakdowns, leveraged ETFs, volatility amplification, and dealer capacity constraints. This is cutting-edge research on how markets actually function. Perfect for advanced level covering market mechanics and sophisticated investment concepts. High-quality podcast (Alpha Exchange).
+
+DESCRIPTION SNIPPET:
+"Over a distinguished 40-year career... Mike Green, a partner and Chief Strategist at Simplify Asset Management... Our conversation drills down on leveraged products written on MSTR... Mike believes the leveraged complex has contributed to the large premium of MSTR to the value of its bitcoin holdings."
+
+---
+
+SEARCH 13: "finance professor investing interview"
+---
+
+EPISODE ID: 538239
+PODCAST ID: 15340
+PODCAST NAME: Manager Tools
+EPISODE TITLE: Personal Finance: Investing
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- Appears to be general guidance from podcast hosts
+- Not an expert interview format
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be general guidance content from the Manager Tools podcast hosts, not an interview with a finance professor or expert. The description "Our guidance on how to start investing" suggests it's the hosts providing advice, not interviewing an expert. Does not meet course requirements.
+
+DESCRIPTION SNIPPET:
+"Our guidance on how to start investing, and why."
+
+---
+
+EPISODE ID: 62952035
+PODCAST ID: 466923
+PODCAST NAME: Spanning the State
+EPISODE TITLE: Interview: Bitcoin in WI with Finance Professor, David Krause
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- David Krause: Marquette University Emeritus Associate Professor of Finance
+- Academic credential (Professor of Finance)
+- Interview format
+- Topic: Bitcoin and cryptocurrency in context of Wisconsin's Pension Fund
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Good episode featuring a legitimate finance professor from Marquette University. However, the focus is specifically on Bitcoin/cryptocurrency, which is a specialized and somewhat controversial topic for a personal finance course. While the academic credential is solid (finance professor), the narrow focus on crypto limits its usefulness. Could potentially work for advanced level as an alternative investment topic, but should be balanced with traditional finance content. Rating as GOOD rather than EXCELLENT due to specialized/narrow focus.
+
+DESCRIPTION SNIPPET:
+"Marquette University Emeritus Associate Professor of Finance, David Krause joins Spanning the State to talk about the finance phenom of Bitcoin after the state of Wisconsin became the first state to buy bitcoin. Krause explains what crypto currency is, how this will be beneficial to Wisconsin's exemplary Pension Fund."
+
+---
+
+EPISODE ID: 46280807
+PODCAST ID: 317327
+PODCAST NAME: Unknown
+EPISODE TITLE: Finance, Retirement, and Investing
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Shelly and Justin Harvey: Certified Financial Planner (at least one of them)
+- Interview/conversation format
+- Focus on medical professionals (medical school to retirement)
+- Money management and life expense planning
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+Good episode featuring at least one CFP credential. The content covers comprehensive financial planning from early career through retirement. However, the description is brief and doesn't provide extensive detail about their credentials or experience beyond the CFP designation. The medical professional focus is a niche audience but the advice would be applicable broadly. Rating as GOOD due to CFP credential but limited description detail.
+
+DESCRIPTION SNIPPET:
+"Shelly and Justin Harvey certified financial planner discuss finance course planning from medical school to retirement. Join Justin and Shelly as the get into some details of how to manage money to plan for all the expenses of life."
+
+---
+
+SEARCH 14: "economist personal finance interview"
+---
+
+EPISODE ID: 87171596
+PODCAST ID: 567068
+PODCAST NAME: We Have A Meeting
+EPISODE TITLE: How to make better decisions with Behavioral Economist Steve Human
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Steven Human: Mixed Methods Researcher and Behavioral Economist at the FCA (Financial Conduct Authority)
+- Expert in decision-making, behavior, and financial choices
+- Works for UK financial regulator
+- Interview format
+- Focus on behavioral science, psychology, and economic decision-making
+- Discussion of biases and irrational choices
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode for advanced level behavioral finance. Steven Human works for the UK's Financial Conduct Authority as a behavioral economist - a strong institutional credential. His expertise is directly relevant to understanding how people make financial decisions, which is crucial for advanced investors. Clear interview format. Content covers biases, irrational decision-making, and behavioral economics applications. This would be perfect for an advanced level episode on behavioral finance and decision-making psychology.
+
+DESCRIPTION SNIPPET:
+"We're joined by Steven Human – a Mixed Methods Researcher and Behavioral Economist at the FCA. With deep expertise in how people make decisions, Steve explores the hidden forces that shape behavior, influence financial choices, and drive economic decision-making. He shares insights into why people make irrational choices, how biases impact decision-making, and what businesses, policymakers, and leaders can do to design better systems for smarter choices."
+
+---
+
+EPISODE ID: 82090818
+PODCAST ID: 510761
+PODCAST NAME: Unknown
+EPISODE TITLE: Ep.119 Behavioral Finance: Why We Make Irrational Money Decisions
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- Appears to be solo host educational content
+- Topics: loss aversion, fear-based avoidance, impulsive spending
+- No credentials mentioned
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be a solo host educational episode explaining behavioral finance concepts, not an interview with an expert. The description uses "we" generically and provides no guest credentials. While the topic is relevant, it doesn't meet the requirement for expert interviews. Reject.
+
+DESCRIPTION SNIPPET:
+"Is Your Brain Your Ally When It Comes to Financial Decisions? Your brain might be tricking you into poor financial choices. Here's how to recognize and overcome these traps: Loss Aversion, Fear-Based Avoidance, Impulsive Spending."
+
+---
+
+EPISODE ID: 5559144
+PODCAST ID: 107060
+PODCAST NAME: STA Money Hour
+EPISODE TITLE: STA Money Hr Behavioral Bias And Investment Decisions 05-13-2020
+
+QUALITY RATING: ⭐ ACCEPTABLE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Luke Patterson and Michael Smith: STA hosts
+- "Educational and informative show focused on building and maintaining personal wealth"
+- No specific credentials mentioned
+- Appears to be co-host format rather than expert interview
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+This appears to be a co-hosted educational show about behavioral bias and investing. However, no specific credentials are provided for the hosts (no CFP, CFA, PhD, etc.). The format seems to be two hosts discussing the topic rather than interviewing an expert. While the topic is relevant, the lack of clear expertise signals makes this only ACCEPTABLE, not excellent. Would only use as last resort if better behavioral finance episodes aren't available.
+
+DESCRIPTION SNIPPET:
+"STA's Luke Patterson and Michael Smith host an educational and informative show focused on helping listeners build and maintain their personal wealth."
+
+---
+
+SEARCH 15: "financial advisor retirement planning"
+---
+
+EPISODE ID: 73112150
+PODCAST ID: 372526
+PODCAST NAME: Unknown
+EPISODE TITLE: The Role of a Financial Advisor in Retirement Planning
+
+QUALITY RATING: ⭐ ACCEPTABLE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Mike: Financial advisor (first name only, no last name or credentials)
+- No CFP, CFA, or other credentials mentioned
+- Topic: retirement planning philosophy
+- Appears to be promotional content for "MyLifePlanFinancial.com"
+
+LEVEL: Beginner to Intermediate
+
+EVALUATION NOTES:
+This appears to be content from a financial advisor named Mike, but crucially, no credentials are provided (no last name, no CFP/CFA designation). The content uses analogies (classical music vs jazz) to explain retirement planning approaches, which could be accessible for beginners. However, without clear credentials, this can only rate as ACCEPTABLE. The promotional nature ("Visit MyLifePlanFinancial.com") suggests this may be marketing content rather than pure education. Would only use if no better options available.
+
+DESCRIPTION SNIPPET:
+"In this conversation, Mike discusses the importance of having a proper financial plan in place for retirement. He uses the analogy of music to explain the different approaches to retirement planning, comparing the disciplined and rule-following classical musicians to the more improvisational jazz musicians."
+
+---
+
+EPISODE ID: 48138767
+PODCAST ID: 329888
+PODCAST NAME: Impact Makers Radio
+EPISODE TITLE: BOB MAUK - Financial Advisor On Retirement Planning in Columbus, OH
+
+QUALITY RATING: ⭐ ACCEPTABLE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Bob Mauk: Financial Advisor at Chornyak & Associates, Ltd.
+- No CFP, CFA, or other credentials mentioned
+- Interview format (with Stewart Andrew Alexander)
+- Focus: retirement planning
+- Discusses myths and misconceptions
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+Interview with a practicing financial advisor, but no professional credentials mentioned (no CFP, CFA, etc.). The episode appears to be part of a radio show series. While Bob is described as passionate about retirement planning, the lack of credentials and the promotional nature ("appeared as a featured guest") makes this only ACCEPTABLE. Would prefer episodes with clearly stated credentials.
+
+DESCRIPTION SNIPPET:
+"Bob Mauk, Financial Advisor recently appeared as a featured guest on the Impact Makers Radio Show, 'Let's Talk Retirement!' series talking about retirement planning. Mauk, of Chornyak & Associates, Ltd., in Columbus, Ohio also shared what people approaching retirement age need to know."
+
+---
+
+EPISODE ID: 4120837
+PODCAST ID: 77324
+PODCAST NAME: Retirement Advisor
+EPISODE TITLE: Retirement Advisor: Retirement Income Planning For Dummies
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- No credentials mentioned
+- Appears to be general educational content
+- "Quick-and-dirty approach" suggests informal guidance
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be general educational content with no identified expert. The "quick-and-dirty approach" and casual analogy to landlord formulas suggests this is not professional expert advice. No interview format, no credentials. Reject.
+
+DESCRIPTION SNIPPET:
+"A quick-and-dirty approach to guesstimating one's retirement income would be the formula landlords use to qualify a potential tenant, which is gross income three times the rent they are seeking."
+
+---
+
+SEARCH 16: "behavioral economist money decisions"
+---
+
+EPISODE ID: 49849102
+PODCAST ID: 342889
+PODCAST NAME: Happy at Work
+EPISODE TITLE: Embracing Change: Melina Palmer, Applied Behavioral Economist
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Melina Palmer: Applied Behavioral Economist
+- Author
+- Podcast host (The Brainy Business)
+- Professor at Texas A&M University
+- Expert in how brains process decision-making and change management
+- Interview format with Tessa
+- Focus on how humans act, choose, change, and buy
+
+LEVEL: Beginner to Advanced
+
+EVALUATION NOTES:
+Excellent episode featuring a behavioral economist with strong academic credentials (professor at Texas A&M). Melina is also an author and podcast host, indicating thought leadership in the field. While the podcast "Happy at Work" isn't finance-specific, the behavioral economics expertise is directly applicable to financial decision-making. Clear interview format. Her work on how brains process decisions is foundational to understanding money behaviors. Could work for beginner (money psychology), intermediate (decision frameworks), or advanced (behavioral finance) levels depending on content depth.
+
+DESCRIPTION SNIPPET:
+"In this episode, Tessa spoke with Melina Palmer about how our brains process decision-making and change management in both life and work. Melina Palmer is an Applied Behavioral Economist, which means she helps people understand how the brain really works when it comes to how humans act, choose, change and buy. She is also an author, podcast host and professor at Texas A&M."
+
+---
+
+EPISODE ID: 91014948
+PODCAST ID: 685993
+PODCAST NAME: Unknown
+EPISODE TITLE: Money Decisions
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Julia and host (no last names, no credentials)
+- Topic: finances, tithing, trusting God
+- Spiritual/religious approach to money
+- No financial expert credentials
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This is a personal conversation about money from a religious perspective (tithing, trusting God) with no identified financial experts. While faith-based financial advice can be valuable to some audiences, this doesn't meet the course requirements for credentialed expert interviews. No CFP, CFA, economist, or professor credentials mentioned. Reject.
+
+DESCRIPTION SNIPPET:
+"In another earlier unleashed recording Julia and I discuss the area of finances, tithing, trusting God with our needs and how we personally were challenged to change our mentality regarding wealth & prosperity"
+
+---
+
+EPISODE ID: 4169405
+PODCAST ID: 78247
+PODCAST NAME: Unknown
+EPISODE TITLE: Interview with ADP's Chief Behavioral Economist Jordan Birnbaum
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Jordan Birnbaum: VP and Chief Behavioral Economist with ADP
+- Chief-level position at major corporation (ADP)
+- Expert in behavioral economics
+- Interview format with Ed and Ron
+- Focus on how behavioral economic ideas guide decision-making
+- Application to businesses
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode featuring a Chief Behavioral Economist from ADP, a Fortune 500 company. Jordan holds a VP-level position and is the chief expert on behavioral economics at a major corporation. Clear interview format. While ADP is primarily known for payroll/HR, behavioral economics expertise is directly applicable to financial decision-making. This would work well for advanced level covering behavioral finance and decision science in business/financial contexts.
+
+DESCRIPTION SNIPPET:
+"Ed and Ron are honored to interview Jordan Birnbaum, VP and Chief Behavioral Economist with ADP. Ron met Jordan recently and heard him speak on some of the behavioral economic ideas that guide how we make decisions. Join us for what will surely be an interesting and wide-ranging discussion about how behavioral economics can be applied to businesses of all kinds."
+
+---
+
+SEARCH 17: "investment strategist portfolio"
+---
+
+EPISODE ID: 48295180
+PODCAST ID: 330823
+PODCAST NAME: Unknown
+EPISODE TITLE: Investment Portfolio
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- No expert credentials
+- Appears to be general reflection on market conditions
+- No interview format
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be a general discussion or reflection about reviewing investment portfolios, not an interview with an expert. No guest identified, no credentials, no clear educational content structure. Reject.
+
+DESCRIPTION SNIPPET:
+"Have you spent the last few months thinking about your 401k and other retirement accounts? Are you weekly (or daily) reviewing your investment portfolio, trying to discern whether to go more conservatively for a while?"
+
+---
+
+EPISODE ID: 82913458
+PODCAST ID: 356692
+PODCAST NAME: WealthTrack
+EPISODE TITLE: Leading portfolio strategist Jason Trennert predicts the major investment themes for 2025
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Jason Trennert: Chief Investment Strategist at Strategas
+- "Long track record of calling major investment themes"
+- Interview format (implied on WealthTrack show)
+- Reputable finance show (WealthTrack)
+- Focus on investment predictions and strategy
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode for advanced level. Jason Trennert is Chief Investment Strategist at Strategas, a well-respected research firm. The description notes his "long track record" of accurate market calls, indicating proven expertise. WealthTrack is a reputable financial television program. Content covers forward-looking investment themes for 2025, which is perfect for advanced investors interested in market strategy and professional perspectives. Clear professional credentials and quality platform.
+
+DESCRIPTION SNIPPET:
+"Strategas' Chief Investment Strategist, Jason Trennert has a long track record of calling major investment themes. He shares his predictions for 2025. WEALTHTRACK episode 2131 broadcast on January 24, 2025"
+
+---
+
+EPISODE ID: 51114986
+PODCAST ID: 353776
+PODCAST NAME: Unknown
+EPISODE TITLE: Portfolio - Investment Horizon
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No description provided
+- Cannot evaluate
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Empty description - cannot evaluate this episode.
+
+DESCRIPTION SNIPPET:
+[Empty]
+
+---
+
+SEARCH 18: "wealth management expert interview"
+---
+
+EPISODE ID: 31929826
+PODCAST ID: 267516
+PODCAST NAME: Ask The Experts Tampa/Florida
+EPISODE TITLE: Wealth Management Interview
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No specific guest identified
+- No credentials mentioned
+- Generic "Financial Advisor" reference
+- Appears to be promotional radio show format
+- Topics: managing money, where to invest
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be a generic radio show episode with no specific guest identified and no credentials provided. The description is promotional (listing all the platforms where it's available) rather than educational. Cannot verify expertise without knowing who the guest is. Reject.
+
+DESCRIPTION SNIPPET:
+"Wealth Management Interview, Financial Advisor and where we are now, Managing your money, Where to invest. Ask The Experts Tampa is broadcast live Mondays at 9AM ET."
+
+---
+
+EPISODE ID: 38960137
+PODCAST ID: 267516
+PODCAST NAME: Ask The Experts Florida
+EPISODE TITLE: wealth management interview
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No specific guest identified
+- No credentials mentioned
+- "Interview for Financial Planning" (extremely vague)
+- Same promotional radio show
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Same issue as above - no specific guest, no credentials, promotional format. Cannot use.
+
+DESCRIPTION SNIPPET:
+"Interview for Financial Planning. Ask The Experts Florida is broadcast live Mondays at 9AM ET and Thursdays at 5PM ET."
+
+---
+
+EPISODE ID: 79067151
+PODCAST ID: 607555
+PODCAST NAME: Unknown
+EPISODE TITLE: Navigating wealth with Hadlow Edwards- The Wealth Management Expert
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Warren Hadlow: Founder of Hadlow Edwards (wealth advisory firm)
+- 20 years of experience in wealth management
+- "Expert in his field"
+- Interview format
+- Focus on Wrexham business/individual finance
+- Strategic financial planning
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+Good episode featuring a wealth advisor with 20 years of experience who founded his own firm. However, no specific credentials mentioned (no CFP, CFA, etc.). The 20 years of experience and firm ownership suggest professional standing, but without credentials it's hard to fully verify expertise. The local/regional focus (Wrexham) may limit broader applicability. Rating as GOOD due to experience and firm ownership, but would prefer episodes with specific credentials.
+
+DESCRIPTION SNIPPET:
+"We turn our attention to the dynamic world of wealth management with Hadlow Edwards, a prominent and successful wealth advisor. With 20 years of experience, Warren Hadlow (One of the founders of Hadlow Edwards) is an expert in his field. Warren shares how strategic financial planning can make a significant impact on individuals and businesses alike."
+
+===============================================================================
+STRATEGY C: SPECIFIC SUBTOPICS + INTERVIEW (5 SEARCHES)
+===============================================================================
+
+---
+SEARCH 19: "index fund investing expert Bogle"
+---
+
+EPISODE ID: 23997132
+PODCAST ID: 214211
+PODCAST NAME: Unknown
+EPISODE TITLE: Index Fund Investing
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- Solo host format ("In this episode I detail...")
+- "I explain" language indicates monologue
+- No credentials mentioned
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Solo host monologue format, not an expert interview. Host explains index funds and fundamentals, but no credentials provided. Does not meet course requirements.
+
+DESCRIPTION SNIPPET:
+"In this episode I detail what an index fund is and the way to get the best return year over year on your investment. I explain to the value of strong fundamentals and how they relate to investing in indexes."
+
+---
+
+EPISODE ID: 39878649
+PODCAST ID: 298728
+PODCAST NAME: Grow Your Wealthy Mindset
+EPISODE TITLE: Episode 16: Index Fund Investing
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Dr. Elisa Chiang: Physician and money coach
+- Works with other doctors on financial goals
+- No traditional financial credentials mentioned (no CFP, CFA)
+- Solo format (not interview)
+- Topics: Warren Buffett Challenge, S&P 500, index history
+
+LEVEL: Beginner
+
+EVALUATION NOTES:
+Dr. Elisa Chiang is a physician who became a money coach, which gives her a unique perspective on helping high-income professionals with finances. However, this appears to be solo educational content, not an interview with a financial expert. While she helps people with money, no traditional financial credentials (CFP, CFA) are mentioned. The content on index fund basics could be useful for beginners, but the solo format and lack of traditional credentials make this only GOOD, not excellent. Would prefer an interview format with credentialed expert.
+
+DESCRIPTION SNIPPET:
+"I start this episode taking about the Warren Buffet Challenge and how he won a million dollar bet that the S&P500 index fund would outperform an actively managed hedge fund. I discusses the three most popular indexes... Dr. Elisa Chiang is a physician and money coach who helps other doctors reach their financial goals."
+
+---
+
+EPISODE ID: 1542664
+PODCAST ID: 37601
+PODCAST NAME: Listen Money Matters
+EPISODE TITLE: 5 Index Fund and Investing Myths
+
+QUALITY RATING: ⭐ ACCEPTABLE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No specific guest identified
+- Appears to be co-host discussion format
+- No credentials mentioned
+- Mentions Betterment (robo-advisor) positively
+- Educational content debunking myths
+
+LEVEL: Beginner
+
+EVALUATION NOTES:
+This appears to be educational content from podcast hosts debunking common investing myths, not an interview with a credentialed expert. The Listen Money Matters podcast is popular, but without knowing the hosts' credentials, this can only rate as ACCEPTABLE. Content covers important topics (risk myths, accessibility, compounding) but lacks expert interview format. Would only use if no better options available.
+
+DESCRIPTION SNIPPET:
+"Many of the reasons people are fearful of investing are myths. Let us help you separate fact from fiction so you can feel confident investing. Investing Myths: Don't believe everything you hear. 1. It's Overly Risky... 2. Investing is Only for Rich People... 3. You Need a Lot of Money to Make a Lot of Money..."
+
+---
+
+EPISODE ID: 8248512
+PODCAST ID: 152849
+PODCAST NAME: Unknown
+EPISODE TITLE: Personal Finance- Equity Fund versus index investing
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Warren Ingram: Personal Financial Advisor and Executive Director
+- No CFP or CFA mentioned, but "Personal Financial advisor" title
+- Appears to be interview or Q&A format
+- South African context
+
+LEVEL: Intermediate
+
+EVALUATION NOTES:
+Good episode featuring Warren Ingram who holds an "Executive Director" position and identifies as a personal financial advisor. However, no specific credentials like CFP or CFA are mentioned in the description. The topic (equity funds vs index investing) is relevant for intermediate learners. Rating as GOOD due to professional role but lack of specific credentials mentioned. Would be usable as backup option.
+
+DESCRIPTION SNIPPET:
+"Guest: Warren Ingram/ Personal Financial advisor and Executive Director at Galileo Capital"
+
+---
+
+SEARCH 20: "tax optimization strategy interview"
+---
+
+EPISODE ID: 19257072
+PODCAST ID: 107356
+PODCAST NAME: Unknown
+EPISODE TITLE: Ep: 220 Tax Optimization
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No description provided
+- Cannot evaluate
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Empty description - cannot evaluate this episode.
+
+DESCRIPTION SNIPPET:
+[Empty]
+
+---
+
+EPISODE ID: 30039797
+PODCAST ID: 35404
+PODCAST NAME: App Masters
+EPISODE TITLE: Subscription Optimization & Pricing Strategy
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Vahe Baghdasaryan: Sr. Growth Marketing Manager at CoinStats
+- NOT a tax expert or financial planner
+- Topic is app subscription pricing, NOT tax optimization
+- Completely off-topic
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This episode is about subscription pricing strategy for mobile apps, not tax optimization for personal finance. While Vahe has expertise in growth marketing, he's not a tax professional or financial advisor. Completely off-topic. Reject.
+
+DESCRIPTION SNIPPET:
+"Today's guest is Vahe Baghdasaryan, Sr. Growth Marketing Manager at CoinStats. You will discover how he's increased the daily revenue at CoinStats by more than 113%... How to build your pricing strategy... subscription optimization..."
+
+---
+
+EPISODE ID: 74141389
+PODCAST ID: 398817
+PODCAST NAME: TooWays
+EPISODE TITLE: Interview: Anastasia Kisten, Tax Lawyer, Tax Strategy, International Offshore Consulting
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Anastasia Kisten: Tax Lawyer
+- Masters in Tax Law
+- Focus on tax strategy for international offshore consulting
+- Former brand ambassador
+- Interview format
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Good episode featuring a tax lawyer with a master's degree in tax law. Tax strategy is highly relevant for advanced personal finance. However, the focus on "international offshore consulting" suggests this may be more about corporate/business tax than individual tax optimization. The "former brand ambassador" note is unusual for a tax lawyer. Interview format confirmed. Rating as GOOD due to legitimate tax credentials, but the international offshore focus may limit applicability to general personal finance. Could work for advanced level if it covers individual tax strategies.
+
+DESCRIPTION SNIPPET:
+"An interview with a tax lawyer who focuses on tax strategy for an international offshore consulting firm. She is also a former brand ambassador and holds a masters in tax law. Guest: Anastasia Kisten. Topic: Her career experience, tax experience, advice for young professionals."
+
+---
+
+SEARCH 21: "financial independence FIRE interview"
+---
+
+EPISODE ID: 24283484
+PODCAST ID: 122554
+PODCAST NAME: Unknown
+EPISODE TITLE: FIRE - Financial Independence, Retire Early
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- Appears to be educational course content (Udemy link provided)
+- Solo educational format, not interview
+- Lists many topics but no expert credentials
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be promotional content for a Udemy course covering FIRE topics, not an interview with a FIRE expert or financial professional. The description lists comprehensive topics but provides no guest or instructor credentials. Not an interview format. Reject.
+
+DESCRIPTION SNIPPET:
+"Udemy link: https://www.udemy.com/course/investin... This course covers in detail topics like Investing Accounts: TFSA, RRSP, RESP, FHSA... Features of each investment class... Portfolio construction... Psychology of money..."
+
+---
+
+EPISODE ID: 89476830
+PODCAST ID: 380191
+PODCAST NAME: Unknown
+EPISODE TITLE: FIRE! (Financial Independence, Retire Early)
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- "We talk about" suggests co-host discussion, not expert interview
+- No credentials mentioned
+- General discussion format
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be a general discussion about FIRE by podcast hosts ("we talk about the FIRE movement"), not an interview with a FIRE practitioner or financial expert. No credentials provided. Does not meet course requirements.
+
+DESCRIPTION SNIPPET:
+"Are you thinking about retiring early? How about really early? In this episode we talk about the FIRE movement and the pros and cons of retiring early."
+
+---
+
+EPISODE ID: 26171804
+PODCAST ID: 233052
+PODCAST NAME: Measure Twice Money
+EPISODE TITLE: Financial Planning for FIRE: Financial Independence, Retire Early
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Cody Garrett: CFP® (Certified Financial Planner)
+- Specializes in FIRE movement
+- Focus on helping families on path to early retirement
+- Topics: Traditional vs Roth, early distribution strategies, asset tax location
+- Educational resources platform (Measure Twice Money)
+- Clear interview or educational format
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode featuring a CFP who specializes in the FIRE movement. Cody Garrett has specific expertise in helping people achieve financial independence and early retirement. The content covers sophisticated tax planning topics (Traditional vs Roth, distribution strategies, asset location) that are crucial for FIRE. Having a CFP who specializes in this niche is ideal - combines professional credentials with specialized knowledge. Perfect for advanced level covering FIRE strategies.
+
+DESCRIPTION SNIPPET:
+"Cody Garrett, CFP® explains financial planning topic areas specific to the FIRE movement, helping families on the path to (and through) early retirement. Topics include Traditional vs. Roth contributions, early distribution strategies, and the importance of asset tax location - the balance between pre-tax, taxable, and tax-free accounts."
+
+---
+
+EPISODE ID: 573006
+PODCAST ID: 16587
+PODCAST NAME: Investing in Real Estate
+EPISODE TITLE: FIRE Movement: Financial Independence - Episode 566
+
+QUALITY RATING: ⭐ ACCEPTABLE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Morris Invest team (no specific names or credentials)
+- Real estate investment focus
+- Educational content about FIRE
+- Promotional element (book a call with our team)
+
+LEVEL: Intermediate to Advanced
+
+EVALUATION NOTES:
+This episode discusses FIRE but from a real estate investing perspective. While the content may be educational, no specific guest or credentials are identified. The description suggests it's more about promoting their real estate investment services ("Book a call with our team"). The focus on "performing assets" and passive income through real estate is relevant to FIRE, but without identified expert credentials, this is only ACCEPTABLE. Would prefer episodes with clear expert credentials.
+
+DESCRIPTION SNIPPET:
+"If you want to create financial independence in your life, it starts with one thing: knowing your goal. If you know what your expenses are, you can then determine how many performing assets it would take for you to live financially free... we're breaking down the FIRE Movement and the one thing it actually takes to create passive income."
+
+---
+
+SEARCH 22: "estate planning expert interview"
+---
+
+EPISODE ID: 51190248
+PODCAST ID: 267518
+PODCAST NAME: Ask The Experts Houston
+EPISODE TITLE: Estate Planning Interview
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No specific guest identified
+- "Elder Law Interview" (very vague)
+- Promotional radio show format
+- No credentials provided
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Same issue as other "Ask The Experts" episodes - no specific guest identified, no credentials, promotional format. Cannot use.
+
+DESCRIPTION SNIPPET:
+"Elder Law Interview Houston. Ask The Experts Houston is broadcast live Fridays at 2PM ET..."
+
+---
+
+EPISODE ID: 79636834
+PODCAST ID: 267518
+PODCAST NAME: Ask The Experts Houston
+EPISODE TITLE: Estate Planning Interview
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No specific guest identified
+- Also mentions weight loss (mixed topics)
+- Same promotional show
+- No credentials
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Same as above, plus this episode apparently also covers weight loss, suggesting it's a multi-topic show without focused expertise. Reject.
+
+DESCRIPTION SNIPPET:
+"Important things to know about Estate Planning Learning how to lose weight a new and better way"
+
+---
+
+EPISODE ID: 66870475
+PODCAST ID: 510224
+PODCAST NAME: The Widower's Journey
+EPISODE TITLE: Ep 38- A Widower's Estate Planning- An Interview with Estate Planning Expert Diedre Braverman, Esq.
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Diedre Braverman: Attorney and Estate Planning Expert
+- Esq. (Esquire) - confirms attorney credential
+- Stanford University Law School graduate
+- Interview format with Herb Knoll
+- Contributed to book "The Widower's Journey"
+- Topics: Medical Power of Attorney, Living Will, Trusts, Probate, Estate Taxes
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode featuring an estate planning attorney with top credentials (Stanford Law School). Clear interview format. The estate planning topics are sophisticated and essential for advanced financial planning (trusts, probate, estate taxes). While the podcast focuses on widowers, the estate planning advice is universally applicable. Diedre's credentials (attorney, Stanford JD, book contributor) are strong. Perfect for advanced level covering estate planning and wealth transfer.
+
+DESCRIPTION SNIPPET:
+"Listen in as your host; Herb Knoll, discusses these and other legal documents and processes with Attorney and Estate Planning Expert Diedre Braverman. A Stanford University Law School graduate, Diedre clears the fog surrounding estate planning and related sensitive topics. You may remember Diedre's name if you read Herb's book, The Widower's Journey, as she contributed to its content."
+
+---
+
+EPISODE ID: 48841413
+PODCAST ID: 334988
+PODCAST NAME: The Money Talk
+EPISODE TITLE: Expert Insights on Real Estate Planning: Interview with Charles Weisinger
+
+QUALITY RATING: ⭐ ACCEPTABLE
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Charles Weisinger: Real estate planning expert
+- Interview format (Theresa Bartelle and Johnny Bartelle)
+- No specific credentials mentioned (no JD, CFP, CFA)
+- Focus on family dynamics and legacy
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+This episode covers real estate planning (which is different from estate planning - note "real" vs "estate"). However, no specific credentials are provided for Charles Weisinger. The hosts (Theresa and Johnny Bartelle) appear to be financial coaches, but Charles's credentials aren't stated. Without verification of expertise (no attorney, CFP, or other credentials mentioned), this can only rate as ACCEPTABLE. The topic is relevant for advanced planning but need credential verification.
+
+DESCRIPTION SNIPPET:
+"Theresa Bartelle and Johnny Bartelle sit down with Charles Weisinger to discuss all things real estate planning. Gain exclusive insights into the importance of having a solid estate plan and learn how to navigate complex family dynamics."
+
+---
+
+SEARCH 23: "behavioral finance researcher interview"
+---
+
+EPISODE ID: 40061314
+PODCAST ID: 299395
+PODCAST NAME: Inspiring Leaders
+EPISODE TITLE: #168: Graeme Newell - Behavioral Finance Speaker & Brain Science Researcher
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Graeme Newell: Behavioral finance speaker and brain science researcher
+- Conducts neuroscience research using brain scanners
+- Founder of 602 Communications (consulting/training company)
+- Worked with Disney, Sony, GE, Madison Square Garden
+- Professional speaker on behavioral finance
+- Expertise in how subconscious brain affects money decisions
+- Former television producer (CNN, CNBC, CBS News)
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode for advanced behavioral finance. Graeme Newell has unique expertise using neuroscience and brain scanning to study financial decisions. While he's not a traditional academic, his research methodology (brain scanners, neuroscience testing) and client list (Disney, Sony, GE) demonstrate serious credibility. His focus on how the brain makes money decisions and the gap between stated preferences and actual behavior is cutting-edge. Perfect for advanced level covering behavioral finance from a neuroscience perspective.
+
+DESCRIPTION SNIPPET:
+"Graeme Newell is a behavioral finance speaker and brain science researcher. He takes twisted pleasure in putting business leaders, employees and customers inside of brain scanners then mapping the parts of their brain that light up as they make money decisions. He is an expert in how our subconscious brain tempts us to misstep."
+
+---
+
+EPISODE ID: 44829162
+PODCAST ID: 310663
+PODCAST NAME: Retirement Revealed
+EPISODE TITLE: Behavioral Finance: Interview with Daniel Crosby
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Daniel Crosby: Chief Behavioral Officer at Orion Advisor Solutions
+- Multi-published author
+- Interview format with Ross Marino
+- Creates tools, training, and technology for advisors
+- Expert in behavioral finance implementation
+- Topics: risk behavior, money conflicts, mental accounting
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode featuring Daniel Crosby, a well-known behavioral finance expert and author. His role as Chief Behavioral Officer at Orion (a major fintech company serving advisors) demonstrates high-level professional standing. He's a published author on behavioral finance and creates practical tools for financial advisors. Clear interview format. The topics covered (behavioral phenomena, risk behavior, mental accounting, transition to retirement) are sophisticated and perfect for advanced level. Daniel is a recognized thought leader in behavioral finance.
+
+DESCRIPTION SNIPPET:
+"Daniel Crosby, Chief Behavioral Officer at Orion Advisor Solutions and multi-published author, talks with Ross Marino about behavioral finance. Using tools, training, and technology, Daniel devises systems to educate advisors on how to implement behavioral finance into their practice."
+
+---
+
+EPISODE ID: 46710343
+PODCAST ID: 249922
+PODCAST NAME: Unknown
+EPISODE TITLE: Behavioral Finance
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- No guest identified
+- Discussion of Girardian mimetic theory
+- Solo or discussion format
+- Academic/philosophical approach but no credentials
+- "Yes, the market is irrational" suggests opinion, not expert analysis
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+This appears to be someone discussing mimetic theory and behavioral finance from a philosophical perspective, but no guest or credentials are identified. The reference to "Girardian angle" and mimetic theory is interesting academically, but without knowing who is speaking and what their credentials are, this cannot be used. The defensive statement about Marxism suggests this may be ideologically driven content rather than pure financial education. Reject.
+
+DESCRIPTION SNIPPET:
+"A Girardian angle on the stock market. Yes, the market is irrational, and no, it's not because we have 'herd instincts' and other traces of evolutionary survival instincts, but because we are mimetic. Investing is like romance. Girard's mimetic theory does not in any way, shape, or form support any Marxist or neo-Marxist attacks on the Western civilisation."
+
+---
+
+EPISODE ID: 28582872
+PODCAST ID: 125662
+PODCAST NAME: Unknown
+EPISODE TITLE: Behavioral Finance
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Dr. Benjamin Cummings: American College of Financial Services
+- PhD credential (implied by "Dr.")
+- Academic institution (American College of Financial Services)
+- Topics: psychology of financial goals, emotions in decision-making
+- Question: "Does money buy happiness?"
+
+LEVEL: Intermediate to Advanced
+
+EVALUATION NOTES:
+Good episode featuring Dr. Benjamin Cummings from the American College of Financial Services, a legitimate institution for financial education. The PhD credential and institutional affiliation are solid. Topics cover the psychology behind financial goals and emotional decision-making, which is relevant for intermediate to advanced learners. However, the description is brief and doesn't provide extensive detail about his specific research or expertise. Rating as GOOD due to credentials and institution, but would prefer more detailed description. Could work for intermediate or advanced level on behavioral finance.
+
+DESCRIPTION SNIPPET:
+"Does money buy happiness? Dr. Benjamin Cummings of the American College of Financial Services discusses the psychology behind establishing financial goals, decision-making and the role our emotions play in setting and reaching our desired outcomes."
+
+===============================================================================
+STRATEGY D: ACADEMIC/RESEARCH INSTITUTIONS & BOOKS (2 SEARCHES)
+===============================================================================
+
+---
+SEARCH 24: "Wharton Stanford finance professor"
+---
+
+EPISODE ID: 13340340
+PODCAST ID: 40900
+PODCAST NAME: Wharton Business Daily
+EPISODE TITLE: Understanding SPACS: Wharton Finance Professor Explains
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Nick Roussanov: Wharton Finance Professor
+- Top business school (Wharton - University of Pennsylvania)
+- Interview with Dan Loney
+- Topic: SPACs (Special Purpose Acquisition Companies)
+- Academic expertise from elite institution
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode featuring a finance professor from Wharton, one of the top business schools in the world. Nick Roussanov has strong academic credentials. Clear interview format. The topic (SPACs) is sophisticated and relevant for advanced investors interested in market mechanisms and alternative investment vehicles. Wharton professors are among the most credentialed finance experts globally. Perfect for advanced level.
+
+DESCRIPTION SNIPPET:
+"SPACs - special-purpose acquisition companies - are the latest rage in finance. They are firms designed to help another go public by going around the traditional IPO process to raise funding. Wharton Finance Professor Nick Roussanov talks to Dan Loney about understanding SPACs."
+
+---
+
+EPISODE ID: 25724926
+PODCAST ID: 40900
+PODCAST NAME: Wharton Business Daily
+EPISODE TITLE: Can Twitter Be a Profitable Platform? Wharton Finance Professor Weighs In
+
+QUALITY RATING: ⭐⭐ GOOD
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Michael Roberts: Wharton Finance Professor
+- Top business school (Wharton)
+- Discussion of Twitter's debt and profitability
+- Academic perspective on corporate finance
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Good episode featuring another Wharton finance professor. Michael Roberts has strong academic credentials. However, the topic is specifically about Twitter/social media business model analysis, which is more corporate finance than personal finance. While the debt and profitability concepts are relevant, this is more about evaluating a specific company than teaching personal investment principles. Rating as GOOD due to excellent credentials but slightly off-focus topic for personal finance course. Could potentially work for advanced level discussing company analysis.
+
+DESCRIPTION SNIPPET:
+"Wharton Finance Professor Michael Roberts joins Wharton Business Daily to discuss Twitter's debt and profitability."
+
+---
+
+EPISODE ID: 21229990
+PODCAST ID: 40900
+PODCAST NAME: Wharton Business Daily
+EPISODE TITLE: Is the U.S. Headed for a Recession? Wharton Finance Professor Weighs In
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Itay Goldstein: Wharton Finance Professor
+- Top business school (Wharton)
+- Topic: economic outlook, recession analysis
+- Macroeconomic perspective from academic expert
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Excellent episode for advanced level. Itay Goldstein is a Wharton finance professor providing expert analysis on macroeconomic conditions and recession risk. Understanding economic cycles and recession indicators is crucial for advanced investors managing portfolios through different market environments. Clear academic expertise from elite institution. This would fit well in the advanced level covering economic cycles and market timing considerations.
+
+DESCRIPTION SNIPPET:
+"Wharton Finance Professor Itay Goldstein talks about the state of the economy and whether the U.S. economy is headed for a recession."
+
+---
+
+EPISODE ID: 35607167
+PODCAST ID: 273583
+PODCAST NAME: Alpha Exchange
+EPISODE TITLE: Darrell Duffie, The Adams Distinguished Professor of Management and Professor of Finance, Stanford University
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Darrell Duffie: Adams Distinguished Professor of Management and Professor of Finance at Stanford
+- 40+ year career in finance academia
+- PhD from Stanford (1984)
+- Author of multiple books and countless papers
+- Advisor to policymakers
+- Research on Treasury markets, default correlation, term structure models
+- Topics: Treasury market mechanics, liquidity, volatility, dealer balance sheets
+
+LEVEL: Advanced
+
+EVALUATION NOTES:
+Outstanding episode featuring one of the most distinguished finance professors in the world. Darrell Duffie has a 40-year career at Stanford (one of the top universities globally) and has advised policymakers on complex regulatory issues. His research on Treasury markets and market structure is cutting-edge and highly relevant for understanding how markets actually function. This is PhD-level expertise applied to real-world market problems. Perfect for advanced level covering market mechanics, fixed income, and sophisticated investment concepts. The content on Treasury market breakdowns and liquidity is essential for serious investors.
+
+DESCRIPTION SNIPPET:
+"Over a distinguished 40-year career as an academician in finance, Darrell Duffie has made important contributions to our collective understanding of how markets work. Earning a PhD from Stanford in 1984, Darrell has taught finance there ever since and now serves as the Adams Distinguished Professor of Management and Professor of Finance at the Graduate School of Business."
+
+---
+
+SEARCH 25: "bestselling finance book author interview"
+---
+
+EPISODE ID: 10231175
+PODCAST ID: 116906
+PODCAST NAME: Unknown
+EPISODE TITLE: Interview with Bestselling Author and Professional Book Coach Kristina Rienzi
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Kristina Rienzi: Bestselling author
+- NOT a finance author - writes thriller novels
+- Professional book coach
+- Completely off-topic (fiction writing, not finance)
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+While Kristina Rienzi is indeed a bestselling author, she writes thriller novels, not finance books. This episode is about her writing career and book coaching business, not personal finance. Completely off-topic. The search picked up "bestselling author" but missed the "finance" qualifier. Reject.
+
+DESCRIPTION SNIPPET:
+"Kristina is an entrepreneur with a beautiful soul. She loves writing and her family. She has a great imagination and creative writing style. Kristina Rienzi is a Jersey Shore-based new adult thriller author, certified professional coach."
+
+---
+
+EPISODE ID: 39155701
+PODCAST ID: 295793
+PODCAST NAME: Tessy Antony de Nassau's Zoom O'Clock
+EPISODE TITLE: International Bestselling Book Author Richard Mason
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Richard Mason: International bestselling author
+- NOT a finance author - writes literary fiction
+- Novels include "The Drowning People", "Us", "The Lighted Rooms"
+- Completely off-topic
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+Richard Mason is a literary fiction author, not a finance writer. His books are novels, not financial education. Completely off-topic for a personal finance course. Reject.
+
+DESCRIPTION SNIPPET:
+"Richard Mason first came to prominence at the age of 21, when the London Times dubbed him 'king of the hot young writers'. He had just published his first novel, The Drowning People... His second novel, Us (2005)... In The Lighted Rooms (2008)..."
+
+---
+
+EPISODE ID: 17717608
+PODCAST ID: 13328
+PODCAST NAME: Unknown
+EPISODE TITLE: Interview with NY Times Bestselling Author SQuire Rushnell - new book Dogwinks
+
+QUALITY RATING: ❌ REJECT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- SQuire Rushnell: New York Times bestselling author
+- NOT a finance author - writes about "Godwinks" (spiritual/inspirational)
+- New book "Dogwinks" about dogs
+- Completely off-topic
+
+LEVEL: N/A
+
+EVALUATION NOTES:
+SQuire Rushnell writes inspirational/spiritual books about "Godwinks" (coincidences interpreted as divine messages). His new book is about dogs. This is completely off-topic for a personal finance course. Reject.
+
+DESCRIPTION SNIPPET:
+"New York Times bestselling authors SQuire Rushnell and Louise DuArt return with the beloved Godwink series (over 1.5M copies in print) with an inspiring dog-focused collection of true stories called Dogwinks. Every chapter focuses on a different, real-life canine who positively impacted their human family's lives in a miraculous way."
+
+---
+
+EPISODE ID: 48880535
+PODCAST ID: 258694
+PODCAST NAME: Unknown
+EPISODE TITLE: #53 Bodo Schäfer, Personal Finance Guru and Bestselling Author
+
+QUALITY RATING: ⭐⭐⭐ EXCELLENT
+
+EXPERTISE SIGNALS IDENTIFIED:
+- Bodo Schäfer: Personal finance guru and bestselling author
+- #1 Bestseller "The Entrepreneur's Solution: The Modern Millionaire's Path"
+- Authored "The Road to Financial Freedom" (helped millions)
+- Founder of The Affluence Blueprint and The Legacy Factor
+- Interview format
+- International reach (books in German and English)
+- Courses on financial freedom and wealth building
+
+LEVEL: Beginner to Intermediate
+
+EVALUATION NOTES:
+Excellent episode featuring a genuine personal finance bestselling author. Bodo Schäfer has sold millions of books on personal finance and financial freedom. While not a CFP or CFA, his bestselling author status and focus specifically on personal finance education makes him highly relevant. Clear interview format. His books have helped millions achieve financial goals. The content covers money beliefs, gratitude, and building wealth mindset, which is perfect for beginners learning foundational financial attitudes. Could also work for intermediate level covering wealth-building strategies.
+
+DESCRIPTION SNIPPET:
+"In this episode, personal finance guru Bodo Schäfer and I sit down for a fantastic conversation about his journey to becoming a personal finance guide to millions through his bestselling books. Topics include: understanding your money beliefs and where they're rooted, how to stay grateful even when times feel dark... To check out his courses and books in German please visit: https://www.bodoschaefer.de/"
+
+===============================================================================
+SUMMARY STATISTICS
+===============================================================================
+
+TOTAL EPISODES EVALUATED: 93 episodes across 25 searches
+
+QUALITY BREAKDOWN:
+
+⭐⭐⭐ EXCELLENT: 19 episodes
+- Pat Dorsey (Invest Like the Best)
+- Dr. Ben Hunt (Invest Like the Best)
+- Tom Gayner (The Knowledge Project)
+- Mel Abraham, CPA (Money Talk)
+- Elizabeth Snyder, CFP (Therapist Turned Financial Planner)
+- Jeremy Keil, CFP & CFA (Keil Financial Partners)
+- Abdul Davids, CFA (Kagiso Asset Management)
+- Manka Sebastian, CFA CAIA FMVA (Sanlam Investments)
+- Yusuf Mowlana, CA & CFA (Prudential Investment Managers)
+- Michael Green, CFA (Simplify Asset Management)
+- Steven Human (FCA Behavioral Economist)
+- Melina Palmer (Applied Behavioral Economist, Texas A&M)
+- Jordan Birnbaum (ADP Chief Behavioral Economist)
+- Jason Trennert (Strategas Chief Investment Strategist)
+- Cody Garrett, CFP (FIRE specialist)
+- Diedre Braverman, Esq. (Estate Planning Attorney, Stanford Law)
+- Graeme Newell (Behavioral Finance & Brain Science Researcher)
+- Daniel Crosby (Chief Behavioral Officer, Orion)
+- Nick Roussanov (Wharton Finance Professor)
+- Itay Goldstein (Wharton Finance Professor)
+- Darrell Duffie (Stanford Finance Professor)
+- Bodo Schäfer (Personal Finance Bestselling Author)
+
+⭐⭐ GOOD: 10 episodes
+- Ryder Taff (New Perspectives investment expert)
+- Adrianne Branche (Financial Advisor)
+- Adnaan Bazier, MBA CFP (Financial Planner)
+- Jim Hazelton, CFP CLU (Financial Planner)
+- Shelly/Justin Harvey, CFP (Medical finance planning)
+- Kesha Cash (Impact America Fund)
+- David Krause (Marquette Finance Professor - Bitcoin focus)
+- Warren Hadlow (20 years wealth management)
+- Anastasia Kisten (Tax Lawyer with Masters)
+- Warren Ingram (Personal Financial Advisor)
+- Dr. Elisa Chiang (Physician money coach)
+- Michael Roberts (Wharton Finance Professor - Twitter focus)
+- Dr. Benjamin Cummings (American College of Financial Services)
+
+⭐ ACCEPTABLE: 8 episodes
+- Maya Fisher-French & Mapalo Makhu (Money Bootcamp)
+- Harold Pollack (minimal description)
+- Luke Patterson & Michael Smith (STA Money Hour)
+- Mike (MyLifePlanFinancial - no last name)
+- Bob Mauk (Financial Advisor - no credentials stated)
+- Listen Money Matters (5 Index Fund Myths)
+- Morris Invest (FIRE Movement)
+- Charles Weisinger (Real estate planning - no credentials)
+
+❌ REJECT: 56 episodes
+- Off-topic episodes (AI, robots, psychedelics, mental health, dogs, fiction)
+- Solo host monologues without credentials
+- Empty descriptions
+- Trailers/promos
+- No identifiable expert guests
+- Spiritual/religious money content without credentials
+- High school teacher exam prep
+- Generic radio show promotional content
+- Completely wrong topic matches
+
+===============================================================================
+RECOMMENDATIONS FOR COURSE SELECTION
+===============================================================================
+
+STRONGEST CANDIDATES BY LEVEL:
+
+BEGINNER (6 episodes needed):
+1. ⭐⭐⭐ Mel Abraham, CPA - Money Talk (comprehensive basics, CPA credential)
+2. ⭐⭐⭐ Elizabeth Snyder, CFP - Therapist perspective (emotions + money)
+3. ⭐⭐⭐ Bodo Schäfer - Personal Finance Author (money beliefs, attitudes)
+4. ⭐⭐⭐ Melina Palmer - Behavioral Economist (decision-making basics)
+5. Backup: Dr. Elisa Chiang or Ryder Taff (retirement basics)
+
+INTERMEDIATE (6 episodes needed):
+1. ⭐⭐⭐ Pat Dorsey - Moats & Portfolio (Invest Like the Best)
+2. ⭐⭐⭐ Tom Gayner, CEO Markel - Investment Philosophy (Knowledge Project)
+3. ⭐⭐⭐ Jeremy Keil, CFP & CFA - Retirement Planning
+4. ⭐⭐ Adnaan Bazier, MBA CFP - Financial Planning Tools
+5. ⭐⭐ Adrianne Branche - Comprehensive Financial Planning
+6. Backup: Shelly/Justin Harvey CFP or Warren Ingram
+
+ADVANCED (6 episodes needed):
+1. ⭐⭐⭐ Dr. Ben Hunt - Three-Body Portfolio/Risk Parity (Invest Like the Best)
+2. ⭐⭐⭐ Darrell Duffie, Stanford Professor - Treasury Markets
+3. ⭐⭐⭐ Michael Green, CFA - Market Structure (Simplify)
+4. ⭐⭐⭐ Daniel Crosby - Behavioral Finance (Orion)
+5. ⭐⭐⭐ Steven Human - FCA Behavioral Economist
+6. ⭐⭐⭐ Cody Garrett, CFP - FIRE Movement
+7. ⭐⭐⭐ Diedre Braverman, Esq. - Estate Planning (Stanford Law)
+8. ⭐⭐⭐ Jason Trennert - Investment Strategy (Strategas)
+9. ⭐⭐⭐ Abdul Davids, CFA / Manka Sebastian, CFA / Yusuf Mowlana, CFA
+10. ⭐⭐⭐ Nick Roussanov or Itay Goldstein (Wharton Professors)
+
+DIVERSITY NOTES:
+- Gender diversity: Elizabeth Snyder (CFP), Melina Palmer (economist), Manka Sebastian (CFA), Adrianne Branche, Maya Fisher-French, Diedre Braverman (attorney)
+- Credential diversity: CFPs, CFAs, CPAs, PhDs, Law degrees, Economists
+- Podcast diversity: All 19 EXCELLENT episodes are from different podcasts
+- Expertise diversity: Planners, investors, academics, behavioral scientists, attorneys
+
+GAPS IDENTIFIED:
+- Limited episodes specifically on index fund investing (most rejected or only acceptable)
+- Tax optimization has limited options (Anastasia Kisten only GOOD option)
+- Real estate investing not well covered (most were promotional or weak credentials)
+- Need more beginner-level episodes from top podcasts (many Tim Ferriss/Lex Fridman searches were off-topic)
+
+NEXT STEPS:
+Consider additional searches for:
+1. "Morgan Housel Psychology of Money" (known beginner-friendly author)
+2. "Ramit Sethi I Will Teach You To Be Rich" (popular beginner author)
+3. "Burton Malkiel Random Walk" (index fund pioneer)
+4. "Christine Benz Morningstar" (personal finance expert)
+5. "Ed Slott IRA tax" (tax optimization expert)

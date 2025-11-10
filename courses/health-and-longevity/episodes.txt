@@ -1,0 +1,422 @@
+# Health and Longevity Course - Episode Evaluation
+
+This document evaluates podcast episodes based on expertise signals and categorizes them by level.
+
+---
+
+## EVALUATION CRITERIA
+
+⭐⭐⭐ EXCELLENT - Use these first
+⭐⭐ GOOD - Solid backup
+⭐ ACCEPTABLE - Use only if needed
+❌ REJECT - Never use
+
+---
+
+## BEGINNER LEVEL CANDIDATES
+(Well-known hosts interviewing top longevity experts - accessible and engaging)
+
+### EPISODE 1: ⭐⭐⭐ EXCELLENT
+**ID**: 23127776 | **Podcast ID**: 175447
+**Title**: "Dr. Peter Attia: Exercise, Nutrition, Hormones for Vitality & Longevity"
+**Podcast**: Huberman Lab
+**Description**: Dr. Peter Attia, M.D., who trained at Stanford University School of Medicine, Johns Hopkins Hospital and the National Institutes of Health (NIH). Dr. Attia is host of The Drive podcast and is a world expert on behavioral approaches, nutritional interventions, supplementation and pharmacological techniques to improve lifespan, healthspan and athletic performance.
+
+**EXPERTISE SIGNALS**:
+- Guest: Peter Attia, MD
+- Credentials: Stanford Medical School, Johns Hopkins Hospital, NIH training
+- Host: Andrew Huberman, PhD, Professor of Neurobiology at Stanford
+- Specific expertise: Longevity medicine, exercise, nutrition, hormones
+- Published researcher, podcast host (The Drive)
+
+**WHY BEGINNER**: Huberman is excellent at making complex science accessible. Peter Attia is a leading longevity physician. Perfect intro to healthspan vs lifespan.
+
+**LEARNING OUTCOMES**: Understanding the foundations of longevity medicine, the "4 horsemen of disease", how to assess health status, exercise and nutrition fundamentals.
+
+---
+
+### EPISODE 2: ⭐⭐⭐ EXCELLENT
+**ID**: 20722694 | **Podcast ID**: 11710
+**Title**: "David Sinclair: Reversing the Aging Process"
+**Podcast**: The Knowledge Project (Shane Parrish)
+**Description**: Biologist and genetics expert Dr. David Sinclair. Dr. Sinclair is a professor of genetics and co-director of the Paul F. Glenn Center for Biology of Aging Research at Harvard Medical School, best known for his research on aging, with a focus on epigenetics.
+
+**EXPERTISE SIGNALS**:
+- Guest: David Sinclair, PhD
+- Credentials: Professor of Genetics, Harvard Medical School
+- Position: Co-Director, Paul F. Glenn Center for Biology of Aging Research
+- Recognized authority: Time Magazine's 100 Most Influential People
+- Author: "Lifespan: Why We Age - and Why We Don't Have To" (NYT Bestseller)
+
+**WHY BEGINNER**: Shane Parrish is a skilled interviewer who asks foundational questions. Sinclair explains complex aging science in accessible terms. Covers "why we age" which is perfect for beginners.
+
+**LEARNING OUTCOMES**: Understanding aging as a disease, introduction to epigenetics, what causes aging, practical steps to slow aging.
+
+---
+
+### EPISODE 3: ⭐⭐⭐ EXCELLENT
+**ID**: 16140249 | **Podcast ID**: 182127
+**Title**: "Matthew Walker: Why We Sleep"
+**Podcast**: CIIS Public Programs
+**Description**: Award-winning neuroscientist Matthew Walker reveals his groundbreaking exploration of sleep, explaining how we can harness its transformative power to change our lives for the better.
+
+**EXPERTISE SIGNALS**:
+- Guest: Matthew Walker, PhD
+- Credentials: Professor of Neuroscience and Psychology, UC Berkeley
+- Position: Founder and Director of the Center for Human Sleep Science
+- Author: "Why We Sleep" (international bestseller)
+- Award-winning researcher
+
+**WHY BEGINNER**: Sleep is foundational to health and longevity. Walker is the world's foremost sleep expert and excellent communicator. Everyone can relate to sleep.
+
+**LEARNING OUTCOMES**: Why sleep matters for longevity, sleep architecture, how to optimize sleep, the consequences of poor sleep on aging.
+
+---
+
+### EPISODE 4: ⭐⭐⭐ EXCELLENT
+**ID**: 46187379 | **Podcast ID**: 11618
+**Title**: "#086 How Micronutrients & Exercise Ameliorate Aging | Dr. Rhonda Patrick"
+**Podcast**: FoundMyFitness
+**Description**: Keynote at American Academy of Anti-Aging Medicine's Longevityfest Conference. Explores foundational tactics to enhance longevity and prevent diseases, including vitamin D, omega-3, magnesium, and vigorous exercise.
+
+**EXPERTISE SIGNALS**:
+- Guest/Host: Rhonda Patrick, PhD
+- Credentials: PhD in biomedical science
+- Expertise: Aging, nutrition, nutritional health
+- Context: Keynote speaker at major anti-aging medicine conference
+- Research focus: Micronutrients, exercise, longevity
+
+**WHY BEGINNER**: Focuses on actionable, foundational interventions (vitamin D, omega-3, exercise). Rhonda is excellent at translating science into practical advice.
+
+**LEARNING OUTCOMES**: Which micronutrients matter for longevity, how exercise delays aging, practical supplementation strategies, VO2 max basics.
+
+---
+
+### EPISODE 5: ⭐⭐⭐ EXCELLENT
+**ID**: 447346 | **Podcast ID**: 1227
+**Title**: "Fasting For Longevity With Valter Longo, Ph.D."
+**Podcast**: Rich Roll Podcast
+**Description**: Valter Longo, one of the world's leading scientific authorities on longevity. Director of the USC Longevity Institute. 25 years of research on aging, nutrition and disease. Author of "The Longevity Diet."
+
+**EXPERTISE SIGNALS**:
+- Guest: Valter Longo, PhD
+- Credentials: PhD, Professor of Gerontology and Biological Sciences
+- Position: Director, USC Longevity Institute
+- Position: Director, Program on Longevity and Cancer at IFOM (Milan)
+- Research: 25+ years on aging, nutrition, disease
+- Author: "The Longevity Diet"
+
+**WHY BEGINNER**: Rich Roll is an engaging host. Fasting is a practical, accessible intervention. Longo explains complex biology through the lens of practical application.
+
+**LEARNING OUTCOMES**: Introduction to fasting-mimicking diet, how fasting affects aging, practical fasting protocols, longevity diet principles.
+
+---
+
+### EPISODE 6: ⭐⭐⭐ EXCELLENT
+**ID**: 13712883 | **Podcast ID**: 176333
+**Title**: "Circadian rhythms: Professor Satchin Panda"
+**Podcast**: Mundie on Monday
+**Description**: Professor at the Salk Institute for Biological Sciences in California – leading expert in circadian rhythms. How athletic performance can vary by as much as 26% in the course of a day.
+
+**EXPERTISE SIGNALS**:
+- Guest: Satchin Panda, PhD
+- Credentials: Professor, Salk Institute for Biological Sciences
+- Expertise: Circadian biology, time-restricted eating
+- Research: Pioneering work on circadian rhythms and health
+- Author: "The Circadian Code"
+
+**WHY BEGINNER**: Circadian rhythms affect everyone daily. Panda explains timing of eating, sleep, and exercise in accessible terms. Immediate practical applications.
+
+**LEARNING OUTCOMES**: Understanding circadian rhythms, when to eat/exercise/sleep, time-restricted eating basics, light exposure impact on health.
+
+---
+
+## INTERMEDIATE LEVEL CANDIDATES
+(Domain-specific experts explaining mechanisms and systems)
+
+### EPISODE 7: ⭐⭐⭐ EXCELLENT
+**ID**: 32583818 | **Podcast ID**: 38679
+**Title**: "Exercise Is Not About 'Not Being Fat' ft. Andy Galpin"
+**Podcast**: Food We Need To Talk
+**Description**: Deep dive into all things exercise with world-renowned expert Professor Andy Galpin. Discusses cardio optimization, training variation, brain health benefits, proprioception, and "exercise snacks."
+
+**EXPERTISE SIGNALS**:
+- Guest: Andy Galpin, PhD
+- Credentials: PhD in Human Bioenergetics
+- Position: Professor of Kinesiology, Cal State Fullerton
+- Position: Founder and Director, Biochemistry and Molecular Exercise Laboratory
+- Expertise: Exercise physiology, muscle biology, strength and conditioning
+- Client work: Elite athletes in MMA, MLB, NFL, PGA
+
+**WHY INTERMEDIATE**: Goes deep into exercise mechanisms, training periodization, and specific adaptations. More technical than beginner content.
+
+**LEARNING OUTCOMES**: Exercise programming for longevity, types of training needed, how exercise affects the brain, optimizing different energy systems.
+
+---
+
+### EPISODE 8: ⭐⭐⭐ EXCELLENT
+**ID**: 23007534 | **Podcast ID**: 22593
+**Title**: "#217 ‒ Exercise, VO2 max, and longevity | Mike Joyner, M.D."
+**Podcast**: The Peter Attia Drive
+**Description**: Mike Joyner, physician-researcher and one of the world's leading experts on human performance and exercise physiology, discusses VO2 max, autonomic nervous system, blood pressure, heart rate variability, and exercise intensity.
+
+**EXPERTISE SIGNALS**:
+- Guest: Mike Joyner, MD
+- Credentials: Physician-researcher
+- Expertise: Leading expert on human performance, exercise physiology
+- Host: Peter Attia, MD (also credentialed expert)
+- Focus: VO2 max, cardiovascular health, longevity
+
+**WHY INTERMEDIATE**: Technical discussion of VO2 max, heart rate metrics, and exercise physiology. Requires some baseline understanding.
+
+**LEARNING OUTCOMES**: Understanding VO2 max and its importance, how to improve VO2 max, training intensity and volume, cardiovascular metrics that matter.
+
+---
+
+### EPISODE 9: ⭐⭐⭐ EXCELLENT
+**ID**: 16085323 | **Podcast ID**: 11618
+**Title**: "#010 Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging"
+**Podcast**: FoundMyFitness
+**Description**: Dr. Aubrey de Grey, biomedical gerontologist and founder of the SENS research foundation. Discusses sirtuins, inflammation, parabiosis, lifestyle factors, Crispr/Cas9, and pluripotent stem cells.
+
+**EXPERTISE SIGNALS**:
+- Guest: Aubrey de Grey, PhD
+- Credentials: Biomedical gerontologist
+- Position: Founder, SENS Research Foundation
+- Host: Rhonda Patrick, PhD
+- Focus: Technologies to repair aging damage
+
+**WHY INTERMEDIATE**: More technical discussion of aging mechanisms (sirtuins, epigenetics, inflammation). Two experts discussing research.
+
+**LEARNING OUTCOMES**: Understanding different types of aging damage, how inflammation drives aging, future of aging interventions, stem cells and aging.
+
+---
+
+### EPISODE 10: ⭐⭐⭐ EXCELLENT
+**ID**: 49137920 | **Podcast ID**: 311283
+**Title**: "Satchin Panda: The Age of Circadian Disruption"
+**Podcast**: Health & Human Performance Podcast
+**Description**: Satchin Panda of the Salk Institute guides through the many interactions between sleep behavior and biology, how to improve sleep health, and how to target circadian rhythm to modulate effects of aging.
+
+**EXPERTISE SIGNALS**:
+- Guest: Satchin Panda, PhD
+- Credentials: Professor, Salk Institute
+- Position: Founding executive member, Center for Circadian Biology (UC San Diego)
+- Awards: Pew Biomedical Scholar, Julie Martin Mid-Career Award in Aging Research
+- Author: "The Circadian Code"
+
+**WHY INTERMEDIATE**: Deeper dive into circadian mechanisms, how they interact with metabolism, mental health, and aging. More technical than beginner episode.
+
+**LEARNING OUTCOMES**: Circadian disruption and disease, metabolic effects of timing, how circadian rhythm changes with age, optimizing circadian health.
+
+---
+
+### EPISODE 11: ⭐⭐⭐ EXCELLENT
+**ID**: 50526125 | **Podcast ID**: 311283
+**Title**: "Valter Longo: Fasting for Health and Longevity"
+**Podcast**: Health & Human Performance Podcast
+**Description**: Valter Longo discusses epigenetic reprogramming, Yamanaka factors, restoring cells to youthful state based on 30+ years of research on diet and fasting. Director of Longevity Institute at USC.
+
+**EXPERTISE SIGNALS**:
+- Guest: Valter Longo, PhD
+- Credentials: Edna M. Jones Professor of Gerontology and Biological Sciences
+- Positions: Director, USC Longevity Institute; Director, Longevity and Cancer Program at IFOM (Milan)
+- Research: 30+ years on aging, fasting, nutrition
+- Focus: Fasting-mimicking diet, stem cell regeneration
+- Author: "The Longevity Diet"
+
+**WHY INTERMEDIATE**: Goes deeper into mechanisms of how fasting works at cellular level, epigenetic reprogramming, Yamanaka factors. More technical.
+
+**LEARNING OUTCOMES**: Fasting-mimicking diet mechanisms, epigenetic reprogramming, stem cell activation, clinical trial results on FMD.
+
+---
+
+### EPISODE 12: ⭐⭐⭐ EXCELLENT
+**ID**: 2466945 | **Podcast ID**: 49321
+**Title**: "Sleep, Exercise & Nutrition (Dr. Peter Attia)"
+**Podcast**: Feel Better Live More
+**Description**: Dr. Peter Attia, founder of Early Medical. Shares the one thing you can start doing now to help prevent dementia, how to get better, more restful sleep, and the core elements of balanced nutrition.
+
+**EXPERTISE SIGNALS**:
+- Guest: Peter Attia, MD
+- Credentials: Stanford, Johns Hopkins, NIH training
+- Position: Founder, Early Medical (longevity-focused medical practice)
+- Expertise: Longevity medicine, preventive medicine
+- Host: Dr. Rangan Chatterjee (also MD)
+
+**WHY INTERMEDIATE**: Integrates sleep, exercise, and nutrition into cohesive longevity strategy. More systems-focused than single-topic beginner episodes.
+
+**LEARNING OUTCOMES**: Preventing dementia through lifestyle, optimizing sleep quality, nutrition for longevity, integrating the "big 3" pillars.
+
+---
+
+## ADVANCED LEVEL CANDIDATES
+(Cutting-edge research, molecular mechanisms, frontier science)
+
+### EPISODE 13: ⭐⭐⭐ EXCELLENT
+**ID**: 788915 | **Podcast ID**: 22593
+**Title**: "#27 - David Sinclair, Ph.D.: Slowing aging – sirtuins, NAD, and the epigenetics of aging"
+**Podcast**: The Peter Attia Drive
+**Description**: David A. Sinclair, Ph.D., Professor in the Department of Genetics at Harvard Medical School and co-Director of the Paul F. Glenn Center for the Biological Mechanisms of Aging. Discusses sirtuins, NAD, metabolism, neurodegeneration, cancer, cellular reprogramming.
+
+**EXPERTISE SIGNALS**:
+- Guest: David Sinclair, PhD
+- Credentials: Professor of Genetics, Harvard Medical School
+- Position: Co-Director, Paul F. Glenn Center for Biology of Aging
+- Co-creator: Journal "Aging"
+- Patents: Inventor on 35+ patents
+- Awards: Time Magazine 100 Most Influential People
+- Host: Peter Attia, MD (also expert)
+
+**WHY ADVANCED**: Deep technical discussion of sirtuins, NAD biology, epigenetics, resveratrol research, NMN/NR precursors. Cutting-edge molecular biology.
+
+**LEARNING OUTCOMES**: How sirtuins work, NAD+ and aging, sirtuin activation mechanisms, resveratrol and its controversies, NAD precursors (NR, NMN).
+
+---
+
+### EPISODE 14: ⭐⭐⭐ EXCELLENT
+**ID**: 21687224 | **Podcast ID**: 207310
+**Title**: "Cellular senescence in aging and disease (Dr. Marco Demaria)"
+**Podcast**: Translating Aging Podcast
+**Description**: Dr. Marco Demaria, Associate Professor in Cellular Ageing at University of Groningen. Co-founder of Cleara Biotech (anti-senescence drugs). Discusses how senescence promotes aging, senolytics, and senescence in COVID severity.
+
+**EXPERTISE SIGNALS**:
+- Guest: Marco Demaria, PhD
+- Credentials: Associate Professor in Cellular Ageing
+- Institution: Medical Faculty, University of Groningen
+- Position: Co-founder, Cleara Biotech (senolytic drug development)
+- Expertise: Cellular senescence, senolytics, aging mechanisms
+
+**WHY ADVANCED**: Highly technical discussion of cellular senescence mechanisms, heterogeneity of senescence, senolytic drug development. Research frontier.
+
+**LEARNING OUTCOMES**: What cellular senescence is, good vs bad senescence, senolytics and their targets, future of senolytic therapies, senescence in disease.
+
+---
+
+### EPISODE 15: ⭐⭐⭐ EXCELLENT
+**ID**: 85307943 | **Podcast ID**: 644199
+**Title**: "#16 Cancer, Cellular Senescence & Senolytics | Dr. Peter Adams"
+**Podcast**: Live Longer World
+**Description**: Dr. Peter Adams, Professor at Sanford Burnham Prebys Medical Discovery Institute. Expert in biology of aging and cancer. Discusses dual role of senescence in protecting against cancer but causing tissue aging, senolytic drugs, mitochondria connection, developmental theory of aging.
+
+**EXPERTISE SIGNALS**:
+- Guest: Peter Adams, PhD
+- Credentials: Professor
+- Institution: Sanford Burnham Prebys Medical Discovery Institute
+- Position: Founding faculty member and Trustee, Geneva College of Longevity Science
+- Expertise: Epigenetics of cancer and aging
+- Focus: Senolytic interventions for healthy aging
+
+**WHY ADVANCED**: Technical discussion of senescence biology, cancer-aging connection, epigenetic interventions, developmental theory of aging. Frontier research.
+
+**LEARNING OUTCOMES**: Cellular senescence dual role, senolytics development, mitochondria and senescence connection, developmental origins of aging.
+
+---
+
+### EPISODE 16: ⭐⭐⭐ EXCELLENT
+**ID**: 71380349 | **Podcast ID**: 116832
+**Title**: "David Sinclair: The Science of Aging"
+**Podcast**: Growth Now Movement
+**Description**: Groundbreaking research on epigenetics - the software of cells. Reveals breakthroughs in rejuvenation and partial reprogramming of the epigenome, reversing aging in various tissues and improving vision in blind animals.
+
+**EXPERTISE SIGNALS**:
+- Guest: David Sinclair, PhD
+- Credentials: Professor, Harvard Medical School
+- Research: Epigenetic reprogramming, partial cellular reprogramming
+- Recent work: Reversing aging in tissues, vision restoration research
+- Author: "Lifespan"
+
+**WHY ADVANCED**: Cutting-edge discussion of epigenetic reprogramming, Yamanaka factors, reversing aging at cellular level. Most advanced aging research.
+
+**LEARNING OUTCOMES**: Epigenome as software of aging, partial reprogramming, vision restoration experiments, future of aging reversal.
+
+---
+
+### EPISODE 17: ⭐⭐⭐ EXCELLENT
+**ID**: 83332693 | **Podcast ID**: 527172
+**Title**: "VO2 Max and Longevity with Dr. Phil Batterson"
+**Podcast**: The Doctor's Farmacy
+**Description**: Phil Batterson, PhD, leading exercise physiologist. Explores how VO2 max testing can transform fitness and longevity, its critical role in long-term well-being, and how to boost VO2 max.
+
+**EXPERTISE SIGNALS**:
+- Guest: Phil Batterson, PhD
+- Credentials: PhD, Exercise Physiologist
+- Expertise: VO2 max testing, cardiovascular physiology
+- Focus: Longevity optimization through cardiorespiratory fitness
+- Host: Dr. Mark Hyman, MD (functional medicine physician)
+
+**WHY ADVANCED**: Technical deep-dive into VO2 max physiology, lactate threshold, Zone 2 training, heart health optimization. Performance metrics for longevity.
+
+**LEARNING OUTCOMES**: VO2 max testing methodology, relationship to mortality risk, improving VO2 max, lactate threshold, Zone 2 training, cardiovascular optimization.
+
+---
+
+### EPISODE 18: ⭐⭐⭐ EXCELLENT
+**ID**: 85307943 (alternative) OR need to search for mitochondrial/NAD episode
+**Title**: Need to identify final advanced episode
+**Options**:
+- More NAD+ focused episode
+- Mitochondrial health deep-dive
+- Rapamycin or other pharmaceutical interventions
+- Epigenetic clocks and biological age testing
+
+**WHY ADVANCED**: Should cover cutting-edge intervention or measurement technique.
+
+---
+
+## REJECTED EPISODES (Examples of what NOT to use)
+
+### ❌ REJECT
+**ID**: 62871713
+**Title**: "'Huberman Lab'"
+**Podcast**: "Podcast Reviews"
+**Reason**: This is people DISCUSSING Huberman Lab, not the actual Huberman Lab podcast. No direct expert.
+
+### ❌ REJECT
+**ID**: 47329802
+**Title**: "#240 - ANDREW HUBERMAN 'EXPOSED': The Side Hoes Of Huberman Lab"
+**Reason**: Gossip/commentary about Huberman, not scientific content.
+
+### ❌ REJECT
+Multiple episodes with titles like "My Thoughts On..." or "I Explain..."
+**Reason**: Solo host monologues without expert guests.
+
+### ❌ REJECT
+Episodes from podcasts like "Two Dudes Podcast" or amateur-sounding shows
+**Reason**: No clear credentials, likely casual discussion not expert interview.
+
+---
+
+## NOTES FOR FINAL SELECTION
+
+**Podcast Diversity Requirement**: Must use 6 different podcasts per level (18 different podcasts total).
+
+**Current podcast distribution**:
+- Huberman Lab: 1 (beginner)
+- The Knowledge Project: 1 (beginner)
+- CIIS Public Programs: 1 (beginner)
+- FoundMyFitness: 1 (beginner) + 1 (intermediate) = 2 total
+- Rich Roll Podcast: 1 (beginner)
+- Mundie on Monday: 1 (beginner)
+- Food We Need To Talk: 1 (intermediate)
+- The Peter Attia Drive: 1 (intermediate) + 1 (advanced) = 2 total
+- Health & Human Performance: 2 (intermediate)
+- Feel Better Live More: 1 (intermediate)
+- Translating Aging: 1 (advanced)
+- Live Longer World: 1 (advanced)
+- Growth Now Movement: 1 (advanced)
+- The Doctor's Farmacy: 1 (advanced)
+
+**Issue**: Using FoundMyFitness twice, The Peter Attia Drive twice, and Health & Human Performance twice. Need to diversify.
+
+**Action needed**: Review search results for alternative episodes on same topics but different podcasts to ensure maximum diversity.
+
+---
+
+## NEXT STEPS
+
+1. Finalize 18 episodes ensuring 18 different podcasts
+2. Verify all have strong expertise signals
+3. Confirm logical progression within each level
+4. Document in course.txt with detailed rationale
+5. Create JSON file

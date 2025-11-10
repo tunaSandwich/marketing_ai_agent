@@ -1,0 +1,30 @@
+{
+  "title": "How Does AI Work?",
+  "image_url": "https://storage.googleapis.com/goodpods-images-bucket/courses/ai-course.png",
+  "course_slug": "how-does-ai-work",
+  "description": "Discover how AI actually works under the hood in this comprehensive course featuring the world's leading researchers and pioneers. You'll learn from Turing Award winners like Yann LeCun, company founders building frontier models like Dario Amodei (Anthropic CEO) and Demis Hassabis (DeepMind CEO), and cutting-edge researchers like Paul Christiano who invented the techniques behind ChatGPT.\n\nStarting with foundational concepts, you'll understand neural networks through the eyes of Fei-Fei Li, whose ImageNet dataset catalyzed the deep learning revolution. You'll learn how transformers revolutionized AI and why scaling laws predict that bigger models develop emergent capabilities.\n\nMoving to intermediate topics, you'll discover how models are actually trained with RLHF, Constitutional AI, and other alignment techniques—explained by the people who invented them. You'll peek inside neural networks with mechanistic interpretability research from Google DeepMind, understanding how models represent information and compute internally.\n\nFinally, you'll explore the cutting edge: AI safety research, alignment challenges, and the philosophical debates about consciousness and existential risk. You'll hear directly from Paul Christiano about preventing AI takeovers, from Eliezer Yudkowsky about why he thinks AI poses existential risk, and from Neel Nanda about using sparse autoencoders to understand modern models.\n\nThis isn't a course about AI hype—it's about how the technology actually works, explained by the researchers building it. Every episode features expert interviews with people who have PhDs, run major AI labs, or have won top prizes in computer science. Most episodes are from 2024-2025, ensuring you learn the current state of AI, not outdated information.\n\nBy the end, you'll understand transformer architecture, training loops, scaling laws, RLHF, mechanistic interpretability, and the alignment problem—all explained by the people pushing the boundaries of what's possible with artificial intelligence.",
+  "beginner_episodes": [
+    21808243,
+    2954122,
+    57172723,
+    3800584,
+    23890390,
+    76206479
+  ],
+  "intermediate_episodes": [
+    32253826,
+    78099403,
+    95698105,
+    30854956,
+    87344575,
+    23600987
+  ],
+  "advanced_episodes": [
+    79647601,
+    29552823,
+    35826766,
+    32483383,
+    78098938,
+    41495882
+  ]
+}

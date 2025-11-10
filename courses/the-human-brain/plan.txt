@@ -1,0 +1,198 @@
+# THE HUMAN BRAIN - COURSE PLANNING DOCUMENT
+
+## Course Vision
+An immersive course that explains how the brain really works — how neurons create thoughts, memories, emotions, and decisions. Listeners will hear from neuroscientists and researchers who reveal how the mind perceives, learns, and adapts. From brain plasticity and language to consciousness and creativity, this series shows the biology behind who we are and how we think.
+
+## Search Strategy Overview
+Total Searches Conducted: 20
+Approach: Multi-strategy search combining top interview podcasts, specific brain topics, and expertise indicators
+
+## STRATEGY A: High-Quality Podcast + Topic (Priority: Highest)
+
+### Top Interview Podcasts Searched:
+1. "Huberman Lab neuroscience" - Andrew Huberman's science-driven podcast from Stanford
+2. "Lex Fridman brain neuroscience" - Long-form interviews with AI researchers and neuroscientists
+3. "Making Sense neuroscience consciousness" - Sam Harris interviewing consciousness researchers
+4. "Tim Ferriss neuroscientist" - Deep dives with brain experts
+5. "Joe Rogan neuroscientist brain" - Accessible conversations with scientists
+6. "Fresh Air brain neuroscientist" - NPR's Terry Gross with expert interviews
+7. "Hidden Brain cognition" - Shankar Vedantam on unconscious patterns
+8. "Peter Attia brain health" - Longevity and brain optimization
+
+### Why These Podcasts?
+- Top 200 most popular shows with massive reach
+- Known for featuring credentialed experts
+- Interview format (not monologues)
+- Mix of accessibility (beginner) and depth (intermediate/advanced)
+
+## STRATEGY B: Topic + Expertise Signals
+
+### Searches Conducted:
+9. "neuroscience professor interview" - Academic credentials
+10. "brain researcher cognitive scientist" - Research backgrounds
+11. "brain plasticity neuroplasticity interview" - Specific topic + format
+12. "consciousness neuroscience expert" - Subject-specific expertise
+13. "memory formation hippocampus neuroscientist" - Technical depth
+14. "emotions neuroscientist interview" - Affective neuroscience
+15. "decision making brain expert" - Cognitive neuroscience
+16. "learning brain scientist" - Educational neuroscience
+17. "creativity neuroscience researcher" - Innovation science
+
+### Why This Approach?
+- Captures subject-specific podcasts (e.g., "Neuroscience Podcast")
+- Finds university-affiliated shows
+- Identifies academic researchers actively doing work
+- Ensures interview format through search terms
+
+## STRATEGY C: Academic/Research Institutions
+
+### Searches Conducted:
+18. "MIT Stanford brain research" - Top research universities
+19. "neural networks brain professor" - Technical/computational neuroscience
+20. "Peter Attia brain health" - Clinical applications
+
+### Why Universities Matter?
+- Access to cutting-edge research
+- Credentialed professors and researchers
+- Often on topic-specific academic podcasts
+- Strong expertise signals (affiliations, publications)
+
+## Course Level Progression Philosophy
+
+### BEGINNER EPISODES (Target: 6 episodes)
+**Format:** Well-known host interviewing world-class neuroscientist
+**Goal:** Make brain science accessible through storytelling
+**Examples:**
+- Lex Fridman interviewing Stanford professors
+- Joe Rogan with brain researchers
+- Fresh Air (NPR) featuring memory experts
+**Guest Credentials:** Named professors, research directors, published authors
+**Red Flag Check:** Can we identify the expert guest? Are credentials clear?
+
+### INTERMEDIATE EPISODES (Target: 6 episodes)
+**Format:** Neuroscience-focused podcasts interviewing domain experts
+**Goal:** Build technical understanding of brain mechanisms
+**Examples:**
+- Huberman Lab featuring Salk Institute researchers
+- Making Sense with consciousness scientists
+- Brain-specific podcasts with working researchers
+**Guest Credentials:** Working scientists, lab directors, specialized researchers
+**Red Flag Check:** Does guest have active research? Publications? Affiliations?
+
+### ADVANCED EPISODES (Target: 6 episodes)
+**Format:** Expert interviewing expert — technical depth, research frontiers
+**Goal:** Cutting-edge insights from people pushing boundaries
+**Examples:**
+- Computational neuroscience discussions
+- Consciousness research debates
+- Neural mechanisms and emerging theories
+**Guest Credentials:** Published researchers, thought leaders, pioneers
+**Red Flag Check:** Is this accessible to beginners? (If yes, probably not advanced)
+
+## High-Priority Podcasts Identified
+
+### CONFIRMED TOP SHOWS:
+1. **Lex Fridman Podcast** - Computer scientist interviewing neuroscientists
+2. **Huberman Lab** - Stanford neuroscientist (Andrew Huberman, PhD)
+3. **Making Sense** - Sam Harris with consciousness researchers
+4. **The Joe Rogan Experience** - Long-form with scientists
+5. **Fresh Air (NPR)** - Terry Gross interviews
+6. **Hidden Brain** - Shankar Vedantam on cognitive science
+7. **The Drive** - Peter Attia on brain health/longevity
+8. **Tim Ferriss Show** - Performance optimization with neuroscientists
+
+### TOPIC-SPECIFIC SHOWS FOUND:
+- Brain Science Podcast
+- Neuroscience Meets SEL
+- That Neuroscience Guy
+- The Learning Scientists
+- Various university research podcasts
+
+## Key Topics to Cover
+
+### Core Brain Functions (Must-Have):
+1. **Memory & Learning** - Hippocampus, memory formation, learning mechanisms
+2. **Emotions** - Limbic system, emotional processing, mood
+3. **Decision-Making** - Prefrontal cortex, executive function
+4. **Consciousness** - Neural correlates, theories of consciousness
+5. **Neuroplasticity** - Brain change, adaptation, recovery
+6. **Sleep & Circadian Rhythms** - Brain restoration, memory consolidation
+7. **Language** - Brain areas for language, acquisition
+8. **Creativity** - Creative thinking, innovation, problem-solving
+
+### Advanced Topics (For Advanced Level):
+- Neural networks and brain connectivity
+- Computational neuroscience
+- Brain imaging techniques (fMRI, EEG)
+- Neurotransmitters and brain chemistry
+- Brain development across lifespan
+- Future of neuroscience research
+
+## Expertise Indicators to Look For
+
+### ✅ STRONG SIGNALS:
+- "Professor at [University]"
+- "Director of [Lab/Institute]"
+- "PhD in Neuroscience"
+- "[University] School of Medicine"
+- "Published in Nature/Science/Cell"
+- "Author of [neuroscience book]"
+- "Researcher at [Institution]"
+- "Fellow of [Scientific Society]"
+
+### ⚠️ WEAK SIGNALS (Investigate Further):
+- "Expert in neuroscience" (no affiliation)
+- "Brain enthusiast"
+- Generic "neuroscientist" without specifics
+- No institution mentioned
+- No publications referenced
+
+### ❌ RED FLAGS (Automatic Rejection):
+- No guest name mentioned
+- "I explain..." (host monologue)
+- Spiritual/mystical interpretations of neuroscience
+- No scientific credentials
+- "Two friends discussing brain science"
+
+## Quality Assurance Checklist
+
+Before finalizing episodes, verify:
+- [ ] All 18 episodes have identified neuroscientist guests with clear credentials
+- [ ] Each episode documents SPECIFIC expertise (university, lab, publications)
+- [ ] All episodes are interview format (not solo monologues)
+- [ ] All 18 podcasts are different (maximum diversity)
+- [ ] No pseudoscience or spiritual interpretations
+- [ ] Prioritized Top 200 podcasts where possible
+- [ ] Logical flow within each level (beginner → intermediate → advanced)
+- [ ] Course covers all core brain topics (memory, emotions, decisions, consciousness, plasticity, etc.)
+
+## Next Steps
+
+1. ✅ Complete 20 searches (DONE)
+2. ⏭️ Compile all results into results.txt
+3. ⏭️ Evaluate 50-100 episodes in episodes.txt with ratings
+4. ⏭️ Curate final 18 episodes in course.txt
+5. ⏭️ Create the-human-brain.json with course structure
+
+## Success Metrics
+
+**Episode Quality:**
+- At least 12 episodes should be ⭐⭐⭐ (EXCELLENT)
+- No ❌ (REJECT) episodes in final selection
+- Every guest must have verifiable academic/research credentials
+
+**Podcast Diversity:**
+- 18 different podcasts
+- Mix of popular (Top 200) and specialized shows
+- No podcast used more than once
+
+**Learning Progression:**
+- Beginner: Accessible, engaging, foundational
+- Intermediate: Deeper mechanisms, working researchers
+- Advanced: Cutting-edge, technical, research frontiers
+
+---
+
+Generated: 2025-10-14
+Course: The Human Brain
+Target: 18 episodes, 3 levels, maximum expertise and diversity

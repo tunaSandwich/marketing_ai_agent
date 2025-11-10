@@ -1,0 +1,207 @@
+# Sleep Science Course - Strategic Plan
+
+## Course Overview
+Create an educational learning path on "Sleep Science - Optimizing sleep for energy, mood, and longevity" that takes listeners from basic understanding through advanced research frontiers. Focus on expert-backed science, avoiding wellness influencers and focusing on credentialed researchers, clinicians, and neuroscientists.
+
+## Beginner Level Strategy
+**Goal**: Build foundational understanding of sleep basics through accessible expert interviews
+
+**Key Topics**:
+- What is sleep and why do we need it?
+- Sleep stages (REM, NREM, deep sleep) explained
+- Circadian rhythms and the biological clock
+- Common sleep myths debunked
+- Basic sleep hygiene principles
+- How sleep affects energy, mood, and cognition
+
+**Ideal Format**: Well-known hosts (Lex Fridman, Tim Ferriss, Rick Rubin) interviewing world-class sleep researchers or doctors who can make complex science accessible
+
+## Intermediate Level Strategy
+**Goal**: Deep dive into mechanisms, systems, and evidence-based optimization
+
+**Key Topics**:
+- Sleep architecture and neurophysiology
+- Hormonal regulation (melatonin, cortisol, adenosine)
+- Light exposure and circadian entrainment
+- Effects of sleep deprivation on health
+- Temperature, timing, and environmental factors
+- Evidence-based interventions and protocols
+- Sleep tracking and metrics that matter
+- Relationship between sleep and metabolism/immunity
+
+**Ideal Format**: Subject-specific podcasts (health/science shows) interviewing sleep researchers, neuroscientists, or clinicians with deep domain expertise
+
+## Advanced Level Strategy
+**Goal**: Cutting-edge research, debates, and frontier topics in sleep science
+
+**Key Topics**:
+- Chronobiology and molecular mechanisms
+- Sleep's role in longevity and healthspan
+- Glymphatic system and brain waste clearance
+- Sleep disorders: mechanisms and treatments
+- Pharmacology of sleep aids and consequences
+- Sleep and neuroplasticity/learning consolidation
+- Genetic factors in sleep requirements
+- Future of sleep medicine and interventions
+- Debates in sleep research (optimal sleep duration, polyphasic sleep, etc.)
+
+**Ideal Format**: Technical podcasts featuring leading researchers, conference presentations, academic discussions exploring frontiers of sleep science
+
+## High-Quality Podcasts to Target
+
+**Priority Tier 1 (Most Likely to Have Excellent Sleep Content):**
+- Huberman Lab (Andrew Huberman frequently covers sleep, interviews sleep experts)
+- Peter Attia Drive (longevity focus, extensive sleep coverage)
+- Found My Fitness (Rhonda Patrick - sleep and health optimization)
+- Lex Fridman Podcast (when interviewing sleep/neuroscience researchers)
+- Tim Ferriss Show (when featuring sleep researchers or optimization experts)
+
+**Priority Tier 2 (Strong General Interview Podcasts):**
+- The Knowledge Project
+- Making Sense (Sam Harris)
+- Tetragrammaton with Rick Rubin
+- On Being
+- Fresh Air (NPR)
+- TED Talks Daily / TED Radio Hour
+
+**Priority Tier 3 (Science/Health Focused):**
+- Sean Carroll's Mindscape
+- Hidden Brain
+- Radiolab
+- Science Vs
+- StarTalk
+
+**Priority Tier 4 (Subject-Specific - Look for these):**
+- Sleep-specific podcasts (e.g., "Sleep Research Podcast")
+- Neuroscience podcasts
+- Medical/clinical podcasts featuring sleep medicine
+- University-affiliated health podcasts
+
+## Topic Keywords and Subtopics
+
+**Primary Keywords:**
+- sleep, sleep science, sleep research, sleep medicine
+- circadian rhythm, biological clock, chronobiology
+- insomnia, sleep disorders, sleep apnea
+- REM sleep, deep sleep, sleep stages, sleep cycles
+- melatonin, adenosine, cortisol
+
+**Intermediate Keywords:**
+- sleep deprivation, sleep optimization, sleep hygiene
+- sleep architecture, sleep neurophysiology
+- circadian entrainment, zeitgebers
+- sleep and longevity, healthspan
+- sleep tracking, sleep quality
+- temperature and sleep, light and sleep
+
+**Advanced Keywords:**
+- glymphatic system, brain waste clearance
+- chronotherapy, chronobiology
+- sleep pharmacology, sleep aids
+- neuroplasticity and sleep, memory consolidation
+- suprachiasmatic nucleus (SCN)
+- sleep genetics, chronotype
+- polyphasic sleep
+
+**Subtopic Combinations:**
+- "sleep and mood"
+- "sleep and energy"
+- "sleep and immunity"
+- "sleep and brain health"
+- "sleep and metabolism"
+- "sleep and aging"
+
+## Expertise Indicators to Look For
+
+**Academic Credentials:**
+- Professor of sleep medicine, neuroscience, or chronobiology
+- PhD in neuroscience, psychology, or related field
+- Affiliations: Stanford Sleep Lab, Harvard Medical School, NIH, etc.
+- Research scientist at sleep research centers
+- Published sleep research in peer-reviewed journals
+
+**Clinical Credentials:**
+- MD specializing in sleep medicine
+- Board-certified sleep medicine specialist
+- Neurologist with sleep focus
+- Clinical researcher in sleep disorders
+
+**Author/Thought Leader:**
+- Author of sleep science books (e.g., "Why We Sleep", sleep research books)
+- TED talks on sleep science
+- Regular contributor to medical/scientific publications
+
+**Professional Credentials:**
+- Director of sleep research center/laboratory
+- Head of chronobiology department
+- Sleep consultant for organizations (NASA, military, etc.)
+- Developed sleep protocols or interventions
+
+**Red Flags to Avoid:**
+- Wellness influencers without formal training
+- "Biohackers" without scientific credentials
+- Sleep coaches without advanced degrees
+- Spiritual/mystical interpretations of sleep
+- Supplement company owners discussing sleep (conflict of interest)
+- Generic health podcasts without expert guests
+
+## Search Strategy (15-25 Searches)
+
+**Strategy A: High-Quality Podcast + Topic (8-10 searches)**
+1. "Huberman Lab sleep"
+2. "Huberman Lab circadian"
+3. "Peter Attia sleep"
+4. "Found My Fitness sleep"
+5. "Lex Fridman sleep researcher"
+6. "Tim Ferriss sleep optimization"
+7. "Making Sense sleep neuroscience"
+8. "Knowledge Project sleep"
+9. "Tetragrammaton sleep"
+10. "Mindscape sleep"
+
+**Strategy B: Topic + Expertise Signals (8-10 searches)**
+1. "sleep researcher interview"
+2. "sleep medicine professor"
+3. "circadian rhythm scientist"
+4. "neuroscience sleep expert"
+5. "chronobiology researcher"
+6. "sleep disorders specialist"
+7. "sleep laboratory director"
+8. "insomnia treatment expert"
+
+**Strategy C: Specific Subtopics (5-7 searches)**
+1. "REM sleep neuroscience"
+2. "melatonin circadian"
+3. "sleep deprivation effects"
+4. "glymphatic system brain"
+5. "sleep and longevity"
+6. "memory consolidation sleep"
+7. "sleep architecture research"
+
+**Strategy D: Academic/Research Institutions (2-3 searches)**
+1. "sleep research Stanford Harvard"
+2. "chronobiology MIT"
+3. "sleep neuroscience university"
+
+## Quality Criteria Summary
+
+**Must Have:**
+- Expert guest with identifiable credentials
+- Interview format (not host monologue)
+- From reputable podcast (Top 200 or respected subject show)
+- Clear expertise signals in description
+- Relevant to sleep science, energy, mood, or longevity
+
+**Prefer:**
+- Published researchers or clinicians
+- University affiliations or major institutions
+- Authors of sleep science books
+- Specific research mentioned in description
+- Diversity across podcasts (18 different shows)
+
+**Reject:**
+- Solo host episodes without expert guest
+- Wellness influencers without credentials
+- Spiritual/metaphysical approaches
+- Amateur podcasts with low production quality
+- Episodes where expertise is unclear or vague
