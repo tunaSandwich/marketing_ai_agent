@@ -1,0 +1,499 @@
+# PRODUCT-MARKET FIT COURSE - SEARCH RESULTS
+# Total Queries: 25
+# Date: November 4, 2025
+
+================================================================================
+SEARCH QUERY #1: "How I Built This product market fit"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 76117370
+Title: How Quickly Will This Replace Product-Market Fit?
+Podcast ID: 367641
+Description: On this episode of the Rethink Marketing Podcast, Colin Jeffries and Paul Frodge explore the evolution from product-market fit to promise-market fit. We must understand our customers' specific pain points and how a strong brand promise can differentiate businesses in a competitive market. If product-market fit was easy for service businesses to shrug off, promise-market fit can't be ignored! What is the right promise for your customers to hear from you--one that your competition can't deliver on? All that and more in today's episode!
+
+RATING: ❌ REJECT - No clear expert credentials, appears to be marketing podcast hosts discussing concept theoretically
+
+---
+
+EPISODE 2:
+ID: 59646940
+Title: How do I figure out Product-Market fit?
+Podcast ID: 435882
+Description: This week, learn all about Product-Market Fit on ET Startup School. How can your product fit into the market, where is it supposed to be, and how can you grow your business because of it? Shilpa Sharma, Co-Founder of Jaypore is your guide, professor and expert on this journey.
+
+RATING: ⭐⭐ GOOD - Shilpa Sharma, Co-Founder of Jaypore (e-commerce company), educational format
+LEVEL: Intermediate
+EXPERTISE SIGNALS: Co-Founder credential, practical business experience
+
+---
+
+EPISODE 3-10: [Various episodes with no strong PMF focus or expert credentials - mostly rejected]
+
+================================================================================
+SEARCH QUERY #2: "How I Built This founder early customers"
+Total Results: 10,000
+================================================================================
+
+[Most results were generic "How I Built This" episodes without specific focus]
+
+================================================================================
+SEARCH QUERY #3: "Masters of Scale product market fit"
+Total Results: 10,000
+================================================================================
+
+[Results were about scaling but not specifically focused on PMF]
+
+================================================================================
+SEARCH QUERY #4: "Lenny's Podcast product market fit"
+Total Results: 10,000
+================================================================================
+
+[Results showed Lenny's Daily Podcast episodes but not Lenny Rachitsky's main show]
+
+================================================================================
+SEARCH QUERY #5: "Lenny's Podcast retention growth"
+Total Results: 10,000
+================================================================================
+
+EPISODE:
+ID: 83626218
+Title: Yocto - Retention & Growth
+Podcast: Lenny's Podcast (potentially)
+Description: George Kapernaros, CEO of Yocto, discusses how DTC eCom brands need to retain customers and actively manage retention while they grow.
+
+RATING: ⭐⭐ GOOD - CEO discussing retention
+LEVEL: Intermediate
+EXPERTISE SIGNALS: CEO of retention-focused company
+
+================================================================================
+SEARCH QUERY #6: "a16z product market fit"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 460693
+Title: a16z Podcast: Product-Market SALES Fit (What Comes First?)
+Podcast ID: 11879
+Description: with Jyoti Bansal (@jyotibansalsf), Peter Levine, Satish Talluri (@satishtalluri), and Sonal Chokshi (@smc90) One of the toughest challenges for founders -- and especially technical founders who are used to focusing so much on product features over sales -- is striking "product-market fit". The concept can be defined many ways, but the simple definition shared in this episode is: it's when you understand the business value of your product. And that comes down to users, which is where the concept of "product-market-sales fit" comes in, observes Jyoti Bansal, founding CEO of AppDynamics (which was acquired by Cisco for $3.7B the night before it was to IPO). Bansal shares this and other key milestones and frameworks for company building in conversation with a16z general partner Peter Levine; enterprise deal team partner Satish Talluri (who was a director of product and growth operations there); and Sonal Chokshi.
+
+RATING: ⭐⭐⭐ EXCELLENT - Jyoti Bansal (AppDynamics founder, $3.7B exit), Peter Levine (a16z GP), specific frameworks
+LEVEL: Advanced
+EXPERTISE SIGNALS: Founding CEO of unicorn company, $3.7B acquisition, a16z partners
+KEY TOPICS: Product-market-sales fit, business value, scaling from PMF
+
+---
+
+EPISODE 2:
+ID: 19458037
+Title: Product-market fit
+Podcast: Acquired (ID: 197743)
+Description: Ben and David are back for episode #2, diving into the most elusive early-stage investing and company-building topics: product-market fit.
+
+RATING: ⭐⭐⭐ EXCELLENT - Acquired podcast (Ben Gilbert & David Rosenthal), highly respected tech podcast
+LEVEL: Beginner/Intermediate
+EXPERTISE SIGNALS: Top tech podcast, deep company analysis background
+KEY TOPICS: Foundational PMF concepts
+
+================================================================================
+SEARCH QUERY #7: "20VC product market fit"
+Total Results: 10,000
+================================================================================
+
+[No highly relevant results from this specific search]
+
+================================================================================
+SEARCH QUERY #8: "Invest Like the Best founder"
+Total Results: 10,000
+================================================================================
+
+Multiple excellent episodes found featuring founders:
+- Patrick O'Shaughnessy's interviews with various successful founders
+- High-quality interview format focusing on business building
+
+================================================================================
+SEARCH QUERY #9: "Tim Ferriss entrepreneur startup"
+Total Results: 10,000
+================================================================================
+
+EPISODE:
+ID: 32375911
+Title: Tim Ferriss - entrepreneur, author, and podcaster
+Podcast ID: 40234
+Description: "The mindset of an entrepreneur is helpful to embrace no matter what your current position. Control the W's of life - who you spend time with, what you do, why you are doing them." Tim Ferriss is an American entrepreneur, author, and podcaster - best known for his book: the Four Hour Work Week, and his podcast: the Tim Ferriss Show. Tim has been listed as one of fast company's most innovative business people. Tim is an early stage technology investor and advisor.
+
+RATING: ⭐⭐⭐ EXCELLENT - Tim Ferriss (4-Hour Work Week author, angel investor in Uber, Facebook, Shopify, etc.)
+LEVEL: Beginner/Intermediate
+EXPERTISE SIGNALS: Best-selling author, early-stage investor in major companies, Fast Company recognition
+KEY TOPICS: Entrepreneurial mindset, early-stage thinking
+
+================================================================================
+SEARCH QUERY #10: "Lex Fridman founder CEO"
+Total Results: 10,000
+================================================================================
+
+Multiple Lex Fridman episodes available - he regularly interviews tech founders and CEOs with deep technical discussions
+
+================================================================================
+SEARCH QUERY #11: "customer discovery Steve Blank"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 49861336
+Title: Steve Blank and Intercom's Des Traynor | Customer Research
+Podcast ID: 342984
+Description: Topics covered in this episode: The relationship of the customer and product, The shift in the market in relation to customer research, How data plays into the market, An introduction to customer research, Understanding qualitative and quantitative customer research, Frequent objections to data collection and rebuttals
+
+RATING: ⭐⭐⭐ EXCELLENT - Steve Blank (Father of Lean Startup, created customer development methodology), Des Traynor (Intercom co-founder)
+LEVEL: Intermediate
+EXPERTISE SIGNALS: Steve Blank coined "customer development," Des Traynor co-founded $1B+ company
+KEY TOPICS: Customer research, qualitative vs quantitative, customer development process
+
+---
+
+EPISODE 2:
+ID: 1444115
+Title: Steve Blank
+Podcast ID: 36508
+Description: Steve Blank – Author of The Startup Owner's Manual and The Four Steps to the Epiphany, serial entrepreneur, professor. This week we talk to a true pioneer in an industry filled with innovators. Our guest, Steve Blank, created the "Lean Startup" model that helped facilitate the launch of over 10,000 companies.
+
+RATING: ⭐⭐⭐ EXCELLENT - Steve Blank solo interview
+LEVEL: Intermediate/Advanced
+EXPERTISE SIGNALS: Created Lean Startup methodology, Stanford professor, launched 10,000+ companies
+KEY TOPICS: Lean Startup fundamentals
+
+================================================================================
+SEARCH QUERY #12: "lean startup Eric Ries"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 51786931
+Title: Lean Startup by Eric Ries
+Podcast ID: 327541
+Description: Dive into the Lean Startup methodology by Eric Ries. Discover the power of MVPs, the essence of validated learning, and the art of pivoting. Equip your business with agile strategies for sustainable success in today's dynamic market.
+
+RATING: ⭐⭐ GOOD - Book summary/discussion of Eric Ries' Lean Startup
+LEVEL: Intermediate
+EXPERTISE SIGNALS: Based on seminal book by Eric Ries (IMVU founder, coined "Lean Startup")
+KEY TOPICS: MVP, validated learning, pivoting
+
+---
+
+EPISODE 2:
+ID: 9583353
+Title: Eric Ries - The Lean Startup
+Podcast ID: 81444
+Description: Eric Ries is disrupting the world of entrepreneurship. His book 'Lean Startup' has become a movement and a community for big and small business people alike. He's the father of the MVP idea and tools like the Lean Canvas.
+
+RATING: ⭐⭐⭐ EXCELLENT - Direct interview with Eric Ries
+LEVEL: Intermediate
+EXPERTISE SIGNALS: IMVU founder, coined "Lean Startup," created MVP concept
+KEY TOPICS: Lean Startup methodology, MVP, validated learning
+
+================================================================================
+SEARCH QUERY #13: "minimum viable product founder"
+Total Results: 10,000
+================================================================================
+
+Multiple episodes discussing MVP concept but mostly theoretical or educational rather than founder stories
+
+================================================================================
+SEARCH QUERY #14: "retention metrics cohort analysis"
+Total Results: 10,000
+================================================================================
+
+EPISODE:
+ID: 8452769
+Title: 386: Cohort Analysis
+Podcast ID: 97255
+Description: Today, I explain cohort analysis and how this can be used for conversion metrics and tracking the customer journey.
+
+RATING: ⭐⭐ GOOD - Educational on cohort analysis
+LEVEL: Intermediate
+KEY TOPICS: Cohort analysis, retention metrics
+
+================================================================================
+SEARCH QUERY #15: "Sean Ellis product market fit"
+Total Results: 10,000
+================================================================================
+
+EPISODE:
+ID: 99011602
+Title: #125 - Growth Systems: reducing Friction to find Product Market Fit - with Sean Ellis
+Podcast ID: 211286
+Description: Sean Ellis, famously known for coining the term "growth hacking", who has led growth at multiple unicorn-scale companies like Dropbox, Eventbrite, and LogMeIn, joins us to open Season 7 of the podcast. Reflecting on more than 15 years since the term first spread, he shares how growth hacking has evolved from a startup tactic into a discipline fit for today's market. Sean unpacks the shift from distribution-first strategies to product-led, product-focused ones, covers staged feature exposure, and finding north stars as teams within larger organisations.
+
+RATING: ⭐⭐⭐ EXCELLENT - Sean Ellis (coined "growth hacking," led growth at Dropbox, Eventbrite, LogMeIn)
+LEVEL: Advanced
+EXPERTISE SIGNALS: Coined "growth hacking," led growth at multiple unicorns, created 40% rule for PMF
+KEY TOPICS: Growth systems, friction reduction, PMF metrics, feature exposure
+
+================================================================================
+SEARCH QUERY #16: "Slack Stewart Butterfield pivot"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 32687
+Title: Slack & Flickr: Stewart Butterfield
+Podcast: How I Built This (ID: 188)
+Description: In the early 2000s, Stewart Butterfield tried to build a weird, massively multiplayer online game, but the venture failed. Instead, he and his co-founders used the technology they developed to create the photo-sharing site Flickr. After Flickr was acquired by Yahoo in 2005, Butterfield went back to the online game idea, only to fail again. But the office messaging platform Slack rose from the ashes of that second failure — a company which, today, is valued at over $5 billion.
+
+RATING: ⭐⭐⭐ EXCELLENT - Stewart Butterfield (Slack & Flickr founder), Guy Raz interview
+LEVEL: Beginner
+EXPERTISE SIGNALS: Founded two major companies (Flickr sold to Yahoo, Slack valued at $5B+), clear pivot story
+KEY TOPICS: Pivot story, recognizing PMF, pivoting from failure
+
+---
+
+EPISODE 2:
+ID: 25560656
+Title: TalkingHeadz with Stewart Butterfield of Slack
+Podcast ID: 225303
+Description: Evan and Dave chat with Stewart Butterfield, the co-Founder of Slack. Slack is the leading channel-based messaging platform, used by millions to align their teams, unify their systems, and drive their businesses forward. Stewart has been regularly recognized for the foresight and innovation that has helped him build two companies. He was named one of the 100 Most Influential People in the World by Time Magazine.
+
+RATING: ⭐⭐⭐ EXCELLENT - Stewart Butterfield direct interview
+LEVEL: Intermediate/Advanced
+EXPERTISE SIGNALS: Co-founder of Slack and Flickr, Time 100 Most Influential
+KEY TOPICS: Building collaboration tools, team dynamics, scaling
+
+================================================================================
+SEARCH QUERY #17: "Airbnb Brian Chesky"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 20004355
+Title: Airbnb CEO Brian Chesky
+Podcast ID: 100919
+Description: Brian Chesky, co-founder and CEO of Airbnb, talks about how Covid-19 changed travel forever, taking the company public and how he books his own stay at a property. He's on "The David Rubenstein Show: Peer-to-Peer Conversations."
+
+RATING: ⭐⭐⭐ EXCELLENT - Brian Chesky (Airbnb co-founder & CEO)
+LEVEL: Beginner/Intermediate
+EXPERTISE SIGNALS: Co-founder and CEO of Airbnb (public company, revolutionized travel industry)
+KEY TOPICS: Company building, pivoting through crisis, going public
+
+---
+
+EPISODE 2:
+ID: 18010956
+Title: Brian Chesky, Airbnb Co-Founder & CEO
+Podcast: The Travel Diaries (ID: 130763)
+Description: For billions of us, including myself, Airbnb has completely changed the way we travel. It opened up people's homes, creating an army of Superhosts in the process, bringing tourists and locals far closer together. It's no short of lie that Airbnb created a travel revolution. So you could say today's episode is both Brian's and Airbnb's.
+
+RATING: ⭐⭐⭐ EXCELLENT - Brian Chesky interview
+LEVEL: Beginner
+EXPERTISE SIGNALS: Airbnb co-founder, created travel revolution, billions of users
+KEY TOPICS: Early days, finding PMF in travel, marketplace dynamics
+
+================================================================================
+SEARCH QUERY #18: "Instagram pivot Burbn"
+Total Results: 10,000
+================================================================================
+
+EPISODE:
+ID: 31594708
+Title: If Burbn Didn't Pivot to Instagram, We Might Not Have Threads
+Podcast ID: 208663
+Description: In Episode 40, Mark Graban and Jamie Flinchbaugh get back together... We get to celebrate the launch of Mark's new book, The Mistakes That Make Us. We then pivoted to talking about pivots, starting with the example of how Instagram originally started as Burbn check-in app to share your drinking experiences with others. It then pivoted to photo sharing, and the rest is history. We compare and contrast other pivots, including Play-Doh, the pacemaker, Slack and Twitter, 3M Post-its, and a purple dye found when trying to cure malaria.
+
+RATING: ⭐⭐ GOOD - Discussion of Instagram's pivot from Burbn
+LEVEL: Beginner
+EXPERTISE SIGNALS: Historical case study, multiple pivot examples
+KEY TOPICS: Pivoting, recognizing what users want, iteration
+NOTE: Not a direct founder interview but excellent pivot case study
+
+================================================================================
+SEARCH QUERY #19: "DoorDash founder early days"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 24499541
+Title: DoorDash CEO & Co-Founder Tony Xu
+Podcast ID: 85174
+Description: DoorDash CEO Tony Xu speaks with Emily Chang in the latest episode of Studio 1.0
+
+RATING: ⭐⭐⭐ EXCELLENT - Tony Xu (DoorDash CEO & Co-founder)
+LEVEL: Beginner
+EXPERTISE SIGNALS: Co-founded and leads DoorDash (public company, major food delivery platform)
+KEY TOPICS: Early days, marketplace building, delivery logistics
+
+---
+
+EPISODE 2:
+ID: 41272013
+Title: Tony Xu, Founder & CEO of DoorDash
+Podcast ID: 300774
+Description: Tony and his cofounders were students at Stanford when they first launched DoorDash as a class project. Y Combinator funded them as part of its summer batch in 2013. In this episode, Tony takes us through version 1 of their idea to what is now a public company (DASH) operating in 27 countries across the globe.
+
+RATING: ⭐⭐⭐ EXCELLENT - Tony Xu full founder story
+LEVEL: Beginner
+EXPERTISE SIGNALS: Stanford project to YC to public company in 27 countries
+KEY TOPICS: Class project to company, early validation, marketplace PMF, geographic expansion
+
+================================================================================
+SEARCH QUERY #20: "Stripe Patrick Collison"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 32700
+Title: Stripe: Patrick and John Collison
+Podcast: How I Built This (ID: 188)
+Description: Brothers Patrick and John Collison founded and sold their first company before they turned 20. They created software to help eBay users manage inventory online, which set them on a path to help make e-commerce frictionless. Today, John and Patrick are the founders of Stripe, a software company that uses just a few lines of code to power the payment system of companies like Lyft, Warby Parker and Target.
+
+RATING: ⭐⭐⭐ EXCELLENT - Patrick & John Collison (Stripe founders)
+LEVEL: Intermediate
+EXPERTISE SIGNALS: Serial entrepreneurs, founded and sold company before 20, Stripe powers major companies
+KEY TOPICS: Developer tools, payment infrastructure, early PMF with developers
+
+---
+
+EPISODE 2:
+ID: 286547
+Title: #353: Patrick Collison — CEO of Stripe
+Podcast: The Tim Ferriss Show (ID: 8779)
+Description: Patrick Collison, chief executive officer and co-founder of Stripe... Named one of the 100 Most Influential People in the World by Time Magazine, and one of the Top 50 Leaders by BusinessWeek... Originally from Limerick, Ireland, Patrick now lives in San Francisco where Stripe is headquartered.
+
+RATING: ⭐⭐⭐ EXCELLENT - Patrick Collison with Tim Ferriss
+LEVEL: Advanced
+EXPERTISE SIGNALS: Stripe CEO, Time 100, BusinessWeek Top 50 Leaders, well-read polymath
+KEY TOPICS: Building infrastructure, developer-first products, company scaling
+
+================================================================================
+SEARCH QUERY #21: "marketplace two-sided network"
+Total Results: 10,000
+================================================================================
+
+Various episodes on marketplace dynamics but not specifically founder-focused PMF stories
+
+================================================================================
+SEARCH QUERY #22: "platform strategy founder"
+Total Results: 10,000
+================================================================================
+
+General platform strategy discussions but not founder PMF stories
+
+================================================================================
+SEARCH QUERY #23: "Andrew Chen cold start problem"
+Total Results: 10,000
+================================================================================
+
+EPISODE 1:
+ID: 17855031
+Title: Solving the Cold Start Problem (w/ Andrew Chen)
+Podcast ID: 172571
+Description: Andrew Chen is a general partner at a16z where he invests in consumer startups and marketplaces. He is also one of my oldest best friends and played a MAJOR role in the success of my company Appsumo. His new book, The Cold Start Problem, is dropping on December 7th. In the book, he shares the core secrets of starting and scaling tech startups after interviewing CEOs from companies like Zoom, Twitch, and Slack.
+
+RATING: ⭐⭐⭐ EXCELLENT - Andrew Chen (a16z GP, former Uber growth lead, author of The Cold Start Problem)
+LEVEL: Advanced
+EXPERTISE SIGNALS: a16z general partner, led Rider Growth at Uber, interviewed CEOs of Zoom/Twitch/Slack
+KEY TOPICS: Network effects, marketplace PMF, cold start problem, atomic networks
+
+---
+
+EPISODE 2:
+ID: 17991726
+Title: (Bonus) a16z's Andrew Chen On The Cold Start Problem
+Podcast ID: 35189
+Description: The great Andrew Chen of a16z joins us to discuss his new book: The Cold Start Problem: How to Start and Scale Network Effects. This an indispensable guide to get that "rocket-ship" action going for whatever product or company you're working with.
+
+RATING: ⭐⭐⭐ EXCELLENT - Andrew Chen on network effects
+LEVEL: Advanced
+EXPERTISE SIGNALS: a16z GP, network effects expert, book author
+KEY TOPICS: Network effects, scaling, marketplace dynamics
+
+---
+
+EPISODE 3:
+ID: 18149400
+Title: How To Solve The Cold Start Problem with Andrew Chen
+Podcast ID: 87153
+Description: Andrew Chen (@andrewchen), partner at Andreessen Horowitz and author of The Cold Start Problem, joins Erik Torenberg and Lucas Bagno on this episode to discuss: Why the secret to why Bay Area tech companies have been so successful is their ability to connect people in different ways. Stories of how different tech companies solved the cold start problem in the earliest days. For example, Tinder threw a party at USC and required people to install the app to get in.
+
+RATING: ⭐⭐⭐ EXCELLENT - Andrew Chen with specific startup stories
+LEVEL: Advanced
+EXPERTISE SIGNALS: a16z partner, specific case studies (Tinder, colleges)
+KEY TOPICS: Cold start solutions, marketplace bootstrapping, network effects
+
+================================================================================
+SEARCH QUERY #24: "enterprise SaaS founder customer"
+Total Results: 10,000
+================================================================================
+
+EPISODE:
+ID: 18306427
+Title: Building customer success for Enterprise B2B SaaS w/ Matt Myszkowski
+Podcast ID: 193363
+Description: Matt Myszkowski joins us to talk about how he's part of the team building customer success at SAP. He's the VP for EMEA and has unique challenges when working inside of a 90,000 person organization. Building a Board Area and concentration around Customer Success. Outcomes-based approach to the customer success team.
+
+RATING: ⭐⭐ GOOD - VP at SAP discussing customer success
+LEVEL: Advanced
+EXPERTISE SIGNALS: VP at SAP (major enterprise software company)
+KEY TOPICS: Enterprise customer success, outcomes-based approaches
+NOTE: More about customer success than PMF specifically, but relevant for enterprise context
+
+================================================================================
+SEARCH QUERY #25: "B2B product market fit"
+Total Results: 10,000
+================================================================================
+
+Various episodes but mostly overlapped with previous searches
+
+================================================================================
+SUMMARY OF SEARCH RESULTS
+================================================================================
+
+TOTAL QUERIES EXECUTED: 25
+TOTAL EPISODES REVIEWED: ~250 unique episodes
+
+EXCELLENT (⭐⭐⭐) EPISODES FOUND: ~20
+- a16z Podcast with Jyoti Bansal (AppDynamics)
+- Acquired Podcast on Product-Market Fit
+- Stewart Butterfield on How I Built This (Slack/Flickr)
+- Brian Chesky interviews (Airbnb)
+- Tony Xu interviews (DoorDash)
+- Patrick & John Collison (Stripe)
+- Steve Blank interviews (Customer Development)
+- Eric Ries (Lean Startup)
+- Sean Ellis (Growth Hacking, PMF metrics)
+- Andrew Chen episodes (Cold Start Problem, network effects)
+- Tim Ferriss as entrepreneur/investor
+
+GOOD (⭐⭐) EPISODES FOUND: ~15
+Various interviews with founders, VCs, and product leaders
+
+KEY PODCASTS IDENTIFIED:
+- How I Built This (Guy Raz) - Excellent for beginner-level founder stories
+- Tim Ferriss Show - Deep founder interviews
+- Acquired - Business analysis and PMF concepts
+- a16z Podcast - VC/founder perspectives, frameworks
+- Masters of Scale - Scaling and growth
+- Invest Like the Best - Investor/founder insights
+- Various tech/startup focused shows
+
+CATEGORIES COVERED:
+✅ Consumer marketplace founders (Airbnb, DoorDash, Slack)
+✅ Developer tools (Stripe)
+✅ Pivot stories (Instagram/Burbn, Slack)
+✅ Growth & metrics experts (Sean Ellis, Andrew Chen)
+✅ Methodology creators (Steve Blank, Eric Ries)
+✅ Enterprise perspectives (some coverage)
+
+GAPS TO ADDRESS:
+- More B2B SaaS founder stories
+- More recent unicorn founders
+- More explicit "finding PMF moment" stories
+- More diverse business models
+
+================================================================================
+NEXT STEPS:
+1. Evaluate each episode for quality rating and expertise signals
+2. Categorize by Beginner/Intermediate/Advanced
+3. Ensure diversity across business models and podcasts
+4. Select final 18 episodes (6 per level, 18 different podcasts)
+================================================================================

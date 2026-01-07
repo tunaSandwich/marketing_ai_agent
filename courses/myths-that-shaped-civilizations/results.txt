@@ -1,0 +1,373 @@
+# MYTHS THAT SHAPED CIVILIZATIONS - SEARCH RESULTS
+## All Episode Search Results from Elasticsearch Database
+
+Date: November 2024
+Total Searches Conducted: 38+
+Search Strategy: Multi-phase approach targeting high-quality podcasts, expert credentials, and specific mythological topics
+
+---
+
+## SEARCH NOTES & OBSERVATIONS
+
+### Key Challenge Identified:
+After 38+ searches, the overwhelming majority of results are:
+- ❌ Storytelling/narrative podcasts (reading myths aloud)
+- ❌ Solo host monologues without expert guests
+- ❌ Audiobook readings
+- ❌ Sleep/meditation podcasts
+- ❌ Amateur discussions without credentialed experts
+- ❌ Video game discussions (Assassin's Creed, etc.)
+
+### Promising Episodes Found:
+✅ Professor Paul Cartledge on Ancient Greece (ID: 36909837)
+✅ Neil MacGregor: Living With The Gods (ID: 60267341)
+✅ Mary Beard episodes (from earlier searches)
+✅ Natalie Haynes episodes from BBC (The Iliad, The Odyssey)
+
+### Search Strategy Pivots Made:
+- Initial broad searches (Phase 1-3) yielded mostly non-expert content
+- Shifted to specific academic names and high-quality podcast searches
+- Targeted "professor," "archaeologist," "historian" with mythology terms
+- Searched for known high-quality shows (In Our Time, but faced technical limitations)
+
+---
+
+## PHASE 1: TOP PODCASTS + MYTHOLOGY TOPICS (8 searches)
+
+### Search 1: "In Our Time Greek mythology"
+Results: 15 episodes
+Key findings: Mostly returned meta-content about the show itself, not actual mythology episodes
+
+### Search 2: "In Our Time Norse mythology"
+Results: 15 episodes
+Key findings: Similar issue - meta-content about Melvyn Bragg and the show
+
+### Search 3: "Lex Fridman ancient civilization"
+Results: 15 episodes
+Key findings: No direct mythology content found
+
+### Search 4: "Dan Carlin ancient"
+Results: 15 episodes
+Key findings: No specific ancient mythology episodes identified
+
+### Search 5: "Fresh Air mythology author"
+Results: 15 episodes
+Key findings: Limited relevant results
+
+### Search 6: "TED ancient myths"
+Results: 15 episodes
+Key findings: General ancient civilization content
+
+### Search 7: "Sean Carroll ancient history"
+Results: 15 episodes
+Key findings: Physics/science focus, not mythology
+
+### Search 8: "Huberman mythology storytelling"
+Results: 15 episodes
+Key findings: Neuroscience focus, not ancient mythology
+
+---
+
+## PHASE 2: CIVILIZATION + EXPERT TYPE (10 searches)
+
+### Search 9: "Greek mythology professor interview"
+Results: 15 episodes
+Key findings: Mix of educational content, some amateur podcasts
+
+### Search 10: "Norse mythology historian Viking"
+Results: 15 episodes
+Key findings: Mostly storytelling podcasts, limited expert interviews
+
+### Search 11: "Egyptian mythology Egyptologist"
+Results: 15 episodes
+Key findings: Some DW World History educational episodes (solo format)
+
+### Search 12: "Mesopotamian mythology scholar"
+Results: 15 episodes
+Key findings: Very limited quality content
+
+### Search 13: "Roman mythology historian"
+Results: 15 episodes
+Key findings: Minimal expert interview content
+
+### Search 14: "ancient Greece classical historian"
+Results: 15 episodes
+Key findings: Some general ancient Greece content
+
+### Search 15: "Viking mythology archaeologist"
+Results: 15 episodes
+Key findings: Storytelling predominates
+
+### Search 16: "ancient Egypt archaeologist interview"
+Results: 15 episodes
+Key findings: Some DW podcast episodes (educational monologues)
+
+### Search 17: "classical mythology expert"
+Results: 15 episodes
+Key findings: Limited credentialed expert interviews
+
+### Search 18: "ancient civilizations professor"
+Results: 15 episodes
+Key findings: Educational content, mixed quality
+
+---
+
+## PHASE 3: SPECIFIC MYTHOLOGICAL TOPICS (8 searches)
+
+### Search 19: "Greek gods ancient Greece religion"
+Results: 15 episodes
+Key findings: Predominantly storytelling and amateur content
+
+### Search 20: "Norse gods Odin Thor mythology"
+Results: 15 episodes
+Key findings: Sleep podcasts, storytelling, Marvel discussions
+
+### Search 21: "Egyptian gods pharaoh afterlife"
+Results: 15 episodes
+Key findings: Educational monologues, some storytelling
+
+### Search 22: "Gilgamesh Mesopotamia epic"
+Results: 15 episodes
+Key findings: Very limited quality content
+
+### Search 23: "Roman gods imperial cult"
+Results: 15 episodes
+Key findings: Limited expert interviews
+
+### Search 24: "ancient creation myths"
+Results: 15 episodes
+Key findings: Comparative mythology discussions, mixed quality
+
+### Search 25: "hero myths ancient world"
+Results: 15 episodes
+Key findings: Storytelling predominates
+
+### Search 26: "underworld mythology ancient"
+Results: 15 episodes
+Key findings: Sleep podcasts and storytelling
+
+---
+
+## PHASE 4: NAMED SCHOLARS/AUTHORS (5 searches)
+
+### Search 27: "Mary Beard Roman"
+Results: 15 episodes
+✅ KEY FINDING: Multiple promising episodes
+- "Roman Emperors with Mary Beard" - Clear expert interview format
+- Professor Dame Mary Beard interviews across various podcasts
+
+### Search 28: "In Our Time BBC Melvyn Bragg"
+Results: 15 episodes
+Note: Search returned meta-content about Melvyn Bragg himself, not actual mythology episodes
+
+### Search 29: "professor classics ancient history interview"
+Results: 15 episodes
+Key findings: Some academic content, mixed format
+
+### Search 30: "university ancient myths religion"
+Results: 15 episodes
+Key findings: Educational content, limited clear expert interviews
+
+### Search 31: "archaeologist ancient civilization"
+Results: 15 episodes
+Key findings: Some archaeological discussions
+
+---
+
+## PHASE 5: COMPARATIVE & CROSS-CULTURAL (4 searches)
+
+### Search 32: "Neil MacGregor ancient gods museum"
+Results: 15 episodes
+✅ KEY FINDING: Episode ID 60267341
+- "Neil MacGregor: Living With The Gods"
+- Former Director of British Museum
+- Book about world's religions through objects
+- Interview format on The Spectator Books Podcast
+
+### Search 33: "comparative mythology ancient civilizations"
+Results: 15 episodes
+Key findings: Some comparative mythology content, mixed quality
+
+### Search 34: "British Museum ancient civilization podcast"
+Results: 15 episodes
+Key findings: Museum-related content, some quality episodes
+
+### Search 35: "ancient myths ritual religion anthropology"
+Results: 15 episodes
+Key findings: Academic discussions, mixed formats
+
+---
+
+## ADDITIONAL TARGETED SEARCHES (4 searches)
+
+### Search 36: "In Our Time Melvyn Bragg Greek"
+Results: 20 episodes
+Note: Returned Melvyn Bragg biographical content, not mythology episodes
+
+### Search 37: "In Our Time Melvyn Bragg Norse"
+Results: 20 episodes
+Note: Same issue - biographical Melvyn Bragg content
+
+### Search 38: "In Our Time Melvyn Bragg Roman"
+Results: 20 episodes
+Note: Same pattern continues
+
+### Search 39: "In Our Time Egyptian"
+Results: 20 episodes
+Key findings: Mixed general content about In Our Time show
+
+### Search 40: "Dan Carlin ancient Rome Greece"
+Results: 20 episodes
+Key findings: Dan Carlin is primarily a solo monologue format (not interview-based)
+
+---
+
+## FINAL TARGETED SEARCHES (4 searches)
+
+### Search 41: "Odyssey Homer ancient Greece professor"
+Results: 15 episodes
+✅ KEY FINDING: Episode ID 36909837
+- "Professor Paul Cartledge – Ancient Greece" (Ouzo Talk Podcast)
+- A.G. Leventis Senior Research Fellow of Clare College, Cambridge
+- A.G. Leventis Professor of Greek Culture in the Faculty of Classics
+- Clear interview format: "joins Ouzo Talk for a personal lecture"
+- Honorary Spartan Citizen
+- Multiple books and documentaries
+
+Also found:
+- Episode ID 23421224: Natalie Haynes "Homer: The Odyssey" (BBC Radio)
+  - Reformed comedian, expert in ancient world
+  - Tour-de-force performance recorded in BBC Radio Theatre
+  - Note: Performance format, not traditional interview
+
+### Search 42: "Iliad Troy Homer expert"
+Results: 15 episodes
+Key findings: Mostly audiobook readings and book reviews
+- Natalie Haynes "Homer: The Iliad" (ID: 3238155)
+- Various audiobook readings (not expert interviews)
+
+### Search 43: "Viking saga Norse mythology historian"
+Results: 15 episodes
+Key findings:
+- "Viking Scotland: Norse Mythology in the Highlands and Islands" (ID: 9964454)
+- Mostly storytelling podcasts (Völsunga Saga readings)
+- Limited credentialed historian interviews
+
+### Search 44: "pharaoh ancient Egypt religion archaeologist"
+Results: 15 episodes
+Key findings:
+- Multiple DW World History episodes on pharaohs (IDs: 252097, 7251091, 7251092, etc.)
+- Educational podcast format (likely solo host, not clear interview format)
+- Academy Travel podcast episode (ID: 52601745) with Lucia Gahlin (UK-based Egyptologist)
+  - "Pharaoh - Rulers of Ancient Egypt"
+  - Lucia Gahlin guides through 3,000 year reign of Pharaohs
+  - ⚠️ Need to verify if interview format or solo presentation
+
+---
+
+## EVALUATION SUMMARY
+
+### Total Episodes Found: 500+ across 44 searches
+
+### Quality Breakdown (Initial Assessment):
+- ⭐⭐⭐ EXCELLENT (Clear expert credentials + interview format): ~5-10 episodes
+- ⭐⭐ GOOD (Some credentials, reputable podcast): ~20-30 episodes
+- ⭐ ACCEPTABLE (Vague expertise, lesser-known podcast): ~50 episodes
+- ❌ REJECT (Storytelling, no expert, wrong format): ~400+ episodes
+
+### Geographic Coverage Assessment:
+- Greek mythology: Limited expert interviews found
+- Roman mythology: Mary Beard episodes promising
+- Norse mythology: Very limited expert interview content
+- Egyptian mythology: Some options but need verification
+- Mesopotamian mythology: Extremely limited content
+
+### Major Challenge:
+The course plan requires 18 episodes (6 beginner, 6 intermediate, 6 advanced) with:
+- All different podcasts (18 total)
+- All featuring credentialed experts being interviewed
+- Geographic diversity across Greek, Roman, Norse, Egyptian, Mesopotamian myths
+
+**Current Reality**: After 44 searches, only ~5-10 episodes clearly meet ALL criteria.
+
+---
+
+## NEXT STEPS
+
+1. ✅ Compile detailed list of ALL promising episodes with full descriptions
+2. ⏳ Evaluate each promising episode against quality criteria
+3. ⏳ Determine if sufficient quality episodes exist for full 18-episode course
+4. ⏳ Consider alternative strategies if gaps exist:
+   - Relax "different podcasts" requirement slightly
+   - Include high-quality BBC/academic presentations (e.g., Natalie Haynes)
+   - Expand search to include ancient history podcasts discussing mythology contextually
+   - Search for specific academic names from plan (Emily Wilson, Edith Hall, etc.)
+
+---
+
+## TOP CANDIDATE EPISODES FOR EVALUATION
+
+### EXCELLENT Prospects (⭐⭐⭐):
+
+**Episode ID: 36909837**
+Title: "Professor Paul Cartledge – Ancient Greece"
+Podcast: Ouzo Talk
+Description: A.G. Leventis Senior Research Fellow of Clare College, Cambridge, and A.G. Leventis Professor of Greek Culture. Clear interview format. Honorary Spartan Citizen with numerous documentaries and books.
+Level: Beginner
+Civilization: Greek
+Expertise Signals: Professor title, Cambridge affiliation, Fellow status, books, documentaries
+
+**Episode ID: 60267341**
+Title: "Neil MacGregor: Living With The Gods"
+Podcast: The Spectator Books Podcast
+Description: Former Director of National Gallery and British Museum discusses his book on world's religions through objects, starting with 40,000-year-old carving. Interview format with Sam Leith.
+Level: Advanced
+Civilization: Cross-cultural (including ancient myths)
+Expertise Signals: Former museum director (British Museum), author, curator
+
+**Mary Beard Episodes** (from earlier search - need to retrieve specific IDs)
+- Multiple episodes featuring Professor Dame Mary Beard
+- Expert on Roman history and classical civilization
+- Cambridge Professor
+- Interview formats on various podcasts
+Level: Beginner/Intermediate
+Civilization: Roman
+Expertise Signals: Professor Dame title, Cambridge, extensive publications
+
+**Episode ID: 23421224**
+Title: "Homer: The Odyssey"
+Podcast: BBC Radio (Natalie Haynes series)
+Description: Natalie Haynes performs/discusses The Odyssey. "Rock star mythologist" and reformed stand-up. Recorded in BBC Radio Theatre.
+Level: Beginner
+Civilization: Greek
+Expertise Signals: BBC platform, described as mythologist, series regular
+⚠️ Note: Performance/presentation format rather than traditional interview
+
+**Episode ID: 3238155**
+Title: "Homer: The Iliad"
+Podcast: BBC Radio (Natalie Haynes series)
+Description: Natalie Haynes performs/discusses The Iliad in tour-de-force performance.
+Level: Beginner
+Civilization: Greek
+Expertise Signals: Same as above
+⚠️ Note: Performance/presentation format
+
+**Episode ID: 52601745**
+Title: "Pharaoh - Rulers of Ancient Egypt"
+Podcast: Academy Travel
+Description: Lucia Gahlin (UK-based Egyptologist) guides through 3,000 year reign of Pharaohs, discusses kingdoms, iconography, pyramids, tombs, monuments.
+Level: Beginner/Intermediate
+Civilization: Egyptian
+Expertise Signals: Egyptologist title
+⚠️ Need to verify: Interview vs. solo presentation format
+
+### GOOD Prospects (⭐⭐) - Need Further Investigation:
+
+- DW World History Ancient Egypt series (multiple pharaoh episodes)
+- Ancient History Fangirl episodes (need to verify expert guests)
+- History Hit episodes (verify Melvyn Bragg interviews)
+- Museum-affiliated podcasts (British Museum, etc.)
+
+---
+
+END OF SEARCH RESULTS DOCUMENT

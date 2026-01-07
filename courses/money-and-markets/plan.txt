@@ -1,0 +1,370 @@
+# Course Plan: Money & Markets — Economics and the forces that drive prosperity, inflation, and power
+
+## Course Overview
+
+**Title**: Money & Markets: Economics and the forces that drive prosperity, inflation, and power
+**Course Slug**: money-and-markets
+**Target Audience**: Listeners wanting to understand how economies work, from basic principles to complex global systems
+**Core Goal**: Build economic literacy through expert interviews, progressing from foundational concepts to sophisticated understanding of markets, policy, and power dynamics
+
+## Learning Progression
+
+### Beginner Level: Economic Foundations & Core Concepts
+**What**: Understanding money, markets, supply/demand, inflation basics, trade fundamentals
+**Focus**:
+- What is money and how does it work?
+- Basic market mechanisms (supply/demand, prices, incentives)
+- Inflation and deflation explained accessibly
+- Why trade matters and comparative advantage
+- How economic growth happens
+- Role of banks and basic financial system
+
+**Guest Types to Seek**:
+- Accessible economists from top universities (explaining fundamentals clearly)
+- Economic journalists/authors who write for general audiences
+- Fed officials or central bankers explaining basic concepts
+- Nobel laureates in "conversational" interview settings
+
+**Listener Outcome**: Understand core economic vocabulary, mental models, and why economics matters to daily life
+
+### Intermediate Level: Policy, Systems & Market Structures
+**What**: Monetary policy, fiscal policy, market failures, behavioral economics, inequality
+**Focus**:
+- How central banks control economies (interest rates, quantitative easing)
+- Government's role in the economy (taxation, spending, regulation)
+- Market structures (monopoly, competition, externalities)
+- Behavioral economics and decision-making
+- Income/wealth inequality and its economic effects
+- Financial crises and bubbles
+
+**Guest Types to Seek**:
+- Central bank researchers and policymakers
+- Academic economists specializing in policy
+- Economic historians explaining past crises
+- Behavioral economists with research credentials
+- Policy advisors with government experience
+
+**Listener Outcome**: Understand how economic policy works, why markets fail, and how governments intervene
+
+### Advanced Level: Global Economics, Power Dynamics & Modern Debates
+**What**: International economics, institutional power, modern monetary theory debates, economic cycles, development
+**Focus**:
+- Global trade systems and currency dynamics
+- Economic institutions and power (IMF, World Bank, WTO)
+- Modern monetary theory vs. traditional economics
+- Development economics and emerging markets
+- Economic cycles and macro forecasting
+- The political economy of inequality and power
+- Future of capitalism debates
+
+**Guest Types to Seek**:
+- Leading macroeconomic researchers
+- International economics specialists
+- Economic philosophers/theorists
+- Development economists with field experience
+- Critics and reformers of economic orthodoxy (with credentials)
+
+**Listener Outcome**: Grasp sophisticated debates, understand economic power structures, evaluate competing theories
+
+## High-Quality Podcasts to Prioritize
+
+### Tier 1 - Economics-Focused Podcasts (HIGHEST PRIORITY)
+- Planet Money (NPR) - accessible economics storytelling
+- Freakonomics Radio - research-based economics
+- EconTalk (Russ Roberts) - deep economic conversations
+- Odd Lots (Bloomberg) - markets and economics
+- Macro Musings (David Beckworth) - monetary economics
+- The Indicator from Planet Money - quick economic insights
+- Trade Talks (Cato/Piie) - international economics
+- Alpha Chat (Bloomberg) - market economics
+- Exchanges at Goldman Sachs - financial economics
+- The Economics Show - economic policy
+
+### Tier 2 - Interview Podcasts with Strong Economics Coverage
+- Conversations with Tyler (Tyler Cowen) - intellectual conversations
+- Lex Fridman Podcast - when interviewing economists
+- Making Sense (Sam Harris) - when economics guests
+- The Ezra Klein Show - policy and economics
+- a16z Podcast - tech economics, markets
+- Masters of Scale - business economics
+- How I Built This - entrepreneurial economics
+- The Prof G Pod (Scott Galloway) - markets and business
+- Invest Like the Best - investment and economics
+
+### Tier 3 - Academic & Research Podcasts
+- VoxDev - development economics
+- NBER Research Podcast - economic research
+- Peterson Perspectives - international economics
+- IMF Podcasts - global economics
+- Fed Listens - Federal Reserve discussions
+- LSE IQ - London School of Economics
+- Chicago Booth Review - business school economics
+
+### Tier 4 - Policy & Think Tank Podcasts
+- Brookings Cafeteria - economic policy
+- AEI Events Audio - economic policy
+- Resources Radio - environmental economics
+- The Weeds (Vox) - policy economics
+
+## Topic Keywords and Subtopics
+
+### Core Economic Concepts (Beginner)
+- money, currency, monetary system
+- supply and demand, prices, markets
+- inflation, deflation, purchasing power
+- trade, comparative advantage, globalization
+- economic growth, GDP, productivity
+- banks, banking system, credit
+- capitalism, market economy
+- incentives, rational choice
+
+### Policy & Institutions (Intermediate)
+- monetary policy, Federal Reserve, central banking
+- fiscal policy, taxation, government spending
+- interest rates, quantitative easing
+- regulation, antitrust, competition
+- market failure, externalities, public goods
+- behavioral economics, nudges, biases
+- inequality, wealth gap, redistribution
+- financial crisis, recession, bubble
+
+### Advanced Topics (Advanced)
+- international trade, currency wars, exchange rates
+- IMF, World Bank, WTO, international institutions
+- modern monetary theory, MMT
+- development economics, poverty, emerging markets
+- macroeconomic forecasting, cycles
+- political economy, economic power
+- economic schools of thought, heterodox economics
+- future of capitalism, economic reform
+
+## Expertise Indicators to Look For
+
+### Academic Credentials
+✅ "Professor of Economics at [Top University]" (MIT, Harvard, Chicago, Stanford, Berkeley, Princeton, Yale, Columbia, LSE, Oxford)
+✅ "PhD in Economics from..."
+✅ "Research Professor", "Chair of Economics Department"
+✅ "Nobel Prize in Economics", "John Bates Clark Medal"
+✅ "Fellow of the Econometric Society"
+✅ Published in top journals (AER, QJE, Econometrica)
+
+### Policy & Institutional Credentials
+✅ "Former Federal Reserve [Governor/Chair/Economist]"
+✅ "Chief Economist at [IMF/World Bank/Treasury/Fed]"
+✅ "Economic Advisor to [President/Prime Minister]"
+✅ "Vice Chair of the Federal Reserve"
+✅ "Bank of England", "European Central Bank"
+✅ "Council of Economic Advisers"
+✅ "Treasury Secretary", "Finance Minister"
+
+### Professional Credentials
+✅ "CFA" (Chartered Financial Analyst)
+✅ "Managing Partner at [major firm]"
+✅ "Portfolio Manager", "Chief Investment Officer"
+✅ "Economist at [Goldman Sachs/Bloomberg/major institution]"
+✅ "Founded [economic research firm/consultancy]"
+
+### Author/Thought Leader Credentials
+✅ "Author of [bestselling economics book]"
+✅ "New York Times/Wall Street Journal economics columnist"
+✅ "Economic correspondent for [The Economist/FT/Bloomberg]"
+✅ "TED Talk on economics with X million views"
+✅ "Economics editor at [major publication]"
+
+### Red Flags to Avoid
+❌ No credentials mentioned - just "economist" or "expert"
+❌ Self-proclaimed "investor" or "trader" without institutional backing
+❌ "Financial guru", "wealth coach" (not academic economics)
+❌ Cryptocurrency advocates without economic credentials
+❌ Austrian economics podcasts (often ideological, not empirical)
+❌ Libertarian think tanks without academic rigor
+❌ "Common sense economics" without expertise
+❌ Host monologue explaining concepts from Wikipedia or books
+❌ Spiritual or mystical interpretations of economics
+❌ Podcasts with <1000 followers unless exceptional guest
+
+## Search Strategy (25 Searches Total)
+
+### Strategy A: High-Quality Podcast + Economics Topics (10 searches)
+
+1. "Planet Money inflation"
+2. "Freakonomics monetary policy"
+3. "EconTalk central banking"
+4. "Conversations with Tyler economist"
+5. "Odd Lots Federal Reserve"
+6. "Lex Fridman economics"
+7. "Macro Musings inflation"
+8. "Ezra Klein Show inequality"
+9. "a16z markets economy"
+10. "Making Sense economics"
+
+### Strategy B: Topic + Expertise Signals (8 searches)
+
+11. "economist professor interview"
+12. "Federal Reserve researcher"
+13. "monetary policy expert"
+14. "Nobel economics interview"
+15. "central bank economist"
+16. "economist author interview"
+17. "economic policy advisor"
+18. "macroeconomist interview"
+
+### Strategy C: Specific Economic Concepts + Interview (7 searches)
+
+19. "inflation expert interview"
+20. "trade economics interview"
+21. "inequality economist"
+22. "financial crisis expert"
+23. "behavioral economics interview"
+24. "development economics researcher"
+25. "GDP growth economist"
+
+## Episode Evaluation Criteria
+
+### Quality Scoring Framework
+
+**⭐⭐⭐ EXCELLENT - Use These First:**
+- Nobel laureate economist interviewed
+- Top-10 university economics professor with clear research area
+- Current/former Fed Chair, Governor, or Chief Economist
+- Chief Economist at major institution (IMF, World Bank, Treasury)
+- Published economist with bestselling book
+- Top podcast (Planet Money, Freakonomics, EconTalk) interviewing credentialed expert
+- Multiple strong credentials combined
+
+**⭐⭐ GOOD - Solid Backup:**
+- Economics professor at solid university
+- Fed economist or regional Fed researcher
+- Published economist at think tank (NBER, Brookings, Peterson)
+- Economic journalist at top publication (Economist, FT, Bloomberg) with expertise
+- CFA with academic or institutional background
+- Practitioner with clear track record + credentials
+
+**⭐ ACCEPTABLE - Use Only If Needed:**
+- Legitimate economist but credentials unclear
+- Policy role but not top-tier institution
+- Business economist with some academic background
+- Relevant expertise but not ideal positioning
+
+**❌ REJECT - Never Use:**
+- No identifiable credentials
+- Host monologue (no expert guest)
+- "Financial guru" or "wealth coach" types
+- Ideological podcast without empirical rigor
+- Cryptocurrency focus without economic credentials
+- Self-help approach to economics
+- Amateur podcast (<1000 followers)
+- Spiritual/mystical content
+- Wikipedia-based explanations
+
+## Expected Outputs
+
+### results.txt
+- 25 search queries executed
+- ~375+ episodes reviewed total
+- Full descriptions for each result
+- Organized by search strategy
+- Summary statistics at end
+
+### episodes.txt
+- Every episode rated (⭐⭐⭐ / ⭐⭐ / ⭐ / ❌)
+- Expertise signals explicitly documented
+- Guest name and credentials identified
+- Interview format confirmed
+- Level assignment (Beginner/Intermediate/Advanced)
+- Rationale for rating
+- Gap analysis (what's still needed)
+
+### course.txt
+- 18 final episodes selected
+- 18 DIFFERENT podcasts (maximum diversity)
+- Detailed rationale for each episode
+- Guest credentials explicitly listed
+- Logical progression explained
+- What listeners will learn from each
+- Why each expert is credible
+
+### money-and-markets.json
+- Complete course metadata
+- 18 episode IDs in arrays by level
+- Compelling 3-4 paragraph description
+- Highlights expert credentials
+
+## Expected Episode Progression
+
+### Beginner (6 episodes):
+1. What is Money? - Accessible economist explains monetary fundamentals
+2. How Markets Work - Supply, demand, prices explained by expert
+3. Inflation & Deflation - Central banker or Fed economist on price stability
+4. Why Trade Matters - Trade economist on comparative advantage
+5. Economic Growth Fundamentals - Growth economist on productivity and prosperity
+6. The Banking System - Financial economist on how banks work
+
+### Intermediate (6 episodes):
+1. Central Banking & Monetary Policy - Fed official on interest rates and tools
+2. Fiscal Policy & Government Role - Policy economist on taxation and spending
+3. Market Failures & Regulation - Microeconomist on when markets fail
+4. Behavioral Economics - Behavioral economist on decision-making biases
+5. Economic Inequality - Inequality researcher on wealth gaps
+6. Financial Crises - Economic historian on bubbles and crashes
+
+### Advanced (6 episodes):
+1. International Trade & Currency Systems - International economist on global markets
+2. Economic Institutions & Power - Institutional economist on IMF/World Bank
+3. Modern Monetary Theory Debate - MMT economist vs. traditional economist
+4. Development Economics - Development economist on emerging markets
+5. Economic Cycles & Forecasting - Macroeconomist on business cycles
+6. Future of Capitalism - Economic philosopher on systemic change
+
+## Quality Assurance Checklist
+
+Before finalizing the course:
+
+- [ ] All 18 episodes have identifiable expert guests with documented credentials
+- [ ] Each episode documents SPECIFIC expertise signals (job title, institution, achievements)
+- [ ] No host monologues - all confirmed interview format
+- [ ] All 18 podcasts are DIFFERENT (maximum diversity)
+- [ ] No ideological content without empirical basis
+- [ ] No financial "gurus" or wealth coaches
+- [ ] Prioritized economics-focused podcasts and top interview shows
+- [ ] Episode descriptions show substantive economic expertise
+- [ ] Beginner level features accessible explanations from credentialed experts
+- [ ] Intermediate level covers policy and systems with researchers/practitioners
+- [ ] Advanced level features cutting-edge debates and global economics
+- [ ] Logical flow within each level
+- [ ] Course description highlights economist credentials (not just topics)
+- [ ] Diversity of experts (not repeating same person multiple times)
+- [ ] Mix of academic, policy, and practitioner perspectives
+- [ ] Balance of microeconomics, macroeconomics, and policy content
+
+## Success Metrics
+
+**Episode Quality:**
+- Target: 12+ ⭐⭐⭐ EXCELLENT episodes identified
+- Target: 6+ additional ⭐⭐ GOOD episodes as backups
+- Reject: Any episode without clear credentials
+
+**Podcast Diversity:**
+- Must: 18 different podcasts (one per episode)
+- Goal: Mix of economics-focused (8+) and general interview podcasts (10)
+
+**Expert Diversity:**
+- Target: 18 different experts (no repeats)
+- Goal: Mix of academics (40%), policy experts (35%), practitioners/journalists (25%)
+- Goal: Include at least one Nobel laureate or equivalent
+
+**Geographic/Institutional Diversity:**
+- Target: Multiple universities represented
+- Target: Multiple countries/perspectives (US, UK, emerging markets)
+- Target: Mix of Fed, academia, international institutions
+
+## Notes
+
+- Economics has MANY highly credentialed experts - be selective
+- Prioritize empirical economists over ideological perspectives
+- Balance accessibility (beginner) with rigor (advanced)
+- Economic policy is often debated - present multiple legitimate viewpoints
+- Avoid cryptocurrency-focused content unless guest has traditional economics credentials
+- Modern Monetary Theory is controversial - if included, present counterviews
+- Inequality is important - seek economists who study it empirically
+- International perspective matters - not just US-centric economics

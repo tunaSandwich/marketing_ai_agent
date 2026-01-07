@@ -1,0 +1,358 @@
+# Course Plan: Stock Market Investing - Timeless Principles
+
+## Course Overview
+
+**Title:** Stock Market Investing: Timeless Principles
+**Slug:** stock-market-investing
+**Target Audience:** Aspiring investors, beginners to intermediate investors, anyone wanting to build long-term wealth
+**Core Goal:** Learn timeless investing philosophies and strategies from legendary investors and modern practitioners. Focus on enduring principles, not market timing or speculation.
+
+## Learning Progression
+
+### Beginner Level: Stock Market Fundamentals
+- **What:** Introduction to the stock market, how it works, basic concepts
+- **Focus:** Stocks vs. bonds, P/E ratios, dividends, index funds, investing vs. speculation
+- **Guest Types:** Legendary investors on accessible podcasts (Tim Ferriss, Lex Fridman, Masters in Business)
+- **Listener Outcome:** Understand what the stock market is, how it functions, and why long-term investing works
+
+### Intermediate Level: Valuation, Risk & Behavior
+- **What:** Deep dives into valuation methods, risk management, portfolio construction, investor psychology
+- **Focus:** Value vs. growth investing, behavioral finance, market cycles, fundamental analysis
+- **Guest Types:** Professional investors, fund managers, authors (Invest Like the Best, Capital Allocators, TIP)
+- **Listener Outcome:** Learn how to analyze stocks, manage risk, and understand the psychology of investing
+
+### Advanced Level: Wealth-Building Strategies & Philosophy
+- **What:** Long-term wealth compounding, advanced portfolio design, mental models from legends
+- **Focus:** Asset allocation at scale, economic cycles, macro investing, alternative strategies
+- **Guest Types:** Billionaire investors, hedge fund managers, economic thinkers
+- **Listener Outcome:** Think like an investor with decades of experience, build a personal investing philosophy
+
+## High-Quality Podcasts to Prioritize
+
+**Tier 1 - Investment-Specific (Top Priority):**
+- Invest Like the Best (Patrick O'Shaughnessy interviewing top investors)
+- Masters in Business (Barry Ritholtz + legends like Dalio, Marks, Buffett)
+- We Study Billionaires / The Investor's Podcast (TIP)
+- Capital Allocators (Ted Seides + institutional investors)
+- The Meb Faber Show (quantitative investing, asset allocation)
+- Animal Spirits (behavioral finance focus)
+- Excess Returns (behavioral investing)
+- Rational Reminder (evidence-based investing)
+
+**Tier 2 - General Interview (When Featuring Investors):**
+- Tim Ferriss Show (deep investor interviews)
+- Lex Fridman Podcast (when featuring economists/investors)
+- The Knowledge Project (Shane Parrish + mental models)
+- Conversations with Tyler (Tyler Cowen + economic thinkers)
+- The Logan Bartlett Show (when investment-focused)
+- Tetragrammaton with Rick Rubin (when featuring investors)
+
+**Tier 3 - Economics/Business (When Investment-Focused):**
+- Planet Money (market mechanics, economic concepts)
+- Freakonomics (behavioral economics relevant to investing)
+- The Prof G Pod (Scott Galloway on markets when relevant)
+- Acquired (when analyzing investment strategies of companies)
+- All-In Podcast (when featuring investor discussions)
+- Pivot (when market-relevant)
+
+## Topic Keywords and Subtopics
+
+**Core Investing Concepts:**
+- Stock market basics
+- Investing fundamentals
+- Value investing
+- Growth investing
+- Index funds
+- Passive investing
+- Active investing
+- Long-term investing
+- Compound interest
+- Wealth building
+
+**Valuation & Analysis:**
+- P/E ratio
+- Valuation metrics
+- Fundamental analysis
+- Financial statements
+- Intrinsic value
+- Margin of safety
+- Discounted cash flow (DCF)
+- Book value
+- Earnings quality
+
+**Risk & Behavior:**
+- Risk management
+- Diversification
+- Portfolio construction
+- Asset allocation
+- Behavioral finance
+- Investor psychology
+- Market cycles
+- Bull market
+- Bear market
+- Emotional investing
+- Investment discipline
+
+**Investment Strategies:**
+- Buy and hold
+- Dollar-cost averaging
+- Dividend investing
+- ETF investing
+- Mutual funds
+- Portfolio rebalancing
+- Tax-efficient investing
+
+**Legendary Investors & Philosophies:**
+- Warren Buffett (value investing, Berkshire Hathaway)
+- Charlie Munger (mental models, rational thinking)
+- Ray Dalio (Bridgewater, All Weather portfolio)
+- Howard Marks (Oaktree Capital, market cycles, memo wisdom)
+- Jack Bogle (Vanguard, index investing revolution)
+- Benjamin Graham (value investing father, "The Intelligent Investor")
+- Peter Lynch (Fidelity Magellan, growth at reasonable price)
+- Joel Greenblatt (Magic Formula, special situations)
+- Seth Klarman (Baupost, margin of safety)
+- Bill Ackman (activist investing)
+
+## Expertise Indicators to Look For
+
+**Investor Credentials:**
+✅ "Founder/CEO of [Investment Firm]" (Bridgewater, Berkshire Hathaway, Oaktree, etc.)
+✅ "Portfolio Manager at [Firm]"
+✅ "Managed $X billion" or "$X billion AUM"
+✅ "XX-year track record"
+✅ "Returned X% annually over Y years"
+✅ "Outperformed S&P 500 by X%"
+✅ Author of investing classics (The Intelligent Investor, etc.)
+✅ Legendary investors (Buffett, Dalio, Marks, Bogle, Munger, Lynch, etc.)
+
+**Professional Authority:**
+✅ "CIO" (Chief Investment Officer)
+✅ "Partner at [Top VC/PE Firm]"
+✅ "Former fund manager"
+✅ "Professor of Finance" at Wharton, Harvard Business School, Chicago Booth, etc.
+✅ "Financial analyst with X years experience"
+✅ Created influential investment frameworks or strategies
+
+**Track Record Indicators:**
+✅ "Built [Fund] from $X to $Y"
+✅ "Legendary investor"
+✅ "Beat the market for X years"
+✅ "Invested early in [successful companies]"
+✅ "Managed X fund for Y decades"
+
+**Red Flags to Avoid:**
+❌ "Financial advisor" without specific fund or track record
+❌ Day trading focus or get-rich-quick schemes
+❌ Crypto-only focus without traditional investing credentials
+❌ Motivational speakers without actual investing experience
+❌ Generic "wealth coach" without portfolio management experience
+❌ Host monologue format (not interviewing an expert)
+❌ "Stock picker" or "market timer" without proven long-term track record
+❌ Speculation/gambling framing rather than long-term investing
+❌ Technical analysis without fundamental backing
+❌ Promises of "guaranteed returns" or "beat the market easily"
+
+## Search Strategy (25 Searches Total)
+
+### Strategy A: High-Quality Podcast + Topic (10 searches)
+
+1. "Invest Like the Best value investing"
+2. "Masters in Business Warren Buffett"
+3. "Tim Ferriss Ray Dalio"
+4. "We Study Billionaires portfolio"
+5. "Capital Allocators risk management"
+6. "Lex Fridman investing stock market"
+7. "Meb Faber asset allocation"
+8. "Animal Spirits behavioral finance"
+9. "The Knowledge Project investing"
+10. "Conversations with Tyler economics investing"
+
+### Strategy B: Topic + Expertise Signals (8 searches)
+
+11. "value investing Warren Buffett interview"
+12. "portfolio manager investment strategy"
+13. "hedge fund manager interview"
+14. "legendary investor interview"
+15. "index fund Jack Bogle"
+16. "behavioral finance investor psychology"
+17. "long-term investing philosophy"
+18. "compound interest wealth building"
+
+### Strategy C: Specific Concepts + Interview (7 searches)
+
+19. "valuation fundamentals interview"
+20. "risk management portfolio"
+21. "market cycles bear market"
+22. "asset allocation strategy"
+23. "investor psychology emotions"
+24. "fundamental analysis stocks"
+25. "Ray Dalio principles"
+
+### Strategy D: Recency Considerations
+- Timeless episodes are acceptable (Buffett's wisdom from 2015 is still relevant)
+- But prefer 2020+ for market condition context
+- Exception: Legendary investors like Bogle (passed away 2019) are always relevant
+- Focus on principles that endure, not short-term market predictions
+
+## Episode Evaluation Criteria
+
+### Quality Scoring Framework
+
+**⭐⭐⭐ EXCELLENT (Priority Selection):**
+- Legendary investor (Buffett, Dalio, Marks, Munger, Bogle) being interviewed
+- Clear track record: managed billions OR decades of proven returns
+- From Top 200 podcast OR respected investing-specific podcast
+- Clear interview format (not host monologue)
+- Focus on timeless principles, investment philosophy, mental models
+- Episode description mentions specific credentials or investment achievements
+
+**⭐⭐ GOOD (Solid Backup):**
+- Professional fund manager or institutional investor with clear credentials
+- Finance professor at top business school with investing expertise
+- Author of respected investing book with practical experience
+- Specific investment philosophy or strategy explained with real-world examples
+- Clear track record even if less famous
+
+**⭐ ACCEPTABLE (Use Only if Needed):**
+- Some investment experience mentioned but less established
+- Less known podcast but legitimate investing focus
+- Relevant insights but not ideal credentials
+
+**❌ REJECT (Never Use):**
+- No clear investing credentials or track record
+- Day trading or short-term speculation focus
+- Get-rich-quick schemes or promises of easy returns
+- Host monologue or casual discussion without expert
+- Generic business advice without investment depth
+- Technical analysis only (no fundamental backing)
+- Crypto-focused without traditional investing foundation
+- "Expert" or "guru" without verifiable fund management or portfolio
+- Motivational/spiritual framing without substance
+
+### Investing-Specific Quality Checks
+
+For each episode, verify:
+- [ ] Guest has actually managed money (fund, portfolio, or personal wealth with documented results)
+- [ ] Episode description mentions specific investment philosophy or strategy
+- [ ] Clear interview format (not host explaining concepts from books)
+- [ ] Investor/fund manager role explicitly stated
+- [ ] Some indication of track record (returns, fund size, years managing money)
+- [ ] Focus on long-term investing, not trading or speculation
+- [ ] Timeless principles emphasized over market timing or hot stocks
+
+## Expected Outputs
+
+### results.txt Structure
+For each search query, document:
+- Search query used
+- Number of results returned
+- Top 10-15 results including:
+  - Episode ID
+  - Episode title
+  - Podcast name
+  - Podcast ID
+  - Full episode description
+  - Publish date (if available)
+
+### episodes.txt Structure
+For each promising episode, analyze:
+- Episode details (ID, title, podcast, description)
+- Quality rating (⭐⭐⭐ / ⭐⭐ / ⭐ / ❌)
+- Expertise signals identified:
+  - Guest name
+  - Fund/firm managed or role
+  - Credentials found (AUM, returns, years, etc.)
+  - Track record indicators
+- Level categorization (Beginner/Intermediate/Advanced)
+- Why it fits or doesn't fit
+- Interview format confirmation
+
+### course.txt Structure (Final Curation)
+For the 18 selected episodes (6 per level):
+- Episode ID, title, podcast ID, podcast name
+- Guest name and specific credentials
+- Why it fits this level (2-3 sentences)
+- What the listener will learn
+- Why this guest/episode is credible
+- Order within level (1-6)
+
+## Expected Episode Progression
+
+### Beginner (6 episodes):
+1. What is the stock market and how does it work?
+2. Understanding stocks, valuations, and market basics
+3. Index funds vs. active investing: The case for passive
+4. The power of compound interest and long-term thinking
+5. Introduction to value investing philosophy
+6. Common investing mistakes and how to avoid them
+
+**Format:** Accessible podcasts (Tim Ferriss, Lex Fridman, Masters in Business) interviewing legendary investors
+**Guests:** Ray Dalio, Warren Buffett, Jack Bogle (archive), Howard Marks, Patrick O'Shaughnessy
+**Tone:** "Explain the fundamentals so I understand why investing works"
+
+### Intermediate (6 episodes):
+1. Value investing deep dive: Finding undervalued companies
+2. Behavioral finance: Why smart people make dumb investment decisions
+3. Risk management and portfolio construction
+4. Understanding market cycles and economic indicators
+5. Valuation methods and fundamental analysis
+6. Building a diversified portfolio that fits your goals
+
+**Format:** Investment-specific podcasts with professional investors
+**Guests:** Fund managers, CIOs, finance professors, investment authors
+**Tone:** "How do professionals actually analyze and construct portfolios?"
+
+### Advanced (6 episodes):
+1. Mental models from Charlie Munger and Warren Buffett
+2. Asset allocation strategies across market cycles
+3. Macro investing: Understanding economic forces
+4. Alternative investments and portfolio construction at scale
+5. The psychology of great investors: Patience and discipline
+6. Building a personal investment philosophy
+
+**Format:** Deep-dive interviews with legendary investors and sophisticated practitioners
+**Guests:** Billionaire investors, hedge fund titans, economic philosophers
+**Tone:** "What do the best investors know that others don't?"
+
+## Quality Assurance Checklist
+
+Before finalizing course.txt:
+- [ ] All 18 episodes have identifiable investors with clear credentials documented
+- [ ] For each episode, documented SPECIFIC expertise signals (fund, role, track record)
+- [ ] All episodes are interview format (no host monologues)
+- [ ] All 18 episodes are from DIFFERENT podcasts
+- [ ] No day trading, speculation, or get-rich-quick content
+- [ ] No technical analysis without fundamental investing foundation
+- [ ] Prioritized Top 200 podcasts and recognized investing podcasts
+- [ ] Episode descriptions show substantive investment experience and philosophy
+- [ ] Beginner: Accessible explanations of fundamentals from legends
+- [ ] Intermediate: Tactical insights on valuation, risk, behavior
+- [ ] Advanced: Deep philosophy, mental models, wealth-building at scale
+- [ ] Logical flow within each level (foundational → tactical → philosophical)
+- [ ] Course description emphasizes timeless principles and legendary voices
+- [ ] Mix of legendary investors (Buffett, Dalio) and modern practitioners
+
+## Success Metrics
+
+This course succeeds if:
+1. Every episode features someone who has actually managed money and has a track record
+2. Listeners hear diverse perspectives (18 different podcasts)
+3. Progression feels natural: basics → analysis → philosophy
+4. No get-rich-quick or speculative content - only long-term investing wisdom
+5. Mixture of legendary investors (Buffett, Bogle, Dalio) and modern voices
+6. Clear takeaways on valuation, risk management, and investor psychology
+7. Students finish thinking like an investor, not a speculator
+8. Emphasis on timeless principles that work across decades and market cycles
+
+## Final Notes
+
+- Investing is about long-term wealth creation - prioritize patience over excitement
+- Look for specific track records (returns, AUM, years managing money)
+- Diversity of investment styles: value, growth, index, macro, behavioral
+- Diversity of firm types: hedge funds, mutual funds, index funds, institutional
+- Interview format is critical - we want investor voices, not hosts explaining
+- If description doesn't mention specific fund managed or clear role, be skeptical
+- Legendary voices (even older interviews) are timeless because principles endure
+- Avoid anyone promising easy money or guaranteed returns
+- Focus on mental models, behavioral insights, and fundamental analysis

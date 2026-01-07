@@ -1,0 +1,314 @@
+# Subreddit policy configuration
+# - allow_links: whether we can include links by default
+# - promo_ratio_override: optional override of promotional ratio for this subreddit (0.0-1.0)
+# - max_length: suggested maximum reply length (characters)
+# - min_post_score: suggested minimum post score before replying
+# - notes: optional free-form guidance
+
+defaults:
+  allow_links: false
+  promo_ratio_override: null
+  max_length: 200
+  min_post_score: 3
+  notes: ""
+
+subreddits:
+  # General learning and Q&A
+  explainlikeimfive:
+    allow_links: false
+    max_length: 150
+    min_post_score: 5
+    notes: "Keep answers concise and accessible; avoid links unless asked."
+  AskAcademia:
+    allow_links: false
+    min_post_score: 3
+  askscience:
+    allow_links: false
+    min_post_score: 5
+    notes: "High standard; cite sources if possible."
+  AskHistorians:
+    allow_links: false
+    min_post_score: 5
+    notes: "Strict rules; avoid promotion; provide substantive context."
+  AskPhilosophy:
+    allow_links: false
+    min_post_score: 5
+  AskSocialScience:
+    allow_links: false
+    min_post_score: 5
+  askeconomics:
+    allow_links: false
+    min_post_score: 5
+  education:
+    allow_links: false
+    min_post_score: 3
+
+  # Science and math
+  science:
+    allow_links: false
+    min_post_score: 5
+  Physics:
+    allow_links: false
+    min_post_score: 3
+  QuantumPhysics:
+    allow_links: false
+    min_post_score: 3
+  PhysicsStudents:
+    allow_links: false
+    min_post_score: 3
+  astronomy:
+    allow_links: false
+    min_post_score: 3
+  space:
+    allow_links: false
+    min_post_score: 3
+  chemistry:
+    allow_links: false
+    min_post_score: 3
+  biology:
+    allow_links: false
+    min_post_score: 3
+  microbiology:
+    allow_links: false
+    min_post_score: 3
+  neuroscience:
+    allow_links: false
+    min_post_score: 3
+  math:
+    allow_links: false
+    min_post_score: 3
+  learnmath:
+    allow_links: false
+    min_post_score: 3
+  statistics:
+    allow_links: false
+    min_post_score: 3
+  datascience:
+    allow_links: false
+    min_post_score: 3
+
+  # Technology and programming
+  programming:
+    allow_links: false
+    min_post_score: 3
+  compsci:
+    allow_links: false
+    min_post_score: 3
+  coding:
+    allow_links: false
+    min_post_score: 3
+  learnprogramming:
+    allow_links: false
+    min_post_score: 3
+  learnpython:
+    allow_links: false
+    min_post_score: 3
+  Python:
+    allow_links: false
+    min_post_score: 3
+  javascript:
+    allow_links: false
+    min_post_score: 3
+  webdev:
+    allow_links: false
+    min_post_score: 3
+  learnjavascript:
+    allow_links: false
+    min_post_score: 3
+  devops:
+    allow_links: false
+    min_post_score: 3
+  MachineLearning:
+    allow_links: false
+    min_post_score: 3
+  artificial:
+    allow_links: false
+    min_post_score: 3
+  analytics:
+    allow_links: false
+    min_post_score: 3
+  SQL:
+    allow_links: false
+    min_post_score: 3
+
+  # Business and careers
+  Entrepreneur:
+    allow_links: false
+    min_post_score: 3
+  startups:
+    allow_links: false
+    min_post_score: 3
+  marketing:
+    allow_links: false
+    min_post_score: 3
+  growthhacking:
+    allow_links: false
+    min_post_score: 3
+  ProductManagement:
+    allow_links: false
+    min_post_score: 3
+  smallbusiness:
+    allow_links: false
+    min_post_score: 3
+  sales:
+    allow_links: false
+    min_post_score: 3
+  careerguidance:
+    allow_links: false
+    min_post_score: 3
+
+  # History, philosophy, social sciences
+  history:
+    allow_links: false
+    min_post_score: 3
+  HistoryWhatIf:
+    allow_links: false
+    min_post_score: 3
+  philosophy:
+    allow_links: false
+    min_post_score: 3
+  psychology:
+    allow_links: false
+    min_post_score: 3
+  sociology:
+    allow_links: false
+    min_post_score: 3
+  Anthropology:
+    allow_links: false
+    min_post_score: 3
+
+  # Personal development and productivity
+  productivity:
+    allow_links: false
+    min_post_score: 3
+  getdisciplined:
+    allow_links: false
+    min_post_score: 3
+  selfimprovement:
+    allow_links: false
+    min_post_score: 3
+  DecidingToBeBetter:
+    allow_links: false
+    min_post_score: 3
+  learnart:
+    allow_links: false
+    min_post_score: 3
+
+  # Finance and economics
+  personalfinance:
+    allow_links: false
+    min_post_score: 3
+  investing:
+    allow_links: false
+    min_post_score: 3
+  financialindependence:
+    allow_links: false
+    min_post_score: 3
+  economics:
+    allow_links: false
+    min_post_score: 3
+  learnfinance:
+    allow_links: false
+    min_post_score: 3
+    notes: "Verify subreddit rules; treat as learning-first."
+
+  # Health, medicine, wellness
+  medicine:
+    allow_links: false
+    min_post_score: 5
+  medicalschool:
+    allow_links: false
+    min_post_score: 5
+  medlabprofessionals:
+    allow_links: false
+    min_post_score: 3
+  nutrition:
+    allow_links: false
+    min_post_score: 3
+  Fitness:
+    allow_links: false
+    min_post_score: 3
+  running:
+    allow_links: false
+    min_post_score: 3
+  yoga:
+    allow_links: false
+    min_post_score: 3
+  meditation:
+    allow_links: false
+    min_post_score: 3
+
+  # Language learning
+  languagelearning:
+    allow_links: false
+    min_post_score: 3
+  French:
+    allow_links: false
+    min_post_score: 3
+  spanish:
+    allow_links: false
+    min_post_score: 3
+  German:
+    allow_links: false
+    min_post_score: 3
+  ChineseLanguage:
+    allow_links: false
+    min_post_score: 3
+  Japanese:
+    allow_links: false
+    min_post_score: 3
+
+  # Podcast-focused subs (links generally allowed but still respect rules)
+  podcasts:
+    allow_links: true
+    promo_ratio_override: 0.1
+    max_length: 300
+    min_post_score: 0
+  podcasting:
+    allow_links: true
+    promo_ratio_override: 0.1
+    max_length: 300
+    min_post_score: 0
+  podcast:
+    allow_links: true
+    promo_ratio_override: 0.1
+    max_length: 300
+    min_post_score: 0
+  podcastsuggestions:
+    allow_links: true
+    promo_ratio_override: 0.1
+    max_length: 300
+    min_post_score: 0
+  TrueCrimePodcasts:
+    allow_links: true
+    promo_ratio_override: 0.1
+    min_post_score: 0
+  PodcastAddict:
+    allow_links: true
+    promo_ratio_override: 0.1
+    min_post_score: 0
+  HistoryPodcasting:
+    allow_links: true
+    promo_ratio_override: 0.1
+    min_post_score: 0
+  ComedyPodcasts:
+    allow_links: true
+    promo_ratio_override: 0.1
+    min_post_score: 0
+
+  # Topic-specific discovery (verify existence/activity)
+  TrueCrime:
+    allow_links: false
+    min_post_score: 3
+  SciencePodcast:
+    allow_links: true
+    promo_ratio_override: 0.1
+    notes: "Verify subreddit availability."
+  BookSuggestions:
+    allow_links: false
+    min_post_score: 3
+  Documentaries:
+    allow_links: false
+    min_post_score: 3
+
+

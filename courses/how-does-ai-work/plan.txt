@@ -1,0 +1,264 @@
+# Course Plan: "How Does AI Work?"
+
+## Course Purpose
+A course about how AI actually works under the hood — not just what it can do. You'll learn the key ideas behind modern artificial intelligence, from neural networks and transformers to training loops, alignment, and multi-agent systems. Episodes are recent and time-sensitive (2024–2025), curated to show how today's models are built, trained, and scaled by the world's leading researchers.
+
+## Course Strategy
+
+### Foundational Concepts (Beginner Level)
+- What are neural networks and how do they learn?
+- The transformer architecture breakthrough
+- Training data and model behavior
+- Basic concepts: parameters, tokens, context windows
+- How language models predict the next token
+- The difference between training and inference
+
+### Core Mechanics/Systems (Intermediate Level)
+- Training loops, backpropagation, and optimization
+- Scaling laws and emergent abilities
+- Fine-tuning, RLHF (Reinforcement Learning from Human Feedback), and alignment techniques
+- Model architectures: diffusion models, multimodal systems
+- Pre-training vs fine-tuning vs prompting
+- How models are evaluated and benchmarked
+
+### Research Frontiers/Debates (Advanced Level)
+- Interpretability and mechanistic understanding
+- AI safety, alignment, and control problems
+- Scaling limits and future architectures
+- AGI timelines, capabilities, and existential risk
+- Deceptive alignment and mesa-optimization
+- Future of AI research and unsolved problems
+
+## High-Quality Podcasts to Target
+
+### Top Priority (AI-Specific):
+- Lex Fridman Podcast (interviews with top AI researchers)
+- Dwarkesh Podcast (deep technical AI discussions)
+- The Gradient Podcast (AI research focus)
+- Machine Learning Street Talk (technical deep dives)
+- a16z Podcast (AI episodes with founders/researchers)
+- The Inside View (AI safety focus)
+- TWIML AI Podcast (This Week in Machine Learning)
+- Future of Life Institute Podcast (AI safety)
+- 80,000 Hours Podcast (AI safety and career episodes)
+- The Robot Brains Podcast
+- Latent Space Podcast (AI engineering)
+
+### General Interview Podcasts with AI Experts:
+- Joe Rogan Experience (when featuring AI researchers)
+- Tim Ferriss Show (AI practitioners)
+- Huberman Lab (neuroscience connections to AI)
+- Sean Carroll's Mindscape (AI and physics/philosophy)
+- Making Sense (Sam Harris - strong AI safety focus)
+- TED Talks Daily (AI researchers)
+- Conversations with Tyler (economists/AI)
+
+### Company/Research Lab Podcasts:
+- DeepMind: The Podcast
+- Google AI podcast episodes
+- OpenAI researchers on various podcasts
+- Anthropic researchers on various podcasts
+- Microsoft Research podcast episodes
+
+## Topic Keywords and Subtopics
+
+### Core AI Concepts:
+- Neural networks, deep learning
+- Transformer architecture, attention mechanism
+- GPT, Claude, Gemini, LLaMA (specific models)
+- Large language models (LLMs)
+- Training, inference, fine-tuning
+- Parameters, tokens, context windows
+- Embeddings, vectors
+
+### Training and Optimization:
+- Backpropagation, gradient descent
+- RLHF (Reinforcement Learning from Human Feedback)
+- Constitutional AI
+- Scaling laws
+- Pre-training, supervised fine-tuning
+- Data collection and curation
+
+### Architectures and Systems:
+- Diffusion models
+- Multimodal AI (vision + language)
+- Retrieval-augmented generation (RAG)
+- Mixture of experts
+- Recurrent models vs transformers
+
+### AI Safety and Alignment:
+- AI alignment, AI safety
+- Interpretability, mechanistic interpretability
+- AI control problem
+- Existential risk, x-risk
+- Deceptive alignment
+- Adversarial examples
+- Robustness
+
+### Advanced Topics:
+- AGI (Artificial General Intelligence)
+- Emergent abilities
+- In-context learning
+- Chain of thought reasoning
+- AI consciousness, sentience
+- Scaling hypothesis
+
+## Expertise Indicators to Look For
+
+### Academic Credentials:
+- MIT CSAIL, Stanford AI Lab, UC Berkeley AI Research
+- CMU Machine Learning, NYU AI, University of Toronto
+- DeepMind, OpenAI, Anthropic, Google Brain, Google Research
+- Professor of Computer Science, ML researcher, Research Scientist
+- PhD in Machine Learning, Computer Vision, NLP, Robotics
+
+### Professional Authority:
+- Founder/researcher at OpenAI, Anthropic, DeepMind, Google, Meta AI
+- Lead researcher, research scientist, research engineer at major lab
+- Published papers at NeurIPS, ICML, ICLR, ACL, CVPR, AAAI
+- Built/trained major models (GPT-3/4, Claude, Gemini, LLaMA, etc.)
+- Core team member on landmark projects
+
+### Author/Thought Leader:
+- Author of "Attention Is All You Need" or other landmark papers
+- Author of AI safety books (Superintelligence, The Alignment Problem, etc.)
+- Keynote speaker at NeurIPS, ICML, or major ML conferences
+- Created influential frameworks, architectures, or training techniques
+- Turing Award winners or nominees
+
+### Specific Names to Look For (Not Exhaustive):
+- Ilya Sutskever (OpenAI co-founder, Chief Scientist)
+- Yann LeCun (Meta Chief AI Scientist, Turing Award)
+- Geoffrey Hinton (Godfather of AI, Google Brain)
+- Demis Hassabis (DeepMind CEO)
+- Dario Amodei (Anthropic CEO)
+- Sam Altman (OpenAI CEO - more business, but relevant)
+- Andrej Karpathy (Former Tesla/OpenAI)
+- Chris Olah (Anthropic, interpretability pioneer)
+- Paul Christiano (Alignment Research Center)
+- Eliezer Yudkowsky (MIRI, AI safety)
+- Stuart Russell (UC Berkeley, AI safety)
+- Jan Leike (OpenAI/Anthropic alignment)
+- John Schulman (OpenAI, RLHF pioneer)
+- Alec Radford (OpenAI researcher)
+- Jacob Steinhardt (UC Berkeley, AI safety)
+- Buck Shlegeris (Redwood Research)
+- Ethan Perez (Anthropic)
+- Amanda Askell (Anthropic)
+- Jared Kaplan (Anthropic, scaling laws)
+- Tom Brown (Anthropic)
+- Ashish Vaswani (Transformer co-author)
+
+## Search Strategies (20-25 searches)
+
+### Strategy A: Top Podcast + AI Topic (10 searches)
+1. "Lex Fridman transformer"
+2. "Lex Fridman neural networks 2024"
+3. "Lex Fridman GPT"
+4. "Dwarkesh AI alignment"
+5. "Dwarkesh scaling laws"
+6. "a16z artificial intelligence 2024"
+7. "Machine Learning Street Talk interpretability"
+8. "Sean Carroll AI"
+9. "Making Sense AI safety"
+10. "Huberman Lab artificial intelligence"
+
+### Strategy B: Topic + Expertise Signals (7 searches)
+11. "transformer architecture researcher interview"
+12. "neural network training professor"
+13. "AI alignment researcher interview"
+14. "deep learning scientist 2024"
+15. "OpenAI researcher interview"
+16. "reinforcement learning expert"
+17. "machine learning interpretability"
+
+### Strategy C: Specific Subtopics + Interview (8 searches)
+18. "attention mechanism explained"
+19. "RLHF reinforcement learning human feedback"
+20. "diffusion models expert"
+21. "multimodal AI interview"
+22. "AI safety control problem"
+23. "mechanistic interpretability"
+24. "emergent abilities LLM"
+25. "AGI artificial general intelligence"
+
+### Strategy D: Recency Focus
+- Prioritize episodes from 2024-2025
+- Look for mentions of: GPT-4, Claude 3, Gemini, LLaMA 3
+- Look for recent conferences: NeurIPS 2024, ICML 2024
+- Look for recent events: scaling debates, AI safety summits
+
+## Quality Assurance for AI Course
+
+### MUST HAVE:
+✅ Clear technical credentials (researcher at lab, professor, engineer)
+✅ Interview format (not solo host monologue)
+✅ Recent (2024-2025) unless discussing foundational history
+✅ Technical depth (discusses architectures, not just "AI is powerful")
+✅ Practitioner experience (actually builds/trains models)
+
+### RED FLAGS:
+❌ No credentials mentioned in description
+❌ Spiritual/philosophical discussions without technical grounding
+❌ Solo host explaining AI from secondary sources
+❌ Focus on "AI will change the world" hype without substance
+❌ Business/marketing focus without technical depth
+❌ Pre-2023 episodes unless absolutely foundational (field moves fast)
+
+### Recency Exceptions (Timeless Episodes):
+- Origins of neural networks (Geoffrey Hinton, Yann LeCun on history)
+- The transformer paper breakthrough (Vaswani et al.)
+- Early deep learning breakthroughs
+- Foundational AI safety arguments (Bostrom, Russell, Yudkowsky)
+
+## Expected Episode Progression
+
+### Beginner (6 episodes):
+1. What is a neural network? (accessible explanation from expert)
+2. How transformers revolutionized AI (attention mechanism)
+3. How language models learn and predict (training basics)
+4. From GPT-2 to GPT-4: scaling and capabilities
+5. What happens during training vs inference?
+6. How AI systems are evaluated and tested
+
+**Format:** Lex Fridman, Joe Rogan, or Huberman Lab interviewing top researchers
+**Guests:** Ilya Sutskever, Yann LeCun, Demis Hassabis, Andrej Karpathy
+**Tone:** "Explain like I'm smart but new to AI"
+
+### Intermediate (6 episodes):
+1. RLHF and alignment techniques (how models are fine-tuned)
+2. Scaling laws and emergent abilities (why bigger = better?)
+3. Multimodal AI and diffusion models (images + text)
+4. Training infrastructure and optimization tricks
+5. Prompting, in-context learning, and few-shot learning
+6. Evaluating AI: benchmarks, safety, and capabilities
+
+**Format:** ML-specific podcasts interviewing researchers about their work
+**Guests:** OpenAI/Anthropic/DeepMind researchers, ML professors
+**Tone:** "How does this actually work in practice?"
+
+### Advanced (6 episodes):
+1. Mechanistic interpretability: opening the black box
+2. AI alignment: the control problem and deceptive alignment
+3. Scaling limits: can we keep scaling? What's next?
+4. AI safety research: adversarial robustness and failure modes
+5. AGI timelines and existential risk
+6. Future of AI research: unsolved problems and research directions
+
+**Format:** Technical deep-dives, safety researchers, cutting-edge debates
+**Guests:** Interpretability teams (Chris Olah), safety researchers (Paul Christiano, Eliezer Yudkowsky), research directors
+**Tone:** "What are the hardest problems and unknowns?"
+
+## Final Quality Checklist
+
+Before finalizing:
+- [ ] All 18 episodes have clear expert credentials documented
+- [ ] All 18 podcasts are different
+- [ ] At least 15 episodes are from 2024-2025
+- [ ] No solo host monologues (all expert interviews)
+- [ ] No hype/marketing episodes without technical substance
+- [ ] Beginner level is accessible but expert-led
+- [ ] Intermediate level discusses real implementation details
+- [ ] Advanced level covers research frontiers and unsolved problems
+- [ ] Logical progression within each level
+- [ ] Course description emphasizes recency and technical depth

@@ -1,0 +1,879 @@
+EMOTIONAL INTELLIGENCE COURSE - EPISODE EVALUATION
+===================================================
+Date: 2025-11-03
+Goal: Evaluate all candidates and select best 18 (6 per level, 18 different podcasts, 18 different guests)
+
+EVALUATION CRITERIA:
+====================
+⭐⭐⭐ EXCELLENT - Top-tier expert, clear credentials, reputable podcast, interview format
+⭐⭐ GOOD - Solid expertise, good podcast, relevant content
+⭐ ACCEPTABLE - Some expertise but not ideal
+❌ REJECT - No expert credentials, wrong format, or off-topic
+
+==============================================================
+BEGINNER LEVEL CANDIDATES (Need 6)
+==============================================================
+Goal: Make EI accessible, foundational concepts, well-known hosts interviewing experts
+
+1. Daniel Goleman: Emotional Intelligence 101 - WorkLife with Adam Grant
+   Episode ID: 462065
+   Podcast ID: 11622
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Daniel Goleman
+   Credentials: Psychologist, journalist (NYT for 12 years), 10+ books, author of bestselling "Emotional Intelligence"
+
+   Expertise Signals:
+   - Coined and popularized the term "emotional intelligence"
+   - Psychologist with deep research background
+   - NYT science journalist for over a decade
+   - Author of groundbreaking "Emotional Intelligence" book
+
+   Why it fits BEGINNER:
+   - "EI 101" in the title indicates foundational/intro content
+   - Adam Grant is an excellent interviewer who makes complex topics accessible
+   - WorkLife podcast has broad appeal
+   - Goleman discussing his own foundational research
+
+   What listeners learn:
+   - Core components of emotional intelligence (self-awareness, self-regulation, motivation, empathy, social skills)
+   - Why EI matters more than IQ in many life contexts
+   - Foundational concepts from the field's pioneer
+
+   Podcast Quality: Top-tier (WorkLife with Adam Grant)
+   Format: ✓ Interview format confirmed
+   Diversity: Different from other candidates
+
+2. Brené Brown: Vulnerability, Shame + Daring Greatly - How She Really Does It
+   Episode ID: 2060074
+   Podcast ID: 43222
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Brené Brown
+   Credentials: 20 years researching emotions/emotional intelligence, multiple NYT bestselling books, University of Houston research professor
+
+   Expertise Signals:
+   - Two decades of dedicated research on emotions, vulnerability, shame
+   - Research professor at major university
+   - Multiple #1 NYT bestselling books
+   - Internationally recognized TED speaker (one of most-viewed TED talks ever)
+
+   Why it fits BEGINNER:
+   - Focuses on accessible concepts: vulnerability, shame, courage
+   - Brené Brown is known for making research accessible to general audiences
+   - "Daring Greatly" framework is beginner-friendly
+   - Discusses giving permission to feel emotions (foundational concept)
+
+   What listeners learn:
+   - The connection between vulnerability and emotional strength
+   - How shame impacts our emotional lives
+   - Why embracing vulnerability is essential for connection
+   - Practical framework for "daring greatly"
+
+   Podcast Quality: Good (focused on women's stories but broad appeal)
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, different podcast
+
+3. Marc Brackett, Yale University - Learning Curve Podcast
+   Episode ID: 45408675
+   Podcast ID: 212154
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Marc Brackett
+   Credentials: Yale professor, founding director of Yale Center for Emotional Intelligence
+
+   Expertise Signals:
+   - Founding director of Yale Center for Emotional Intelligence
+   - Professor at prestigious Ivy League university
+   - Created RULER framework for emotional intelligence
+   - Author of "Permission to Feel"
+
+   Why it fits BEGINNER:
+   - Educational focus makes it accessible
+   - Discusses how EI matters for learners (relatable to everyone)
+   - RULER framework introduction is beginner-appropriate
+   - Educational context is universally understandable
+
+   What listeners learn:
+   - Why emotional intelligence matters for learning
+   - Introduction to the RULER framework (Recognizing, Understanding, Labeling, Expressing, Regulating emotions)
+   - How emotions impact educational outcomes
+   - Practical applications for everyday life
+
+   Podcast Quality: Educational podcast, reputable
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, different podcast, different institutional affiliation (Yale)
+
+4. How to Understand Emotions | Dr. Lisa Feldman Barrett - Huberman Lab
+   Episode ID: 34956045
+   Podcast ID: 175447
+   Rating: ⭐⭐⭐ EXCELLENT (but might be too advanced)
+
+   Expert: Dr. Lisa Feldman Barrett
+   Credentials: Distinguished Professor of Psychology at Northeastern University, top 1% most-cited scientist
+
+   Expertise Signals:
+   - University Distinguished Professor
+   - Top 1% most-cited scientists globally
+   - Pioneering neuroscience research on emotions
+   - Author of "How Emotions Are Made"
+
+   Why it MIGHT fit BEGINNER:
+   - Huberman Lab excels at making complex science accessible
+   - Andrew Huberman is excellent at breaking down technical concepts
+   - Title suggests educational/explanatory approach
+
+   CONCERN:
+   - Barrett's research is quite technical and may be too advanced for beginners
+   - Neuroscience of emotions might be better suited for ADVANCED level
+   - Would need to verify episode is truly accessible
+
+   Decision: HOLD - Review for ADVANCED level instead
+
+5. Woo-Kyoung Ahn: Thinking and Emotional Intelligence - Armchair Expert
+   Episode ID: 72662872
+   Podcast ID: 11502
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Woo-Kyoung Ahn
+   Credentials: Professor of Psychology at Yale University, author of "Thinking 101"
+
+   Expertise Signals:
+   - Yale University Psychology Professor
+   - Author of popular book "Thinking 101"
+   - Expert in cognitive psychology and bias
+   - Research on how thinking affects emotions
+
+   Why it fits BEGINNER:
+   - Armchair Expert is extremely accessible and entertaining
+   - Dax Shepard makes complex topics relatable
+   - "Thinking 101" suggests foundational approach
+   - Discusses bias confirmation and emotional attribution (foundational concepts)
+
+   What listeners learn:
+   - How our thinking patterns affect our emotions
+   - Common cognitive biases that impact emotional intelligence
+   - The connection between thoughts and feelings
+   - Practical examples from everyday life (like getting cut off in traffic)
+
+   Podcast Quality: Top-tier (Armchair Expert - massively popular)
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, different podcast, Yale affiliation
+
+6. Paul Ekman: Detecting Lies, Facial Expressions, Body Language - Podcast
+   Episode ID: 11181599
+   Podcast ID: 173160
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Paul Ekman
+   Credentials: Best known for work studying facial expressions and emotion, named one of 100 most influential people by TIME Magazine
+
+   Expertise Signals:
+   - Named one of 100 most influential people in the world by TIME Magazine (2009)
+   - Ranked 15th among most influential psychologists of 21st century (2014)
+   - Professor Emeritus at UC San Francisco
+   - Written more than 14 books and 170 published articles
+   - Several honorary doctoral degrees
+   - Co-discoverer of micro-expressions
+   - Inspiration for TV series "Lie to Me"
+
+   Why it fits BEGINNER:
+   - Facial expressions are tangible, observable entry point to emotions
+   - Universal expressions make concept accessible across cultures
+   - Practical skill (reading faces) helps beginners understand emotions
+   - Ekman's work is foundational to understanding how emotions are expressed
+   - Bridges biology and psychology in accessible way
+
+   What listeners learn:
+   - How to read facial expressions and recognize emotions in others
+   - Universal nature of basic emotions (happiness, sadness, anger, fear, disgust, surprise)
+   - The science behind micro-expressions
+   - Connection between facial expressions and internal emotional states
+   - Foundational understanding of how emotions are communicated
+
+   Podcast Quality: Need to verify podcast name and quality
+   Format: ✓ Interview format confirmed (Dr. Ekman interviewed)
+   Diversity: Different guest, UC San Francisco affiliation, pioneering emotion research
+
+6. Martin Seligman: Positive Psychology and Hope
+   Episode ID: 18930712
+   Podcast ID: 38155
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Martin Seligman
+   Credentials: Professor at University of Pennsylvania, founder of Positive Psychology movement
+
+   Expertise Signals:
+   - Zellerbach Family Professor of Psychology at University of Pennsylvania
+   - Former president of American Psychological Association
+   - Founder and "Father" of Positive Psychology movement
+   - Author of multiple influential books: "Learned Optimism," "Authentic Happiness," "Flourish"
+   - Director of Positive Psychology Center at UPenn
+   - Pioneering research on learned helplessness, learned optimism, and well-being
+   - Transformed psychology from focus on pathology to focus on human flourishing
+   - Developed PERMA model of well-being
+   - Multiple prestigious awards and honors
+
+   Why it fits BEGINNER:
+   - Positive psychology concepts are accessible and hopeful
+   - Optimism vs. pessimism is easy to understand
+   - Focus on strengths rather than deficits (beginner-friendly approach)
+   - Practical applications for everyday happiness
+   - Scientific credibility makes complex ideas trustworthy
+   - Foundational to understanding emotional well-being
+   - Hope and optimism are core to emotional intelligence
+
+   What listeners learn:
+   - What positive psychology is and why it matters
+   - Difference between learned helplessness and learned optimism
+   - How optimism protects against depression
+   - PERMA model: Positive emotions, Engagement, Relationships, Meaning, Accomplishment
+   - Science of happiness and human flourishing
+   - How to cultivate optimism and hope
+   - Why focusing on strengths (not just fixing weaknesses) matters
+
+   Podcast Quality: Good (Australian podcast - appears to be university/academic-affiliated talk)
+   Format: ✓ Lecture/presentation format to exclusive audience (educational, accessible)
+   Diversity: Different guest, UPenn affiliation, positive psychology founder
+
+   NOTE: Replaces Kristin Neff to avoid duplicate podcast (both were on Podcast 120652)
+
+BACKUP BEGINNER CANDIDATES:
+
+7. Daniel Goleman: Emotional Intelligence - FranklinCovey On Leadership
+   Episode ID: 12022073
+   Podcast ID: 151509
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Daniel Goleman
+   Credentials: Author of bestselling "Emotional Intelligence"
+
+   Expertise Signals:
+   - THE pioneer of emotional intelligence
+   - Acclaimed author of the book that popularized EI
+   - Decades of research and writing on the topic
+
+   Why it fits BEGINNER:
+   - Leadership context makes EI practical and applicable
+   - FranklinCovey brand is known for accessible personal development
+   - Goleman shares value of self-awareness, adaptability, empathy together
+
+   CONCERN:
+   - Would be second Daniel Goleman episode (violates "no repeat guests" rule)
+
+   Decision: BACKUP only if we can't find 6 other strong beginner episodes
+
+==============================================================
+INTERMEDIATE LEVEL CANDIDATES (Need 6)
+==============================================================
+Goal: Build on foundations, apply EI to specific contexts (work, relationships, parenting)
+
+1. Adam Grant: Organizational Psychologist - Suiting Up Podcast
+   Episode ID: 2136908
+   Podcast ID: 44489
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Adam Grant
+   Credentials: Wharton's top-rated professor (6 years), 3x NYT bestselling author, organizational psychologist
+
+   Expertise Signals:
+   - Wharton School of Business top-rated professor for 6 years
+   - Three-time NYT bestselling author
+   - Named one of world's 10 most influential management thinkers
+   - Fortune 40 under 40
+   - Two viral TED talks
+   - Host of WorkLife podcast with TED
+
+   Why it fits INTERMEDIATE:
+   - Applies EI concepts to workplace/organizational settings
+   - Builds on foundational EI knowledge
+   - Discusses motivation, meaning, generosity, creativity (intermediate applications)
+   - Organizational context requires understanding of basic EI first
+
+   What listeners learn:
+   - How EI applies in organizational/workplace settings
+   - Motivation and meaning in professional life
+   - Balancing giving and taking in work relationships
+   - Practical workplace applications of emotional intelligence
+
+   Podcast Quality: Good (focused on athletes/professionals)
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, different podcast, Wharton affiliation
+
+2. Emotions, Learning, and Resilience with Susan David & Marc Brackett
+   Episode ID: 26349590
+   Podcast ID: 235825
+   Rating: ⭐⭐ GOOD
+
+   Experts: Dr. Susan David (Harvard Medical School) + Dr. Marc Brackett (Yale)
+
+   Expertise Signals:
+   - Susan David: Psychologist at Harvard Medical School, emotional agility expert
+   - Marc Brackett: Already established as Yale EI expert
+
+   Why it fits INTERMEDIATE:
+   - Builds on foundational EI to discuss resilience and learning
+   - Dual expert format provides rich discussion
+   - Emotional agility is an intermediate-level concept
+
+   CONCERN:
+   - Would be second Marc Brackett appearance (violates "no repeat guests" rule)
+   - Susan David is sharing the spotlight, not sole expert
+
+   Decision: HOLD - Look for solo Susan David episode if available
+
+3. Regulating our Emotions with Dr. Marc Brackett - Podcast
+   Episode ID: 84335703
+   Podcast ID: 488329
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Marc Brackett
+   Credentials: Director Yale Center for Emotional Intelligence, author "Permission to Feel"
+
+   Expertise Signals:
+   - Director of Yale Center for Emotional Intelligence
+   - Author of bestselling "Permission to Feel"
+   - Creator of RULER framework
+   - Social and emotional learning expert
+
+   Why it fits INTERMEDIATE:
+   - Emotion regulation is an intermediate skill (builds on awareness)
+   - RULER framework application
+   - Goes deeper than intro/foundational concepts
+
+   CONCERN:
+   - Would be second/third Marc Brackett episode (violates "no repeat guests" rule)
+
+   Decision: BACKUP - Only use if we can't find other intermediate candidates
+
+4. Burnout Immunity - Dr. Kandi Wiens
+   Episode ID: 49689443
+   (Need to verify podcast ID and name)
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Kandi Wiens
+   Credentials: Senior fellow at University of Pennsylvania, Director of Penn Master's in Medical Education, co-founder Big Sky Leadership Labs
+
+   Expertise Signals:
+   - Senior fellow at UPenn (Ivy League)
+   - Director of graduate program in medical education
+   - Published in Harvard Business Review
+   - Author of "Burnout Immunity"
+   - Research focus: EI and burnout
+
+   Why it fits INTERMEDIATE:
+   - Applies EI specifically to burnout prevention (practical application)
+   - Workplace wellness context
+   - Builds on foundational EI to address specific challenge
+   - Medical education background brings rigor
+
+   What listeners learn:
+   - How emotional intelligence prevents burnout
+   - Workplace applications of EI
+   - Research-backed strategies for resilience
+   - Connection between EI and well-being
+
+   Podcast Quality: Need to verify
+   Format: Need to verify interview format
+   Diversity: Different guest, UPenn affiliation
+
+5. Emotional Regulation with Psychologist Ana Ximena
+   Episode ID: 51467815
+   Podcast ID: 356467
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Ana Ximena Torres
+   Credentials: Clinical Manager and Clinical Psychologist, 14+ years experience, Board Approved Supervisor
+
+   Expertise Signals:
+   - Clinical Psychologist with 14+ years experience
+   - Clinical Manager at Mind Body Well clinic
+   - Board Approved Supervisor for Clinical Psychology
+   - Multiple therapeutic modalities: CBT, ACT, MiCBT
+   - Specializes in eating disorders, anxiety, stress management, trauma
+
+   Why it fits INTERMEDIATE:
+   - Emotion regulation is intermediate-level application
+   - Clinical perspective adds depth
+   - Discusses specific therapeutic techniques
+   - Builds on foundational awareness to develop regulation skills
+
+   What listeners learn:
+   - Clinical approaches to emotional regulation
+   - How emotions connect to eating disorders and anxiety
+   - Practical regulation techniques
+   - Self-compassion and body positivity frameworks
+
+   Podcast Quality: Need to verify (appears to be eating disorder focused podcast)
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, clinical psychology perspective
+
+6. Brené Brown on Vulnerability and Courage - Blanchard LeaderChat
+   Episode ID: 10199909
+   Podcast ID: 87449
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Brené Brown
+   Credentials: 15 years of research, #1 NYT bestsellers, University of Houston
+
+   Expertise Signals:
+   - 15+ years of research on vulnerability, empathy, courage
+   - University of Houston research professor
+   - #1 NYT bestselling author
+   - Leadership research focus
+
+   Why it fits INTERMEDIATE:
+   - Leadership context (intermediate application)
+   - Vulnerability in values-based leadership
+   - Builds on basic vulnerability concepts to leadership applications
+
+   CONCERN:
+   - Would be second Brené Brown episode (violates "no repeat guests" rule)
+
+   Decision: BACKUP - Only if we can't find 6 other intermediate episodes
+
+7. Dr. Tasha Eurich - Insight into Self Awareness
+   Episode ID: 29937413
+   (Need to verify podcast ID and name from search results)
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Tasha Eurich
+   Credentials: Organizational psychologist, researcher, author of "Insight"
+
+   Expertise Signals:
+   - Organizational psychologist with research focus
+   - Author of bestselling book "Insight: The Power of Self-Awareness"
+   - TED speaker
+   - Research on self-awareness in leadership and workplace
+   - Regular contributor to Harvard Business Review
+   - Ph.D. in Industrial-Organizational Psychology
+
+   Why it fits INTERMEDIATE:
+   - Self-awareness is cornerstone of EI (builds on beginner foundations)
+   - Workplace/leadership applications
+   - Research-based approach to developing self-awareness
+   - Bridges foundational concepts to practical application
+   - Focus on "insight" suggests depth beyond basics
+
+   What listeners learn:
+   - How to develop genuine self-awareness (not just self-knowledge)
+   - Difference between internal and external self-awareness
+   - Why self-awareness matters for leadership and success
+   - Research-backed strategies for building insight
+   - Common blind spots and how to overcome them
+
+   Podcast Quality: Need to verify
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, organizational psychology perspective
+
+8. Kelly McGonigal: Movement & Handling Stress
+   Episode ID: 34519683
+   (Need to verify podcast ID and name from search results)
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Kelly McGonigal
+   Credentials: Health psychologist, Stanford lecturer, author
+
+   Expertise Signals:
+   - Health psychologist at Stanford University
+   - Lecturer at Stanford
+   - Author of "The Upside of Stress" and "The Willpower Instinct"
+   - Research on stress, willpower, and compassion
+   - Known for pioneering work on stress mindset
+   - TED speaker (popular talk on stress)
+
+   Why it fits INTERMEDIATE:
+   - Stress management is intermediate EI application
+   - Builds on emotional awareness to develop regulation strategies
+   - Research-based approach to reframing stress
+   - Movement and embodiment adds depth
+   - Practical applications for daily life
+
+   What listeners learn:
+   - How to change relationship with stress through mindset
+   - Connection between movement, emotion, and stress
+   - Research on stress as enhancing vs. debilitating
+   - Practical strategies for stress regulation
+   - How emotional intelligence helps navigate stress
+
+   Podcast Quality: Need to verify
+   Format: Need to verify interview format
+   Diversity: Different guest, Stanford affiliation, health psychology perspective
+
+9. Susan David: Emotional Agility
+   Episode ID: 1649509
+   Podcast ID: 38648
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Susan David
+   Credentials: Psychologist at Harvard Medical School, bestselling author, co-founder Institute of Coaching
+
+   Expertise Signals:
+   - Psychologist on faculty at Harvard Medical School
+   - Co-founder and co-director of Institute of Coaching at McLean Hospital
+   - CEO of Evidence Based Psychology
+   - Bestselling author of "Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life"
+   - Article on Emotional Agility named Management Idea of the Year by Harvard Business Review
+   - TED Talk on emotional agility (8+ million views)
+   - Frequent contributor to NYT, Washington Post, Wall Street Journal
+
+   Why it fits INTERMEDIATE:
+   - Emotional agility is intermediate-level skill (builds on awareness to develop flexibility)
+   - Workplace applications and change management
+   - Bridges foundational EI concepts to practical life challenges
+   - "Get unstuck" implies moving beyond basics to actionable strategies
+   - Combines 20 years of academic and clinical research
+
+   What listeners learn:
+   - How to navigate inner world of thoughts, feelings, and self-talk
+   - Why forcing positivity doesn't work ("tyranny of positivity")
+   - How to hold difficult emotions loosely while moving forward
+   - Practical strategies for getting "unstuck" from unhelpful patterns
+   - Aligning actions with values during challenging times
+
+   Podcast Quality: Good (Sounds True - Insights at the Edge, reputable spiritual/psychology podcast)
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, Harvard affiliation, clinical + organizational psychology
+
+10. Jamil Zaki: The Science of Empathy
+    Episode ID: 3402932
+    Podcast ID: 64574
+    Rating: ⭐⭐⭐ EXCELLENT
+
+    Expert: Dr. Jamil Zaki
+    Credentials: Stanford psychology professor, Director of Stanford Social Neuroscience Lab, author
+
+    Expertise Signals:
+    - Professor of Psychology at Stanford University
+    - Director of Stanford Social Neuroscience Lab
+    - Author of "The War for Kindness: Building Empathy in a Fractured World"
+    - Leading researcher on empathy, kindness, and social connection
+    - Writing has appeared in NYT, Washington Post, New Yorker, Atlantic
+    - Research on how empathy works and can be developed
+
+    Why it fits INTERMEDIATE:
+    - Empathy is core EI skill that builds on self-awareness
+    - Social neuroscience brings depth beyond basic concepts
+    - Practical applications for improving relationships
+    - Addresses modern challenges (empathy in digital age, polarization)
+    - "War for Kindness" suggests actionable strategies
+
+    What listeners learn:
+    - The science of empathy and how it works in the brain
+    - Why empathy has declined in recent decades
+    - How empathy is a skill that can be trained (not fixed trait)
+    - Practical exercises for building empathy ("empathy gym")
+    - How to avoid empathy burnout while staying connected
+
+    Podcast Quality: Need to verify podcast name (ID 64574)
+    Format: ✓ Interview format confirmed
+    Diversity: Different guest, Stanford affiliation, social neuroscience perspective
+
+==============================================================
+ADVANCED LEVEL CANDIDATES (Need 6)
+==============================================================
+Goal: Research frontiers, neuroscience, cutting-edge findings, complex applications
+
+1. How Emotions Work | Neuroscientist Lisa Feldman Barrett - TED Audio Collective
+   Episode ID: 98337436
+   Podcast ID: 668994
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Lisa Feldman Barrett
+   Credentials: Top 1% most-cited scientists, University Distinguished Professor
+
+   Expertise Signals:
+   - Top 1% most-cited scientists globally
+   - University Distinguished Professor (highest academic rank)
+   - Pioneering neuroscience research on emotions
+   - Author of "How Emotions Are Made"
+   - Revolutionary theory of constructed emotions
+
+   Why it fits ADVANCED:
+   - Presents cutting-edge neuroscience research
+   - Challenges traditional views of emotions (research frontier)
+   - Constructed emotion theory is sophisticated
+   - Brain's predictive nature requires foundational knowledge to understand
+
+   What listeners learn:
+   - How the brain constructs emotions from past experiences
+   - Why emotions aren't "universal" reactions
+   - Predictive processing in emotional experience
+   - Implications for emotional intelligence
+
+   Podcast Quality: Top-tier (TED Audio Collective)
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, different podcast
+
+2. How to Understand Emotions | Dr. Lisa Feldman Barrett - Huberman Lab
+   Episode ID: 34956045
+   Podcast ID: 175447
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Lisa Feldman Barrett
+   Credentials: Distinguished Professor of Psychology at Northeastern University
+
+   Expertise Signals:
+   - Distinguished Professor at Northeastern University
+   - Leading neuroscience researcher
+   - Expert on how brain creates emotional states
+
+   Why it fits ADVANCED:
+   - Deep dive into neuroscience of emotions
+   - Huberman Lab is known for technical, science-heavy content
+   - Brain signal integration is advanced topic
+   - Neuroscience foundations of EI
+
+   CONCERN:
+   - Would be second Lisa Feldman Barrett episode (violates "no repeat guests" rule)
+
+   Decision: Choose ONE Barrett episode (likely the TED one for broader appeal)
+
+3. Team Emotional Intelligence - Dr. Vanessa Druskat
+   Episode ID: 96062596
+   (Need to verify podcast ID and name)
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Vanessa Druskat
+   Credentials: Organizational psychologist, Professor at University of New Hampshire, co-author with Daniel Goleman
+
+   Expertise Signals:
+   - Professor at UNH
+   - Organizational psychologist
+   - Co-authored work with Daniel Goleman (the EI pioneer)
+   - Research focus: team emotional intelligence
+
+   Why it fits ADVANCED:
+   - Team EI is more complex than individual EI
+   - Organizational psychology requires sophisticated understanding
+   - Research-based approach
+   - Builds on individual EI to group dynamics
+
+   What listeners learn:
+   - How emotional intelligence operates at team level
+   - Group emotional dynamics
+   - Organizational applications of EI research
+   - Advanced EI concepts in workplace settings
+
+   Podcast Quality: Need to verify
+   Format: Need to verify interview format
+   Diversity: Different guest, UNH affiliation
+
+4. Psychological Safety in the Workplace - Multiple episodes discussing Amy Edmondson's work
+   Rating: ⭐⭐⭐ EXCELLENT (concept) but need to verify if EDMONDSON is interviewed
+
+   Expert: Dr. Amy Edmondson (need to find episode where SHE is interviewed)
+   Credentials: Harvard Business School professor, coined "psychological safety" concept
+
+   Expertise Signals:
+   - Harvard Business School professor
+   - Created/defined psychological safety concept in 1999
+   - Author of "The Fearless Organization"
+   - Leading expert on team learning and dynamics
+
+   Why it would fit ADVANCED:
+   - Psychological safety is sophisticated organizational concept
+   - Requires understanding of emotions, group dynamics, leadership
+   - Research-based and cutting-edge
+   - Ties EI to organizational performance
+
+   What listeners would learn:
+   - How psychological safety enables team performance
+   - Connection between EI and organizational culture
+   - Research on team dynamics and learning
+   - Advanced workplace applications
+
+   STATUS: Need to search for episode where Amy Edmondson herself is interviewed
+   (Found many episodes ABOUT her work, but need her as the guest)
+
+5. Psychological Safety & Failure - Amy Edmondson, Harvard Business School
+   Episode ID: 93297036
+   (Need to verify podcast ID and name from search results)
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Amy Edmondson
+   Credentials: Harvard Business School professor, coined "psychological safety" concept
+
+   Expertise Signals:
+   - Harvard Business School Novartis Professor of Leadership
+   - Created and defined "psychological safety" concept in 1999
+   - Author of "The Fearless Organization"
+   - Leading expert on team learning, innovation, and organizational dynamics
+   - Decades of research on team performance
+
+   Why it fits ADVANCED:
+   - Psychological safety is sophisticated organizational concept
+   - Requires understanding of emotions at individual and group level
+   - Research-based cutting-edge theory
+   - Ties emotional intelligence to team performance and innovation
+   - Complex interplay of leadership, culture, and emotion
+
+   What listeners learn:
+   - How psychological safety enables learning and high performance
+   - Connection between emotional intelligence and organizational culture
+   - Why teams need safety to take interpersonal risks
+   - Research on failure, learning, and innovation
+   - Advanced workplace applications of EI
+
+   Podcast Quality: Need to verify
+   Format: ✓ Interview format confirmed (Amy Edmondson interviewed)
+   Diversity: Different guest, Harvard affiliation
+
+6. Interview: The Neuroscience of Emotion + Meditation with Richie Davidson
+   Episode ID: 5052364
+   (Need to verify podcast ID and name from search results)
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Richard Davidson ("Richie Davidson")
+   Credentials: Neuroscientist, founder of Center for Healthy Minds at University of Wisconsin-Madison
+
+   Expertise Signals:
+   - Founder and director of Center for Healthy Minds at UW-Madison
+   - Pioneer in contemplative neuroscience
+   - Author of "The Emotional Life of Your Brain"
+   - Decades of research on brain basis of emotion and meditation
+   - Collaborations with Dalai Lama on meditation research
+   - Published extensively on neural basis of emotion
+
+   Why it fits ADVANCED:
+   - Cutting-edge neuroscience research on emotion
+   - Contemplative neuroscience is research frontier
+   - Brain plasticity and emotion regulation at neural level
+   - Sophisticated understanding of meditation's effects on brain
+   - Integrates ancient practices with modern neuroscience
+
+   What listeners learn:
+   - How meditation changes brain structure and emotion processing
+   - Neural basis of emotional styles
+   - Brain plasticity and emotional well-being
+   - Research on contemplative practices and neuroscience
+   - Advanced understanding of emotion at brain level
+
+   Podcast Quality: Need to verify
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, UW-Madison affiliation
+
+7. Dacher Keltner (Awe)
+   Episode ID: 68046288
+   (Need to verify podcast ID and name from search results)
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Dacher Keltner
+   Credentials: Professor of Psychology at UC Berkeley, founding director Berkeley Social Interaction Lab
+
+   Expertise Signals:
+   - Professor of Psychology at UC Berkeley
+   - Founding director of Berkeley Social Interaction Lab
+   - Author of "Born to Be Good" and "The Power of Awe"
+   - Leading researcher on emotions, compassion, and awe
+   - Scientific consultant for Pixar's "Inside Out"
+   - Decades of research on positive emotions
+
+   Why it fits ADVANCED:
+   - Awe is sophisticated emotion requiring depth to understand
+   - Research on social emotions and their evolutionary basis
+   - Cutting-edge work on positive emotions beyond happiness
+   - Complex interplay of emotions and moral behavior
+   - Advanced understanding of pro-social emotions
+
+   What listeners learn:
+   - The science of awe and transcendent emotions
+   - How positive emotions build social bonds
+   - Evolutionary basis of compassion and kindness
+   - Research on emotions and moral behavior
+   - Advanced concepts in positive psychology and emotion
+
+   Podcast Quality: Need to verify
+   Format: Need to verify interview format
+   Diversity: Different guest, UC Berkeley affiliation
+
+   NOTE: Could also fit INTERMEDIATE depending on episode approach
+
+8. Antonio Damasio: Inside Consciousness
+   Episode ID: 19977903
+   Podcast ID: 120652
+   Rating: ⭐⭐⭐ EXCELLENT
+
+   Expert: Dr. Antonio Damasio
+   Credentials: Internationally recognized neuroscientist, USC University Professor, Director of Brain and Creativity Institute
+
+   Expertise Signals:
+   - University Professor, David Dornsife Professor of Neuroscience, Psychology, and Philosophy at USC
+   - Director of Brain and Creativity Institute at USC
+   - Internationally recognized for research on neural systems and consciousness
+   - Over 100 journal articles and book chapters
+   - Author of multiple influential books: "Descartes' Error," "The Feeling of What Happens," "Self Comes to Mind," "The Strange Order of Things," "Feeling & Knowing"
+   - Named "Highly Cited Researcher" by Institute for Scientific Information
+   - Books taught in universities worldwide
+   - Member of National Academy of Medicine
+   - Multiple prestigious awards including Grawemeyer Award, Honda Prize
+
+   Why it fits ADVANCED:
+   - Consciousness is sophisticated, cutting-edge topic
+   - Challenges Cartesian mind-body dualism (advanced philosophical concepts)
+   - Neuroscience of emotions at highest level of complexity
+   - Research on how brain and body create consciousness
+   - Integrates neuroscience, psychology, and philosophy
+   - "Constructed" nature of consciousness is research frontier
+
+   What listeners learn:
+   - The complex relationship between brain, body, and consciousness
+   - How homeostatic feelings developed before emotions evolutionarily
+   - Why consciousness isn't purely mental but rooted in body
+   - Neuroscience of how emotions emerge from physical states
+   - Cutting-edge theory on consciousness and sentient thought
+   - Challenges to traditional views of mind and emotions
+
+   Podcast Quality: Good (The Psychology Podcast with Scott Barry Kaufman - reputable psychology podcast)
+   Format: ✓ Interview format confirmed
+   Diversity: Different guest, USC affiliation, neuroscience/philosophy perspective, integrative approach
+
+==============================================================
+SUMMARY & NEXT ACTIONS
+==============================================================
+
+STRONG CANDIDATES IDENTIFIED:
+
+✅ BEGINNER (6/6 COMPLETE!):
+1. ✓ Daniel Goleman - WorkLife with Adam Grant (462065) - EI pioneer
+2. ✓ Brené Brown - How She Really Does It (2060074) - Vulnerability researcher
+3. ✓ Marc Brackett - Learning Curve Podcast (45408675) - Yale EI Center director
+4. ✓ Woo-Kyoung Ahn - Armchair Expert (72662872) - Yale cognitive psychologist
+5. ✓ Paul Ekman - Episode (11181599, Podcast 173160) - UC San Francisco, facial expressions pioneer
+6. ✓ Kristin Neff - The Psychology Podcast (15731458, Podcast 120652) - UT Austin self-compassion pioneer
+   → BEGINNER LEVEL COMPLETE!
+
+INTERMEDIATE (Need 6, have 7 strong - must select best 6):
+1. ✓ Adam Grant - Suiting Up Podcast (2136908, Podcast 44489) - Wharton organizational psychologist
+2. ✓ Kandi Wiens - (49689443) - UPenn burnout & EI researcher
+3. ✓ Ana Ximena Torres - (51467815, Podcast 356467) - Clinical psychologist, emotion regulation
+4. ✓ Tasha Eurich - (29937413) - Self-awareness researcher, author "Insight"
+5. ✓ Kelly McGonigal - (34519683) - Stanford stress researcher
+6. ✓ Susan David - (1649509, Podcast 38648) - Harvard emotional agility expert
+7. ✓ Jamil Zaki - (3402932, Podcast 64574) - Stanford empathy researcher
+   → Need to select 6 from these 7 excellent candidates
+
+✅ ADVANCED (6/6 COMPLETE!):
+1. ✓ Lisa Feldman Barrett - TED Audio Collective (98337436, Podcast 668994) - Constructed emotion theory
+2. ✓ Vanessa Druskat - (96062596) - UNH team emotional intelligence
+3. ✓ Amy Edmondson - (93297036) - Harvard psychological safety expert
+4. ✓ Richard Davidson - (5052364) - UW-Madison contemplative neuroscience
+5. ✓ Dacher Keltner - (68046288) - UC Berkeley emotions/awe researcher
+6. ✓ Antonio Damasio - (19977903, Podcast 120652) - USC consciousness neuroscience
+   → ADVANCED LEVEL COMPLETE!
+
+PROGRESS UPDATE:
+✅ Executed 54+ comprehensive searches (48 initial + 6 final targeted)
+✅ Found EXCEPTIONAL candidates across all three levels
+✅ Outstanding institutional diversity: Yale, Harvard, Stanford, UC Berkeley, UC San Francisco, UPenn, Wharton, UW-Madison, Northeastern, USC, UNH, UT Austin
+✅ Perfect disciplinary mix: organizational psych, clinical psych, neuroscience, social neuroscience, philosophy, health psychology, self-compassion research
+✅ All candidates have exceptional academic credentials and expertise signals
+✅ BEGINNER LEVEL COMPLETE (6/6 episodes)
+✅ ADVANCED LEVEL COMPLETE (6/6 episodes)
+🔄 INTERMEDIATE LEVEL (7 strong candidates, must select 6)
+
+FINAL TASK:
+1. Select best 6 INTERMEDIATE episodes from the 7 candidates (drop 1)
+2. Verify no duplicate podcasts across all 18 selections
+3. Create course.txt with final 18 selections and optimal learning sequence
+4. Create final JSON file with course structure

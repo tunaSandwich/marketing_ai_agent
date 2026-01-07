@@ -1,0 +1,397 @@
+# Comprehensive Course Plan: "Side Hustlin' — Test, launch, and scale income streams with purpose"
+
+## 1. Existing Progress Check
+**Status**: Starting fresh - no existing folder found.
+**Action**: Created `courses/side-hustlin/` folder
+
+---
+
+## 2. Course Strategy by Level
+
+### **BEGINNER LEVEL: Finding Your Path**
+**Core Questions to Answer:**
+- What is a side hustle and why start one?
+- How do I find the right idea for ME?
+- What mindset shifts are needed?
+- How do I validate an idea before investing time/money?
+- What are common beginner mistakes?
+
+**Ideal Episode Types:**
+- Well-known founders telling their origin stories (How I Built This style)
+- Accessible interviews with entrepreneurs who started small
+- Authors of popular business books on Tim Ferriss or similar
+- Practical, encouraging, story-driven content
+- Focus on psychology, motivation, and getting started
+
+**Learning Journey:**
+1. Introduction & mindset (why side hustle, overcoming fear)
+2. Idea generation & opportunity recognition
+3. Market validation basics
+4. First steps & minimum viable experiments
+5. Time management & resource allocation
+6. Learning from failure stories
+
+---
+
+### **INTERMEDIATE LEVEL: Launch & Iterate**
+**Core Questions to Answer:**
+- How do I actually launch and get my first customers?
+- What marketing strategies work for bootstrapped ventures?
+- How do I price my product/service?
+- How do I build audience and traction?
+- When should I pivot vs. persevere?
+- How do I balance day job with side hustle?
+
+**Ideal Episode Types:**
+- Founders discussing launch strategies and early growth
+- Marketing experts with track records (not generic advice)
+- Product managers or growth leaders from successful companies
+- Investors sharing patterns from portfolio companies
+- Domain-specific experts (e-commerce, SaaS, content, etc.)
+
+**Learning Journey:**
+1. Launch strategies & go-to-market
+2. Finding first customers & early marketing
+3. Pricing psychology & strategy
+4. Building audience (content, social, community)
+5. Product iteration based on feedback
+6. Balancing full-time work with side hustle growth
+
+---
+
+### **ADVANCED LEVEL: Scale & Systematize**
+**Core Questions to Answer:**
+- How do I scale beyond myself?
+- What systems enable multiple income streams?
+- How do I build a team or automate?
+- When/how do I transition full-time?
+- How do I think about portfolio of ventures?
+- What are sophisticated growth tactics?
+
+**Ideal Episode Types:**
+- Serial entrepreneurs with multiple successful exits
+- Founders who scaled to 7+ figures
+- VCs/investors with pattern recognition across many companies
+- Operational experts (COOs, growth leaders)
+- Platform builders and ecosystem creators
+- Advanced strategy discussions (pricing, acquisition, exits)
+
+**Learning Journey:**
+1. Hiring, delegation, and team building
+2. Systems and automation for scale
+3. Multiple income streams & portfolio approach
+4. Advanced growth tactics (paid acquisition, partnerships, etc.)
+5. Transitioning from side hustle to full-time
+6. Exit strategies, selling businesses, or long-term wealth building
+
+---
+
+## 3. High-Quality Podcasts to Prioritize
+
+### **TIER 1: Top Priority (Business/Entrepreneurship - Top 200)**
+
+**General Entrepreneurship & Founder Stories:**
+- **How I Built This** (Guy Raz) - Perfect for beginner, founder origin stories
+- **Masters of Scale** (Reid Hoffman) - Scaling strategies, great for intermediate/advanced
+- **Tim Ferriss Show** - Deep dives with entrepreneurs, authors, investors
+- **The Knowledge Project** (Shane Parrish) - Decision-making, mental models for entrepreneurs
+- **Invest Like the Best** (Patrick O'Shaughnessy) - Investor perspective, portfolio companies
+- **Lenny's Podcast** (Lenny Rachitsky) - Product, growth, career (tech focus)
+- **The Logan Bartlett Show** - Operator interviews, practical business building
+- **Acquired** - Deep company histories, scaling stories
+- **20VC** (20 Minute VC - Harry Stebbings) - Founders and VCs, startup insights
+
+**Tech & Innovation:**
+- **a16z Podcast** - Andreessen Horowitz, trends and founder insights
+- **All-In Podcast** - When covering business/entrepreneurship topics
+- **The Prof G Pod** (Scott Galloway) - Business strategy, market analysis
+
+**Business & Economics:**
+- **Planet Money** (NPR) - Business stories, economic principles
+- **Freakonomics** - Behavioral economics applied to business
+- **Pivot** (Kara Swisher & Scott Galloway) - Tech business, market dynamics
+
+**General Interview Shows (if entrepreneur guests):**
+- **Lex Fridman Podcast** - When interviewing founders/entrepreneurs
+- **Tetragrammaton with Rick Rubin** - Creative entrepreneurs
+
+### **TIER 2: Subject-Specific Shows to Search For**
+
+**Entrepreneurship-Specific Podcasts:**
+- **Mixergy** - Andrew Warner interviewing founders
+- **Indie Hackers** - Bootstrapped founder interviews
+- **Smart Passive Income** - Pat Flynn (if expert guests, not solo)
+- **My First Million** - Sam Parr & Shaan Puri, business ideas
+- **Startups For the Rest of Us** - Bootstrapped SaaS
+- **The Side Hustle Show** - If features credible entrepreneur guests
+- **Entrepreneurs on Fire** - John Lee Dumas (check for expert guests)
+- **The Startup Chat** - Steli Efti & Hiten Shah
+- **The GaryVee Audio Experience** - When interviewing founders (not solo rants)
+- **Online Marketing Made Easy** - Amy Porterfield (if expert guests)
+
+**E-commerce & Physical Products:**
+- **eCommerce Fuel**
+- **The Amazing Seller**
+- **Shopify Masters**
+
+**Content & Creator Economy:**
+- **Creator Economy** podcasts
+- **The Tim Ferriss Show** (many content creators)
+
+**Growth & Marketing (when founder-focused):**
+- **Marketing School** (Neil Patel & Eric Siu)
+- **Everyone Hates Marketers**
+- **Demand Gen Radio**
+
+---
+
+## 4. Search Strategy: 27 Diverse Queries
+
+### **STRATEGY A: High-Quality Podcast + Topic (9 searches)**
+
+1. `"How I Built This" side hustle`
+2. `"How I Built This" bootstrapped`
+3. `"Tim Ferriss" entrepreneur founder`
+4. `"Masters of Scale" early stage`
+5. `"Lenny's Podcast" startup founder`
+6. `"Invest Like the Best" founder CEO`
+7. `"a16z" entrepreneur startup`
+8. `"20VC" founder early stage`
+9. `"The Knowledge Project" business founder`
+
+### **STRATEGY B: Topic + Expertise Signals (8 searches)**
+
+10. `side hustle founder CEO`
+11. `entrepreneurship founder interview`
+12. `startup founder bootstrapped`
+13. `business founder co-founder`
+14. `entrepreneur built company`
+15. `startup CEO launch`
+16. `business founder million revenue`
+17. `entrepreneur author interview`
+
+### **STRATEGY C: Specific Subtopics + Interview/Expert (7 searches)**
+
+18. `product market fit founder expert`
+19. `validate business idea entrepreneur`
+20. `launch startup founder interview`
+21. `scale business founder CEO`
+22. `first customers startup founder`
+23. `pricing strategy founder expert`
+24. `growth tactics founder interview`
+
+### **STRATEGY D: Academic/Author (3 searches)**
+
+25. `entrepreneurship professor interview`
+26. `startup author book interview`
+27. `business strategy author founder`
+
+**Total: 27 searches** (comprehensive coverage)
+
+---
+
+## 5. Expertise Indicators to Look For
+
+### **PRIMARY CREDENTIALS (Must Have at Least One):**
+
+**✅ Founder Credentials:**
+- "Founder of [Company Name]"
+- "Co-founder and CEO of..."
+- "Started [Company] in [year]"
+- "Built [Company] to $X million/billion"
+- "Bootstrapped [Company] to..."
+- "Serial entrepreneur, founded..."
+- "Sold [Company] to [Acquirer]"
+- "Exited [Company] for $X"
+
+**✅ Author Credentials:**
+- "Author of [Business Book Title]"
+- "Wrote [Book] on entrepreneurship"
+- "New York Times bestselling author of..."
+- Known business books: "Zero to One", "The Lean Startup", "$100 Startup", "Company of One", etc.
+
+**✅ Investor Credentials:**
+- "Partner at [VC Firm]"
+- "Investor in [Notable Companies]"
+- "Portfolio includes [Companies]"
+- "General Partner at..."
+- "Angel investor, backed..."
+
+**✅ Executive Credentials:**
+- "CEO of [Company]"
+- "President/COO of [Company]"
+- "VP of Growth at [Company]"
+- "Head of Product at [Company]"
+- "Chief [Role] Officer at [Notable Company]"
+
+**✅ Academic Credentials (Less Common for This Topic):**
+- "Professor of Entrepreneurship at [University]"
+- "Teaches at [Business School]"
+- "Research on startups/entrepreneurship"
+
+**✅ Track Record Indicators:**
+- "Grew [Company] from X to Y"
+- "Scaled to [revenue/users milestone]"
+- "Exit to [Acquirer]"
+- "Raised $X from [Investors]"
+- "[Number] successful companies"
+- "Generated $X in revenue"
+
+### **SECONDARY SIGNALS (Supporting Evidence):**
+
+**✅ Format Confirmation:**
+- "[Host] interviews [Guest Name]"
+- "[Guest Name] joins to discuss"
+- "Sits down with [Guest Name]"
+- "[Host] talks to [Founder Name]"
+
+**✅ Credibility Boosters:**
+- Featured in [Forbes/Inc/Fast Company]
+- TED talk speaker
+- Conference keynote (SXSW, Web Summit, etc.)
+- Regular contributor to [Business Publication]
+- Advisor to [Notable Companies]
+- "Built multiple companies"
+
+**✅ Practical Experience:**
+- "Started with $X" (shows bootstrapped beginning)
+- "Quit day job to..."
+- "Failed [number] times before..."
+- "First customer was..."
+- Specific metrics shared (revenue, users, growth rate)
+
+### **RED FLAGS - IMMEDIATE REJECTION:**
+
+**❌ Format Issues:**
+- "I discuss..." (host monologue)
+- "We break down..." (no guest mentioned)
+- "Two friends talking about..."
+- No guest name in description
+
+**❌ Lack of Credentials:**
+- Just "entrepreneur" with no company/track record
+- "Enthusiast", "passionate about business"
+- "Aspiring entrepreneur"
+- Generic motivational content
+- No specific achievements mentioned
+
+**❌ Quality Concerns:**
+- Spiritual/mystical business advice ("manifest your success")
+- MLM or pyramid scheme content
+- Get-rich-quick schemes
+- Cryptocurrency/NFT hype (unless from credible tech founder)
+- Generic self-help without business expertise
+- "Guru" or "life coach" without business track record
+
+**❌ Podcast Quality:**
+- Amateur production (unless exceptional guest)
+- Very low follower count (<1000, unless exceptional)
+- No established reputation
+- Clickbait titles without substance
+
+### **SCORING FRAMEWORK:**
+
+**⭐⭐⭐ EXCELLENT (Use First):**
+- Famous founder (exits, notable companies)
+- Top 200 podcast (How I Built This, Tim Ferriss, Masters of Scale)
+- Multiple credentials (founder + author, investor + founder)
+- Specific achievements with numbers
+- Clear interview format with named guest
+- Example: "Sara Blakely, founder of Spanx, joins How I Built This to discuss bootstrapping to $1 billion"
+
+**⭐⭐ GOOD (Solid Backup):**
+- Founder with one successful venture (specific company named)
+- Reputable podcast (recognized name or topic-specific)
+- One strong credential (author OR founder OR investor)
+- Clear track record even if not famous
+- Example: "John Doe, founder of XYZ Company (grew to $5M revenue), discusses launching his first product"
+
+**⭐ ACCEPTABLE (Use Only If Needed):**
+- Entrepreneur with some track record (vague details)
+- Less known podcast but legitimate
+- Relevant experience even if not spectacular
+- Example: "Founder shares lessons from building e-commerce business"
+
+**❌ REJECT (Never Use):**
+- No credentials
+- Host monologue
+- Spiritual/mystical/guru content
+- Generic advice without expertise
+- Amateur/low-quality podcast
+
+---
+
+## 6. Diversity Requirements
+
+**Podcast Diversity:**
+- 18 different podcasts across all 3 levels
+- Maximum 1 episode per podcast per level (ideally 1 per entire course)
+- Prioritize variety in perspectives
+
+**Expert Diversity:**
+- Different founders/experts across episodes
+- Variety of business types (e-commerce, SaaS, content, services, etc.)
+- Mix of bootstrapped vs. VC-backed experiences
+- Include diverse backgrounds (gender, geography, industry)
+- Avoid same expert appearing multiple times
+
+**Content Diversity:**
+- Different aspects of entrepreneurship
+- Various business models
+- Multiple industries represented
+- Range of company sizes/scales
+
+---
+
+## 7. Course Description Framework
+
+When writing final course description, emphasize:
+
+**Paragraph 1: What You'll Learn**
+- Complete journey from idea to scaled income stream
+- Practical frameworks from real founders
+- Testing, launching, scaling with purpose
+
+**Paragraph 2: Who You'll Learn From**
+- Founders who built [specific companies/achievements]
+- Investors with [portfolio/track record]
+- Authors of [business books]
+- Executives from [notable companies]
+- Real practitioners, not theorists
+
+**Paragraph 3: Why This Progression Works**
+- Beginner: Mindset, validation, getting started (stories from accessible founders)
+- Intermediate: Launch, marketing, first customers (tactical operators)
+- Advanced: Scale, systems, portfolio approach (serial entrepreneurs, VCs)
+
+**Paragraph 4: Course Credibility**
+- Curated from [number] episodes
+- Only expert practitioners with proven track records
+- Focuses on purpose-driven income streams, not get-rich-quick
+- Balanced between inspiration and practical tactics
+
+---
+
+## 8. Quality Assurance Focus Areas
+
+**For This Topic Specifically:**
+
+**✅ Prioritize:**
+- Founders who bootstrapped (more relevant to side hustlers)
+- Specific revenue/growth numbers (proves credibility)
+- Recent episodes (current tactics, not outdated advice)
+- Variety of business models (not all tech/SaaS)
+
+**⚠️ Watch Out For:**
+- Passive income "gurus" without track records
+- Cryptocurrency/NFT hype cycles
+- MLM or affiliate marketing schemes
+- Get-rich-quick or overnight success stories
+- Generic productivity advice without business focus
+
+**🎯 Ideal Guest Profile:**
+- Built profitable business from scratch
+- Can share specific numbers and tactics
+- Failed before succeeding (authenticity)
+- Relatable journey (not just billion-dollar exits)
+- Currently operating or actively involved in business

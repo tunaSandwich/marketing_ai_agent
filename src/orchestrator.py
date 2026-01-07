@@ -266,19 +266,43 @@ class GrowthOrchestrator:
         time.sleep(wait_seconds)
     
     def run_discovery_cycle(self) -> dict:
-        """Legacy method for backward compatibility."""
-        logger.warning("run_discovery_cycle is deprecated - use run() for unified engagement")
+        """Run a single unified cycle (scheduler-friendly).
         
-        # Run a single engagement cycle
-        result = self.engagement_manager.run_engagement_cycle()
+        This performs:
+          1) One engagement cycle
+          2) One discovery cycle if due and allowed by account state
         
-        return {
-            "cycle_type": result.cycle_type,
-            "health_score": result.health_score,
-            "helpful_comments": len(result.helpful_comments_posted),
-            "promotional_comments": len(result.promotional_comments_posted),
-            "errors": len(result.errors),
+        Returns:
+            Dict with aggregated stats for this invocation
+        """
+        # Engagement cycle (always)
+        engagement_result = self.engagement_manager.run_engagement_cycle()
+        self._log_cycle_result(engagement_result)
+        
+        aggregated = {
+            "cycle_type": engagement_result.cycle_type,
+            "health_score": engagement_result.health_score,
+            "helpful_comments": len(engagement_result.helpful_comments_posted),
+            "promotional_comments": len(engagement_result.promotional_comments_posted),
+            "errors": len(engagement_result.errors),
+            "discovery_ran": False,
         }
+        
+        # Discovery (every ~2 hours, ACTIVE-only)
+        current_time = datetime.now()
+        if self._should_run_discovery(current_time):
+            discovery_result = self.engagement_manager.run_discovery_cycle()
+            self._log_cycle_result(discovery_result)
+            self.last_discovery_cycle = current_time
+            
+            # Aggregate counts
+            aggregated["discovery_ran"] = discovery_result.cycle_type.startswith("discovery")
+            aggregated["helpful_comments"] += len(discovery_result.helpful_comments_posted)
+            aggregated["promotional_comments"] += len(discovery_result.promotional_comments_posted)
+            aggregated["errors"] += len(discovery_result.errors)
+            # health_score remains the same-scale metric; keep last computed
+        
+        return aggregated
     
     def maintain_engagement_ratio(self) -> dict:
         """Legacy method - engagement now handled by unified system.

@@ -92,11 +92,33 @@ class RedditEngagementManager:
         self.strategy_manager = EngagementStrategyManager()
         
         # Initialize subreddit selector
+        # Extend Tier 1 with supplemental (subject-derived) subreddits so the agent
+        # can begin exploring a broader, learning-focused set early on.
+        try:
+            from .supplemental_subs import load_flattened_subject_subreddits
+            supplemental = load_flattened_subject_subreddits(limit=200)
+        except Exception as e:
+            logger.warning(f"Could not load supplemental subreddits: {e}")
+            supplemental = []
+        
+        # Merge and de-duplicate while preserving original tier1 order preference
+        tier1_merged: list[str] = []
+        seen: set[str] = set()
+        for sub in brand_config.subreddits_tier1 + supplemental:
+            key = sub.strip()
+            if key and key not in seen:
+                seen.add(key)
+                tier1_merged.append(key)
+        
         self.subreddit_selector = SubredditSelector(
-            tier1_subreddits=brand_config.subreddits_tier1,
+            tier1_subreddits=tier1_merged,
             tier2_subreddits=brand_config.subreddits_tier2,
             tier3_subreddits=brand_config.subreddits_tier3,
             cooldown_hours=2,
+        )
+        logger.info(
+            f"SubredditSelector Tier1 size: brand={len(brand_config.subreddits_tier1)}, "
+            f"supplemental+merged={len(tier1_merged)}"
         )
         
         # Track recent activity for quality scoring
@@ -353,6 +375,18 @@ class RedditEngagementManager:
         if not post:
             return None
         
+        # Log selected post context
+        try:
+            logger.info(
+                f"Selected post for reply in r/{subreddit}: "
+                f"id={getattr(post, 'id', '?')}, score={getattr(post, 'score', '?')}, "
+                f"title={getattr(post, 'title', '')[:180]}{'...' if len(getattr(post, 'title', '')) > 180 else ''}"
+            )
+            if hasattr(post, "url"):
+                logger.debug(f"Post URL: {post.url}")
+        except Exception:
+            pass
+        
         # Generate comment (REUSE EXISTING create_response_prompt)
         comment_text = self._generate_comment(
             post=post,
@@ -363,14 +397,35 @@ class RedditEngagementManager:
         if not comment_text:
             return None
         
+        # Log generated comment (preview + length)
+        try:
+            preview = comment_text[:500]
+            suffix = "..." if len(comment_text) > 500 else ""
+            logger.debug(
+                f"Generated {'promotional' if is_promotional else 'helpful'} comment "
+                f"({len(comment_text)} chars): {preview}{suffix}"
+            )
+        except Exception:
+            pass
+        
         # Validate comment
         if is_promotional:
-            if not self._validate_promotional_comment(comment_text):
-                logger.warning("Generated promotional comment failed validation")
+            is_valid, reasons = self._validate_promotional_comment_with_reasons(
+                comment_text, constraints=budget.comment_constraints
+            )
+            if not is_valid:
+                logger.warning(
+                    "Generated promotional comment failed validation: " + "; ".join(reasons[:5])
+                )
                 return None
         else:
-            if not self._validate_helpful_comment(comment_text):
-                logger.warning("Generated helpful comment failed validation")
+            is_valid, reasons = self._validate_helpful_comment_with_reasons(
+                comment_text, constraints=budget.comment_constraints
+            )
+            if not is_valid:
+                logger.warning(
+                    "Generated helpful comment failed validation: " + "; ".join(reasons[:5])
+                )
                 return None
         
         # Post comment

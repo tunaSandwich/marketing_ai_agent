@@ -1,0 +1,163 @@
+# Map high-level learning subjects to relevant subreddits
+# Keep names case-insensitive as Reddit treats them so; use canonical forms when known.
+
+subjects:
+  Quantum Physics:
+    - Physics
+    - QuantumPhysics
+    - PhysicsStudents
+    - askscience
+    - science
+
+  Physics:
+    - Physics
+    - PhysicsStudents
+    - askscience
+    - science
+    - astronomy
+
+  Mathematics:
+    - math
+    - learnmath
+    - statistics
+    - datascience
+
+  Machine Learning:
+    - MachineLearning
+    - datascience
+    - artificial
+    - learnpython
+    - Python
+
+  Programming:
+    - programming
+    - compsci
+    - coding
+    - learnprogramming
+    - webdev
+    - javascript
+    - learnjavascript
+    - Python
+    - devops
+    - SQL
+
+  Data Science:
+    - datascience
+    - MachineLearning
+    - analytics
+    - statistics
+    - Python
+
+  Astronomy:
+    - astronomy
+    - space
+    - science
+
+  Chemistry:
+    - chemistry
+    - science
+
+  Biology:
+    - biology
+    - microbiology
+    - neuroscience
+    - science
+
+  Neuroscience:
+    - neuroscience
+    - biology
+    - psychology
+
+  Economics:
+    - economics
+    - askeconomics
+    - personalfinance
+    - investing
+
+  Finance:
+    - personalfinance
+    - investing
+    - financialindependence
+    - learnfinance
+
+  Entrepreneurship:
+    - Entrepreneur
+    - startups
+    - smallbusiness
+    - ProductManagement
+    - marketing
+    - growthhacking
+
+  Marketing:
+    - marketing
+    - growthhacking
+    - startups
+
+  Product Management:
+    - ProductManagement
+    - startups
+    - Entrepreneur
+
+  Career Guidance:
+    - careerguidance
+    - getdisciplined
+    - productivity
+
+  History:
+    - history
+    - AskHistorians
+    - HistoryWhatIf
+
+  Philosophy:
+    - philosophy
+    - AskPhilosophy
+
+  Psychology:
+    - psychology
+    - sociology
+    - AskSocialScience
+
+  Education:
+    - education
+    - explainlikeimfive
+    - AskAcademia
+
+  Language Learning:
+    - languagelearning
+    - French
+    - spanish
+    - German
+    - ChineseLanguage
+    - Japanese
+
+  Medicine:
+    - medicine
+    - medicalschool
+    - medlabprofessionals
+    - nutrition
+
+  Fitness:
+    - Fitness
+    - running
+    - yoga
+    - meditation
+
+  Podcasts (General Discovery):
+    - podcasts
+    - podcasting
+    - podcast
+    - podcastsuggestions
+    - PodcastAddict
+    - ComedyPodcasts
+    - TrueCrimePodcasts
+    - HistoryPodcasting
+
+  True Crime:
+    - TrueCrime
+    - TrueCrimePodcasts
+
+  Books and Documentaries:
+    - BookSuggestions
+    - Documentaries
+
+

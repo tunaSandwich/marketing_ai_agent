@@ -1,0 +1,222 @@
+# Psychology of Decision Making - Course Plan
+
+## Course Purpose
+Create a comprehensive learning path on decision-making psychology, covering cognitive biases, heuristics, intuition vs. rational thinking, and evidence-based strategies for making smarter choices. The course will feature world-class behavioral economists, psychologists, and neuroscientists being interviewed about their research and insights.
+
+## Learning Objectives
+
+### Beginner Level (Foundational Concepts)
+- Understand System 1 (fast, intuitive) vs System 2 (slow, analytical) thinking
+- Learn core cognitive biases: anchoring, availability heuristic, confirmation bias, recency bias
+- Understand loss aversion and why we fear losses more than we value gains
+- Explore common decision-making traps in everyday life
+- Learn basic heuristics (mental shortcuts) and when they help vs. hurt
+
+**Target episodes:** Accessible interviews with top experts on popular podcasts (Lex Fridman, Huberman Lab, Tim Ferriss interviewing Kahneman, Ariely, Thaler, etc.)
+
+### Intermediate Level (Mechanisms & Applications)
+- Deep dive into prospect theory and how we evaluate risk
+- Understand framing effects and how presentation changes decisions
+- Learn about choice architecture and nudges
+- Explore mental accounting and sunk cost fallacy
+- Understand social proof, defaults, and environmental influences on choices
+- Learn practical applications in business, health, and personal life
+
+**Target episodes:** Subject-specific podcasts (Hidden Brain, Freakonomics, Choiceology) interviewing domain experts and practitioners
+
+### Advanced Level (Research Frontiers & Neuroscience)
+- Explore neuroeconomics: brain mechanisms behind decision-making
+- Understand bounded rationality and ecological rationality
+- Learn about predictive processing and Bayesian brain theories
+- Explore group decision-making and collective intelligence
+- Understand AI decision-making vs. human judgment
+- Examine philosophical questions: free will, determinism, and responsibility
+- Learn about improving institutional and organizational decisions
+
+**Target episodes:** Academic podcasts, research-focused shows, conferences featuring cutting-edge neuroscience and behavioral economics research
+
+## High-Quality Podcasts to Target
+
+### Top Interview Podcasts (Beginner-friendly)
+- Lex Fridman Podcast
+- Huberman Lab
+- Tim Ferriss Show
+- Making Sense (Sam Harris)
+- The Knowledge Project
+- On Being
+- TED Talks Daily
+- Hidden Brain (NPR)
+
+### Behavioral Science & Economics Podcasts
+- Freakonomics
+- Hidden Brain
+- Choiceology (Charles Schwab)
+- The Happiness Lab (Dr. Laurie Santos)
+- Planet Money
+- The Prof G Pod
+
+### Science & Psychology Podcasts
+- Sean Carroll's Mindscape
+- Very Bad Wizards
+- Rationally Speaking
+- You Are Not So Smart
+- The Psychology Podcast
+
+### Business & Decision-Making
+- The Knowledge Project
+- Invest Like the Best
+- Masters of Scale
+- a16z Podcast (when relevant)
+
+## Target Expert Guests
+
+### Nobel Laureates & World-Class Researchers
+- Daniel Kahneman (Princeton, Nobel Prize, "Thinking Fast and Slow")
+- Richard Thaler (Chicago, Nobel Prize, behavioral economics, nudges)
+- Amos Tversky (posthumous - episodes discussing his work)
+
+### Leading Behavioral Economists
+- Dan Ariely (Duke, predictably irrational)
+- Cass Sunstein (Harvard, nudges, choice architecture)
+- George Loewenstein (CMU, behavioral economics)
+- Sendhil Mullainathan (Chicago, scarcity)
+
+### Decision Science & Psychology Researchers
+- Gerd Gigerenzer (Max Planck Institute, fast and frugal heuristics)
+- Angela Duckworth (Penn, grit and self-control)
+- Barry Schwartz (Swarthmore, paradox of choice)
+- Philip Tetlock (Penn, forecasting and judgment)
+- Annie Duke (professional poker player, decision strategist, author)
+- Julia Galef (rationality researcher, Scout Mindset)
+
+### Neuroscientists
+- Paul Glimcher (NYU, neuroeconomics)
+- Read Montague (Virginia Tech, computational neuroscience)
+- Michael Platt (Penn, decision neuroscience)
+
+### Psychologists & Cognitive Scientists
+- Gary Klein (naturalistic decision-making)
+- Keith Stanovich (rationality researcher)
+- Jonathan Haidt (NYU/Stern, moral psychology)
+
+## Search Strategy (20-25 Searches)
+
+### Strategy A: High-Quality Podcast + Topic (Priority: Highest)
+1. "Lex Fridman decision making"
+2. "Lex Fridman Daniel Kahneman"
+3. "Lex Fridman cognitive bias"
+4. "Huberman Lab decision making"
+5. "Hidden Brain cognitive bias"
+6. "Tim Ferriss decision making"
+7. "Making Sense Sam Harris decision"
+8. "Knowledge Project decision making"
+9. "Freakonomics behavioral economics"
+10. "TED talk cognitive bias"
+
+### Strategy B: Topic + Expertise Signals
+11. "decision making psychologist interview"
+12. "behavioral economics professor"
+13. "cognitive biases researcher"
+14. "neuroeconomics scientist"
+15. "judgment and decision making expert"
+16. "choice architecture founder"
+17. "prospect theory Nobel prize"
+
+### Strategy C: Specific Concepts + Expert
+18. "System 1 System 2 thinking interview"
+19. "loss aversion psychology"
+20. "anchoring bias expert"
+21. "nudge theory Thaler Sunstein"
+22. "heuristics biases Kahneman"
+23. "rational decision making Gigerenzer"
+
+### Strategy D: Famous Names
+24. "Daniel Kahneman interview"
+25. "Richard Thaler interview"
+26. "Dan Ariely interview"
+27. "Angela Duckworth decision"
+28. "Cass Sunstein nudge"
+
+### Strategy E: Academic/Research
+29. "behavioral economics research"
+30. "decision neuroscience Stanford MIT"
+
+## Topic Keywords & Subtopics
+
+### Core Concepts
+- Decision making, decision science, judgment
+- Cognitive biases, heuristics, mental shortcuts
+- System 1, System 2, dual process theory
+- Behavioral economics, neuroeconomics
+- Rationality, bounded rationality, ecological rationality
+
+### Specific Biases
+- Anchoring, adjustment, availability heuristic
+- Confirmation bias, hindsight bias, recency bias
+- Loss aversion, endowment effect, status quo bias
+- Sunk cost fallacy, planning fallacy
+- Dunning-Kruger effect, overconfidence
+
+### Frameworks & Theories
+- Prospect theory, expected utility theory
+- Framing effects, reference points
+- Choice architecture, nudges
+- Mental accounting, fungibility
+- Fast and frugal heuristics
+
+### Applications
+- Decision strategies, decision hygiene
+- Forecasting, prediction, superforecasting
+- Risk assessment, probability judgment
+- Group decisions, collective intelligence
+- AI decision-making, algorithmic decisions
+
+## Expertise Indicators to Look For
+
+### Academic Credentials
+- Professor of Psychology, Economics, Neuroscience
+- Nobel Prize winner or nominee
+- Director of behavioral science lab/center
+- Published researcher in top journals (Science, Nature, PNAS)
+- University affiliations: Princeton, Harvard, MIT, Stanford, Chicago, Duke, Penn, CMU
+
+### Professional Authority
+- Author of major books ("Thinking Fast and Slow", "Nudge", "Predictably Irrational")
+- TED speaker with millions of views
+- Consultant to governments or major organizations
+- Founder of behavioral insights teams
+
+### Research Accomplishments
+- Pioneered prospect theory, dual process theory, or other major frameworks
+- Decades of research in decision science
+- Winner of major psychology/economics awards
+- Cited thousands of times in academic literature
+
+## Quality Assurance Checklist
+
+Before finalizing, verify:
+- [ ] All 18 episodes feature identifiable expert guests with credentials documented
+- [ ] Each episode has specific expertise signals (job title, affiliation, research area)
+- [ ] All episodes are interview format (not solo monologues)
+- [ ] All 18 podcasts are different (maximum diversity)
+- [ ] No life coaches or self-help gurus without research background
+- [ ] No spiritual/mystical interpretations of cognitive science
+- [ ] Prioritized Top 200 podcasts or recognized behavioral science shows
+- [ ] Beginner episodes are accessible (famous hosts interviewing top experts)
+- [ ] Intermediate episodes go deeper into mechanisms and applications
+- [ ] Advanced episodes feature cutting-edge research and neuroscience
+- [ ] Logical progression within each level
+- [ ] Course description emphasizes scientific rigor and expert credentials
+- [ ] Broad panel of different experts (not same guest repeated)
+
+## Red Flags to Avoid
+- Generic "life coach" or "success coach" without research credentials
+- Podcasts mixing decision science with manifestation/law of attraction
+- Episodes explaining Wikipedia articles without expert guests
+- Casual conversations between non-experts
+- Business podcasts covering topic superficially
+- Amateur podcasts with low production quality
+- Episodes where decision-making is tangential, not central
+
+## Expected Outcome
+A world-class course featuring interviews with Nobel Prize winners, Ivy League professors, and leading researchers in behavioral economics, cognitive psychology, and neuroscience. Listeners will progress from understanding basic biases to advanced decision neuroscience, learning from the scientists who discovered these principles.

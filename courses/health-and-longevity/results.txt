@@ -1,0 +1,352 @@
+# Health and Longevity Course - Search Results
+
+This document contains all search results from 22+ comprehensive searches across multiple strategies.
+
+---
+
+## SEARCH 1: "Huberman Lab aging"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 23925880 | Podcast ID: 214092
+   Title: "Huberman Lab"
+   Description: The Huberman Lab Podcast discusses neuroscience: how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health. Dr. Andrew Huberman is a tenured Professor of Neurobiology and Ophthalmology at Stanford School of Medicine.
+
+2. Episode ID: 62871713 | Podcast ID: 466055
+   Title: "'Huberman Lab'"
+   Description: Katey and Quigley discuss an episode of "Huberman Lab," a science-driven podcast hosted by Stanford neurobiologist Andrew Huberman.
+
+---
+
+## SEARCH 2: "Huberman Lab longevity"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+[Similar results as above - Huberman Lab podcast episodes]
+
+---
+
+## SEARCH 3: "Huberman Lab sleep"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+[Similar results - Huberman Lab podcast episodes focused on sleep]
+
+---
+
+## SEARCH 4: "Peter Attia exercise"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 36319022 | Podcast ID: 285489
+   Title: "67. Dr. Peter Attia and Exercise"
+   Description: In this episode, I am sharing something I recently learned from Dr. Peter Attia about exercise and its importance to longevity.
+
+2. Episode ID: 2466945 | Podcast ID: 49321
+   Title: "Sleep, Exercise & Nutrition (Dr. Peter Attia)"
+   Description: Dr. Peter Attia is the founder of Early Medical, a medical practice with the goal of lengthening patients' lifespan and simultaneously improving their healthspan.
+
+3. Episode ID: 23127776 | Podcast ID: 175447
+   Title: "Dr. Peter Attia: Exercise, Nutrition, Hormones for Vitality & Longevity"
+   Description: My guest this episode is Dr. Peter Attia, M.D., who trained at Stanford University School of Medicine, Johns Hopkins Hospital and the National Institutes of Health (NIH). Dr. Attia is host of The Drive podcast and is a world expert on behavioral approaches, nutritional interventions, supplementation and pharmacological techniques to improve lifespan, healthspan and athletic performance.
+
+---
+
+## SEARCH 5: "Peter Attia nutrition"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 68910986 | Podcast ID: 532394
+   Title: "Peter Attia On Nutrition and Fasting"
+
+2. Episode ID: 2466945 | Podcast ID: 49321
+   Title: "Sleep, Exercise & Nutrition (Dr. Peter Attia)"
+
+3. Episode ID: 23127776 | Podcast ID: 175447
+   Title: "Dr. Peter Attia: Exercise, Nutrition, Hormones for Vitality & Longevity"
+   (Same as above - comprehensive episode on Huberman Lab)
+
+---
+
+## SEARCH 6: "Found My Fitness longevity"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+Note: Many results were general fitness/longevity content, not specific Found My Fitness episodes.
+
+---
+
+## SEARCH 7: "Rhonda Patrick aging"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 46187379 | Podcast ID: 11618
+   Title: "#086 How Micronutrients & Exercise Ameliorate Aging | Dr. Rhonda Patrick"
+   Description: Download the 9-Page "Cognitive Enhancement Blueprint" - Join over 300,000 people... In today's episode, I'm bringing you along to the American Academy of Anti-Aging Medicine's Longevityfest Conference, where I had the honor of presenting a keynote last December.
+
+2. Episode ID: 425756 | Podcast ID: 11618
+   Title: "Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging"
+
+3. Episode ID: 16085323 | Podcast ID: 11618
+   Title: "#010 Dr. Aubrey de Grey and Dr. Rhonda Patrick Talk Aging"
+   Description: Dr. Aubrey de Grey is a biomedical gerontologist and the founder of the SENS research foundation. In this episode, we discuss sirtuins, inflammation, parabiosis, lifestyle factors, Crispr/Cas9, and pluripotent stem cells.
+
+---
+
+## SEARCH 8: "Lex Fridman longevity"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+Most results were general Lex Fridman podcast episodes, not specifically longevity-focused. Would need to search for specific longevity expert guests on Lex Fridman.
+
+---
+
+## SEARCH 9: "Tim Ferriss longevity"
+**Strategy**: Top Health Podcasts + Topic
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+General Tim Ferriss Show episodes. Would need more specific guest searches.
+
+---
+
+## SEARCH 10: "aging researcher interview"
+**Strategy**: Topic + Expertise Signals
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+Various aging researcher interviews across different podcasts.
+
+---
+
+## SEARCH 11: "longevity scientist professor"
+**Strategy**: Topic + Expertise Signals
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 63710822 | Podcast ID: 376558
+   Title: "Longevity Scientist Critiques Mike Israetel's 'Exercise Scientist Critiques' | 51 - Longevity Reacts"
+   Description: Dr. Matt Kaeberlein, Head of the Department of Health, Human Performance and Recreation, Professor of Exercise Science at the University of Arkansas-Fayetteville discusses longevity.
+
+---
+
+## SEARCH 12: "sleep scientist interview"
+**Strategy**: Topic + Expertise Signals
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 12235576 | Podcast ID: 100942
+   Title: "MATTHEW WALKER (SLEEP SCIENTIST)"
+
+---
+
+## SEARCH 13: "nutrition researcher PhD"
+**Strategy**: Topic + Expertise Signals
+**Results**: 10,000 total matches
+
+Various nutrition researchers across podcasts.
+
+---
+
+## SEARCH 14: "exercise science professor"
+**Strategy**: Topic + Expertise Signals
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 64945248 | Podcast ID: 487758
+   Title: "4. Science of Exercise Motivation | Professor Nikos Ntoumanis"
+   Description: Nikos Ntoumanis is a Professor of Motivation Science at the University of Southern Denmark.
+
+---
+
+## SEARCH 15: "cardiovascular health cardiologist"
+**Strategy**: Topic + Expertise Signals
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 6798632 | Podcast ID: 139248
+   Title: "Cardiologist, Dr. Mark Fisher - Cardiovascular Health During a Pandemic"
+
+---
+
+## SEARCH 16: "autophagy fasting science"
+**Strategy**: Specific Mechanisms + Interview
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 14013419 | Podcast ID: 8793
+   Title: "Fasting, Autophagy & Gut Health: new science and practical tips"
+   Description: New research highlights a critical interplay between autophagy and gut health.
+
+---
+
+## SEARCH 17: "NAD+ sirtuins researcher"
+**Strategy**: Specific Mechanisms + Interview
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 28223535 | Podcast ID: 247677
+   Title: "Is NAD+ The Secret To Longevity? What Are Sirtuins?"
+
+2. Episode ID: 788915 | Podcast ID: 22593
+   Title: "#27 - David Sinclair, Ph.D.: Slowing aging – sirtuins, NAD, and the epigenetics of aging"
+   Description: David A. Sinclair, Ph.D., a Professor in the Department of Genetics at Harvard Medical School and co-Director of the Paul F. Glenn Center for the Biological Mechanisms of Aging.
+
+---
+
+## SEARCH 18: "cellular senescence scientist"
+**Strategy**: Specific Mechanisms + Interview
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 21687224 | Podcast ID: 207310
+   Title: "Cellular senescence in aging and disease (Dr. Marco Demaria)"
+   Description: Dr. Marco Demaria is an Associate Professor in Cellular Ageing at the Medical Faculty of the University of Groningen. He discusses senescence, senolytics, and how senescent cells could be the cause of COVID severity in older people.
+
+2. Episode ID: 85307943 | Podcast ID: 644199
+   Title: "#16 Cancer, Cellular Senescence & Senolytics | Dr. Peter Adams"
+   Description: Dr. Peter Adams, Professor at Sanford Burnham Prebys Medical Discovery Institute, expert in the biology of aging and cancer.
+
+---
+
+## SEARCH 19: "mitochondrial health interview"
+**Strategy**: Specific Mechanisms + Interview
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 63984968 | Podcast ID: 476636
+   Title: "Mitochondrial Health"
+   Description: Dr. Rogers talks about the conditions mitochondrial dysfunction can cause.
+
+---
+
+## SEARCH 20: "David Sinclair aging"
+**Strategy**: Named Experts
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 20722694 | Podcast ID: 11710
+   Title: "David Sinclair: Reversing the Aging Process"
+   Description: Biologist and genetics expert Dr. David Sinclair is out to prove he can live past 100 years old. Dr. Sinclair is a professor of genetics and co-director of the Paul F. Glenn Center for Biology of Aging Research at Harvard Medical School.
+
+2. Episode ID: 71380349 | Podcast ID: 116832
+   Title: "David Sinclair: The Science of Aging"
+   Description: Renowned geneticist and author of Lifespan, Dr. David Sinclair shares his cutting-edge research on epigenetics and how we can potentially reverse aging effects.
+
+3. Episode ID: 446431 | Podcast ID: 11754
+   Title: "Slowing Down the Aging Process | Dr. David Sinclair"
+   Description: David Sinclair, professor in the Department of Genetics at Harvard Medical School, discusses longevity, aging, sirtuins, NAD, metabolism, and cellular reprogramming.
+
+---
+
+## SEARCH 21: "Matthew Walker sleep"
+**Strategy**: Named Experts
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 12235576 | Podcast ID: 100942
+   Title: "MATTHEW WALKER (SLEEP SCIENTIST)"
+
+2. Episode ID: 23752876 | Podcast ID: 213388
+   Title: "Matthew Walker: Rethinking Sleep"
+   Description: Scientist Walker proposes a radical rediscovery of how, when and why we sleep.
+
+3. Episode ID: 16140249 | Podcast ID: 182127
+   Title: "Matthew Walker: Why We Sleep"
+   Description: Award-winning neuroscientist Matthew Walker reveals his groundbreaking exploration of sleep.
+
+---
+
+## SEARCH 22: "Valter Longo fasting"
+**Strategy**: Named Experts
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 21069939 | Podcast ID: 204640
+   Title: "Fasting with Professor Valter Longo"
+
+2. Episode ID: 39850526 | Podcast ID: 298577
+   Title: "Fasting Cancer, with Valter Longo"
+   Description: Valter Longo is a biochemist researching aging and longevity for 30 years. Director and Professor at the Longevity Institute, University of Southern California.
+
+3. Episode ID: 83993393 | Podcast ID: 14942
+   Title: "#499 - Valter Longo on FASTING CANCER"
+   Description: Valter Longo, PhD, director of the Longevity Center at USC, discusses fasting and cancer prevention.
+
+4. Episode ID: 447346 | Podcast ID: 1227
+   Title: "Fasting For Longevity With Valter Longo, Ph.D."
+   Description: Valter Longo, one of the world's leading scientific authorities on longevity, Director of the USC Longevity Institute. 25 years of research on aging, nutrition and disease.
+
+---
+
+## SEARCH 23: "Andy Galpin exercise"
+**Strategy**: Named Experts
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 2888874 | Podcast ID: 56682
+   Title: "Exercise Programming and Self-Development with Dr. Andy Galpin"
+
+2. Episode ID: 8345527 | Podcast ID: 38726
+   Title: "Dr. Andy Galpin"
+   Description: Dr. Galpin is a professor of Kinesiology at the Center for Sport Performance at California State University, Fullerton. Ph.D. in Human Bioenergetics, founder and director of the Biochemistry and Molecular Exercise Laboratory.
+
+3. Episode ID: 32583818 | Podcast ID: 38679
+   Title: "Exercise Is Not About 'Not Being Fat' ft. Andy Galpin"
+   Description: Deep dive into all things exercise with world-renowned expert Professor Andy Galpin.
+
+---
+
+## SEARCH 24: "Satchin Panda circadian"
+**Strategy**: Named Experts
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 13712883 | Podcast ID: 176333
+   Title: "Circadian rhythms: Professor Satchin Panda"
+   Description: Dr Panda is Professor at the Salk Institute for Biological Sciences in California – and a leading expert in the field of circadian rhythms.
+
+2. Episode ID: 68796191 | Podcast ID: 531077
+   Title: "The Circadian Code with Satchin Panda"
+
+3. Episode ID: 49137920 | Podcast ID: 311283
+   Title: "Satchin Panda: The Age of Circadian Disruption"
+   Description: Satchin Panda, PhD, professor at the Salk Institute, leading expert in circadian rhythm research.
+
+---
+
+## SEARCH 25: "VO2 max longevity"
+**Strategy**: Specific Mechanisms
+**Results**: 10,000 total matches
+
+TOP RESULTS:
+1. Episode ID: 23007534 | Podcast ID: 22593
+   Title: "#217 ‒ Exercise, VO2 max, and longevity | Mike Joyner, M.D."
+   Description: Mike Joyner, physician-researcher and leading expert on human performance and exercise physiology, discusses VO2 max and longevity.
+
+2. Episode ID: 91057654 | Podcast ID: 686206
+   Title: "Longevity: VO2 Max + Cardiovascular Fitness"
+
+3. Episode ID: 83332693 | Podcast ID: 527172
+   Title: "VO2 Max and Longevity with Dr. Phil Batterson"
+   Description: Dr. Phil Batterson, PhD, leading exercise physiologist, discusses VO2 max and its critical role in longevity.
+
+---
+
+## SUMMARY OF SEARCHES COMPLETED:
+Total searches: 25+
+Total episodes found: 10,000+ per search
+Strategy coverage:
+✓ Top health podcasts (Huberman, Attia, Fridman, Ferriss)
+✓ Topic + expertise signals (researchers, professors, PhDs)
+✓ Specific mechanisms (autophagy, NAD+, senescence, mitochondria)
+✓ Named experts (Sinclair, Walker, Longo, Galpin, Panda)
+✓ Specific health topics (VO2 max, cardiovascular, exercise, sleep)
+
+Next step: Evaluate episodes for expertise signals and select top 18 for the course.

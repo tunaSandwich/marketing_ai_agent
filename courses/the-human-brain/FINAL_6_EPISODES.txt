@@ -1,0 +1,259 @@
+# FINAL 6 EPISODES TO COMPLETE THE HUMAN BRAIN COURSE
+
+Date: 2025-10-14
+Status: All episodes verified and ready to add
+
+---
+
+## BEGINNER LEVEL (2 Episodes)
+
+### EPISODE 5: Language in the Brain
+**Episode ID:** 22201519
+**Title:** "70: Language in the brain - Interview with Ev Fedorenko"
+**Podcast:** Linguicity (ID: 36617)
+
+**Guest:** Dr. Evelina Fedorenko
+- Associate Professor of Neuroscience at Massachusetts Institute of Technology (MIT)
+- Research focuses on which parts of the brain do language processing
+- Uses fMRI brain scanning to study language networks
+- Compares language with other brain functions (visual puzzles, math, music, theory of mind)
+- Studies multilingual brain processing
+
+**Expertise Signals:**
+✅ Associate Professor at MIT (top institution)
+✅ Neuroscience department affiliation
+✅ fMRI brain imaging expertise
+✅ Published researcher on language and brain
+✅ Interview format with host Gretchen McCulloch
+
+**Level:** BEGINNER
+**Topics:** Language processing, brain networks, multilingualism, fMRI
+
+**What Listener Will Learn:**
+- How the brain processes and produces language
+- Which brain regions are specialized for language
+- How multilingual brains process different languages
+- How language relates to other brain functions (math, music, reasoning)
+- Introduction to brain scanning technology (fMRI)
+
+**Quality Rating:** ⭐⭐⭐ EXCELLENT
+**Decision:** STRONG CANDIDATE - MIT professor, accessible topic, clear interview format
+
+---
+
+### EPISODE 6: Adolescent Brain Development
+**Episode ID:** 18444981
+**Title:** "Adolescent Brain Development and Establishing Adult Trajectories"
+**Podcast:** (ID: 180343)
+
+**Guest:** Professor Bea Luna, PhD
+- Nationally highly acclaimed psychologist and neuroscientist
+- NIMH-Funded researcher (National Institute of Mental Health funding)
+- Pioneer in studying normal and atypical adolescent brain development
+- Uses multimodal brain imaging and learning methods
+- Studies transition from adolescence to adulthood
+- Research on adolescent risk-taking and brain maturation
+
+**Expertise Signals:**
+✅ Professor with PhD
+✅ NIMH funding (prestigious federal research funding)
+✅ Nationally acclaimed researcher
+✅ Pioneer in adolescent brain development field
+✅ Multimodal brain imaging expertise
+✅ Interview/lecture format
+
+**Level:** BEGINNER
+**Topics:** Adolescent brain development, brain maturation, risk-taking, brain imaging
+
+**What Listener Will Learn:**
+- How the adolescent brain develops from childhood to adulthood
+- Why teenagers engage in risk-taking behavior
+- Brain imaging insights into adolescent development
+- Normal vs. atypical development patterns
+- How adolescent experiences shape adult brain function
+
+**Quality Rating:** ⭐⭐ GOOD
+**Decision:** STRONG CANDIDATE - NIMH-funded expert, relatable topic for all listeners
+
+---
+
+## ADVANCED LEVEL (4 Episodes)
+
+### EPISODE 12: Computational Neuroscience
+**Episode ID:** 61370463
+**Title:** "63 - Dr. Peter Dayan and Computational Neuroscience"
+**Podcast:** (ID: 450198)
+
+**Guest:** Dr. Peter Dayan
+- Director of the Max Planck Institute for Biological Cybernetics in Tübingen, Germany
+- Expert in computational approaches to understanding the brain
+- Research on reinforcement learning and dopamine's role in learning
+- Studies how the brain works using mathematical models
+
+**Expertise Signals:**
+✅ Director of Max Planck Institute (world-renowned research institution)
+✅ Biological Cybernetics expertise
+✅ Computational neuroscience leadership
+✅ Research on reinforcement learning and neurotransmitters
+✅ Interview format
+
+**Level:** ADVANCED
+**Topics:** Computational neuroscience, reinforcement learning, dopamine, mathematical brain models
+
+**What Listener Will Learn:**
+- How mathematical models help understand brain function
+- The role of dopamine in learning and decision-making
+- Reinforcement learning in the brain
+- Computational approaches to neuroscience questions
+- How to use quantitative methods to study the brain
+
+**Quality Rating:** ⭐⭐⭐ EXCELLENT
+**Decision:** STRONG CANDIDATE - Director of Max Planck Institute, cutting-edge computational approach
+
+---
+
+### EPISODE 13: Psychedelics and the Brain
+**Episode ID:** 16532268
+**Title:** "Psilocybin and Psychedelics as Medicine"
+**Podcast:** (ID: 183892)
+
+**Guest:** Dr. Albert Garcia-Romeu
+- Researcher at Johns Hopkins Medical Center
+- Studies psilocybin and its potential in treating mental health disorders
+- Johns Hopkins Center for Psychedelic & Consciousness Research affiliate
+- Research on psychedelics for addiction, depression, anxiety
+
+**Expertise Signals:**
+✅ Johns Hopkins Medical Center (THE leading psychedelic research center)
+✅ Research on psilocybin therapeutic applications
+✅ Multiple mental health disorder studies
+✅ Interview format
+✅ Academic medical center affiliation
+
+**Level:** ADVANCED
+**Topics:** Psychedelics, psilocybin, consciousness, mental health treatment, brain chemistry
+
+**What Listener Will Learn:**
+- How psychedelics affect brain networks and consciousness
+- Therapeutic potential of psilocybin for mental health
+- State of psychedelic research at Johns Hopkins
+- Future directions in psychedelic medicine
+- Brain mechanisms underlying psychedelic experiences
+
+**Quality Rating:** ⭐⭐⭐ EXCELLENT
+**Decision:** STRONG CANDIDATE - Johns Hopkins researcher, cutting-edge topic, therapeutic applications
+
+---
+
+### EPISODE 14: Brain Imaging Science (fMRI)
+**Episode ID:** 1469284
+**Title:** "BS 156 Russell Poldrack talks about Brain Imaging (fMRI)"
+**Podcast:** Brain Science Podcast (ID: 36783)
+
+**Guest:** Dr. Russell A. Poldrack
+- Professor of Psychology at Stanford University
+- Author of "The New Mind Readers: What Neuroimaging Can and Cannot Reveal about Our Thoughts"
+- Expert in functional brain imaging and cognitive neuroscience
+- Research on brain imaging methodology and interpretation
+
+**Expertise Signals:**
+✅ Professor at Stanford University (top institution)
+✅ Published author on neuroimaging
+✅ Expert in fMRI methodology
+✅ Psychology and neuroscience expertise
+✅ Interview format
+
+**Level:** ADVANCED
+**Topics:** fMRI, brain imaging, neuroimaging limitations, cognitive neuroscience methodology
+
+**What Listener Will Learn:**
+- History and development of fMRI brain imaging
+- What fMRI can and cannot tell us about thoughts
+- How to avoid common mistakes in brain imaging research
+- Promise and limitations of neuroimaging technology
+- Why fMRI is not ready for lie detection
+- Future of brain imaging science
+
+**Quality Rating:** ⭐⭐⭐ EXCELLENT
+**Decision:** STRONG CANDIDATE - Stanford professor, author, methodological expertise, critical thinking about technology
+
+---
+
+### EPISODE 15: Free Will and Neuroscience
+**Episode ID:** 40415927
+**Title:** "Ep. 3 - Prof. Daniel Levy: Neuroscience and the Philosophy of Free Will & Determinism"
+**Podcast:** (ID: 300096)
+
+**Guest:** Professor Daniel Levy, PhD
+- Cognitive neuroscientist
+- Dean of the School of Psychology at IDC (Interdisciplinary Center, Israel)
+- PhD in cognitive psychology from Hebrew University of Jerusalem
+- Post-doctoral fellowships at University of California, San Diego and Bar-Ilan University
+- Research on memory, attention, and consciousness
+- Taught cognitive neuroscience at Weizmann Institute
+- Written about neuroscience of free will
+
+**Expertise Signals:**
+✅ Professor and Dean (academic leadership)
+✅ PhD from Hebrew University
+✅ Post-doc at UC San Diego (top institution)
+✅ Taught at Weizmann Institute (prestigious)
+✅ Research on consciousness and cognition
+✅ Integrates philosophy with neuroscience
+✅ Interview format
+
+**Level:** ADVANCED
+**Topics:** Free will, determinism, consciousness, philosophy of mind, neuroscience of choice
+
+**What Listener Will Learn:**
+- The free will vs. determinism debate from neuroscience perspective
+- How neurobiology informs philosophical questions about choice
+- What brain science tells us about agency and decision-making
+- Integration of neuroscience with philosophy
+- Whether we truly have free will based on brain evidence
+
+**Quality Rating:** ⭐⭐ GOOD
+**Decision:** STRONG CANDIDATE - Academic dean, unique integration of philosophy and neuroscience, addresses fundamental question
+
+Note: While not from a household-name institution like Stanford or Harvard, IDC is a respected research university and Prof. Levy has solid credentials (Hebrew University PhD, UC San Diego post-doc, Weizmann teaching). His unique approach to integrating neuroscience with philosophy of free will fills an important gap in the advanced curriculum.
+
+---
+
+## SUMMARY
+
+**Course Completion:** Adding these 6 episodes brings the course to 18 of 18 episodes (100%)
+
+**Breakdown:**
+- BEGINNER: 6 of 6 episodes ✅
+- INTERMEDIATE: 6 of 6 episodes ✅
+- ADVANCED: 6 of 6 episodes ✅
+- TOTAL: 18 of 18 episodes ✅
+
+**Podcast Diversity:** 18 different podcasts ✅
+
+**Quality Distribution:**
+- ⭐⭐⭐ EXCELLENT: 4 episodes (Fedorenko, Dayan, Garcia-Romeu, Poldrack)
+- ⭐⭐ GOOD: 2 episodes (Luna, Levy)
+
+**Institution Distribution in New Episodes:**
+- MIT (Fedorenko)
+- NIMH-funded research (Luna)
+- Max Planck Institute (Dayan)
+- Johns Hopkins Medical Center (Garcia-Romeu)
+- Stanford University (Poldrack)
+- IDC/Hebrew University/UC San Diego (Levy)
+
+**Topic Coverage Achieved:**
+✅ Language processing (BEGINNER)
+✅ Adolescent development (BEGINNER)
+✅ Computational neuroscience (ADVANCED)
+✅ Psychedelics and consciousness (ADVANCED)
+✅ Brain imaging methodology (ADVANCED)
+✅ Free will and philosophy (ADVANCED)
+
+**Course Now Complete:** Ready to update course.txt and JSON file.
+
+---
+
+Generated: 2025-10-14
+Status: All 6 episodes verified and approved for inclusion

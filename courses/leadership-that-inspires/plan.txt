@@ -1,0 +1,849 @@
+# Comprehensive Plan for "Leadership That Inspires" Course
+
+## 1. Course Purpose
+
+**What learners will gain from this 18-episode journey:**
+
+This course transforms how you understand inspirational leadership by taking you from foundational principles to cutting-edge research on what makes people genuinely want to follow. You'll learn from CEOs who built beloved companies, military leaders who led in crisis, organizational psychologists who study team dynamics, and researchers pushing the boundaries of leadership science.
+
+The journey reveals:
+- Why some leaders inspire fierce loyalty while others struggle with turnover
+- The psychological mechanisms behind trust, motivation, and followership
+- How to build organizational cultures where people thrive
+- The difference between positional authority and authentic influence
+- Modern leadership challenges: remote teams, diverse workforces, rapid change
+
+By the end, you'll understand leadership not as a set of techniques, but as a deeply human practice grounded in psychology, emotional intelligence, and moral clarity.
+
+---
+
+## 2. Course Strategy: Level-by-Level Breakdown
+
+### **BEGINNER LEVEL: Foundations of Inspirational Leadership**
+
+**Core Questions:**
+- What is leadership vs management?
+- Why do people follow? What creates genuine followership?
+- What are the fundamental principles of trust and influence?
+- How do great leaders communicate vision?
+
+**Conceptual Arc:**
+1. **Introduction to Leadership Philosophy** - What makes leadership "inspirational" rather than transactional? The human elements that transcend technique
+2. **Trust as the Foundation** - Why trust is the currency of leadership; how it's built and destroyed
+3. **Vision and Purpose** - How great leaders articulate compelling visions that inspire action
+4. **Authenticity and Values** - Being genuine vs performative; values-driven leadership
+5. **Communication Mastery Basics** - Listening, clarity, storytelling that moves people
+6. **Servant Leadership Introduction** - Leading by serving; putting team success first
+
+**Ideal Episode Format:**
+- Well-known interviewers (Tim Ferriss, Lex Fridman, Masters of Scale, How I Built This) talking to:
+  - Beloved CEOs with strong leadership cultures (e.g., Patty McCord from Netflix, Kim Scott, Ray Dalio)
+  - Military leaders who led through crisis (generals, Navy SEALs)
+  - Authors of foundational leadership books
+  - Founders known for inspirational leadership
+
+**Guest Profile:**
+- Recognizable names with proven track records
+- People who built organizations known for culture
+- Clear credentials (founded X, led Y company to Z, authored major book)
+
+---
+
+### **INTERMEDIATE LEVEL: Psychology, Systems & Organizational Culture**
+
+**Core Questions:**
+- What are different leadership styles and when do they work?
+- How do you build organizational culture intentionally?
+- What does psychology teach us about motivation and team dynamics?
+- How do you lead through change and crisis?
+- What is psychological safety and why does it matter?
+
+**Conceptual Arc:**
+1. **Leadership Styles Deep Dive** - Transformational, transactional, situational, adaptive leadership; understanding when to use what
+2. **Organizational Culture Architecture** - How culture is designed, not accidental; culture as strategy
+3. **Team Psychology and Group Dynamics** - What science reveals about high-performing teams; psychological safety research
+4. **Motivation Science** - Intrinsic vs extrinsic motivation; autonomy, mastery, purpose (Dan Pink framework)
+5. **Leading Through Change** - Change management principles; resistance, buy-in, transition psychology
+6. **Emotional Intelligence in Leadership** - Self-awareness, empathy, regulation; EQ as leadership superpower
+
+**Ideal Episode Format:**
+- Business/leadership podcasts (Lenny's Podcast, 20VC, Prof G Pod, Invest Like the Best) featuring:
+  - Organizational psychologists and researchers
+  - Executive coaches who work with Fortune 500 CEOs
+  - Business school professors (Harvard, Stanford, Wharton)
+  - Founders/CEOs discussing specific leadership systems they built
+
+**Guest Profile:**
+- PhD in organizational psychology, I/O psychology, or management
+- Professor at top business school
+- Executive coach with Fortune 500 portfolio
+- CEO known for specific leadership innovation (e.g., Holacracy, OKRs)
+
+---
+
+### **ADVANCED LEVEL: Transformational Leadership & Research Frontiers**
+
+**Core Questions:**
+- What is transformational vs transactional leadership at the deepest level?
+- How do you lead complex organizational change at scale?
+- What does cutting-edge research reveal about leadership effectiveness?
+- How do you lead in modern contexts: remote, diverse, rapidly changing?
+- What are the moral and ethical dimensions of leadership power?
+
+**Conceptual Arc:**
+1. **Transformational Leadership Theory** - Burns, Bass research; inspiring followers to transcend self-interest for collective good
+2. **Complex Organizational Change** - Leading Fortune 500 transformations; systems thinking; navigating politics
+3. **Leadership Development Science** - How leaders are made; what predicts leadership success; adult development theory
+4. **Diversity, Equity, and Inclusive Leadership** - Research on diverse teams; inclusive leadership behaviors; psychological safety for all
+5. **Moral Leadership and Power** - Ethics of influence; servant leadership at scale; avoiding toxic leadership patterns
+6. **Future of Leadership** - Leading remote/hybrid teams; AI in organizations; adaptive challenges of 21st century
+
+**Ideal Episode Format:**
+- Academic/research podcasts or deep technical discussions:
+  - Leadership researchers publishing in top journals
+  - Professors who study leadership scientifically (Center for Creative Leadership, Harvard Kennedy School)
+  - CEOs who led major transformations (turnarounds, cultural overhauls)
+  - Authors of academic leadership books or frameworks
+
+**Guest Profile:**
+- Published researcher in leadership/organizational behavior
+- Professor emeritus or endowed chair at top university
+- CEO who transformed failing company or led major change
+- Thought leaders defining next-generation leadership (Adam Grant, Brené Brown, Amy Edmondson)
+
+---
+
+## 3. High-Quality Podcasts to Target
+
+### **TOP PRIORITY - General Interview Podcasts:**
+
+**Business/Leadership Focus (HIGHEST PRIORITY):**
+- **Masters of Scale** (Reid Hoffman) - Founder interviews about scaling companies and leadership
+- **How I Built This** (Guy Raz) - Founder stories with leadership lessons
+- **Tim Ferriss Show** - CEOs, authors, military leaders
+- **The Knowledge Project** (Shane Parrish) - Decision-making, mental models, leadership
+- **Invest Like the Best** (Patrick O'Shaughnessy) - CEOs and founders
+- **Lenny's Podcast** (Lenny Rachitsky) - Product leaders, CEOs, company building
+- **20VC** (Harry Stebbings) - Founders and CEOs
+- **The Logan Bartlett Show** - Company building and leadership
+- **a16z Podcast** - Tech leaders and founders
+
+**General Interview with Leadership Coverage:**
+- **Lex Fridman Podcast** - When interviewing CEOs, military leaders, or researchers
+- **Making Sense** (Sam Harris) - Leadership, decision-making, ethics
+- **Conversations with Tyler** (Tyler Cowen) - CEOs, authors, thought leaders
+- **Tetragrammaton with Rick Rubin** - Creative leaders, wisdom
+- **TED Talks Daily / TED Radio Hour** - Leadership, culture, psychology talks
+
+**Business/Strategy Focus:**
+- **Prof G Pod** (Scott Galloway) - Business strategy and leadership
+- **Pivot** (Kara Swisher & Scott Galloway) - When doing deep-dive interviews
+- **Acquired** - Founder/CEO stories with leadership lessons
+- **All-In Podcast** - When featuring CEO guests (not just co-hosts)
+
+### **Science & Psychology Podcasts:**
+
+**Psychology/Behavioral Science:**
+- **Huberman Lab** (Andrew Huberman) - When covering leadership, motivation, or team psychology
+- **Hidden Brain** (Shankar Vedantam) - Social psychology, organizational behavior
+- **The Psychology Podcast** (Scott Barry Kaufman) - Leadership researchers, organizational psychologists
+- **WorkLife with Adam Grant** - Organizational psychologist on leadership
+- **Dare to Lead** (Brené Brown) - Leadership, vulnerability, courage
+- **The Happiness Lab** (Laurie Santos) - When covering workplace/leadership topics
+
+### **Leadership-Specific Podcasts (CHECK FOR INTERVIEW FORMAT):**
+
+**To Discover Through Search:**
+- Leadership-specific shows that interview experts (not solo host commentary)
+- Military leadership podcasts (West Point, Navy SEAL leadership)
+- Executive coaching podcasts with guest experts
+- Business school podcasts (Harvard Business Review IdeaCast, Stanford GSB podcasts)
+- Conference talks (TED, Aspen Ideas, World Business Forum)
+
+### **Academic/Research Podcasts:**
+
+**To Search For:**
+- Harvard Business School podcasts
+- Stanford Graduate School of Business
+- Wharton School podcasts
+- MIT Sloan School of Management
+- Center for Creative Leadership
+- Leadership development research centers
+
+### **Specialized/Subject-Specific:**
+
+**Military Leadership:**
+- Jocko Podcast (when interviewing other leaders, not solo)
+- The Muster (Team Rubicon leadership stories)
+- West Point Leadership podcasts
+
+**Organizational Development:**
+- The OD Cast
+- Coaching for Leaders (when featuring expert guests)
+- Manager Tools (when interviewing experts)
+
+---
+
+## 4. Topic Keywords & Subtopics
+
+### **Core Leadership Concepts:**
+- Leadership fundamentals
+- Inspirational leadership
+- Transformational leadership
+- Servant leadership
+- Authentic leadership
+- Adaptive leadership
+- Situational leadership
+- Leadership vs management
+- Followership, why people follow
+- Leadership influence
+
+### **Trust & Influence:**
+- Trust in leadership
+- Building trust
+- Leadership credibility
+- Influence without authority
+- Persuasion and leadership
+- Leadership integrity
+- Authentic leadership
+- Vulnerability in leadership
+
+### **Vision & Purpose:**
+- Leadership vision
+- Purpose-driven leadership
+- Mission and values
+- Strategic vision
+- Communicating vision
+- Inspiring purpose
+- Meaning at work
+
+### **Communication & Emotional Intelligence:**
+- Leadership communication
+- Storytelling in leadership
+- Active listening leadership
+- Emotional intelligence EQ
+- Empathy in leadership
+- Difficult conversations
+- Feedback and coaching
+- Radical Candor (Kim Scott)
+
+### **Organizational Culture:**
+- Company culture
+- Organizational culture
+- Building culture
+- Culture change
+- High-performance culture
+- Psychological safety (Amy Edmondson)
+- Trust and culture
+- Culture as competitive advantage
+- Netflix culture (Patty McCord)
+- Bridgewater culture (Ray Dalio)
+
+### **Team Leadership & Dynamics:**
+- Team leadership
+- High-performing teams
+- Team dynamics
+- Team psychology
+- Google Project Aristotle
+- Psychological safety teams
+- Collaboration and teamwork
+- Leading remote teams
+- Distributed leadership
+
+### **Motivation & Engagement:**
+- Employee motivation
+- Intrinsic motivation
+- Autonomy mastery purpose (Dan Pink)
+- Employee engagement
+- Motivation science
+- Self-determination theory
+- Drive and motivation
+- Recognition and motivation
+
+### **Change Management:**
+- Leading change
+- Change management
+- Organizational change
+- Transformation leadership
+- Managing resistance
+- Change psychology
+- Turnaround leadership
+- Crisis leadership
+
+### **Leadership Development:**
+- Leadership development
+- Developing leaders
+- Executive coaching
+- Leadership training
+- Leadership pipeline
+- Succession planning
+- Growing leaders
+- Leadership competencies
+
+### **Specific Leadership Styles/Frameworks:**
+- Transformational leadership
+- Transactional leadership
+- Level 5 leadership (Jim Collins)
+- Extreme Ownership (Jocko Willink)
+- Dare to Lead (Brené Brown)
+- Leaders Eat Last (Simon Sinek)
+- Good to Great leadership
+- Multipliers leadership (Liz Wiseman)
+
+### **Diversity & Inclusion:**
+- Inclusive leadership
+- Diversity and inclusion
+- Belonging at work
+- Psychological safety diverse teams
+- Equity in leadership
+- Women in leadership
+- Underrepresented leaders
+
+### **Ethics & Power:**
+- Leadership ethics
+- Moral leadership
+- Power and leadership
+- Ethical decision making
+- Leadership responsibility
+- Toxic leadership avoiding
+- Humble leadership
+- Service and leadership
+
+### **Modern Leadership Challenges:**
+- Remote leadership
+- Hybrid teams leadership
+- Leading through uncertainty
+- VUCA leadership (Volatile, Uncertain, Complex, Ambiguous)
+- Digital transformation leadership
+- AI and leadership
+- Future of work leadership
+- Millennials Gen Z leadership
+
+### **Military & Crisis Leadership:**
+- Military leadership
+- Combat leadership
+- Navy SEAL leadership
+- Crisis leadership
+- Leading under pressure
+- Decision-making crisis
+- Courage in leadership
+
+### **Specific Thought Leaders/Authors:**
+- Simon Sinek (Start With Why, Leaders Eat Last)
+- Brené Brown (Dare to Lead, vulnerability)
+- Jim Collins (Good to Great, Level 5 leadership)
+- Patrick Lencioni (Five Dysfunctions of a Team)
+- Amy Edmondson (psychological safety)
+- Adam Grant (organizational psychologist)
+- Daniel Goleman (Emotional Intelligence)
+- Kim Scott (Radical Candor)
+- Marshall Goldsmith (executive coaching)
+- John Maxwell (leadership author)
+- Stephen Covey (7 Habits)
+- Peter Drucker (management thought leader)
+- Ray Dalio (Principles)
+- Reed Hastings / Patty McCord (Netflix culture)
+- Ed Catmull (Pixar/Disney leadership, Creativity Inc)
+- Satya Nadella (Microsoft transformation)
+
+---
+
+## 5. Expertise Indicators: What Credentials/Roles to Look For
+
+### **Academic Credentials:**
+- **Professor of Organizational Behavior** at [University Business School]
+- **Professor of Management / Leadership** at Harvard, Stanford, Wharton, MIT, INSEAD, etc.
+- **PhD in Organizational Psychology** (also called I/O Psychology, Industrial-Organizational Psychology)
+- **PhD in Management / Leadership Studies**
+- **Research affiliations:**
+  - Center for Creative Leadership
+  - Harvard Kennedy School Leadership Center
+  - Stanford Graduate School of Business
+  - MIT Sloan School of Management
+  - Organizational behavior departments
+
+### **Professional Leadership Authority:**
+
+**C-Suite Executives with Strong Track Records:**
+- **CEO / Founder** of [Company Known for Culture] - e.g., Patty McCord (Netflix), Ray Dalio (Bridgewater), Reed Hastings (Netflix)
+- **CEO who led transformation** - Turnarounds, cultural overhauls (e.g., Satya Nadella at Microsoft, Alan Mulally at Ford)
+- **Chief People Officer / Chief Culture Officer** at major companies
+- **VP of People / HR** at companies known for culture
+
+**Executive Coaches & Leadership Consultants:**
+- **Executive coach to Fortune 500 CEOs** (e.g., Marshall Goldsmith, Bill Campbell tribute)
+- **Senior partner** at McKinsey, BCG, Bain (leadership practice)
+- **Leadership consultant** with Fortune 500 portfolio
+- **Coach to tech leaders / startup CEOs**
+
+**Authors of Major Leadership Books:**
+- Published by major publishers (Random House, Portfolio, Harvard Business Review Press)
+- Books that became management staples
+- Examples: Simon Sinek, Brené Brown, Jim Collins, Patrick Lencioni, Amy Edmondson, Adam Grant, Kim Scott
+
+### **Military Leadership Credentials:**
+- **General** (Army, Marines, Air Force) with combat/strategic command experience
+- **Admiral** (Navy) with command experience
+- **Navy SEAL Team Leader** / Special Operations Commander
+- **West Point / Naval Academy / Air Force Academy** professors or leadership instructors
+- **Military leadership institutes** (Army War College, etc.)
+
+### **Organizational Psychology Researchers:**
+- Published in top journals:
+  - *Academy of Management Journal*
+  - *Journal of Applied Psychology*
+  - *Leadership Quarterly*
+  - *Organizational Behavior and Human Decision Processes*
+- Research on:
+  - Team effectiveness
+  - Psychological safety
+  - Leadership development
+  - Organizational culture
+  - Change management
+  - Motivation and engagement
+
+### **Practitioner Credentials (Founders/Operators):**
+- **Founded company with [X] employees** demonstrating scale leadership
+- **Built company known for culture** (e.g., Patagonia, Zappos, Netflix, Google, Bridgewater)
+- **Led [major transformation]** with documented results
+- **Scaled company from [Y to Z]** demonstrating growth leadership
+- **"Built the team at [Company]"** if discussing hiring/culture
+
+### **Thought Leaders & Public Intellectuals:**
+- **TED speaker** on leadership topics (with substantial credentials)
+- **Regular contributor** to Harvard Business Review, McKinsey Quarterly, etc.
+- **Keynote speaker** at major business/leadership conferences
+- **Host of leadership podcast** with academic/professional background
+
+### **Red Flags - Lack of Credibility:**
+- ❌ "Leadership expert" with no specific credentials listed
+- ❌ "Motivational speaker" without track record
+- ❌ "Life coach" or "business coach" without Fortune 500 clients
+- ❌ Self-published author with no major publisher validation
+- ❌ No company, university, or institutional affiliation
+- ❌ Generic LinkedIn influencer-type credentials
+- ❌ "Entrepreneur" with no specific company named
+- ❌ "Studied under [guru]" as primary credential
+
+---
+
+## 6. Search Strategies: 20-25 Planned Searches
+
+### **STRATEGY A: High-Quality Podcast + Leadership Topic (10 searches)**
+
+*Rationale: Start with known excellent podcasts and search for leadership-relevant episodes*
+
+1. **"Masters of Scale leadership"** - Reid Hoffman's podcast on scaling companies
+2. **"How I Built This CEO"** - Founder stories with leadership lessons
+3. **"Tim Ferriss leadership"** - When Tim interviews CEOs and military leaders
+4. **"Lenny's Podcast leadership culture"** - Product leaders on teams and culture
+5. **"Invest Like the Best CEO founder"** - CEO interviews about building companies
+6. **"The Knowledge Project leadership"** - Mental models and decision-making
+7. **"Lex Fridman CEO"** - When Lex interviews company leaders
+8. **"Huberman Lab motivation team"** - Neuroscience of motivation and performance
+9. **"Hidden Brain leadership psychology"** - Social psychology of leadership
+10. **"a16z CEO founder"** - Tech leaders and company building
+
+### **STRATEGY B: Leadership Topic + Expertise Signals (7 searches)**
+
+*Rationale: Find expert interviews by combining topic with credential signals*
+
+11. **"leadership professor interview"** - Academic leadership experts
+12. **"organizational psychologist interview"** - Psychology of leadership and teams
+13. **"CEO founder leadership culture"** - Practitioners who built strong cultures
+14. **"executive coach Fortune 500"** - Elite coaches to top CEOs
+15. **"transformational leadership researcher"** - Leadership scientists
+16. **"psychological safety Amy Edmondson"** - Specific expert on team effectiveness
+17. **"emotional intelligence leadership"** - EQ experts and researchers
+
+### **STRATEGY C: Specific Leadership Subtopics + Interview (8 searches)**
+
+*Rationale: Target specific concepts and frameworks within leadership*
+
+18. **"company culture building CEO"** - How great cultures are designed
+19. **"trust in leadership interview"** - Foundation of followership
+20. **"servant leadership Simon Sinek"** - Purpose-driven leadership
+21. **"team performance Google Project Aristotle"** - Research on high-performing teams
+22. **"change management leading change"** - Change leadership expertise
+23. **"military leadership Navy SEAL"** - Combat leadership lessons
+24. **"Radical Candor Kim Scott"** - Specific framework and author
+25. **"motivation science Dan Pink Drive"** - Motivation research and application
+
+### **Backup/Alternative Searches (if needed):**
+
+26. "Netflix culture Patty McCord" - Iconic company culture
+27. "Bridgewater Ray Dalio Principles" - Unique leadership philosophy
+28. "Microsoft transformation Satya Nadella" - Turnaround leadership
+29. "Brené Brown vulnerability leadership" - Courage and authenticity
+30. "Adam Grant organizational psychology" - WorkLife podcast or guest appearances
+31. "Jim Collins Good to Great Level 5" - Research-backed leadership
+32. "remote leadership distributed teams" - Modern leadership challenge
+33. "diversity inclusive leadership" - Inclusive leadership practices
+
+---
+
+## 7. Quality Assurance Criteria
+
+### **MUST HAVE - Episode Selection:**
+
+✅ **Identifiable Expert Guest:**
+- Description clearly names the guest
+- Guest's credentials explicitly stated (Professor at X, CEO of Y, Author of Z)
+- Interview format confirmed ("joins me to discuss", "[Host] talks to [Guest]")
+
+✅ **Leadership Credentials:**
+- Academic: Professor of Organizational Behavior/Management/Leadership at top school
+- Practitioner: CEO/Founder with proven track record (company name, scale, results)
+- Military: General/Admiral/SEAL Team Leader with command experience
+- Researcher: Published in academic journals or author of major leadership book
+- Coach: Executive coach with Fortune 500 clients
+
+✅ **Substantive Discussion:**
+- Description indicates depth (not just motivational platitudes)
+- Specific concepts, frameworks, or research mentioned
+- Evidence of real experience (led team of X, transformed company Y, studied Z)
+
+✅ **Podcast Quality:**
+- Top 200 podcast OR respected leadership/business-specific show
+- Professional production (inferred from podcast reputation)
+- Reputable host or institutional backing
+
+### **RED FLAGS - Automatic Rejection:**
+
+❌ **No Expert Identified:**
+- Description doesn't name a guest
+- "I discuss leadership..." (host monologue)
+- "We talk about leadership..." (no specific guest credentials)
+
+❌ **Weak or Vague Credentials:**
+- "Leadership expert" with no specific background
+- "Motivational speaker" without track record
+- "Entrepreneur" with no company named
+- "Coach" with no Fortune 500 portfolio
+- Self-published author only
+
+❌ **Superficial or Generic Content:**
+- "5 tips for better leadership" listicle format
+- Motivational rah-rah without substance
+- Generic self-help disguised as leadership
+- "Hustle" or "grind" culture content
+
+❌ **Wrong Format:**
+- Solo host explaining leadership concepts
+- "Two friends discuss leadership" (no expert)
+- Reading from leadership books (not interviewing authors)
+- Panel discussion with no clear expert (unless academic panel)
+
+❌ **Low-Quality Podcast Signals:**
+- Amateur production (hard to verify pre-listen, but look for signs)
+- Very low follower count AND no institutional backing
+- Spiritual/mystical approach to leadership without substance
+- "Bro-culture" business podcasts
+
+### **QUALITY SCORING SYSTEM:**
+
+**⭐⭐⭐ EXCELLENT - Prioritize These:**
+- Top-tier guest: Harvard professor, Fortune 500 CEO, bestselling author (major publisher)
+- Top 200 podcast OR elite business/leadership podcast
+- Description shows substantive expertise (specific research, transformations, frameworks)
+- Clear interview format with recognizable guest name
+- Examples:
+  - Brené Brown on Tim Ferriss discussing Dare to Lead
+  - Amy Edmondson on Masters of Scale discussing psychological safety
+  - Satya Nadella on How I Built This discussing Microsoft transformation
+  - Admiral McRaven discussing leadership under pressure
+
+**⭐⭐ GOOD - Solid Backup:**
+- Strong guest: business school professor, CEO of significant company, published author
+- Reputable podcast (leadership-specific or business focus)
+- Clear credentials and relevant expertise
+- Interview format confirmed
+- Examples:
+  - Executive coach to tech CEOs on Lenny's Podcast
+  - Organizational psychologist on Hidden Brain
+  - Founder of $100M+ company discussing culture-building
+
+**⭐ ACCEPTABLE - Use If Needed:**
+- Guest has some credentials but not top-tier (e.g., VP of People, mid-size company CEO)
+- Less well-known podcast but appears legitimate
+- Relevant expertise even if not cutting-edge
+- Interview format but guest less recognizable
+
+**❌ REJECT - Never Use:**
+- Hits any red flag above
+- No identifiable expert credentials
+- Wrong format (monologue, casual chat between non-experts)
+- Superficial "motivation" content
+- Amateur or low-quality podcast
+
+### **VERIFICATION CHECKLIST (Before Final Selection):**
+
+For each episode in the final 18, verify:
+
+- [ ] Guest name is in the description
+- [ ] Guest credentials are specific (not generic "expert")
+- [ ] Guest has done something notable (led company, published research, written major book, coached Fortune 500)
+- [ ] Description indicates interview format (not solo host)
+- [ ] Podcast is reputable (Top 200 OR known leadership/business show)
+- [ ] Episode description shows substantive content (specific concepts, not just inspiration)
+- [ ] Guest's expertise matches the episode's topic
+- [ ] No motivational fluff or generic self-help language
+- [ ] Fits appropriately into Beginner, Intermediate, or Advanced level
+
+### **DIVERSITY REQUIREMENTS:**
+
+- [ ] All 18 episodes use DIFFERENT podcasts (maximum diversity)
+- [ ] Within each level (6 episodes), all 6 podcasts are different
+- [ ] Broad range of guest types: academics, CEOs, military, coaches, researchers
+- [ ] Mix of perspectives: male/female, different industries, different leadership contexts
+- [ ] No single "guru" dominates (max 2 episodes from same guest across entire course)
+
+---
+
+## 8. Expected Episode Progression (Aspirational Learning Arc)
+
+### **BEGINNER LEVEL (6 Episodes):**
+
+**Learning Arc: "What is inspirational leadership and why does it matter?"**
+
+**Episode 1: What Makes Leadership Inspirational?**
+- Ideal guest: Famous CEO or founder known for leadership (e.g., Reid Hoffman, Howard Schultz type)
+- Podcast: Masters of Scale or How I Built This
+- What it covers: The difference between managing and leading; why some leaders inspire fierce loyalty
+- Why beginner: Accessible, storytelling-driven, builds curiosity
+
+**Episode 2: Trust - The Foundation of Leadership**
+- Ideal guest: Organizational psychologist or author (e.g., Simon Sinek, Patrick Lencioni type)
+- Podcast: Tim Ferriss or The Knowledge Project
+- What it covers: How trust is built through consistency, transparency, vulnerability; trust as currency
+- Why beginner: Core foundational concept explained accessibly
+
+**Episode 3: Vision and Purpose - Leading with "Why"**
+- Ideal guest: Purpose-driven founder or "Start With Why" thought leader
+- Podcast: TED Talk-adjacent or Masters of Scale
+- What it covers: How great leaders articulate compelling visions; connecting work to meaning
+- Why beginner: Inspiring and accessible; core concept of why people follow
+
+**Episode 4: Authentic Leadership - Being Real**
+- Ideal guest: Brené Brown type (vulnerability researcher) or authentic CEO
+- Podcast: Dare to Lead or similar
+- What it covers: Showing up as yourself; the power of vulnerability; values-driven decisions
+- Why beginner: Human-centered, relatable, builds emotional intelligence foundation
+
+**Episode 5: Communication That Inspires**
+- Ideal guest: CEO known for communication (e.g., Steve Jobs biographer, presidential speechwriter, or founder who's great communicator)
+- Podcast: How I Built This or Lex Fridman
+- What it covers: Storytelling, active listening, clarity; how words move people to action
+- Why beginner: Practical and immediately applicable
+
+**Episode 6: Servant Leadership - Leading by Serving**
+- Ideal guest: Military leader (e.g., Admiral, Navy SEAL) or servant-leadership CEO
+- Podcast: Jocko Podcast (with guest), Tim Ferriss, or military leadership show
+- What it covers: "Leaders eat last" philosophy; putting team needs first; earning respect through service
+- Why beginner: Powerful paradigm shift; inspiring stories of leadership in extreme conditions
+
+**Format:** Well-known, accessible hosts interviewing inspiring leaders with great stories
+**Tone:** "Leadership is human, accessible, and deeply important - and here's why"
+**Guest types:** Recognizable names, great storytellers, proven leaders
+
+---
+
+### **INTERMEDIATE LEVEL (6 Episodes):**
+
+**Learning Arc: "How does leadership actually work? The systems, psychology, and practices."**
+
+**Episode 1: Leadership Styles - Transformational vs Transactional**
+- Ideal guest: Business school professor or organizational behavior researcher
+- Podcast: Hidden Brain, Harvard Business Review IdeaCast, or academic podcast
+- What it covers: Different leadership models; when to use what style; transformational leadership research
+- Why intermediate: Introduces academic frameworks and research-backed concepts
+
+**Episode 2: Building Organizational Culture Intentionally**
+- Ideal guest: Patty McCord (Netflix), Chief Culture Officer, or culture researcher
+- Podcast: Lenny's Podcast, a16z, or Masters of Scale
+- What it covers: Culture as designed system; Netflix culture deck; how values become behaviors
+- Why intermediate: Goes beyond "culture is important" to "how do you actually build it"
+
+**Episode 3: Psychological Safety and Team Effectiveness**
+- Ideal guest: Amy Edmondson (Harvard), Google Project Aristotle researcher, or team dynamics expert
+- Podcast: WorkLife with Adam Grant, Hidden Brain, or psychology podcast
+- What it covers: Research on high-performing teams; why psychological safety matters; how to create it
+- Why intermediate: Research-backed; specific psychological mechanism; practical application
+
+**Episode 4: The Science of Motivation**
+- Ideal guest: Dan Pink, organizational psychologist, or motivation researcher
+- Podcast: The Psychology Podcast, Huberman Lab, or business podcast
+- What it covers: Intrinsic vs extrinsic motivation; autonomy, mastery, purpose; self-determination theory
+- Why intermediate: Bridges science and practice; specific psychological principles
+
+**Episode 5: Leading Through Change and Crisis**
+- Ideal guest: CEO who led turnaround (Satya Nadella type) or change management expert
+- Podcast: Invest Like the Best, 20VC, or business leadership podcast
+- What it covers: Change psychology; managing resistance; communication during crisis; transformation case studies
+- Why intermediate: Real-world application; complexity of organizational change
+
+**Episode 6: Emotional Intelligence for Leaders**
+- Ideal guest: Daniel Goleman, executive coach, or EQ researcher
+- Podcast: Tim Ferriss, The Knowledge Project, or psychology-focused show
+- What it covers: Self-awareness, self-regulation, empathy; how EQ predicts leadership success
+- Why intermediate: Deepens human skills; science of emotions in leadership
+
+**Format:** More technical discussions; researchers and practitioners; systems and frameworks
+**Tone:** "Here's how leadership actually works - the research, the systems, the psychology"
+**Guest types:** Professors, researchers, elite coaches, CEOs with specific innovations
+
+---
+
+### **ADVANCED LEVEL (6 Episodes):**
+
+**Learning Arc: "Mastery, transformation, and the frontiers of leadership research"**
+
+**Episode 1: Transformational Leadership at Scale**
+- Ideal guest: CEO who transformed Fortune 500 (e.g., Satya Nadella, Alan Mulally type) or transformation researcher
+- Podcast: Acquired, Invest Like the Best, or executive-focused podcast
+- What it covers: Leading 100,000+ person transformations; systems thinking; navigating organizational politics
+- Why advanced: Complexity, scale, real-world messy challenges
+
+**Episode 2: Leadership Development Theory - How Leaders Are Made**
+- Ideal guest: Center for Creative Leadership researcher, adult development theorist, or executive development expert
+- Podcast: Academic or professional development podcast
+- What it covers: Research on what predicts leadership success; developmental stages; how leaders grow over time
+- Why advanced: Meta-level understanding of leadership development; cutting-edge research
+
+**Episode 3: Inclusive Leadership and Psychological Safety for Diverse Teams**
+- Ideal guest: DEI researcher (not consultant), organizational psychologist studying diversity, or inclusive leader
+- Podcast: WorkLife with Adam Grant, Hidden Brain, or research-focused show
+- What it covers: Research on diverse teams; inclusive leadership behaviors; addressing bias; creating belonging
+- Why advanced: Nuanced, research-backed approach to modern leadership challenge
+
+**Episode 4: The Ethics and Responsibility of Power**
+- Ideal guest: Moral philosopher, leadership ethics researcher, or thoughtful CEO
+- Podcast: Making Sense (Sam Harris), Conversations with Tyler, or philosophy-adjacent podcast
+- What it covers: Power dynamics in organizations; ethical decision-making; avoiding toxic leadership; moral responsibility
+- Why advanced: Deep moral and philosophical dimensions; not covered in typical leadership content
+
+**Episode 5: Leading Remote and Distributed Teams**
+- Ideal guest: Remote-first company CEO (e.g., GitLab, Automattic) or organizational design researcher
+- Podcast: Lenny's Podcast, a16z, or future-of-work podcast
+- What it covers: Async communication; building culture remotely; trust without proximity; tools and systems
+- Why advanced: Modern frontier; requires rethinking traditional leadership assumptions
+
+**Episode 6: The Future of Leadership - AI, Complexity, and Adaptive Challenges**
+- Ideal guest: Leadership futurist, organizational theorist, or CEO navigating digital transformation
+- Podcast: Lex Fridman, a16z, or future-focused podcast
+- What it covers: Leading in VUCA environments; AI's impact on organizations; adaptive vs technical challenges; next-gen leadership
+- Why advanced: Forward-looking; addresses unknowns; requires synthesis of entire course
+
+**Format:** Technical, research-heavy, or addressing frontier challenges
+**Tone:** "This is where leadership research and practice are heading - the unsolved problems"
+**Guest types:** Leading researchers, transformation CEOs, thought leaders defining the field
+
+---
+
+## 9. Final Quality Checklist (Before Creating JSON)
+
+### **Episode-Level Verification:**
+
+For EACH of the 18 episodes, confirm:
+- [ ] Guest name is explicitly stated in episode description
+- [ ] Guest has specific, verifiable credentials (Professor at X, CEO of Y, Author of Z, Admiral in command of W)
+- [ ] Credentials are relevant to the topic (leadership, not unrelated field)
+- [ ] Episode description indicates interview format (not solo host monologue)
+- [ ] Description shows substantive content, not generic motivation
+- [ ] Podcast is reputable (Top 200 OR recognized leadership/business show)
+- [ ] Episode fits appropriately into its level (Beginner/Intermediate/Advanced)
+
+### **Course-Level Requirements:**
+
+- [ ] All 18 podcasts are DIFFERENT (maximum diversity)
+- [ ] Within each level, all 6 podcasts are different
+- [ ] Diversity of guest types:
+  - At least 3 academic researchers/professors across the course
+  - At least 3 CEO/Founder practitioners across the course
+  - At least 1 military leader
+  - At least 1 executive coach or organizational psychologist
+  - Mix of genders and backgrounds where possible
+- [ ] No single expert appears more than twice across all 18 episodes
+- [ ] Logical progression within each level (builds conceptually)
+- [ ] Clear progression across levels (Beginner → Intermediate → Advanced builds in complexity)
+
+### **Content Coverage Verification:**
+
+- [ ] **Foundational concepts covered:** Trust, vision, communication, authenticity, servant leadership
+- [ ] **Psychological concepts covered:** Motivation, psychological safety, emotional intelligence, team dynamics
+- [ ] **Organizational concepts covered:** Culture, change management, leadership styles, organizational behavior
+- [ ] **Modern challenges covered:** Remote leadership, diversity/inclusion, ethics of power, future challenges
+- [ ] **Practical and theoretical:** Mix of practitioner stories and research-backed concepts
+- [ ] **Both micro and macro:** Individual leadership skills AND organizational systems
+
+### **Description Quality Check:**
+
+The final course description should:
+- [ ] Highlight the expert guests and their credentials (not just topics)
+- [ ] Explain the learning progression (why Beginner → Intermediate → Advanced)
+- [ ] Emphasize research-backed + practitioner-tested insights
+- [ ] Name-drop a few recognizable guests to build credibility
+- [ ] Explain what makes this course trustworthy (expert curation, diverse perspectives)
+- [ ] Be inspiring but grounded (not motivational fluff)
+- [ ] Be 3-4 paragraphs, readable and engaging
+
+### **Avoid These Mistakes:**
+
+- [ ] No motivational speakers without credentials
+- [ ] No generic "leadership coaches" without Fortune 500 portfolio
+- [ ] No solo host monologues explaining leadership concepts
+- [ ] No "5 tips" listicle-style episodes
+- [ ] No spiritual/mystical content disguised as leadership
+- [ ] No podcasts with very low follower counts unless exceptional credentials
+- [ ] No episodes where guest credentials are vague or missing
+
+---
+
+## 10. Notes and Reminders
+
+### **Search Execution Tips:**
+
+1. **Cast a wide net:** Execute all 25 planned searches (don't stop early)
+2. **Document everything:** Save ALL results to results.txt with search query, episode details, descriptions
+3. **Look for expertise signals:** Read descriptions carefully for credential indicators
+4. **Prioritize Top 200 podcasts:** When in doubt, choose the more reputable podcast
+5. **Check for interview format:** Look for "[Host] talks to [Guest]" or "joins me to discuss"
+
+### **Episode Evaluation Tips:**
+
+1. **Ask "Who is this expert?"** - If you can't answer from the description, it's likely not suitable
+2. **Look for specifics:** "Professor at Harvard Business School" is stronger than "leadership expert"
+3. **Verify the format:** "I discuss leadership..." = RED FLAG (solo host)
+4. **Check the podcast:** Unknown podcast with no institutional backing = proceed with caution
+5. **Diversity matters:** Don't settle for 6 episodes from same podcast; keep searching
+
+### **Quality Over Speed:**
+
+- Better to do 30 searches and find gems than rush with 15
+- If you can't find 6 excellent episodes for a level, search more with different keywords
+- Try subtopics: Instead of "leadership," try "psychological safety," "trust building," "change management"
+- Try different podcast names: Cycle through all priority podcasts with relevant keywords
+
+### **When in Doubt:**
+
+Ask yourself:
+- Would I recommend this episode to someone who wants to truly learn about inspirational leadership?
+- Does this guest have credentials I would trust?
+- Does the description indicate depth, or is it motivational fluff?
+- Is this an interview with an expert, or hosts chatting about leadership?
+
+**If uncertain, err on the side of being MORE selective. Course quality depends entirely on expert credibility.**
+
+---
+
+## Expected File Outputs
+
+1. **plan.txt** (this document) - Comprehensive strategy
+2. **results.txt** - All search results with queries, episodes, descriptions
+3. **episodes.txt** - Evaluated episodes with quality ratings (⭐⭐⭐ / ⭐⭐ / ⭐ / ❌)
+4. **course.txt** - Final 18 episodes with guest credentials, expertise signals, and rationale
+5. **leadership-that-inspires.json** - Structured JSON file for production
+
+---
+
+**END OF PLAN**

@@ -1,0 +1,457 @@
+# CREATIVE THINKING COURSE - SEARCH RESULTS
+# Total Queries: 25
+# Date: 2025-11-04
+
+================================================================================
+QUERY 1: "Lex Fridman creativity"
+Results: 15 episodes found (out of 10,000+ total)
+================================================================================
+
+Episode ID: 15599327
+Podcast ID: 175447
+Title: Machines, Creativity & Love | Dr. Lex Fridman
+Podcast: Huberman Lab
+Description: Dr. Lex Fridman Ph.D., is a scientist at MIT (Massachusetts Institute of Technology), working on robotics, artificial intelligence, autonomous vehicles and human-robot interactions. He is also the host of the Lex Fridman Podcast where he holds conversations with academics, entrepreneurs, athletes and creatives. Here we discuss humans, robots, and the capacity they hold for friendship and love.
+
+Episode ID: 92386254
+Podcast ID: 175447
+Title: Essentials: Machines, Creativity & Love | Dr. Lex Fridman
+Podcast: Huberman Lab
+Description: In this Huberman Lab Essentials episode my guest is Lex Fridman, PhD, a research scientist at the Massachusetts Institute of Technology (MIT), an expert in robotics and host of the Lex Fridman Podcast. We discuss the development of artificial intelligence through machine learning, deep learning and self-supervised techniques.
+
+[Additional results omitted for brevity - 13 more episodes related to Lex Fridman appearances]
+
+================================================================================
+QUERY 2: "Lex Fridman innovation"
+Results: 15 episodes found
+================================================================================
+
+[Similar Lex Fridman episodes - most overlap with Query 1]
+
+================================================================================
+QUERY 3: "Tim Ferriss creative process"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 17343175
+Podcast ID: 46074
+Title: Tim Ferriss: Seriousness is Kryptonite to Creativity
+Podcast: Chase Jarvis LIVE
+Description: This week, I'm revisiting one of my favorite conversations with my good friend Tim Ferriss. For those of you who don't already know, Tim is an entrepreneur, angel investor, author of 3 New York Times Best Sellers, and host of "The Tim Ferriss Show," a podcast that receives millions of downloads each week.
+
+Episode ID: 10770494
+Podcast ID: 46074
+Title: Tim Ferriss: Creativity, Habits and Rigging the Game
+Podcast: Chase Jarvis LIVE
+Description: Tim Ferriss is a 3x New York Times Best-Selling Author of the Four Hour Work Week, Four Hour Body and the Four Hour Chef. He has a podcast that's been downloaded over 70 MILLION times and a new TV show called the Tim Ferriss Experiment.
+
+[Additional Tim Ferriss episodes]
+
+================================================================================
+QUERY 4: "Tim Ferriss creativity"
+Results: 15 episodes found
+================================================================================
+
+[Similar episodes to Query 3]
+
+================================================================================
+QUERY 5: "Rick Rubin creative"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 57058055
+Podcast ID: 408507
+Title: The Creative Act by Rick Rubin
+Description: Are you an artist? Then grab Rick Rubin book. It may help you in your creative process.
+
+Episode ID: 84174846
+Podcast ID: 606517
+Title: The Creative Act by Rick Rubin
+Description: In this episode of Books Deep Dive, we dive deep into the wisdom of Rick Rubin's The Creative Act: A Way of Being, uncovering the transformative practices that can unlock your inner artist.
+
+Episode ID: 30325593
+Podcast ID: 199305
+Title: The Creative Conductor (Feat. Rick Rubin)
+Podcast: Point Forward
+Description: There's a reason that RICK RUBIN has earned a reputation as one of music's most talented, savvy and trusted producers over the last four decades: He's thoughtful, insightful, inquisitive and self-assured.
+
+Episode ID: 27449791
+Podcast ID: 1227
+Title: Rick Rubin: Modern Master Of The Creative Act
+Podcast: Rich Roll Podcast
+Description: An absolute icon of modern music whose influence on culture has been nothing short of titanic, Rick Rubin is one of the greatest music producers of all time, noted for his unique—and some might say counter-intuitive—way in which he is able to help manifest the absolute best in every artist he works with.
+
+Episode ID: 28398667
+Podcast ID: 39020
+Title: Rick Rubin on The Creative Act Part One
+Podcast: The Daily Stoic
+Description: In the first of a two-part interview, Ryan speaks with Rick Rubin about his new book The Creative Act: A Way of Being, the importance of allowing creativity to happen rather than willing it into existence, working with the unique facets of the artist's ego.
+
+Episode ID: 28508295
+Podcast ID: 39020
+Title: Rick Rubin on The Creative Act Part Two
+Podcast: The Daily Stoic
+Description: In the second of a two-part interview, Ryan speaks with Rick Rubin about his new book The Creative Act: A Way of Being, respecting everyone's unique approach to the creative process during collaboration, his new podcast Tetragrammaton.
+
+Episode ID: 28787369
+Podcast ID: 11571
+Title: Rick Rubin — Magic, Everyday Mystery, and Getting Creative
+Podcast: On Being
+Description: The flow and the ingredients by which an idea becomes an offering — and life practices which call that alchemy forth. The mystery of it all that can only be named and wondered at.
+
+[Additional Rick Rubin episodes]
+
+================================================================================
+QUERY 6: "How I Built This innovation"
+Results: 15 episodes found
+================================================================================
+
+[Most results were about the podcast itself, not specific episodes with innovation experts - limited useful results]
+
+================================================================================
+QUERY 7: "Masters of Scale innovation"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 48187219
+Podcast ID: 11777
+Title: Guy Kawasaki on Masters of Scale: Evangelizing Innovation
+Podcast: Guy Kawasaki's Remarkable People
+Description: I had a blast appearing on the Masters of Scale podcast, where I shared stories and lessons from my journey evangelizing transformative products at Apple and Canva.
+
+[Other Masters of Scale episodes and references]
+
+================================================================================
+QUERY 8: "Hidden Brain creativity"
+Results: 15 episodes found
+================================================================================
+
+[Most results were about the Hidden Brain podcast itself, not specific creativity episodes]
+
+================================================================================
+QUERY 9: "Huberman Lab creativity"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 67756114
+Podcast ID: 519560
+Title: Andrew Huberman- The neuroscience of creativity
+Description: In this episode we talk about all kinds of topics neuroscience and performance related but really emphasize and dive deep into creativity, and how the relationship between time and space and our sense perceptions shape our reality. Deep dive into the neuroscience of creativity.
+
+[Most other results were about Huberman Lab podcast itself]
+
+================================================================================
+QUERY 10: "TED creativity"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 1388193
+Podcast ID: 11777
+Title: Sir Ken Robinson: Creativity Expert, Author, and Viral Ted Speaker
+Podcast: Guy Kawasaki's Remarkable People
+Description: On this episode of Remarkable People, Guy Kawasaki interviews Sir Ken Robinson whose viral TED talk, Do Schools Kill Creativity, has been watched over 65 million times. An expert in creativity and innovation.
+
+[Various TED-related creativity episodes]
+
+================================================================================
+QUERY 11: "Lenny's Podcast product innovation"
+Results: 15 episodes found
+================================================================================
+
+[Limited relevant results - mostly unrelated podcasts]
+
+================================================================================
+QUERY 12: "a16z innovation"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 77884287
+Podcast ID: 11879
+Title: a16z Podcast: Adjusting to Trade... and Innovation
+Description: Beyond the overly simplistic framing of trade as "good" or "bad" — by politicians, by Econ 101 — why is the topic of trade (or rather, economies and people adjusting to trade) so damn hard?
+
+Episode ID: 460683
+Podcast ID: 11879
+Title: a16z Podcast: Incenting Innovation Inside, Loonshots to Moonshots
+Description: with Safi Bahcall (@safibahcall), Vijay Pande (@vijaypande), and Sonal Chokshi (@smc90). A "moonshot" is a destination (like going to the moon, quite literally) -- but nurturing "loonshots" (which often involves a number of stumbles along the way) is how we get there.
+
+Episode ID: 77884475
+Podcast ID: 11879
+Title: a16z Podcast: Making the Case for Permissionless Innovation
+Description: The internet as it has evolved in the United States is perhaps the best example of "permissionless innovation" -- the idea that you can innovate without first waiting for permission or clearance.
+
+[Additional a16z innovation episodes]
+
+================================================================================
+QUERY 13: "creativity researcher interview"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 97353420
+Podcast ID: 460815
+Title: Learning to See: Interview with Keith Sawyer, Creativity Researcher
+Description: What if creativity isn't about waiting for inspiration, but about learning to see the world in new ways? In this episode, I sit down with Keith Sawyer—psychologist, jazz pianist, and author of Learning to See: Inside the World's Leading Art and Design Schools.
+
+Episode ID: 17242747
+Podcast ID: 59065
+Title: 26 - James Kaufman, Creativity Researcher
+Description: Dr James Kaufman is a Professor of Educational Psychology at the University of Connecticut and the author/editor of more than 50 books, including Creativity 101 and the Cambridge Handbook of Creativity with Robert Sternberg.
+
+Episode ID: 28334320
+Podcast ID: 248215
+Title: Creativity researcher James C. Kaufman
+Description: James C. Kaufman, PhD is a Professor of Educational Psychology at the University of Connecticut, and teaches classes on creativity. Topics in our interview include the use of mood-altering substances, the genius myth stereotype, how the idea of a creative muse impacts creative self-direction.
+
+[Additional creativity researcher interviews]
+
+================================================================================
+QUERY 14: "design thinking founder"
+Results: 15 episodes found
+================================================================================
+
+[Mostly general design thinking content, not specific founder interviews]
+
+================================================================================
+QUERY 15: "creative process psychologist"
+Results: 15 episodes found
+================================================================================
+
+[Various creative process episodes, mostly not with psychologists]
+
+================================================================================
+QUERY 16: "innovation professor interview"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 48138939
+Podcast ID: 329888
+Title: CHRIS WASDEN – Professor of Innovation
+Description: Chris Wasden is a professor of innovation in the Entrepreneurship and Strategy Department at the University of Utah's David Eccles School of Business. Chris's company, Sorenson Center for Discovery & Innovation, helps organizations that struggle to innovate.
+
+Episode ID: 27046136
+Podcast ID: 77861
+Title: Professor of innovation, design and management - Professor Alf Rehn
+Description: [Professor Alf Rehn interview]
+
+Episode ID: 25839521
+Podcast ID: 228221
+Title: Innovation with Dr. David Ricketts, Harvard professor
+Description: Dr. Ricketts sits down to talk about what is innovation, some practices to cultivate innovation in your own organization and some innovative ideas that we're experiencing in our culture today.
+
+Episode ID: 1742652
+Podcast ID: 39573
+Title: MIT Professor Luis Perez-Breva on Innovation
+Podcast: The Politics Guys
+Description: Mike talks with Luis Perez-Breva, a successful serial innovator and director of the Innovation Teams Program at MIT. Dr. Perez-Breva holds degrees in Chemical Engineering, Physics, Business, and Artificial Intelligence.
+
+[Additional innovation professor interviews]
+
+================================================================================
+QUERY 17: "neuroscience creativity"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 18556849
+Podcast ID: 60454
+Title: The Neuroscience of Creativity
+Description: Neural imaging is a useful technique to understand the biological basis of artistic creativity. Post-doctoral Scholar Karen Chan Barrett explores how researchers measure the creative brain in real time noting that improvisation is a rich model for studying the neural connections of creativity.
+
+Episode ID: 69503829
+Podcast ID: 538819
+Title: Creativity Lecture 5: The Neuroscience of Creativity
+Description: Professor Susan Greenfield explains how neuroscience can make innovative contributions to creativity by offering a perspective at the level of the physical brain.
+
+Episode ID: 29562906
+Podcast ID: 37147
+Title: Creativity - Scott Barry Kaufman Ph.D. - Neuroscience
+Podcast: Collective Insights
+Description: Scott Barry Kaufman, Ph.D, humanistic psychologist, cognitive scientist, and educational philosopher joined our co-founder, Daniel Schmachtenberger, five years ago to overturn conventional and overly simplistic notions surrounding the neuroscience of creativity.
+
+Episode ID: 67756114
+Podcast ID: 519560
+Title: Andrew Huberman- The neuroscience of creativity
+Description: Deep dive into the neuroscience of creativity, influence of breath (respiration) on ANS, how to leverage creativity to nurture relationships, explore the realm of possibility in terms of human connection.
+
+[Additional neuroscience of creativity episodes]
+
+================================================================================
+QUERY 18: "creative problem solving expert"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 46517004
+Podcast ID: 318352
+Title: Creative problem solving
+Podcast: Research That Matters
+Description: Solving age-old problems and coming up with breakthrough innovations, sometimes simply starts with imagination. In this episode, you'll meet researchers who have embraced inventiveness in their research practice to shake up the normal way of thinking.
+
+[Additional creative problem solving episodes]
+
+================================================================================
+QUERY 19: "design thinking expert"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 58233194
+Podcast ID: 420662
+Title: Design Thinking Expert Leads Nonprofit Expedition in Bolivia - #1112
+Description: Recently, Chris Federer led an expedition of CHOICE Humanitarian volunteers from Utah on an expedition to Bolivia. Following the volunteer expedition, Chris led the Bolivian staff of CHOICE through an exercise to help them develop new fundraising capacity using design thinking.
+
+[Multiple design thinking episodes, mostly educational/introductory]
+
+================================================================================
+QUERY 20: "divergent thinking interview"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 21311545
+Podcast ID: 23011
+Title: Divergent Thinking
+Podcast: Time Alone
+Description: Is it possible that there can be multiple right answers to the same question? Absolutely, that is divergent thinking.
+
+Episode ID: 51752714
+Podcast ID: 37423
+Title: Mastering Divergent Thinking Skills
+Podcast: Creativity Culture Leadership Innovation
+Description: Today marks the beginning of a series of episodes introducing you to five creative thinking skills. Future episodes will explore each skill's background, steps, application, and examples. In this episode, we'll explore how mastering divergent thinking skills can transform your life.
+
+[Additional divergent thinking episodes]
+
+================================================================================
+QUERY 21: "IDEO design process"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 50818393
+Podcast ID: 351213
+Title: 020 | Inside IDEO | Meija Jacobs, Senior Director, Design For Food, IDEO
+Description: Meija Jacobs, an 11-year IDEO veteran, takes us inside IDEO and demystifies its design-led thinking philosophy. Learn how IDEO operates, how its teams are organized, its proprietary brainstorming and prototyping techniques.
+
+Episode ID: 13104943
+Podcast ID: 995
+Title: Simon King on design at IDEO
+Podcast: O'Reilly Design Podcast
+Description: The O'Reilly Design Podcast discusses team dynamics and culture at IDEO, design education, and design's next big challenge. Simon King, director of Carnegie Mellon University's Design Center, discusses his years at IDEO.
+
+Episode ID: 2970361
+Podcast ID: 57509
+Title: 15- Amy Bonsall @IDEO - What is venture design?
+Description: Amy Bonsall is a head of venture design at IDEO. She currently works in the Palo Alto studio, leading a team of seven business designers. In the episode we covered what is venture design and how it is different to lean startup.
+
+[Additional IDEO episodes]
+
+================================================================================
+QUERY 22: "creative constraints"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 24819694
+Podcast ID: 218444
+Title: Your Secret Creative Weapon — Constraints
+Podcast: First Class Founders
+Description: Constraints vs. Bottlenecks - what's the difference? Constraints are necessary components for creativity to flourish. Constraints are the pre-requisite to creating something out of nothing.
+
+Episode ID: 30926547
+Podcast ID: 235827
+Title: In-Between: Pivoting & Creative Constraints
+Podcast: The In-Between Podcast
+Description: Throughout the creative process, things change, ideas evolve, you sometimes need to pivot your focus or restructure your idea. This week's in-between is talking about how creative constraints are actually foundational to your creative journey versus being a boundary.
+
+[Additional creative constraints episodes]
+
+================================================================================
+QUERY 23: "creativity psychology Stanford"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 9251215
+Podcast ID: 170287
+Title: The Psychology of Creativity
+Podcast: The Science of Self
+Description: Rapid Idea Generation: Practical Everyday Creativity for Idea Generation, New Perspectives, and Innovative Thinking. Based on work by psychologists exploring creativity.
+
+[Various psychology of creativity episodes, not specifically Stanford-focused]
+
+================================================================================
+QUERY 24: "innovation research MIT"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 1742652
+Podcast ID: 39573
+Title: MIT Professor Luis Perez-Breva on Innovation
+Podcast: The Politics Guys
+Description: Mike talks with Luis Perez-Breva, a successful serial innovator and director of the Innovation Teams Program at MIT. Dr. Perez-Breva holds degrees in Chemical Engineering, Physics, Business, and Artificial Intelligence. He's an expert in the process of technology innovation.
+
+[Various innovation research episodes, some MIT-related]
+
+================================================================================
+QUERY 25: "cognitive neuroscience insight"
+Results: 15 episodes found
+================================================================================
+
+Episode ID: 13425982
+Podcast ID: 34137
+Title: Social Cognitive Neuroscience
+Description: Our guest is Dr. Matt Lieberman an Associate Professor at UCLA in the Psychology Department and the co-director of Social Cognitive Neuroscience laboratory. Dr. Lieberman has a Ph.D. in Psychology from Harvard University and is a founder of the Social Cognitive Neuroscience field.
+
+[Various cognitive neuroscience episodes]
+
+================================================================================
+SUMMARY OF SEARCH RESULTS
+================================================================================
+
+Total Queries Executed: 25
+Total Episodes Retrieved: 375 (15 per query)
+Unique Podcasts Found: 100+
+
+KEY FINDINGS:
+
+STRONG MATCHES (Episodes with clear expert credentials):
+- Rick Rubin episodes on The Creative Act (music producer, creativity expert)
+- Keith Sawyer interview (Professor, creativity researcher, psychologist)
+- James C. Kaufman interview (Professor of Educational Psychology, UConn, creativity expert)
+- Scott Barry Kaufman interview (Ph.D., humanistic psychologist, cognitive scientist)
+- Andrew Huberman on neuroscience of creativity (Stanford professor, neuroscientist)
+- Tim Ferriss on creative process (bestselling author, entrepreneur, podcaster)
+- Sir Ken Robinson on TED (creativity expert, viral TED speaker)
+- Luis Perez-Breva (MIT Innovation Teams Program director)
+- Meija Jacobs at IDEO (11-year IDEO veteran, Senior Director Design For Food)
+- Dr. Matt Lieberman (UCLA Professor, founder Social Cognitive Neuroscience field)
+- Karen Chan Barrett (Post-doctoral Scholar, neuroscience of creativity)
+- Professor Susan Greenfield (neuroscience of creativity)
+
+PODCAST QUALITY TIERS IDENTIFIED:
+
+Tier 1 - Top Interview Podcasts (Good for Beginner):
+- Huberman Lab
+- Rich Roll Podcast
+- On Being
+- Guy Kawasaki's Remarkable People
+- The Daily Stoic
+- Chase Jarvis LIVE
+
+Tier 2 - Topic-Specific (Good for Intermediate):
+- a16z Podcast
+- O'Reilly Design Podcast
+- Collective Insights
+- Research That Matters
+
+Tier 3 - Academic/Research (Good for Advanced):
+- Various university podcasts
+- Research-focused content
+
+RED FLAGS NOTED:
+- Many podcast episodes were ABOUT the podcast itself, not interviews
+- Joe Rogan episodes with Lex Fridman (per instructions, avoid Joe Rogan)
+- Episodes that were just quotes or brief mentions
+- Episodes without clear expert credentials in descriptions
+
+NEXT STEPS:
+Need to evaluate specific episodes for:
+1. Clear expert credentials (professor, researcher, author, practitioner)
+2. Interview format (not monologue)
+3. Substantive content on creativity/innovation
+4. Quality podcast reputation
+5. Diverse perspectives across science, practice, and application

@@ -1,0 +1,505 @@
+# MARKETING LIKE A BOSS - SEARCH RESULTS
+## All Search Results from Elasticsearch MCP
+
+Total Searches Executed: 25
+Total Episode Results: ~500 episodes
+
+---
+
+## STRATEGY A: HIGH-QUALITY PODCAST + MARKETING TOPIC (9 SEARCHES)
+
+### Search 1: "Lex Fridman marketing psychology"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 8807774
+Title: Lex Fridman
+Podcast ID: 40350
+Description: Lex and Whitney discuss love and robots.Follow Lex Fridman everywhere: @lexfridmanSee omnystudio.com/listener for privacy information.
+
+Episode ID: 44520029
+Title: #1537 - Lex Fridman
+Podcast ID: 309227
+Description: Scientist Lex Fridman researches human-centered artificial intelligence and autonomous vehicles at MIT, and studies Brazilian Jiu-Jitsu in his spare time. Check out his podcast "Lex Fridman Podcast", available now on Spotify.
+
+[Note: Most results were about Lex Fridman appearances on other podcasts, not specifically about marketing psychology]
+
+---
+
+### Search 2: "Tim Ferriss marketing brand building"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 64382674
+Title: The Tim Ferriss Show Brand Analysis
+Podcast ID: 481140
+Description: In this podcast episode I run a brand analysis on The Tim Ferriss Show and Tim's "4 Hour" branding that is used on his blog, podcast and published books.
+
+Episode ID: 17227913
+Title: Building The Tim Ferriss Show to 700+ Million Downloads with Tim Ferriss
+Podcast ID: 187929
+Description: #26: Best-selling author Tim Ferriss chats with Chris about how he built and grew his podcast (The Tim Ferriss Show) to 700+ Million Downloads. They give a deep inside look at how their podcasts got started and how everything comes together each week (equipment, production, interviews and more).
+
+---
+
+### Search 3: "How I Built This brand story"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 69482859
+Title: How We Built This Brand
+Podcast ID: 538582
+Description: Welcome to our first ever podcast. In this initial episode we take a look back to how Hush was created over the last 9 years. From starting a YouTube hunting channel, to how we all met and became partners.
+
+Episode ID: 13420929
+Title: How I Built Personal Brand Accelerator
+Podcast ID: 125945
+Description: In this episode, I'm sharing how I built Personal Brand Accelerator and the real reason the program exists.
+
+---
+
+### Search 4: "a16z viral growth marketing"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 53330853
+Title: Meet The Marketing Genius Behind Duolingo's Viral Growth
+Podcast ID: 203358
+Description: Shamus Madan interviews Gina Gotthilf, covering her pivotal career decision with Tumblr, an unexpected experience with a former boss, and she grew Duolingo to 200M users with PR.
+
+Episode ID: 77884416
+Title: a16z Podcast: I Reject the Term Viral Video
+Podcast ID: 11879
+Description: YouTube star Casey Neistat rejects the term "viral video," which is strange because he's had more than his share of internet monsters.
+
+Episode ID: 460722
+Title: a16z Podcast: When Organic Growth Goes Enterprise
+Podcast ID: 11879
+Description: What happens when the bottoms up, organic growth usually associated with consumer companies starts to go.... enterprise?
+
+---
+
+### Search 5: "Lenny's Podcast growth marketing"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+[Note: Most results were about Lenny's baseball podcast, not the product management/growth Lenny's Podcast]
+
+Episode ID: 725026
+Title: Podcast Growth & Marketing Strategies
+Podcast ID: 20288
+Description: Ep 144 of Business Growth School for service providers. We share strategies, tricks, techniques on how to generate leads, grow your revenue and sales.
+
+---
+
+### Search 6: "Masters of Scale marketing strategy"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 16610915
+Title: 089: Your Marketing Strategy to Scale
+Podcast ID: 184546
+Description: We talk about the marketing strategy you need to have in place to increase your sales. Specifically, we discuss how to continue to increase your brand awareness, how to continue to build brand loyalty and trust.
+
+Episode ID: 1306613
+Title: Coming Soon: Masters of Scale
+Podcast ID: 35282
+Description: Coming May 3rd, Reid Hoffman, legendary Silicon Valley entrepreneur and investor, explains how famous founders take their companies from zero to a gazillion.
+
+Episode ID: 92596301
+Title: #324 Masters of Scale Book
+Podcast ID: 692413
+Description: Masters of Scale is an amazing podcast by LinkedIn Founder Reid Hoffman and now there is a book out in the same name.
+
+---
+
+### Search 7: "Hidden Brain persuasion consumer behavior"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 5125191
+Title: Consumer Behavior
+Podcast ID: 95937
+Description: Knowing the person who is buying your products is so important! Where do they buy? When do they buy? How much do they buy?
+
+Episode ID: 739555
+Title: Consumer Behavior
+Podcast ID: 20628
+Description: Consumer behavior are predicated on the action taken by the individual to alleviate his most immediate need.
+
+Episode ID: 26886172
+Title: Consumer Behavior
+Podcast ID: 241661
+Description: Leigh Todd and outside expert Professor Beth Redbird examine both the challenges and opportunities that countries are facing in the wake of COVID-19.
+
+---
+
+### Search 8: "Prof G Pod Scott Galloway brand"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 1398181
+Title: Official Trailer: The Prof G Pod With Scott Galloway
+Podcast ID: 36037
+Description: Bestselling author, professor, and entrepreneur Scott Galloway combines business insight and analysis with provocative life and career advice.
+
+Episode ID: 29092864
+Title: From The Prof G Pod with Scott Galloway | The Future of Work
+Podcast ID: 1228
+Description: As a wrap up to our Work Life series, we want to share a preview of another podcast we love: Prof G hosted by Scott Galloway.
+
+Episode ID: 28259262
+Title: America's Progress Has Stalled — with Derek Thompson | The Prof G Pod with Scott Galloway
+Podcast ID: 11559
+Description: Derek Thompson, a staff writer at The Atlantic and host of the Plain English podcast, joins Scott to discuss why he believes America is at a standstill when it comes to progress.
+
+---
+
+### Search 9: "Rick Rubin brand storytelling"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 9063856
+Title: Rick Rubin
+Podcast ID: 11657
+Description: The super-producer joins Zane to talk Tom Petty, fond memories of working on Wildflowers, plus share stories of collaborating with Ringo Starr, Carl Wilson, The Strokes, and more.
+
+Episode ID: 27466788
+Title: Rick Rubin
+Podcast ID: 210298
+Description: "You never know where that peak is until you go past it." The producer and Def Jam co-founder on making records.
+
+Episode ID: 5076280
+Title: Rick Rubin
+Podcast ID: 35698
+Description: He has coined himself the great "Reducer". However, his imprint on hip hop can not be reduced. Rick Rubin established one of the greatest record labels of all time, Def Jam.
+
+---
+
+## STRATEGY B: TOPIC + EXPERTISE SIGNALS (8 SEARCHES)
+
+### Search 10: "marketing CMO interview"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 61854247
+Title: Renee Bigelow Marketing Leader & CMO Interview: Marketing 101
+Podcast ID: 455511
+Description: Everything you need to know about marketing for your business, company and personal brand. How marketing has changed & the latest trends.
+
+Episode ID: 19204389
+Title: Marketing Unscripted with The CMO Whisperers (Expert Interview)
+Podcast ID: 183763
+Description: Bruce Hershey & Steve Olenski met over 10 years ago when Steve was at Forbes and Bruce was CMO of Tailored Brands.
+
+Episode ID: 15824124
+Title: Interview: Bullhorn's CMO
+Podcast ID: 180614
+Description: This month the boys have a chat with Bullhorn's CMO Gordon Burns about the current state of marketing in the recruitment space on the heels of their annual survey.
+
+---
+
+### Search 11: "viral marketing founder interview"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 64951926
+Title: DUDE Wipes Founder Reveals DNA Behind Their Viral Marketing | Sean Riley Interview
+Podcast ID: 267024
+Description: Today we're talking to DUDE Wipes founder Sean Riley about how differentiation helped him build a $150M dollar brand in a very crowded market.
+
+Episode ID: 6230249
+Title: Going Viral: Viral Marketing & Viral Infection
+Podcast ID: 123789
+Description: [No description provided]
+
+---
+
+### Search 12: "brand strategy expert interview"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 87104883
+Title: Michael Browne - Freelance Strategy Director - Brand Strategy Expert
+Podcast ID: 661672
+Description: This episode features the excellent Michael Browne. Michael is a Freelance Strategy Director. He speaks about his time in agencies in New York, London and more recently Dublin.
+
+Episode ID: 65048127
+Title: Strategy From A Top BRAND Expert
+Podcast ID: 488954
+Description: Soul and Passion are foundational to your customer's experience! Innovation Rules! Useful defines your brand and ensures continued relevance with your guest!
+
+---
+
+### Search 13: "growth hacking VP Growth"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 20906977
+Title: Hacking Growth Hacking
+Podcast ID: 203799
+Description: Growth hacking strikes some people as something that computer software companies do. But Shopify's Morgan Brown, co-author of the book Hacking Growth, knows that it's a process any business can leverage.
+
+Episode ID: 6287512
+Title: Growth Hacking
+Podcast ID: 125387
+Description: Today I am talking to Tom Morkes. Tom is a West Point grad, Iraq War veteran and CEO of Insurgent Publishing.
+
+---
+
+### Search 14: "consumer psychology professor interview"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 89541744
+Title: Interview with Gareth Harvey: former professor of consumer psychology turned behavioral science consultant
+Podcast ID: 304407
+Description: In this episode we talk with Gareth Harvey. Gareth was previously a professor of consumer psychology but now advises companies about how they can apply findings from behavioral science.
+
+Episode ID: 23226091
+Title: Consumer Psychology
+Podcast ID: 197929
+Description: Welcome to Spooky Psychology with Megan and Lauren! Today we're discussing psychological marketing tactics and getting specific about advertising to children.
+
+---
+
+### Search 15: "behavioral economics marketing"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 44462625
+Title: Navigating the 4Ps: Bridging Marketing and Behavioral Economics | Behavioral Economics in Marketing Podcast
+Podcast ID: 171752
+Description: The 4Ps of marketing are not static principles but dynamic elements shaped by the nuances of human behavior.
+
+Episode ID: 10045629
+Title: Behavioral Economics in Marketing Trailer
+Podcast ID: 171752
+Description: Understanding how we as humans make decisions is an important part of marketing. Behavioral economics is the study of decision making and can give keen insight into buyer behavior.
+
+Episode ID: 9506011
+Title: Behavioral Economics: Its Implication for Marketing
+Podcast ID: 20019
+Description: In this interview, I discuss both the theory and practice of Behavioral Economics on how marketing is practiced today with Mark Byrne, Account Director of Designworks.ie
+
+---
+
+### Search 16: "content marketing Head of Growth"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 710576
+Title: 65: growth of content marketing
+Podcast ID: 20016
+Description: [No description provided]
+
+Episode ID: 99312777
+Title: 65: growth of content marketing
+Podcast ID: 20016
+Description: Brad and Scully discuss the elements that make a thoroughly modern marketer; and whether the rapid growth of content marketing will make the content bubble burst.
+
+---
+
+### Search 17: "persuasion psychology researcher interview"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 3742735
+Title: Psychology of persuasion
+Podcast ID: 70580
+Description: In this podcast, Attorney DelSignore reviews the lecture of Dyke Huish given at the National Criminal Defense Lawyers seminar in the Fall of 2019 on the Psychology of Persuasion.
+
+Episode ID: 20300421
+Title: The Psychology of Online Persuasion
+Podcast ID: 15405
+Description: Moe and Nathalie discuss the latest developments, cutting edge techniques and fascinating insights that lead to online success.
+
+Episode ID: 2475445
+Title: Psychology of Persuasion - Brian Ahearn
+Podcast ID: 49555
+Description: Brian Ahearn will discuss his new book. Its about the practical application of the psychology of persuasion.
+
+---
+
+## STRATEGY C: SPECIFIC MARKETING SUBTOPICS (8 SEARCHES)
+
+### Search 18: "viral loops growth expert"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 85041020
+Title: 10 Viral Loops that Drive Sustainable Product Growth
+Podcast ID: 640156
+Description: 10 types of viral loops to fuel your product growth strategy
+
+Episode ID: 12180137
+Title: Interview: Teju Owoye on viral loops and growth hacks
+Podcast ID: 55145
+Description: Teju Owoye of the Sulte Group built a million dollar business in under six months by utilizing her own principals of viral loops and growth hacks.
+
+Episode ID: 10890896
+Title: Funnels, Loops, and Viral Loops | Episode 41
+Podcast ID: 21381
+Description: Today I'm sharing two shorter episodes originally published on Nathan's Daily PRO Marketer podcast.
+
+---
+
+### Search 19: "positioning strategy interview"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 9635467
+Title: Unique Positioning Strategy
+Podcast ID: 37768
+Description: [No description provided]
+
+Episode ID: 21086181
+Title: #WriterWednesdays - Brand Positioning Strategy
+Podcast ID: 204782
+Description: Tune in as host Crystal gives you different tips about how to position brand to help build your awareness and audience.
+
+Episode ID: 36438526
+Title: Mastering Strategy, Vision, and Positioning
+Podcast ID: 270519
+Description: Professor Scott Galloway is our guest in this episode. Listen in as Nikhil Chawla, Isabelle Papoulias, and Ali McCarthy share their own pluses, how they discovered them, and what changed when they leaned in.
+
+---
+
+### Search 20: "storytelling marketing expert"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 76020898
+Title: STORYTELLING MATTERS | Marketing Expert Answers
+Podcast ID: 553007
+Description: This week, we interviewed a unique marketer, who told us that "views don't matter". Axel and our guest, will dive into 'overcoming fear of the online', are you marketing yourself properly?
+
+Episode ID: 3143449
+Title: Marketing Storytelling
+Podcast ID: 60456
+Description: Use story telling to make a connection brand and consumer that goes far beyond the product, far beyond that moment -- and lives with the consumer.
+
+Episode ID: 35810492
+Title: Transforming Organizations Through Storytelling: Lessons from Marketing Expert Mary Czarnecki
+Podcast ID: 228524
+Description: Are you ready to power up your marketing strategy with the art of storytelling? Mary Czarnecki, a seasoned marketing strategist with over two decades under her belt, joins us today.
+
+---
+
+### Search 21: "social proof psychology interview"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 479
+Title: Maven Interview: Kemp Edmonds on Social Proof
+Podcast ID: 180449
+Description: Bob and Andrew chat with Kemp Edmonds about Social Proof. Kemp Edmonds is the former president of the Vancouver Social Media Club, Sales Engineer at Hootsuite.
+
+Episode ID: 753497
+Title: Social Proof
+Podcast ID: 21087
+Description: Peer Support Is Very Effective
+
+Episode ID: 15758494
+Title: Maven Interview: Kemp Edmonds on Social Proof
+Podcast ID: 180449
+Description: Bob and Andrew chat with Kemp Edmonds about Social Proof and how social proof plays an important decision in many buying decisions.
+
+---
+
+### Search 22: "community-led growth founder"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 87792345
+Title: La méthode "Community-Led Growth"
+Podcast ID: 553007
+Description: Dans cet extrait, avec Jolhane Leite et Faustine Rohr-Lacoste on parle création de communauté et plus particulièrement "Community Led Growth".
+
+Episode ID: 23158130
+Title: Community-Led Growth vs. Product-Led Growth with Anu Atluru
+Podcast ID: 211093
+Description: What is the role of community at an organization? Anu Atluru joins the show to debate the true definition of community.
+
+Episode ID: 66001703
+Title: The Community-Led Growth Show - Episode 05 w/ Vasil Azarov, Founder at Growth Blazers
+Podcast ID: 499681
+Description: In this episode of The Community-Led Growth Show, our Host Joel Primack interviews Vasil Azarov, Founder at Growth Blazers.
+
+---
+
+### Search 23: "conversion optimization expert"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 67569379
+Title: Conversion Optimization
+Podcast ID: 517376
+Description: Enquiros Rick Tobin and Gord Hotchkiss disucss conversion optimization including Barrier Scanning in Websites, pushing scan patterns and clearing navigation paths.
+
+Episode ID: 683574
+Title: B2B Conversion Optimization
+Podcast ID: 19732
+Description: Discover how can you get the most out of the traffic you already have with effective CRO. We speak to Jeff White, a leading conversion optimization specialist.
+
+Episode ID: 685146
+Title: Conversion Rate Optimization
+Podcast ID: 19740
+Description: Learning how to increase conversions is often a top goal of smart and internet savvy marketing and business leaders.
+
+---
+
+### Search 24: "neuromarketing researcher interview"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 12578426
+Title: Neuromarketing - das Interview mit Gesa Lischka
+Podcast ID: 153485
+Description: Neuromarketing - was für ein Thema in dieser Episode! Gesa Lischka ist die Expertin und nimmt uns im Interview mit auf eine spannende Entdeckungsreise.
+
+Episode ID: 49259013
+Title: Neuromarketing
+Podcast ID: 337979
+Description: Vamos a conocer más sobre neuromarketing
+
+Episode ID: 12006990
+Title: #Neuromarketing 1: What is Neuromarketing?
+Podcast ID: 40862
+Description: Do you ever argue with your own brain? Dr. Michael L. Platt is the Director of the Wharton Neuroscience Initiative. In this #Neuromarketing series, host Erik Kostelnik chats with Dr. Platt about the basics of neuromarketing.
+
+---
+
+### Search 25: "category design marketing"
+Total Results: 10,000
+Top Episodes Retrieved: 20
+
+Episode ID: 777532
+Title: B2B Marketing – Category Design
+Podcast ID: 22225
+Description: Knock out your competition through avoiding one-on-one technical comparisons, because you are the king of your own unique category.
+
+Episode ID: 761927
+Title: B2B Marketing Category Design
+Podcast ID: 21416
+Description: Simply producing a product or service which is incrementally better all the time, is actually a race to the bottom. So enter, the practice of Category Design...
+
+Episode ID: 33915279
+Title: The Future of Marketing is Category Design
+Podcast ID: 46048
+Description: Today I interviewed Christopher Lochhead and Eddie Yoon. Two master marketers who developed a fascinating new process called "Category Design".
+
+---
+
+## SUMMARY STATISTICS
+
+Total searches executed: 25
+Episodes per search: 20
+Total episode results collected: ~500
+Search strategies used: 3 (High-Quality Podcasts, Expertise Signals, Specific Subtopics)
+
+Next Steps:
+1. Evaluate episodes for expertise signals
+2. Identify interview format episodes with clear credentials
+3. Select 18 episodes (6 Beginner, 6 Intermediate, 6 Advanced)
+4. Document why each episode qualifies and what expertise signals were found

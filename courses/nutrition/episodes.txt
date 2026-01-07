@@ -1,0 +1,535 @@
+# NUTRITION COURSE - EPISODE EVALUATIONS
+## Detailed Assessment of Candidate Episodes
+
+---
+
+## EXCELLENT EPISODES (⭐⭐⭐) - TOP PRIORITY
+
+### Episode 1: "Improve Vitality, Emotional & Physical Health & Lifespan | Dr. Peter Attia"
+- **Episode ID:** 28817860
+- **Podcast ID:** 175447 (Huberman Lab)
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - MD from Stanford University
+  - Medical training at Johns Hopkins and NIH
+  - Host of The Drive podcast
+  - Author of NYT Bestseller "Outlive: The Science and Art of Longevity"
+  - Longevity physician specializing in disease prevention
+- **Level:** BEGINNER
+- **Rationale:** Perfect beginner episode featuring Andrew Huberman (Stanford neuroscientist) interviewing Peter Attia. Description covers disease prevention, healthy aging, nutrition, exercise, sleep - foundational topics. Huberman Lab is Top 200 podcast known for making science accessible. Attia's credentials are impeccable and he's known for clear communication.
+- **Learning Outcomes:** Introduction to biomarker testing, nutrition fundamentals, connection between lifestyle and longevity, emotional health's role in physical health
+
+---
+
+### Episode 2: "#1108 - Peter Attia"
+- **Episode ID:** 44523822
+- **Podcast ID:** 309229 (The Joe Rogan Experience)
+- **Quality Rating:** ❌ REJECT
+- **Reason for Rejection:** Joe Rogan podcast explicitly mentioned in CLAUDE.md as "❌ Joe Rogan or any other bullshit podcast"
+- **Note:** Despite Peter Attia being an excellent expert, this podcast violates project guidelines
+
+---
+
+### Episode 3: "Understanding Emotional Health ft. Peter Attia"
+- **Episode ID:** 77543258
+- **Podcast ID:** 395790
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - MD (Stanford/Hopkins/NIH-trained)
+  - Founder of Early Medical
+  - Practices Medicine 3.0 principles
+  - Host of The Drive Podcast
+  - Author of #1 NYT Bestseller "Outlive"
+- **Level:** INTERMEDIATE
+- **Rationale:** Focuses on emotional health connection to physical health, which ties into gut-brain axis concepts. More specialized focus than general introduction. Good for intermediate level exploring mind-body connections.
+- **Learning Outcomes:** Emotional health's impact on metabolic health, mind-body connection, Medicine 3.0 approach to longevity
+
+---
+
+### Episode 4: "048 - Dr. Tim Spector - Genetic Epidemiologist and Gut Microbiome Researcher"
+- **Episode ID:** 12560553
+- **Podcast ID:** 53280
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - PhD, Professor
+  - Genetic epidemiologist
+  - Director of TwinsUK Registry at King's College London
+  - Director of British Gut Microbiome Project
+  - Co-founder of ZOE (major nutrition science company)
+  - Author of "The Diet Myth", "Identically Different", "Spoon Fed"
+- **Level:** INTERMEDIATE
+- **Rationale:** Perfect for intermediate level - deep dive into gut microbiome research from one of the world's leading researchers. Director of major research projects gives cutting-edge insights. TwinsUK Registry is landmark study in personalized nutrition.
+- **Learning Outcomes:** Gut microbiome diversity, twin studies revealing nutrition responses, genetic vs environmental factors, personalized nutrition science
+
+---
+
+### Episode 5: "485: Dr. Rhonda Patrick | Found My Fitness"
+- **Episode ID:** 22573925
+- **Podcast ID:** 205 (The Art of Charm)
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - PhD in biomedical science
+  - Expert on nutritional health
+  - Discusses micronutrient deficiencies, metabolism, inflammation, DNA damage, aging
+  - Vitamin D and omega-3 fatty acids expert
+- **Level:** INTERMEDIATE
+- **Rationale:** Dr. Patrick is renowned for translating complex nutritional science. This episode covers micronutrients and their metabolic effects - perfect intermediate content. The Art of Charm is reputable podcast, interview format confirmed.
+- **Learning Outcomes:** Micronutrient deficiencies impact on metabolism, inflammation's role in aging, vitamin D and omega-3s in brain function, DNA damage prevention through nutrition
+
+---
+
+### Episode 6: "NutraCast: ZOE co-founder Tim Spector on personalized gut health"
+- **Episode ID:** 82117694
+- **Podcast ID:** 621552
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Co-founder of ZOE (healthcare science company)
+  - Uses machine learning with large-scale human studies
+  - Focuses on decoding impact of nutrition on health
+  - Professor of genetic epidemiology
+- **Level:** ADVANCED
+- **Rationale:** Discusses personalized nutrition using machine learning and large datasets - cutting-edge approach. ZOE represents frontier of precision nutrition. Advanced level appropriate for technical discussion of personalized gut health.
+- **Learning Outcomes:** Personalized nutrition science, machine learning in nutrition research, individual responses to foods, ZOE study findings
+
+---
+
+### Episode 7: "Gut Health and Anxiety: Tim Spector"
+- **Episode ID:** 88660226
+- **Podcast ID:** 176333
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Professor Tim Spector
+  - Discusses gut microbiome's role in producing serotonin and GABA
+  - Connection between gut health and anxiety
+  - Top researcher in gut-brain axis
+- **Level:** INTERMEDIATE
+- **Rationale:** Perfect for intermediate level covering gut-brain connection - core topic of course. Serotonin and GABA production by gut microbiome is key mechanism. Bridges from basic gut health to mental health applications.
+- **Learning Outcomes:** Gut-brain axis mechanisms, microbiome's role in neurotransmitter production, anxiety-gut health connection, serotonin and GABA production
+
+---
+
+### Episode 8: "Gut health with Professor Tim Spector"
+- **Episode ID:** 9075957
+- **Podcast ID:** 167194
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Professor of genetic epidemiology
+  - Bestselling author of "The Diet Myth"
+  - Discusses gut health as central to overall health and wellbeing
+  - Key to health lies in microbes inside us
+- **Level:** BEGINNER
+- **Rationale:** Foundational introduction to gut health from world-leading expert. "The Diet Myth" is accessible bestseller. Good beginner content explaining why gut health matters overall. Professor Spector is excellent communicator.
+- **Learning Outcomes:** Introduction to gut microbiome importance, how microbes affect overall health, debunking diet myths, foundational gut health concepts
+
+---
+
+### Episode 9: "Tim Spector On Health, Diet & Trusting Your Gut"
+- **Episode ID:** 80720367
+- **Podcast ID:** 614839
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Award-winning scientist
+  - Tim Spector OBE (Order of British Empire)
+  - Top 100 most cited scientists in world (top 1%)
+  - Co-founder of ZOE
+  - Professor of genetic epidemiology
+- **Level:** BEGINNER
+- **Rationale:** Excellent beginner episode - "Trusting Your Gut" suggests accessible approach. Spector's top 1% citation rank confirms world-class expertise. OBE recognition shows impact. Great for introducing listeners to gut health importance.
+- **Learning Outcomes:** Why gut health matters, how to "trust your gut" literally, diet myths debunked, practical gut health strategies
+
+---
+
+### Episode 10: "Live Episode: Gut Health and Diet Myths with Tim Spector"
+- **Episode ID:** 31283251
+- **Podcast ID:** 264169
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Professor of Genetic Epidemiology at King's College London
+  - Leads largest microbiome project in UK (Twin Study)
+  - Published 900+ scientific journals
+  - Director of TwinsUK Registry
+- **Level:** BEGINNER
+- **Rationale:** "Diet Myths" focus is perfect for beginners - clears misconceptions before building knowledge. 900+ publications is extraordinary. Live episode format often more accessible. King's College London is prestigious institution.
+- **Learning Outcomes:** Common diet myths debunked, what science actually shows about diets, introduction to microbiome research, evidence-based nutrition basics
+
+---
+
+### Episode 11: "Gregor Reid: Improve your health with the #1 Probiotics Expert"
+- **Episode ID:** 73607232
+- **Podcast ID:** 385124
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Dr. Gregor Reid
+  - Described as "#1 expert in probiotics" (recognized authority)
+  - Discusses benefits even if they don't colonize gut
+  - Covers fermented foods, antibiotics vs probiotics, effective strains
+  - Addresses specific applications: bad breath, acne, bacterial vaginosis
+- **Level:** INTERMEDIATE
+- **Rationale:** Specific focus on probiotics from world's leading expert. Covers mechanisms (colonization vs benefits), applications, and practical strains. Perfect intermediate content - builds on basic gut health to specific interventions.
+- **Learning Outcomes:** How probiotics work, which strains are effective, fermented foods benefits, antibiotics impact on microbiome, practical probiotic use
+
+---
+
+### Episode 12: "#197 Improving metabolic health and insulin resistance"
+- **Episode ID:** 30219172
+- **Podcast ID:** 128372 (The Doctor's Kitchen)
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Dr. Rupy Aujla (medical doctor)
+  - Discusses insulin resistance and impact on disease risk
+  - Why insulin resistance drives chronic conditions
+  - Lifestyle measures for improving metabolic health
+  - The Doctor's Kitchen is respected health podcast
+- **Level:** INTERMEDIATE
+- **Rationale:** Metabolic health and insulin resistance are core nutrition topics. Dr. Aujla is MD with focus on lifestyle medicine. Bridges nutrition science to disease prevention. Good intermediate content on mechanisms.
+- **Learning Outcomes:** Understanding insulin resistance, metabolic health fundamentals, lifestyle interventions, connection to chronic disease, practical strategies
+
+---
+
+### Episode 13: "Food, Mood & Mental Health"
+- **Episode ID:** 30237213
+- **Podcast ID:** 251708 (Brainstorm Podcast)
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Professor Adrienne O'Neil
+  - Co-Director of Food & Mood Centre at Deakin University
+  - Discusses study linking ultra-processed foods with depression risk
+  - Academic research center director
+- **Level:** INTERMEDIATE
+- **Rationale:** Perfect for gut-brain connection topic - Professor O'Neil directs research center specifically on food and mood. Ultra-processed foods study is current research. Intermediate level appropriate for research-backed mental health connections.
+- **Learning Outcomes:** Food's impact on mental health, ultra-processed foods and depression link, gut-brain connection to mood, research evidence for nutrition-mental health
+
+---
+
+### Episode 14: "Personalized Nutrition and The Best Diet for You"
+- **Episode ID:** 53556735
+- **Podcast ID:** 373978
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Dr. Christopher Gardner
+  - PhD, Stanford University researcher
+  - Discusses personalized nutrition (precision nutrition)
+  - Each person may have different response to foods/nutrients
+  - Results from research studies searching for best diets
+- **Level:** ADVANCED
+- **Rationale:** Personalized/precision nutrition is cutting-edge field. Stanford researcher discussing research findings on individual responses. Advanced content - challenges one-size-fits-all approach. Perfect for advanced level.
+- **Learning Outcomes:** Precision nutrition concepts, individual variability in food responses, why "best diet" differs per person, Stanford research findings
+
+---
+
+### Episode 15: "What is Personalized Nutrition?"
+- **Episode ID:** 54232608
+- **Podcast ID:** 379803
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Dr. Jim Hill, PhD
+  - Researcher discussing precision nutrition
+  - Based on genetics, lifestyle, environment
+  - Academic researcher
+- **Level:** ADVANCED
+- **Rationale:** Another precision nutrition episode from PhD researcher. Covers genetics, lifestyle, environment - comprehensive approach. Good for advanced level exploring personalization factors.
+- **Learning Outcomes:** Personalized nutrition framework, role of genetics in nutrition, environmental factors, lifestyle integration, precision nutrition approach
+
+---
+
+## GOOD EPISODES (⭐⭐) - SOLID BACKUPS
+
+### Episode 16: "Tim Ferriss on Biomarkers, Ketosis, Microbiome, and Lyme Disease"
+- **Episode ID:** 425759
+- **Podcast ID:** 11618 (Found My Fitness)
+- **Quality Rating:** ⭐⭐ GOOD
+- **Expertise Signals:**
+  - Tim Ferriss (bestselling author, self-experimenter)
+  - Interviewed by Rhonda Patrick (PhD)
+  - Discusses ketogenic diet, biomarkers, inflammation and aging
+  - Vitamin C, Lyme disease experience
+- **Level:** INTERMEDIATE
+- **Rationale:** Tim Ferriss is practitioner/experimenter not scientist, but interviewed by Dr. Rhonda Patrick (PhD biomedical science). Found My Fitness is excellent podcast. Self-experimentation perspective valuable but less rigorous than research-based episodes. Backup option.
+- **Learning Outcomes:** Ketogenic diet experience, biomarker tracking, self-experimentation approaches, inflammation management
+
+---
+
+### Episode 17: "Insulin resistance: The hidden key to metabolic health"
+- **Episode ID:** 95841375
+- **Podcast ID:** 321352 (Nurses Out Loud)
+- **Quality Rating:** ⭐⭐ GOOD
+- **Expertise Signals:**
+  - Melissa Schreibfeder, BSN, RN, BC-FMP
+  - Board Certified Functional Medicine Practitioner
+  - Discusses insulin resistance driving chronic disease
+  - Root causes, nutrient deficiencies, hormonal imbalances
+- **Level:** INTERMEDIATE
+- **Rationale:** Good credentials (BSN, RN, Board Certified) but not PhD/MD researcher. Functional medicine practitioner - practical clinical perspective. Good backup for metabolic health topic if need more options. Clinical expertise rather than research expertise.
+- **Learning Outcomes:** Insulin resistance clinical perspective, functional medicine approach, nutrient deficiencies, hormonal connections
+
+---
+
+### Episode 18: "Rich Roll on Recovery, Plant-Based Nutrition, Launching His Podcast and More"
+- **Episode ID:** 23793192
+- **Podcast ID:** 213578
+- **Quality Rating:** ⭐⭐ GOOD
+- **Expertise Signals:**
+  - Rich Roll - bestselling author
+  - Ultra-endurance athlete
+  - Plant-based nutrition advocate
+  - Practitioner experience (not scientist)
+  - Personal transformation story (alcoholism recovery)
+- **Level:** BEGINNER
+- **Rationale:** Rich Roll has practitioner experience and is excellent communicator, but not scientist/researcher. Plant-based nutrition from athlete perspective. Good for beginner level if need more accessible content. Personal story angle engaging but less rigorous.
+- **Learning Outcomes:** Plant-based nutrition from practitioner view, athletic performance and nutrition, personal transformation through diet
+
+---
+
+### Episode 19: "Fueling for Longevity: Nutrition and Aging"
+- **Episode ID:** 68106938
+- **Podcast ID:** 523425
+- **Quality Rating:** ⭐⭐ GOOD
+- **Expertise Signals:**
+  - Bruce Sweeney and Bethany Gettis
+  - Explore how nutrition and lifestyle affect aging
+  - Expert insights on optimizing health
+  - Less clear specific credentials in description
+- **Level:** INTERMEDIATE
+- **Rationale:** Relevant topic (longevity nutrition) but credentials not clearly stated in description. "Expert insights" is vague. Could be good backup but need to verify expertise. Longevity and aging focus fits course theme.
+- **Learning Outcomes:** Nutrition's role in aging, lifestyle factors for longevity, optimization strategies
+
+---
+
+## ACCEPTABLE EPISODES (⭐) - USE ONLY IF NEEDED
+
+### Episode 20: "083 Longevity Diet and Nutrition Playbook"
+- **Episode ID:** 12218897
+- **Podcast ID:** 67298
+- **Quality Rating:** ⭐ ACCEPTABLE
+- **Expertise Signals:**
+  - Fred Herbert (no credentials listed)
+  - Reviews eating strategies: Mediterranean Diet, Plant Based, Paleo, Ketogenic, Intermittent Fasting
+  - Supporting cellular health and longevity
+- **Level:** BEGINNER
+- **Rationale:** Relevant topic (diet comparisons) but no clear expert credentials. "Reviews eating strategy" suggests overview/summary approach rather than expert interview. Could work for basic introduction if desperate but prefer episodes with clear expertise.
+- **Learning Outcomes:** Overview of popular diets, longevity diet concepts, cellular health basics
+
+---
+
+### Episode 21: "249. Food & Mood: The Food-Mental Health Connection"
+- **Episode ID:** 84077464
+- **Podcast ID:** 105781 (OTL REST EAT MOVE)
+- **Quality Rating:** ⭐ ACCEPTABLE
+- **Expertise Signals:**
+  - Host Matt discusses topic
+  - Challenges reliance on SSRIs
+  - Explores gut-brain connection
+  - No guest mentioned - appears to be host monologue
+- **Level:** N/A
+- **Rationale:** RED FLAG - appears to be host monologue ("Matt discusses"), not expert interview. CLAUDE.md specifies must be interviews. Even though topic is relevant (gut-brain, food-mood), format disqualifies it. Would reject unless description confirms guest interview.
+- **Note:** Need to verify if there's actually a guest expert before considering
+
+---
+
+## REJECTED EPISODES (❌)
+
+### Episode 22: All Joe Rogan Experience Episodes
+- **Podcast ID:** 309229
+- **Quality Rating:** ❌ REJECT
+- **Reason:** CLAUDE.md explicitly states: "❌ Joe Rogan or any other bullshit podcast"
+- **Note:** Despite having excellent guests (Dr. Rhonda Patrick, Peter Attia), the podcast itself is on reject list per project guidelines
+- **Episodes Found:**
+  - #1108 - Peter Attia (Episode ID: 44523822)
+  - Multiple Dr. Rhonda Patrick episodes (#901, #502, #459, #568, #773, #1054, #1178, #1474, #1701, #672)
+
+---
+
+## SUMMARY OF CANDIDATE POOL
+
+**⭐⭐⭐ EXCELLENT Episodes:** 15 episodes identified
+**⭐⭐ GOOD Episodes:** 4 episodes identified
+**⭐ ACCEPTABLE Episodes:** 2 episodes identified
+**❌ REJECTED Episodes:** All Joe Rogan episodes (11+ episodes)
+
+**Coverage by Level:**
+- **Beginner:** 5 excellent episodes available
+- **Intermediate:** 8 excellent episodes available
+- **Advanced:** 2 excellent episodes available
+
+**Key Finding:** Need to conduct additional searches to find more ADVANCED level episodes. Current pool has excellent beginner/intermediate but only 2 clear advanced episodes.
+
+**Top Experts Available:**
+1. **Dr. Tim Spector** - 5 excellent episodes (need to select diverse shows)
+2. **Dr. Peter Attia** - 2 excellent episodes (1 Huberman Lab, 1 other)
+3. **Dr. Rhonda Patrick** - 1 excellent episode (Art of Charm) + rejected Joe Rogan
+4. **Dr. Christopher Gardner** - 1 excellent episode (Stanford)
+5. **Dr. Gregor Reid** - 1 excellent episode (probiotics)
+6. **Professor Adrienne O'Neil** - 1 excellent episode (food & mood)
+7. **Dr. Rupy Aujla** - 1 excellent episode (metabolic health)
+8. **Dr. Jim Hill** - 1 excellent episode (precision nutrition)
+
+**Podcast Diversity Check:**
+- Huberman Lab: 1 excellent episode (Attia)
+- Multiple Tim Spector episodes across different podcasts (167194, 176333, 264169, 614839, 621552)
+- Found My Fitness: 1 good episode (Ferriss)
+- The Art of Charm: 1 excellent episode (Patrick)
+- The Doctor's Kitchen: 1 excellent episode (Aujla)
+- Various other single-episode podcasts
+
+---
+
+## ADDITIONAL EXCELLENT EPISODES FROM ADVANCED SEARCHES
+
+### Episode 23: "Dr. Lucia Aronica: Epigenetics, Nutrigenomics, and Health Optimization Medicine"
+- **Episode ID:** 49894750
+- **Podcast ID:** 343262 (Smarter Not Harder Podcast)
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Dr. Lucia Aronica, PhD
+  - Lecturer at Stanford University
+  - Instructor of Stanford Genomics Certificate
+  - 20 years research experience (Stanford, Oxford, University of Vienna, Naples Federico II, USC)
+  - Published in JAMA, Cell, and Genes & Development (top-tier journals)
+  - Discusses epigenetics, nutrigenomics, DIETFITS study, epigenetic clocks
+- **Level:** ADVANCED
+- **Rationale:** Cutting-edge nutrigenomics and epigenetics from Stanford researcher with 20 years experience. Published in top journals. Perfect advanced content on how genes interact with nutrition. Discusses epigenetic clocks and biomarkers - frontier of longevity science.
+- **Learning Outcomes:** Nutrigenomics (genes + nutrition interaction), epigenetic modifications and health, DIETFITS study results on individual responses to diet, epigenetic clocks and biological age
+
+---
+
+### Episode 24: "Short-Chain Fatty Acids, Diabetes Subtypes & Wearable HealthTech | Michael Snyder"
+- **Episode ID:** 86538361
+- **Podcast ID:** 232653
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Professor Michael Snyder, PhD
+  - Professor of Genetics at Stanford University School of Medicine
+  - Director of Center for Genomics and Personalized Medicine
+  - PhD from Caltech
+  - Discusses short-chain fatty acids, diabetes subtypes, personalized health monitoring
+- **Level:** ADVANCED
+- **Rationale:** Stanford genetics professor discussing cutting-edge research on SCFAs, personalized medicine, and metabolic health. Director of major research center. Perfect advanced content combining microbiome metabolites with precision health.
+- **Learning Outcomes:** Short-chain fatty acids and metabolic health, diabetes subtypes (beyond type 1/2), personalized health monitoring, genomics and nutrition integration
+
+---
+
+### Episode 25: "Postbiotic Metabolites: The New Frontier in Microbiome Science, Part 1"
+- **Episode ID:** 55841980
+- **Podcast ID:** 396915
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Dr. Ross Pelton, R.Ph., PhD, CCN
+  - Renowned expert on microbiome
+  - Director of Science and Education for Essential Formulas, Inc.
+  - Discusses postbiotic metabolites, polyphenols, autophagy, gut microbiome optimization
+- **Level:** ADVANCED
+- **Rationale:** Expert on cutting-edge postbiotic metabolites - "new frontier" in microbiome science. Goes beyond probiotics to discuss metabolites produced by gut bacteria. Perfect for advanced level understanding of how microbiome affects health through chemical messengers.
+- **Learning Outcomes:** Postbiotic metabolites defined, role of polyphenols in gut health, autophagy and microbiome connection, optimizing gut microbiome for health benefits
+
+---
+
+### Episode 26: "Meals, Metabolites, and the Microbiome—Henrik Munch Roager, PhD"
+- **Episode ID:** 30454504
+- **Podcast ID:** 259323
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Henrik Munch Roager, PhD
+  - Assistant Professor at University of Copenhagen
+  - Expert in microbiota's role in nutrition and health
+  - Uses metabolomics (study of metabolites) in human intervention studies
+  - Focuses on gut metabolites in stool, blood, and urine samples
+- **Level:** ADVANCED
+- **Rationale:** Uses advanced metabolomics to study microbiome - cutting-edge research methodology. University of Copenhagen researcher doing human intervention studies. Perfect for advanced understanding of how diet affects microbiome metabolites and health.
+- **Learning Outcomes:** Metabolomics approach to gut health, how Mediterranean vs meat-heavy diets affect gut metabolites, short-chain fatty acids production, personalized nutrition responses
+
+---
+
+### Episode 27: "Everything You Need To Know About Short-Chain Fatty Acids"
+- **Episode ID:** 46228368
+- **Podcast ID:** 317115 (The Microbiome Report)
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Stephen Fleming
+  - President of Traverse Science
+  - Microbiome specialist
+  - Discusses SCFAs as metabolites of gut microbes, their benefits
+- **Level:** ADVANCED
+- **Rationale:** Deep dive into short-chain fatty acids from microbiome company president. Technical understanding of how gut bacteria produce these critical metabolites. Good advanced content on mechanisms.
+- **Learning Outcomes:** What SCFAs are, how they're produced by gut bacteria, metabolic benefits, how to increase SCFA production through diet
+
+---
+
+### Episode 28: "011: Epigenetics, Nutrigenomics & Cancer: MASTERCLASS: Dr. Paul Anderson"
+- **Episode ID:** 2717339
+- **Podcast ID:** 53608
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Dr. Paul Anderson, N.M.D.
+  - PhD-level training, National University of Natural Medicine
+  - 20+ years research experience
+  - Chief of Intravenous Therapy Services, Bastyr Oncology Research Center
+  - Past Professor at Bastyr University, Full Professor rank
+  - Published medical author
+  - Discusses epigenetics, nutrigenomics, how nutrition affects gene expression
+- **Level:** ADVANCED
+- **Rationale:** Masterclass format on epigenetics and nutrigenomics from professor with 20+ years experience. Discusses how plant chemicals (polyphenols) influence epigenetic expression. Perfect advanced content on gene-nutrition interaction.
+- **Learning Outcomes:** Epigenetics vs genomics, how nutrition turns genes on/off, methylation and gene expression, polyphenols' role in epigenetics, targeted supplementation based on genetics
+
+---
+
+### Episode 29: "Polyphenols for better gut health"
+- **Episode ID:** 62743895
+- **Podcast ID:** 464589
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Amy Hollenkamp, RD (Registered Dietitian)
+  - Gut health specialist
+  - Co-host Nikki (gut health expert)
+  - Discusses polyphenols' effects on gut microbes, high-polyphenol foods
+- **Level:** INTERMEDIATE
+- **Rationale:** Registered Dietitians with gut health expertise. Good for intermediate level - practical application of polyphenols for microbiome health. Bridges science to actionable dietary strategies.
+- **Learning Outcomes:** Polyphenols defined, how they feed beneficial gut bacteria, polyphenol-rich foods to include in diet, practical gut health strategies
+
+---
+
+### Episode 30: "The Power of Polyphenols: Feeding Your Gut Microbiome for Better Gut & Skin Health"
+- **Episode ID:** 100475642
+- **Podcast ID:** 283308
+- **Quality Rating:** ⭐⭐⭐ EXCELLENT
+- **Expertise Signals:**
+  - Julia Chien, RD
+  - Gut health specialist
+  - Discusses how polyphenols strengthen gut barrier, reduce inflammation
+  - Focuses on beneficial bacteria like Akkermansia muciniphila
+- **Level:** INTERMEDIATE
+- **Rationale:** Registered Dietitian specializing in gut health. Good intermediate content on polyphenols feeding specific beneficial bacteria. Practical and science-based approach to strengthening gut barrier.
+- **Learning Outcomes:** Polyphenols and gut barrier integrity, inflammation reduction, feeding Akkermansia and other beneficial microbes, gut-skin connection
+
+---
+
+## UPDATED SUMMARY OF CANDIDATE POOL
+
+**⭐⭐⭐ EXCELLENT Episodes:** 23 episodes identified (+8 new advanced/intermediate)
+**⭐⭐ GOOD Episodes:** 4 episodes identified
+**⭐ ACCEPTABLE Episodes:** 2 episodes identified
+**❌ REJECTED Episodes:** All Joe Rogan episodes (11+ episodes)
+
+**Coverage by Level (UPDATED):**
+- **Beginner:** 5 excellent episodes available
+- **Intermediate:** 10 excellent episodes available ✅
+- **Advanced:** 8 excellent episodes available ✅ (GOAL MET!)
+
+**Top Experts Available (UPDATED):**
+1. **Dr. Tim Spector** - 5 excellent episodes (genetic epidemiologist, ZOE co-founder)
+2. **Dr. Peter Attia** - 2 excellent episodes (longevity physician, MD)
+3. **Dr. Rhonda Patrick** - 1 excellent episode (PhD biomedical science)
+4. **Dr. Lucia Aronica** - 1 excellent episode (Stanford, nutrigenomics)
+5. **Professor Michael Snyder** - 1 excellent episode (Stanford genetics, personalized medicine)
+6. **Henrik Munch Roager, PhD** - 1 excellent episode (Copenhagen, metabolomics)
+7. **Dr. Ross Pelton** - 1 excellent episode (postbiotic metabolites)
+8. **Dr. Paul Anderson** - 1 excellent episode (epigenetics, nutrigenomics)
+9. **Dr. Christopher Gardner** - 1 excellent episode (Stanford nutrition)
+10. **Dr. Gregor Reid** - 1 excellent episode (probiotics expert)
+11. **Professor Adrienne O'Neil** - 1 excellent episode (Food & Mood Centre)
+12. **Dr. Rupy Aujla** - 1 excellent episode (metabolic health)
+13. **Amy Hollenkamp, RD** - 1 excellent episode (polyphenols)
+14. **Julia Chien, RD** - 1 excellent episode (polyphenols, gut barrier)
+
+**Podcast Diversity:** 23+ different podcasts identified ✅
+
+**EXCELLENT NEWS:** We now have MORE than enough high-quality episodes at all three levels to curate the perfect 18-episode nutrition course!

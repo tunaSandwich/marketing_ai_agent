@@ -1,0 +1,30 @@
+{
+  "title": "Philosophy Fundamentals",
+  "image_url": "https://storage.googleapis.com/goodpods-images-bucket/courses/philosophy-course.png",
+  "course_slug": "philosophy-fundamentals",
+  "description": "Explore humanity's deepest questions through conversations with the world's leading philosophers. This course features professors from NYU, Princeton, Stanford, Oxford, and other top institutions, guiding you through the fundamental branches of philosophy—from ancient Greek wisdom to cutting-edge debates about consciousness, AI, and the future of humanity.\n\nBeginning with accessible introductions, you'll learn about consciousness from David Chalmers (NYU Professor who coined \"the hard problem\"), ethics from Peter Singer (Princeton Professor Emeritus and founder of effective altruism), and free will from Daniel Dennett (Tufts Professor Emeritus). The BBC's In Our Time brings you expert panels on existentialism, while Sean Carroll (Johns Hopkins Professor of Natural Philosophy) bridges physics and philosophy. You'll meet Plato and Aristotle to understand where Western philosophy began.\n\nThe intermediate level deepens your understanding with technical discussions on consciousness theories, the philosophy of quantum physics, and comprehensive explorations of free will featuring Stanford neuroscientist Robert Sapolsky alongside philosophers. You'll encounter Keith Frankish's provocative illusionism, and witness Daniel Dennett and Richard Dawkins discussing evolution's implications for philosophy in an Intelligence Squared conversation.\n\nFinally, the advanced level explores philosophy's frontiers: Jeff Sebo (NYU Professor and Director of the Mind, Ethics, and Policy Program) on AI consciousness ethics, Philip Goff on panpsychism, and David Chalmers on synthetic consciousness and simulation. You'll discover philosophical posthumanism with Francesca Ferrando and debate transhumanism with academic panels from UK universities. Every episode features credentialed philosophers with PhDs, university appointments, or published books—ensuring you learn philosophy's deepest questions from those who dedicate their careers to answering them.",
+  "beginner_episodes": [
+    791930,
+    30520253,
+    95511154,
+    671413,
+    41495903,
+    63018574
+  ],
+  "intermediate_episodes": [
+    6613664,
+    52667129,
+    54083453,
+    42628648,
+    51609014,
+    41132337
+  ],
+  "advanced_episodes": [
+    71089900,
+    671444,
+    67459668,
+    51381123,
+    11237580,
+    672612
+  ]
+}

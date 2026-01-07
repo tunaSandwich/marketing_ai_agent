@@ -1,0 +1,533 @@
+# MASTERING HABITS - COURSE CREATION PLAN
+## "Why we do what we do—and how to reprogram it"
+
+Date: 2025-11-03
+
+---
+
+## COURSE PURPOSE
+
+This course teaches the science and practice of habit formation and behavior change. We'll take learners from basic understanding of what habits are and how they form, through practical techniques for building good habits and breaking bad ones, all the way to cutting-edge neuroscience and research frontiers.
+
+**Target Audience**: Anyone who wants to understand why they do what they do and gain evidence-based tools to change their behavior.
+
+**Core Promise**: Learn from the world's leading psychologists, neuroscientists, and behavioral scientists who have spent decades researching habits, decision-making, and behavior change.
+
+---
+
+## LEARNING PROGRESSION
+
+### **BEGINNER LEVEL (6 episodes): Understanding Habits**
+
+Focus: Foundational concepts and accessible explanations
+
+Topics to Cover:
+- What is a habit? The habit loop (cue, routine, reward)
+- How habits form in the brain (basic neuroscience)
+- Why habits are hard to break
+- Simple, evidence-based strategies for building good habits
+- Common misconceptions about willpower and discipline
+- Real-world success stories and practical frameworks
+
+Ideal Format:
+- Well-known hosts (Huberman, Lex Fridman, Tim Ferriss) interviewing habit researchers
+- Authors of major habit books explaining their frameworks
+- Accessible scientists making neuroscience understandable
+
+Red Flags:
+- Generic motivational content without science
+- "Productivity hacks" from non-experts
+- Anecdotal advice without research backing
+
+### **INTERMEDIATE LEVEL (6 episodes): Habit Mechanics & Tactics**
+
+Focus: Advanced techniques and behavioral psychology principles
+
+Topics to Cover:
+- Habit stacking and implementation intentions
+- Environment design and cue management
+- Breaking bad habits (specific evidence-based tactics)
+- Identity-based habits
+- Behavioral psychology principles (operant conditioning, reinforcement schedules)
+- Motivation vs. systems thinking
+- Long-term behavior change strategies
+
+Ideal Format:
+- Behavioral scientists explaining their research
+- Practitioners who have applied habit science professionally
+- Deep dives on specific techniques backed by research
+
+Red Flags:
+- Surface-level "tips and tricks" without mechanisms
+- Business podcasts covering habits superficially
+- Content focused on productivity porn rather than real change
+
+### **ADVANCED LEVEL (6 episodes): Neuroscience & Research Frontiers**
+
+Focus: Deep neuroscience, computational models, and cutting-edge research
+
+Topics to Cover:
+- Neuroscience of habit formation (dopamine circuits, basal ganglia, reward system)
+- Computational models of learning and decision-making
+- Individual differences in habit formation
+- Clinical applications (addiction, OCD, behavioral therapy)
+- Debates: automaticity vs. conscious control, free will
+- Future directions: brain stimulation, precision behavior change
+- Philosophy of habits and agency
+
+Ideal Format:
+- Neuroscientists discussing their research
+- Academic deep dives on brain mechanisms
+- Researchers at frontiers of the field
+- Philosophical discussions grounded in science
+
+Red Flags:
+- Oversimplified "brain hacks"
+- Pop neuroscience without real depth
+- Mystical interpretations of neuroscience
+
+---
+
+## HIGH-QUALITY PODCASTS TO TARGET
+
+### **Tier 1: Top Interview Podcasts (Prioritize for Beginner/Intermediate)**
+
+These podcasts feature world-class hosts interviewing leading experts:
+
+**Science/Psychology Focus:**
+- Huberman Lab (Andrew Huberman - Stanford neuroscientist, exceptional at making neuroscience accessible)
+- Hidden Brain (NPR, Shankar Vedantam - behavioral science focus)
+- Sean Carroll's Mindscape (theoretical physicist interviewing across disciplines)
+- Peter Attia Drive (longevity focus, but covers habits extensively)
+- Found My Fitness (Rhonda Patrick - science-focused)
+
+**General Expert Interviews:**
+- Lex Fridman Podcast (AI researcher, deep conversations with scientists)
+- Tim Ferriss Show (world-class optimizer, interviews habit authors)
+- Making Sense (Sam Harris - neuroscientist, philosopher)
+- The Knowledge Project (Shane Parrish - mental models, decision-making)
+- Rich Roll Podcast (athlete interviewing health/performance experts)
+- On Being (Krista Tippett - meaning, behavior, psychology)
+- Conversations with Tyler (Tyler Cowen - economist interviewing across fields)
+- TED Talks Daily / TED Radio Hour (curated expert talks)
+
+**Business/Performance (when with real experts):**
+- Masters of Scale (Reid Hoffman)
+- How I Built This (Guy Raz)
+- Invest Like the Best (Patrick O'Shaughnessy)
+
+### **Tier 2: Psychology/Behavioral Science Podcasts**
+
+Subject-specific shows likely to have deep expertise:
+
+- The Psychology Podcast (Scott Barry Kaufman)
+- The Happiness Lab (Laurie Santos - Yale professor)
+- Choice-ology (Katy Milkman - Wharton professor)
+- Speaking of Psychology (American Psychological Association)
+- The Behavioral Grooves
+- Ten Percent Happier (Dan Harris - mindfulness/psychology focus)
+- Armchair Expert (Dax Shepard - when with psychology experts)
+
+### **Tier 3: Neuroscience/Academic Podcasts (for Advanced)**
+
+- Brain Science with Ginger Campbell
+- The Neuroscience Podcast
+- Rationally Speaking (Julia Galef)
+- Very Bad Wizards (psychology + philosophy)
+- Mind & Matter (Nick Jikomes)
+
+---
+
+## TOPIC KEYWORDS AND SUBTOPICS
+
+### **Core Habit Terms:**
+- habit formation
+- behavior change
+- breaking bad habits
+- building good habits
+- habit loop
+- cue routine reward
+- atomic habits
+- tiny habits
+- habit stacking
+- habit tracking
+- willpower
+- self-control
+- discipline
+
+### **Neuroscience/Brain Mechanisms:**
+- neuroscience of habits
+- dopamine and habits
+- basal ganglia
+- reward system brain
+- striatum habits
+- dopamine reward learning
+- neural pathways habits
+- brain plasticity behavior
+- automaticity
+- procedural memory
+- implicit learning
+
+### **Behavioral Psychology:**
+- behavioral psychology
+- operant conditioning
+- reinforcement schedules
+- behavior modification
+- stimulus control
+- classical conditioning
+- behavioral economics
+- decision making
+- cognitive control
+- executive function
+
+### **Specific Techniques/Frameworks:**
+- implementation intentions
+- environment design
+- cue management
+- identity-based habits
+- systems vs goals
+- habit triggers
+- keystone habits
+- behavior design
+- nudge theory
+- choice architecture
+
+### **Authors/Researchers:**
+- James Clear (Atomic Habits author)
+- Charles Duhigg (Power of Habit author)
+- BJ Fogg (Tiny Habits, Stanford behavior scientist)
+- Wendy Wood (habit psychologist, USC)
+- Katy Milkman (How to Change, Wharton)
+- Nir Eyal (Hooked, Indistractible)
+- Judson Brewer (addiction psychiatrist, Brown)
+- Angela Duckworth (Grit, Penn)
+- Daniel Kahneman (Nobel laureate, thinking systems)
+- Roy Baumeister (willpower researcher)
+- Wolfram Schultz (dopamine researcher, Cambridge)
+- Ann Graybiel (habit neuroscience, MIT)
+
+### **Clinical/Applied:**
+- addiction science
+- substance abuse
+- behavioral therapy
+- cognitive behavioral therapy
+- mindfulness meditation
+- self-regulation
+- impulse control
+- compulsive behavior
+- obsessive compulsive disorder
+
+### **Philosophy/Theory:**
+- free will and habits
+- consciousness and automaticity
+- agency and control
+- dual process theory
+- system 1 system 2
+
+---
+
+## EXPERTISE INDICATORS TO LOOK FOR
+
+### **Strong Academic Credentials:**
+
+✅ **"Professor of Psychology at [University]"**
+✅ **"Professor of Neuroscience at [University]"**
+✅ **"Professor of Behavioral Science at [University]"**
+✅ **"PhD in Psychology from [University]"**
+✅ **"PhD in Neuroscience from [University]"**
+✅ **"Director of [Lab/Center] at [University]"**
+✅ **"Researcher at [Major Institution]"**
+
+Target Institutions:
+- Stanford, MIT, Yale, Harvard, Penn, Duke, UCLA, Berkeley, Princeton, Columbia
+- Cambridge, Oxford (UK)
+- Max Planck Institute, NIH
+
+✅ **Publications/Research:**
+- "Published in Nature/Science/PNAS"
+- "Research on [habit topic]"
+- "Studies [behavior change]"
+- "Lab focuses on [decision-making/learning]"
+
+### **Author Credentials:**
+
+✅ **"Author of [Major Habit Book]"**
+- Atomic Habits, Power of Habit, Tiny Habits, Good Habits Bad Habits, How to Change, Grit, Thinking Fast and Slow, Hooked, Indistractible
+✅ **"New York Times bestselling author"** (when book is research-based)
+✅ **"Wrote their research for general audience"**
+
+### **Professional/Clinical Credentials:**
+
+✅ **"Behavioral scientist at [Company/Lab]"**
+✅ **"Clinical psychologist specializing in [behavior change]"**
+✅ **"Psychiatrist at [Institution]"**
+✅ **"Neuroscientist at [Lab]"**
+✅ **"Director of Behavior Design Lab"**
+✅ **"Founder of [Evidence-Based Methodology]"**
+✅ **"Consultant to [Major Organization]" (when credentials also strong)**
+
+### **Interview Format Indicators:**
+
+✅ GOOD:
+- "joins me to discuss"
+- "[Host] interviews [Guest Name]"
+- "[Host] sits down with [Guest Name]"
+- "In conversation with [Guest Name]"
+- Guest name appears prominently in description
+
+❌ BAD (Avoid):
+- "I discuss...", "I explain...", "I break down..." (host monologue)
+- "We explore..." (no specific guest mentioned)
+- "In this episode, I..." (solo episode)
+
+---
+
+## RED FLAGS TO AVOID
+
+❌ **No Credentials Mentioned:**
+- Just a name with no affiliation or background
+- "Expert in habits" without specifics
+- Generic "life coach" or "motivational speaker"
+
+❌ **Weak or Vague Credentials:**
+- "Passionate about habits"
+- "Enthusiast"
+- "Interested in behavior change"
+- "Productivity influencer"
+- "Biohacker" (without research background)
+
+❌ **Wrong Format:**
+- Host monologue (no expert guest)
+- "Two friends discuss" (casual conversation, no expertise)
+- Panel discussions (diluted expertise)
+
+❌ **Poor Quality Podcasts:**
+- Amateur production
+- Fewer than ~1000 followers
+- Generic self-help podcast names
+- No recognizable podcast brand
+
+❌ **Spiritual/Mystical Content:**
+- "Quantum consciousness"
+- "Energy and vibrations"
+- "Ancient wisdom" (without anthropological rigor)
+- Pseudoscience mixed with neuroscience
+
+❌ **Surface-Level Coverage:**
+- Business podcasts doing one-off habit episode (unless with major author)
+- Generic "productivity tips" without research
+- Anecdotal advice without science
+
+---
+
+## SEARCH STRATEGIES (20-25 searches)
+
+### **Strategy A: High-Quality Podcast + Topic (9 searches)**
+
+Priority: Target Top 200 podcasts most likely to have interviewed habit experts
+
+1. "Huberman Lab habits" (Stanford neuroscientist's podcast)
+2. "Huberman Lab dopamine reward"
+3. "Lex Fridman habits behavior change"
+4. "Tim Ferriss James Clear" (Atomic Habits author)
+5. "Tim Ferriss habits routines"
+6. "Hidden Brain habits" (NPR behavioral science show)
+7. "Making Sense Sam Harris habits free will"
+8. "Knowledge Project Shane Parrish habits"
+9. "Peter Attia habits behavior change"
+
+### **Strategy B: Topic + Expertise Signals (8 searches)**
+
+Look for interviews with researchers, professors, and scientists
+
+10. "habit formation professor interview"
+11. "neuroscience habits researcher"
+12. "behavioral psychology expert interview"
+13. "dopamine reward system scientist"
+14. "behavior change researcher interview"
+15. "psychology professor habits"
+16. "neuroscientist decision making interview"
+17. "addiction psychiatrist habits"
+
+### **Strategy C: Known Authors/Researchers + Interview (6 searches)**
+
+Target major habit authors and researchers likely to have podcast appearances
+
+18. "James Clear interview" (Atomic Habits)
+19. "Charles Duhigg interview" (Power of Habit)
+20. "BJ Fogg behavior design" (Tiny Habits, Stanford)
+21. "Wendy Wood habits psychologist"
+22. "Katy Milkman how to change"
+23. "Judson Brewer addiction habits mindfulness"
+
+### **Strategy D: Specific Subtopics + Expert (3 searches)**
+
+Deep topics for Advanced level
+
+24. "basal ganglia habits neuroscience"
+25. "implementation intentions psychology"
+26. "environment design behavior change"
+
+---
+
+## QUALITY ASSURANCE CHECKLIST
+
+Before finalizing episodes, verify:
+
+### **Episode Quality:**
+- [ ] All 18 episodes have identifiable expert guests with specific credentials
+- [ ] Each episode documents exact expertise signals from description (job title, affiliation, publications)
+- [ ] No episodes are host monologues (all confirmed interview format)
+- [ ] No spiritual/mystical content mixed with neuroscience
+- [ ] No generic "productivity influencers" without research credentials
+- [ ] Prioritized Top 200 podcasts or respected psychology/neuroscience shows
+
+### **Course Structure:**
+- [ ] All 18 podcasts are different (maximum diversity)
+- [ ] Broad panel of experts (not same person repeated)
+- [ ] Logical flow within each level (builds progressively)
+- [ ] Beginner: Accessible explanations from top researchers or authors
+- [ ] Intermediate: Tactical depth from behavioral scientists
+- [ ] Advanced: Cutting-edge neuroscience from active researchers
+
+### **Expertise Documentation:**
+- [ ] For EACH episode in course.txt, documented:
+  - Guest name
+  - Specific credentials (university/company, title, publications)
+  - Exact expertise signals from description
+  - Why guest is credible
+  - What listener will learn
+
+### **Course Description:**
+- [ ] Highlights types of experts and their credentials
+- [ ] Explains progression from beginner to advanced
+- [ ] Emphasizes science-based, research-backed content
+- [ ] Inspiring but grounded in real expertise
+
+---
+
+## EXPECTED EPISODE PROGRESSION
+
+### **Beginner Level (6 episodes):**
+
+**Episode 1**: Introduction to Habit Science
+- Ideal: Major author (James Clear, Charles Duhigg, BJ Fogg) on accessible podcast
+- What it covers: The habit loop, why habits matter, basic neuroscience
+- Guest credential: NYT bestselling author + researcher/professor
+
+**Episode 2**: How Habits Form in the Brain
+- Ideal: Neuroscientist on Huberman Lab or similar
+- What it covers: Dopamine, reward system, basal ganglia (accessible)
+- Guest credential: Professor of Neuroscience, active researcher
+
+**Episode 3**: Building Good Habits - Practical Framework
+- Ideal: Behavioral scientist with practical methodology
+- What it covers: Step-by-step approach, evidence-based techniques
+- Guest credential: PhD in Psychology, developed behavior design method
+
+**Episode 4**: Why Habits Are Hard to Break
+- Ideal: Addiction researcher or clinical psychologist
+- What it covers: Neural persistence, automaticity, withdrawal
+- Guest credential: MD/PhD, clinical experience + research
+
+**Episode 5**: Common Mistakes and Misconceptions
+- Ideal: Researcher who has studied willpower, self-control failures
+- What it covers: Debunking myths, what actually works
+- Guest credential: Professor who published on willpower/self-control
+
+**Episode 6**: Environment Design and Cues
+- Ideal: Behavioral economist or choice architect
+- What it covers: How environment shapes behavior, practical design
+- Guest credential: Professor of Behavioral Science
+
+### **Intermediate Level (6 episodes):**
+
+**Episode 7**: Advanced Habit Formation Techniques
+- Ideal: Researcher on implementation intentions, habit stacking
+- What it covers: Evidence-based advanced techniques
+- Guest credential: Psychology professor, published on these topics
+
+**Episode 8**: Breaking Bad Habits - Specific Tactics
+- Ideal: Clinical psychologist or behavioral therapist
+- What it covers: Proven methods from therapy and research
+- Guest credential: Clinical experience + academic research
+
+**Episode 9**: Identity-Based Habits
+- Ideal: Social psychologist or researcher on self-concept
+- What it covers: How beliefs shape behavior, identity change
+- Guest credential: Professor of Social Psychology
+
+**Episode 10**: Behavioral Psychology Principles Applied
+- Ideal: Behavioral psychologist explaining operant conditioning, reinforcement
+- What it covers: Schedules of reinforcement, stimulus control
+- Guest credential: PhD in Behavioral Psychology, researcher
+
+**Episode 11**: Motivation vs. Systems Thinking
+- Ideal: Researcher who studies goal setting vs. process focus
+- What it covers: When motivation fails, building systems
+- Guest credential: Professor of Organizational Behavior or Psychology
+
+**Episode 12**: Long-Term Behavior Change
+- Ideal: Researcher who has studied sustained change
+- What it covers: What predicts lasting change, maintenance strategies
+- Guest credential: Clinical researcher with longitudinal studies
+
+### **Advanced Level (6 episodes):**
+
+**Episode 13**: Neuroscience Deep Dive - Dopamine and Learning
+- Ideal: Neuroscientist who studies dopamine, reward prediction
+- What it covers: Computational models, neural circuits, TD learning
+- Guest credential: Professor of Neuroscience, published in Nature/Science
+
+**Episode 14**: Basal Ganglia and Habit Formation
+- Ideal: Systems neuroscientist studying motor control, habits
+- What it covers: Striatum, direct/indirect pathways, action selection
+- Guest credential: Researcher at top institution (MIT, Stanford, etc.)
+
+**Episode 15**: Individual Differences in Habit Formation
+- Ideal: Researcher studying personality, genetics, individual variation
+- What it covers: Why some people form habits easily, genetic factors
+- Guest credential: Behavioral geneticist or differential psychologist
+
+**Episode 16**: Clinical Applications - Addiction and OCD
+- Ideal: Psychiatrist or clinical neuroscientist
+- What it covers: When habits go wrong, clinical interventions
+- Guest credential: MD/PhD, clinician-scientist at major medical center
+
+**Episode 17**: Computational Models and AI
+- Ideal: Computational neuroscientist or cognitive scientist
+- What it covers: Reinforcement learning, habit as algorithm
+- Guest credential: Professor using computational models
+
+**Episode 18**: Philosophy and Future of Habit Research
+- Ideal: Philosopher of mind or neuroscientist interested in free will
+- What it covers: Automaticity vs. agency, consciousness, future directions
+- Guest credential: Philosopher or neuroscientist who publishes on these topics
+
+---
+
+## NOTES
+
+- **Quality over speed**: Better to do 25 searches and find gems than rush with 10 searches
+- **Expertise recognition is key**: Look for SPECIFIC credentials in descriptions, not just recognizable names
+- **Interview format mandatory**: Every episode must be an expert being interviewed
+- **Diversity matters**: 18 different podcasts, diverse set of experts
+- **Document everything**: Capture search results, expertise signals, and reasoning
+- **When in doubt, be MORE selective**: Course quality depends entirely on expert credibility
+
+---
+
+## SUCCESS CRITERIA
+
+A successful "Mastering Habits" course will:
+1. Feature 18 expert interviews from leading researchers, authors, and practitioners
+2. Progress logically from accessible introductions to cutting-edge neuroscience
+3. Include diverse perspectives from psychology, neuroscience, behavioral science, and clinical practice
+4. Provide both practical tools and deep scientific understanding
+5. Be trustworthy and credible enough to recommend to anyone serious about understanding and changing their habits
+
+The listener should finish this course thinking: "I just learned from the world's best researchers and practitioners in habit science."
+
+---
+
+END OF PLAN

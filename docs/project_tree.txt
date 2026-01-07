@@ -28,7 +28,208 @@ marketing-agent/
 │       │   ├── storytelling_podcasts.md
 │       │   └── true_crime_podcasts.md
 │       └── config.yaml
+├── configs/
+│   ├── subjects_to_subreddits.yaml
+│   └── subreddit_policies.yaml
+├── courses/
+│   ├── addiction-and-recovery/
+│   │   ├── addiction-and-recovery.json
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── art-of-negotiation/
+│   │   ├── art-of-negotiation.json
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── biohacking/
+│   │   ├── biohacking.json
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── creative-thinking/
+│   │   ├── course.txt
+│   │   ├── creative-thinking.json
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── crypto-decrypted/
+│   │   ├── course.txt
+│   │   ├── crypto-decrypted.json
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── dream-career/
+│   │   ├── course.txt
+│   │   ├── dream-career.json
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── emotional-intelligence/
+│   │   ├── course.txt
+│   │   ├── emotional-intelligence.json
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── future-of-humanity/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── future-of-humanity.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── health-and-longevity/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── health-and-longevity.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── how-does-ai-work/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── evaluation.md
+│   │   ├── how-does-ai-work.json
+│   │   └── plan.txt
+│   ├── how-to-parent-early-years/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── how-to-parent-early-years.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── leadership-that-inspires/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── leadership-that-inspires.json
+│   │   └── plan.txt
+│   ├── marketing-like-a-boss/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── marketing-like-a-boss.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── mastering-habits/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── mastering-habits.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── meditation-mindfulness/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── meditation-mindfulness.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── money-and-markets/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── money-and-markets.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── myths-that-shaped-civilizations/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── FINAL_RECOMMENDATION.md
+│   │   ├── myths-that-shaped-civilizations.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── nutrition/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── nutrition.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── personal-branding/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── personal-branding.json
+│   │   ├── plan.txt
+│   │   ├── QA-VERIFICATION.txt
+│   │   └── results.txt
+│   ├── personal-finances/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── personal-finances.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── philosophy-fundamentals/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── philosophy-fundamentals.json
+│   │   ├── plan.txt
+│   │   └── results.txt
+│   ├── product-market-fit/
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   ├── product-market-fit.json
+│   │   └── results.txt
+│   ├── psychology-of-decision-making/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   ├── psychology-of-decision-making.json
+│   │   └── results.txt
+│   ├── psychology-of-happiness/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   ├── psychology-of-happiness.json
+│   │   └── results.txt
+│   ├── science-and-art-of-sex/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   ├── results.txt
+│   │   └── science-and-art-of-sex.json
+│   ├── side-hustlin/
+│   │   ├── course.txt
+│   │   ├── plan.txt
+│   │   └── side-hustlin.json
+│   ├── sleep-science/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   ├── results.txt
+│   │   └── sleep-science.json
+│   ├── stock-market-investing/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   ├── results.txt
+│   │   └── stock-market-investing.json
+│   ├── storytelling-and-speaking/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   ├── results.txt
+│   │   └── storytelling-and-speaking.json
+│   ├── the-human-brain/
+│   │   ├── ADDITIONAL_FINDINGS.txt
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── FINAL_6_EPISODES.txt
+│   │   ├── plan.txt
+│   │   ├── results.txt
+│   │   └── the-human-brain.json
+│   ├── womens-health-hormones/
+│   │   ├── course.txt
+│   │   ├── episodes.txt
+│   │   ├── plan.txt
+│   │   ├── results.txt
+│   │   └── womens-health-hormones.json
+│   └── world-war-ii/
+│       ├── course.txt
+│       ├── episodes.txt
+│       ├── plan.txt
+│       ├── results.txt
+│       └── world-war-ii.json
 ├── data/
+│   └── review_queue/
+│       ├── approved/
+│       ├── pending/
+│       ├── posted/
+│       └── rejected/
 ├── docs/
 │   ├── HUMAN_RESPONSES_UPDATE.md
 │   ├── project_tree.txt
@@ -36,6 +237,8 @@ marketing-agent/
 │   └── RAG_SYSTEM_SUMMARY.md
 ├── documents/
 │   └── project_summary.md
+├── logs/
+│   └── growth_agent_2025-11-10.log
 ├── scripts/
 │   ├── debug_env.py
 │   ├── debug_model_config.py
@@ -51,6 +254,7 @@ marketing-agent/
 │   ├── test_auto_posting.py
 │   ├── test_claude_models.py
 │   ├── test_comment_generation_auto.py
+│   ├── test_end_to_end_dry_run.py
 │   ├── test_end_to_end_rag.py
 │   ├── test_engagement_preview.py
 │   ├── test_human_responses.py
@@ -62,7 +266,8 @@ marketing-agent/
 │   ├── test_single_comment.py
 │   ├── test_step_by_step.py
 │   ├── test_system.py
-│   └── test_validation_only.py
+│   ├── test_validation_only.py
+│   └── validate_subjects_and_policies.py
 ├── src/
 │   ├── brand/
 │   │   ├── __init__.py
@@ -80,13 +285,13 @@ marketing-agent/
 │   │   ├── adapter.py
 │   │   ├── engagement.py
 │   │   ├── engagement_strategy.py
+│   │   ├── policies.py
 │   │   ├── poster.py
 │   │   ├── search.py
+│   │   ├── subjects.py
 │   │   ├── subreddit_selector.py
+│   │   ├── supplemental_subs.py
 │   │   └── warmup_OLD.py
-│   ├── review/
-│   │   ├── __init__.py
-│   │   └── queue.py
 │   ├── utils/
 │   │   ├── __init__.py
 │   │   └── config.py
@@ -109,7 +314,6 @@ marketing-agent/
 │   ├── __init__.py
 │   ├── conftest.py
 │   └── test_models.py
-├── .coverage
 ├── .env
 ├── .env.example
 ├── .env.test
